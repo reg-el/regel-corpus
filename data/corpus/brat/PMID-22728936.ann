@@ -1,0 +1,74 @@
+T0	ENHANCER 1253 1297	TBX5-responsive enhancer downstream of Scn5a
+T1	GENE 0 4	TBX5
+N0	Reference T1 EntrezGene:6910	TBX5
+T2	GENE 12 17	Scn5a
+N1	Reference T2 EntrezGene:6331	SCN5A
+T3	DISEASE 77 116	Cardiac conduction system (CCS) disease
+T7	SPECIES 530 535	human
+N5	Reference T7 NCBITaxon:9606	Homo sapiens
+T9	GENE 560 564	TBX5
+N6	Reference T9 EntrezGene:6910	TBX5
+T10	GENE 569 574	SCN5A
+N7	Reference T10 EntrezGene:6331	SCN5A
+T11	GENE 597 601	TBX5
+N8	Reference T11 EntrezGene:6910	TBX5
+T12	GENE 745 749	Tbx5
+N9	Reference T12 EntrezGene:21388	Tbx5
+T13	SPECIES 766 772	murine
+N10	Reference T13 NCBITaxon:10090	Mus musculus
+T21	GENE 1058 1062	Tbx5
+T22	GENE 1127 1133	Nav1.5
+N14	Reference T22 EntrezGene:6331	SCN5A
+T23	GENE 1155 1160	Scn5a
+T24	GENE 1166 1177	connexin 40
+T25	GENE 1179 1183	Cx40
+T26	GENE 1199 1203	Tbx5
+T31	GENE 1440 1444	Tbx5
+T32	GENE 1449 1454	Scn5a
+T33	SPECIES 1489 1494	human
+N23	Reference T33 NCBITaxon:9606	Homo sapiens
+T34	DISEASE 1615 1626	CCS disease
+T6	TISSUE 824 833	AV bundle
+T8	TISSUE 838 853	bundle branches
+N13	Reference T21 EntrezGene:21388	Tbx5
+N15	Reference T23 EntrezGene:20271	Scn5a
+N16	Reference T24 EntrezGene:14613	Gja5
+N17	Reference T25 EntrezGene:14613	Gja5
+N18	Reference T26 EntrezGene:21388	Tbx5
+A1	REGION T0 INSUFFICIENT
+T14	TFBS 1365 1384	T-box binding sites
+A2	REGION T14 INSUFFICIENT
+N20	Reference T31 EntrezGene:21388	Tbx5
+N21	Reference T32 EntrezGene:20271	Scn5a
+T15	TISSUE 418 421	CCS
+T19	TISSUE 536 539	CCS
+T20	TISSUE 705 708	CCS
+T27	TISSUE 773 802	ventricular conduction system
+T28	TISSUE 804 807	VCS
+T29	TISSUE 874 877	VCS
+T18	TISSUE 1010 1013	VCS
+T30	TISSUE 1045 1048	VCS
+T35	TISSUE 1232 1235	VCS
+T36	TISSUE 1318 1321	VCS
+T37	TISSUE 1541 1544	VCS
+T38	TISSUE 41 66	cardiac conduction system
+N2	Reference T3 MONDO:MONDO:0005449	conduction system disorder
+N12	Reference T34 MONDO:MONDO:0005449	conduction system disorder
+N3	Reference T38 BTO:0000901	myocardium
+N4	Reference T15 BTO:0000901	myocardium
+N11	Reference T19 BTO:0000901	myocardium
+N19	Reference T20 BTO:0000901	myocardium
+N22	Reference T6 BTO:0005689	atrioventricular node
+N24	Reference T8 BTO:0005689	atrioventricular node
+N25	Reference T27 BTO:0000901	myocardium
+N26	Reference T28 BTO:0000901	myocardium
+N27	Reference T29 BTO:0000901	myocardium
+N28	Reference T18 BTO:0000901	myocardium
+N29	Reference T30 BTO:0000901	myocardium
+N30	Reference T35 BTO:0000901	myocardium
+N31	Reference T36 BTO:0000901	myocardium
+N32	Reference T37 BTO:0000901	myocardium
+T4	GENE 1253 1257	TBX5
+N33	Reference T4 EntrezGene:6910	TBX5
+T5	GENE 1292 1297	Scn5a
+N34	Reference T5 EntrezGene:20271	Scn5a

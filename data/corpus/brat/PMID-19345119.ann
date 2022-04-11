@@ -1,0 +1,56 @@
+T2	ENHANCER 245 283	enhancer in intron 5 of the Pax5 locus
+T3	ENHANCER 290 298	enhancer
+T4	PROMOTER 323 338	promoter region
+T5	ENHANCER 409 417	enhancer
+T7	PROMOTER 794 809	promoter region
+T9	GENE 112 116	Pax5
+T11	GENE 399 403	Pax5
+T16	GENE 998 1002	EBF1
+N8	Reference T16 EntrezGene:1879	BF1
+T17	GENE 1059 1063	Pax5
+N1	Reference T9 EntrezGene:18507	Pax5
+N3	Reference T11 EntrezGene:18507	Pax5
+N9	Reference T17 EntrezGene:18507	Pax5
+A1	REGION T2 INSUFFICIENT
+A2	REGION T3 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+T1	TISSUE 374 384	B lymphoid
+N2	Reference T1 BTO:0000776	B-lymphocyte
+T10	TISSUE 146 152	B cell
+N11	Reference T10 BTO:0000776	B-lymphocyte
+T20	TISSUE 453 473	embryonic stem cells
+N13	Reference T20 BTO:0001086	embryonic stem cell
+A5	REGION T5 INSUFFICIENT
+T21	TISSUE 511 536	hematopoietic progenitors
+T22	TISSUE 757 763	B cell
+N4	Reference T22 BTO:0000776	B-lymphocyte
+A6	REGION T7 INSUFFICIENT
+T23	TISSUE 905 915	pro-B cell
+N5	Reference T23 BTO:0003104	pro-B-lymphocyte
+T24	TISSUE 1140 1146	B cell
+N6	Reference T24 BTO:0000776	B-lymphocyte
+T12	TFBS 562 637	binding sites for the transcription factors PU.1, IRF4, IRF8, and NF-kappaB
+A3	REGION T12 INSUFFICIENT
+T14	TISSUE 858 865	B cells
+T8	ENHANCER 23 31	enhancer
+A7	REGION T8 INSUFFICIENT
+T18	PROMOTER 36 87	promoter regions of the B cell commitment gene Pax5
+A8	REGION T18 INSUFFICIENT
+N7	Reference T21 BTO:0000725	hematopoietic stem cell
+N10	Reference T14 BTO:0000776	B-lymphocyte
+T6	TISSUE 720 745	hematopoietic progenitors
+N12	Reference T6 BTO:0000725	hematopoietic stem cell
+T13	GENE 273 277	Pax5
+N14	Reference T13 EntrezGene:18507	Pax5
+T15	TISSUE 60 66	B cell
+N15	Reference T15 BTO:0000776	B-lymphocyte
+T19	GENE 83 87	Pax5
+N16	Reference T19 EntrezGene:18507	Pax5
+T25	GENE 606 610	PU.1
+N17	Reference T25 EntrezGene:20375	Spi1
+T26	GENE 612 616	IRF4
+N18	Reference T26 EntrezGene:16364	Irf4
+T27	GENE 618 622	IRF8
+N19	Reference T27 EntrezGene:15900	Irf8
+T28	GENE 628 637	NF-kappaB
+N20	Reference T28 EntrezGene:18033	Nfkb1

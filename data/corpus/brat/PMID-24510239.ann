@@ -1,0 +1,74 @@
+T1	GENE 0 5	ABCC4
+N0	Reference T1 EntrezGene:10257	ABCC4
+T2	DISEASE 65 99	esophageal squamous cell carcinoma
+T3	DISEASE 101 135	Esophageal squamous cell carcinoma
+T4	DISEASE 137 141	ESCC
+T5	DISEASE 178 184	cancer
+T6	DISEASE 349 353	ESCC
+T7	DISEASE 507 511	ESCC
+T8	DISEASE 718 722	ESCC
+T9	GENE 853 858	ABCC4
+N3	Reference T9 EntrezGene:10257	ABCC4
+T10	DISEASE 889 893	ESCC
+T11	GENE 1067 1072	ABCC4
+N4	Reference T11 EntrezGene:10257	ABCC4
+T12	DISEASE 1119 1123	ESCC
+T13	GENE 1246 1251	ABCC4
+N5	Reference T13 EntrezGene:10257	ABCC4
+T14	TISSUE 1263 1273	ESCC cells
+T15	GENE 1338 1343	COX-2
+N6	Reference T15 EntrezGene:4513	COX2
+T16	GENE 1364 1369	c-Myc
+N7	Reference T16 EntrezGene:4609	MYC
+T17	GENE 1382 1385	AKT
+N8	Reference T17 EntrezGene:207	AKT1
+T18	GENE 1488 1500	beta-catenin
+N9	Reference T18 EntrezGene:1499	CTNNB1
+T19	TISSUE 1526 1536	ESCC cells
+T20	DISEASE 1591 1595	ESCC
+T21	GENE 1642 1647	ABCC4
+N10	Reference T21 EntrezGene:10257	ABCC4
+T22	DISEASE 1685 1689	ESCC
+T24	DISEASE 1785 1789	ESCC
+T25	GENE 1857 1862	ABCC4
+N12	Reference T25 EntrezGene:10257	ABCC4
+T26	DISEASE 1925 1929	ESCC
+A1	CANCER T2
+A2	CANCER T3
+A3	CANCER T4
+A4	CANCER T5
+A5	CANCER T6
+A6	CANCER T7
+A7	CANCER T8
+T28	SPECIES 793 800	Chinese
+N18	Reference T28 NCBITaxon:9606	Homo sapiens
+A8	CANCER T10
+A9	CANCER T12
+A11	CANCER T19
+A12	CANCER T20
+A13	CANCER T14
+A14	CANCER T22
+A16	CANCER T24
+A17	CANCER T26
+T27	ENHANCER 1175 1185	CNV region
+A10	REGION T27 INSUFFICIENT
+T29	GENE 1429 1466	cAMP response element-binding protein
+N21	Reference T29 EntrezGene:1385	CREB1
+N26	Reference T14 BTO:0002861	esophageal squamous cell carcinoma cell
+N27	Reference T19 BTO:0002861	esophageal squamous cell carcinoma cell
+N1	Reference T2 MONDO:MONDO:0005580	esophageal squamous cell carcinoma
+N2	Reference T3 MONDO:MONDO:0005580	esophageal squamous cell carcinoma
+N13	Reference T4 MONDO:MONDO:0005580	esophageal squamous cell carcinoma
+N15	Reference T6 MONDO:MONDO:0005580	esophageal squamous cell carcinoma
+N16	Reference T7 MONDO:MONDO:0005580	esophageal squamous cell carcinoma
+N17	Reference T8 MONDO:MONDO:0005580	esophageal squamous cell carcinoma
+N19	Reference T10 MONDO:MONDO:0005580	
+N22	Reference T20 MONDO:MONDO:0005580	esophageal squamous cell carcinoma
+N23	Reference T22 MONDO:MONDO:0005580	esophageal squamous cell carcinoma
+N24	Reference T24 MONDO:MONDO:0005580	esophageal squamous cell carcinoma
+N25	Reference T26 MONDO:MONDO:0005580	esophageal squamous cell carcinoma
+N14	Reference T5 MONDO:MONDO:0004992	cancer
+T23	TISSUE 1711 1722	cancer cell
+N11	Reference T12 MONDO:MONDO:0005580	
+T30	GENE 1345 1349	PGE2
+N20	Reference T30 EntrezGene:80142	PTGES2

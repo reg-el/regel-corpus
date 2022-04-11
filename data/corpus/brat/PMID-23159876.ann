@@ -1,0 +1,98 @@
+T0	ENHANCER 75 88	bone enhancer
+T1	PROMOTER 93 118	proximal promoter regions
+T3	PROMOTER 569 584	Col1a1 promoter
+T4	PROMOTER 795 812	proximal promoter
+T6	PROMOTER 873 888	Col1a1 promoter
+T8	GENE 0 7	Osterix
+N0	Reference T8 EntrezGene:170574	Sp7
+T9	GENE 16 22	Col1a1
+N1	Reference T9 EntrezGene:12842	Col1a1
+T10	GENE 258 263	Runx2
+N2	Reference T10 EntrezGene:12393	Runx2
+T11	GENE 268 275	Osterix
+N3	Reference T11 EntrezGene:170574	Sp7
+T12	GENE 346 351	Runx2
+N4	Reference T12 EntrezGene:12393	Runx2
+T13	GENE 356 363	Osterix
+N5	Reference T13 EntrezGene:170574	Sp7
+T14	SPECIES 369 373	mice
+N6	Reference T14 NCBITaxon:10090	Mus musculus
+T15	GENE 414 421	Osterix
+N7	Reference T15 EntrezGene:170574	Sp7
+T16	GENE 553 560	Osterix
+N8	Reference T16 EntrezGene:170574	Sp7
+T18	GENE 677 682	BMP-2
+N10	Reference T18 EntrezGene:12156	Bmp2
+T19	GENE 686 693	Osterix
+N11	Reference T19 EntrezGene:170574	Sp7
+T20	GENE 719 725	Col1a1
+N12	Reference T20 EntrezGene:12842	Col1a1
+T21	GENE 842 849	Osterix
+N13	Reference T21 EntrezGene:170574	Sp7
+T23	GENE 937 940	p38
+N15	Reference T23 EntrezGene:26416	Mapk14
+T24	GENE 944 947	Erk
+N16	Reference T24 EntrezGene:26413	Mapk1
+T26	GENE 1014 1020	Col1a1
+N18	Reference T26 EntrezGene:12842	Col1a1
+T27	GENE 1033 1038	Runx2
+N19	Reference T27 EntrezGene:12393	Runx2
+T28	GENE 1066 1072	Col1a1
+N20	Reference T28 EntrezGene:12842	Col1a1
+T30	GENE 1208 1213	Runx2
+N22	Reference T30 EntrezGene:12393	Runx2
+T31	GENE 1218 1225	Osterix
+N23	Reference T31 EntrezGene:170574	Sp7
+T32	GENE 1281 1287	Col1a1
+N24	Reference T32 EntrezGene:12842	Col1a1
+T33	GENE 1389 1396	Osterix
+N25	Reference T33 EntrezGene:170574	Sp7
+T34	GENE 1424 1431	Osterix
+N26	Reference T34 EntrezGene:170574	Sp7
+T36	TFBS 58 67	Sp1 sites
+A8	REGION T36 INSUFFICIENT
+A9	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T38	TISSUE 120 124	Bone
+T39	TISSUE 183 205	mesenchymal precursors
+T40	TISSUE 217 234	osteoblastic cell
+T41	TISSUE 386 397	osteoblasts
+N29	Reference T41 BTO:0001593	osteoblast
+T2	TISSUE 450 454	bone
+N30	Reference T2 BTO:0000140	bone
+A2	REGION T3 INSUFFICIENT
+T17	TISSUE 625 636	mesenchymal
+N9	Reference T17 BTO:0002625	mesenchymal cell
+T42	TISSUE 641 658	osteoblastic cell
+T43	TFBS 755 837	consensus Sp1 sequences, located in the proximal promoter and in the bone-enhancer
+A3	REGION T43 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+A6	REGION T6 INSUFFICIENT
+T22	TFBS 1092 1169	binding to sites which are located close to the Sp1 sites where Osterix binds
+T25	TISSUE 1507 1511	bone
+N14	Reference T25 BTO:0000140	bone
+N21	Reference T38 BTO:0000140	bone
+N31	Reference T39 BTO:0002625	mesenchymal cell
+A11	REGION T22 INSUFFICIENT
+T5	ENHANCER 824 837	bone-enhancer
+A5	REGION T5 INSUFFICIENT
+N27	Reference T40 BTO:0001593	osteoblast
+N28	Reference T42 BTO:0001593	osteoblast
+T7	TFBS 842 888	Osterix binding regions in the Col1a1 promoter
+A7	REGION T7 INSUFFICIENT
+T29	TISSUE 75 79	bone
+N17	Reference T29 BTO:0000140	bone
+T35	TISSUE 824 828	bone
+N32	Reference T35 BTO:0000140	
+T37	GENE 569 575	Col1a1
+N33	Reference T37 EntrezGene:12842	Col1a1
+T44	GENE 873 879	Col1a1
+N34	Reference T44 EntrezGene:12842	Col1a1
+T45	GENE 1156 1163	Osterix
+N35	Reference T45 EntrezGene:170574	Sp7
+T46	GENE 58 61	Sp1
+N36	Reference T46 EntrezGene:20683	Sp1
+T47	GENE 765 768	Sp1
+N37	Reference T47 EntrezGene:20683	Sp1
+T48	GENE 1140 1143	Sp1
+N38	Reference T48 EntrezGene:20683	Sp1

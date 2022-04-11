@@ -1,0 +1,98 @@
+T0	ENHANCER 1407 1442	fragment features enhancer activity
+A0	REGION T0 SUFFICIENT
+#0	AnnotatorNotes T0	chr6,124718594,124718929
+T1	GENE 0 5	Prep1
+N0	Reference T1 EntrezGene:18771	Pknox1
+T2	GENE 89 93	SHP1
+N1	Reference T2 EntrezGene:15170	Ptpn6
+T3	GENE 163 168	Prep1
+N2	Reference T3 EntrezGene:18771	Pknox1
+T4	GENE 254 259	Prep1
+N3	Reference T4 EntrezGene:18771	Pknox1
+T5	GENE 333 338	Prep1
+N4	Reference T5 EntrezGene:18771	Pknox1
+T6	SPECIES 351 355	mice
+N5	Reference T6 NCBITaxon:10090	Mus musculus
+T7	GENE 357 362	Prep1
+N6	Reference T7 EntrezGene:18771	Pknox1
+T8	GENE 392 397	Prep1
+N7	Reference T8 EntrezGene:18771	Pknox1
+T9	GENE 513 518	Prep1
+N8	Reference T9 EntrezGene:18771	Pknox1
+T10	SPECIES 524 528	mice
+N9	Reference T10 NCBITaxon:10090	Mus musculus
+T11	GENE 696 701	Prep1
+N10	Reference T11 EntrezGene:18771	Pknox1
+T12	GENE 770 774	SHP1
+N11	Reference T12 EntrezGene:15170	Ptpn6
+T13	GENE 798 803	Prep1
+N12	Reference T13 EntrezGene:5316	PKNOX1
+T14	GENE 852 855	SYP
+N13	Reference T14 EntrezGene:20977	Syp
+T15	GENE 860 864	SHP1
+N14	Reference T15 EntrezGene:15170	Ptpn6
+T16	GENE 1010 1015	Prep1
+N15	Reference T16 EntrezGene:18771	Pknox1
+T17	GENE 1024 1028	Pbx1
+N16	Reference T17 EntrezGene:18514	Pbx1
+T18	GENE 1041 1048	p160MBP
+N17	Reference T18 EntrezGene:18432	Mybbp1
+T19	GENE 1059 1064	Prep1
+N18	Reference T19 EntrezGene:18771	Pknox1
+T20	GENE 1128 1131	SYP
+N19	Reference T20 EntrezGene:20977	Syp
+T21	GENE 1136 1140	SHP1
+N20	Reference T21 EntrezGene:15170	Ptpn6
+T22	GENE 1156 1161	Prep1
+N21	Reference T22 EntrezGene:18771	Pknox1
+T23	GENE 1207 1211	SHP1
+N22	Reference T23 EntrezGene:15170	Ptpn6
+T24	GENE 1229 1232	SYP
+N23	Reference T24 EntrezGene:20977	Syp
+T25	GENE 1311 1316	Prep1
+N24	Reference T25 EntrezGene:18771	Pknox1
+T26	GENE 1321 1325	Pbx1
+N25	Reference T26 EntrezGene:18514	Pbx1
+T27	GENE 1528 1533	Prep1
+N26	Reference T27 EntrezGene:18771	Pknox1
+T28	GENE 1535 1539	Pbx1
+N27	Reference T28 EntrezGene:18514	Pbx1
+T29	GENE 1563 1567	SHP1
+N28	Reference T29 EntrezGene:15170	Ptpn6
+T30	GENE 1636 1641	Prep1
+N29	Reference T30 EntrezGene:18771	Pknox1
+T31	GENE 1683 1687	SHP1
+N30	Reference T31 EntrezGene:15170	Ptpn6
+T32	GENE 1696 1701	Prep1
+N31	Reference T32 EntrezGene:18771	Pknox1
+T33	TISSUE 51 56	liver
+T34	TISSUE 218 223	liver
+T35	TISSUE 324 329	liver
+T36	GENE 664 665	2
+N32	Reference T36 EntrezGene:384783	Irs2
+T37	GENE 762 765	SYP
+N33	Reference T37 EntrezGene:20977	Syp
+T38	TISSUE 822 839	HepG2 liver cells
+T39	GENE 907 908	2
+N34	Reference T39 EntrezGene:384783	Irs2
+T40	TISSUE 1646 1651	liver
+T41	TISSUE 707 713	livers
+T42	TISSUE 501 507	livers
+T43	GENE 630 663	insulin receptor substrate (IRS)1
+N35	Reference T43 EntrezGene:16367	Irs1
+T44	GENE 902 906	IRS1
+N36	Reference T44 EntrezGene:16367	Irs1
+T45	PROMOTER 1331 1344	SHP1 promoter
+A45	REGION T45 INSUFFICIENT
+T46	ENHANCER 1350 1400	site located between nucleotides -2,113 and -1,778
+A1	REGION T46 SUFFICIENT
+#1	AnnotatorNotes T46	chr6,124718594,124718929
+N37	Reference T33 BTO:0000759	liver
+N38	Reference T34 BTO:0000759	liver
+N39	Reference T35 BTO:0000759	liver
+N40	Reference T42 BTO:0000759	liver
+N41	Reference T41 BTO:0000759	liver
+N42	Reference T40 BTO:0000759	liver
+N43	Reference T38 BTO:0000599	Hep-G2 cell
+T47	GENE 1331 1335	SHP1
+N44	Reference T47 EntrezGene:15170	Ptpn6

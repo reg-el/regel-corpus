@@ -1,0 +1,73 @@
+T0	PROMOTER 667 684	proximal promoter
+T1	ENHANCER 692 737	enhancer region 5' upstream of the PITX1 gene
+T2	GENE 44 49	PITX1
+N0	Reference T2 EntrezGene:5307	PITX1
+T3	GENE 90 113	estrogen receptor-alpha
+N1	Reference T3 EntrezGene:2099	SR1
+T5	GENE 142 165	estrogen receptor alpha
+N3	Reference T5 EntrezGene:2099	SR1
+T6	GENE 167 174	ERalpha
+N4	Reference T6 EntrezGene:2099	SR1
+T8	GENE 450 455	PITX1
+N6	Reference T8 EntrezGene:5307	PITX1
+T11	TISSUE 579 620	ERalpha-positive breast cancer cell lines
+T12	GENE 625 632	ERalpha
+N8	Reference T12 EntrezGene:2099	SR1
+T14	GENE 757 762	PITX1
+N10	Reference T14 EntrezGene:5307	PITX1
+T15	GENE 817 824	ERalpha
+N11	Reference T15 EntrezGene:2099	SR1
+T16	GENE 829 835	ERbeta
+N12	Reference T16 EntrezGene:2100	SR2
+T17	GENE 939 944	PITX1
+N13	Reference T17 EntrezGene:5307	PITX1
+T18	GENE 979 986	ERalpha
+N14	Reference T18 EntrezGene:2099	SR1
+T19	GENE 1039 1046	ERalpha
+N15	Reference T19 EntrezGene:2099	SR1
+T23	GENE 1284 1289	PITX1
+N19	Reference T23 EntrezGene:5307	PITX1
+T24	GENE 1301 1308	ERalpha
+N20	Reference T24 EntrezGene:2099	SR1
+T25	GENE 1368 1373	PITX1
+N21	Reference T25 EntrezGene:5307	PITX1
+T26	GENE 1383 1390	ERalpha
+N22	Reference T26 EntrezGene:2099	SR1
+T27	GENE 1484 1491	ERalpha
+N23	Reference T27 EntrezGene:2099	SR1
+T28	SPECIES 1529 1534	human
+N24	Reference T28 NCBITaxon:9606	Homo sapiens
+T31	TISSUE 117 136	breast cancer cells
+N26	Reference T31 BTO:0000150	breast cancer cell
+A2	CANCER T31
+T4	DISEASE 354 367	breast tumors
+A3	CANCER T4
+T7	DISEASE 460 465	tumor
+A4	CANCER T7
+A5	CANCER T11
+N5	Reference T11 BTO:0000356	breast cancer cell line
+A6	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T9	TISSUE 1535 1554	breast cancer cells
+N7	Reference T9 BTO:0000150	breast cancer cell
+T10	TFBS 1141 1162	ERalpha binding sites
+A7	REGION T10 INSUFFICIENT
+T13	TFBS 1235 1256	ERalpha binding sites
+A9	REGION T13 INSUFFICIENT
+T20	TFBS 1065 1094	consensus PITX1 binding motif
+A11	REGION T20 INSUFFICIENT
+T21	GENE 875 898	glucocorticoid receptor
+N2	Reference T21 EntrezGene:2908	NR3C1
+T22	GENE 903 924	progesterone receptor
+N9	Reference T22 EntrezGene:5241	PGR
+T29	GENE 727 732	PITX1
+N16	Reference T29 EntrezGene:5307	PITX1
+T30	GENE 1141 1148	ERalpha
+N17	Reference T30 EntrezGene:2099	ESR1
+T32	GENE 1235 1242	ERalpha
+N18	Reference T32 EntrezGene:2099	ESR1
+T33	GENE 1075 1080	PITX1
+N25	Reference T33 EntrezGene:5307	PITX1
+N27	Reference T7 MONDO:MONDO:0006801	
+T34	GENE 579 586	ERalpha
+N28	Reference T34 EntrezGene:2099	ESR1

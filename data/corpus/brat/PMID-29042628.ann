@@ -1,0 +1,59 @@
+T3	ENHANCER 784 796	+24 enhancer
+T7	ENHANCER 1200 1212	+24 enhancer
+T9	SPECIES 26 31	Mouse
+N0	Reference T9 NCBITaxon:10090	Mus musculus
+T10	GENE 32 37	Runx1
+N1	Reference T10 EntrezGene:12394	Runx1
+T11	GENE 111 116	Runx1
+N2	Reference T11 EntrezGene:12394	Runx1
+T12	GENE 169 174	RUNX1
+N3	Reference T12 EntrezGene:12394	Runx1
+T13	DISEASE 221 230	leukaemia
+T14	GENE 232 237	Runx1
+N5	Reference T14 EntrezGene:12394	Runx1
+T16	GENE 355 360	Runx1
+N7	Reference T16 EntrezGene:12394	Runx1
+T17	GENE 446 451	Runx1
+N8	Reference T17 EntrezGene:12394	Runx1
+T18	GENE 601 606	Runx1
+N9	Reference T18 EntrezGene:12394	Runx1
+T21	SPECIES 805 810	mouse
+N12	Reference T21 NCBITaxon:10090	Mus musculus
+T22	SPECIES 1082 1091	zebrafish
+N13	Reference T22 NCBITaxon:7955	Danio rerio
+T23	SPECIES 1175 1179	mice
+N14	Reference T23 NCBITaxon:10090	Mus musculus
+T24	GENE 1339 1344	Runx1
+N15	Reference T24 EntrezGene:12394	Runx1
+T25	GENE 1484 1489	Runx1
+N16	Reference T25 EntrezGene:12394	Runx1
+A9	CANCER T13
+T1	PROMOTER 273 275	P1
+A1	REGION T1 INSUFFICIENT
+T15	PROMOTER 280 282	P2
+A10	REGION T15 INSUFFICIENT
+T28	TISSUE 398 403	blood
+N6	Reference T28 BTO:0000089	blood
+T2	PROMOTER 724 752	P1 and P2 promoters of Runx1
+A2	REGION T2 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+T29	TISSUE 823 864	haematopoietic progenitor cell line HPC-7
+T4	PROMOTER 877 889	promoter, P1
+A4	REGION T4 INSUFFICIENT
+A5	REGION T7 INSUFFICIENT
+T6	TISSUE 1504 1535	haematopoietic progenitor cells
+T8	PROMOTER 258 271	two promoters
+A6	REGION T8 INSUFFICIENT
+T20	ENHANCER 1020 1078	Eight of nine regions function as blood-specific enhancers
+T31	ENHANCER 1102 1171	two were previously shown to harbour blood-specific enhancer activity
+A8	REGION T31 INSUFFICIENT
+A11	REGION T20 INSUFFICIENT
+N4	Reference T13 MONDO:MONDO:0005059	leukemia
+N10	Reference T29 BTO:0000725	hematopoietic stem cell
+N11	Reference T6 BTO:0000725	hematopoietic stem cell
+T5	TISSUE 1054 1059	blood
+N17	Reference T5 BTO:0000089	blood
+T19	TISSUE 1139 1144	blood
+N18	Reference T19 BTO:0000089	blood
+T26	GENE 747 752	Runx1
+N19	Reference T26 EntrezGene:12394	Runx1

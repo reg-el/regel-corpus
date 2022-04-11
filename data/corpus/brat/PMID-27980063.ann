@@ -1,0 +1,56 @@
+T3	GENE 0 4	BRD4
+N0	Reference T3 EntrezGene:23476	BRD4
+T4	GENE 14 17	p63
+N1	Reference T4 EntrezGene:8626	TP63
+T5	GENE 22 27	GRHL3
+N2	Reference T5 EntrezGene:57822	RHL3
+T6	GENE 87 119	Bromodomain-containing protein 4
+N3	Reference T6 EntrezGene:23476	BRD4
+T7	GENE 121 125	BRD4
+N4	Reference T7 EntrezGene:23476	BRD4
+T10	GENE 299 303	BRD4
+N6	Reference T10 EntrezGene:23476	BRD4
+T11	GENE 482 486	BRD4
+N7	Reference T11 EntrezGene:23476	BRD4
+T13	GENE 589 593	BRD4
+N9	Reference T13 EntrezGene:23476	BRD4
+T14	GENE 726 730	TP63
+N10	Reference T14 EntrezGene:8626	TP63
+T15	GENE 735 774	Grainy Head-like transcription factor-3
+N11	Reference T15 EntrezGene:57822	RHL3
+T16	GENE 776 781	GRHL3
+N12	Reference T16 EntrezGene:57822	RHL3
+T17	GENE 849 853	BRD4
+N13	Reference T17 EntrezGene:23476	BRD4
+T18	GENE 977 981	BRD4
+N14	Reference T18 EntrezGene:23476	BRD4
+T19	GENE 1084 1089	FOXO1
+N15	Reference T19 EntrezGene:2308	FOXO1
+T20	GENE 1117 1121	EGFR
+N16	Reference T20 EntrezGene:1956	FR
+T21	GENE 1163 1167	TP63
+N17	Reference T21 EntrezGene:8626	TP63
+T22	GENE 1172 1177	GRHL3
+N18	Reference T22 EntrezGene:57822	RHL3
+T23	GENE 1228 1233	FOXO1
+N19	Reference T23 EntrezGene:2308	FOXO1
+T24	GENE 1278 1282	BRD4
+N20	Reference T24 EntrezGene:23476	BRD4
+T25	GENE 1343 1347	BRD4
+N21	Reference T25 EntrezGene:23476	BRD4
+T26	GENE 1486 1490	TP63
+N22	Reference T26 EntrezGene:8626	TP63
+T27	GENE 1495 1500	GRHL3
+N23	Reference T27 EntrezGene:57822	RHL3
+T32	TISSUE 61 85	mammary epithelial cells
+N24	Reference T32 BTO:0004300	mammary epithelial cell
+T35	TISSUE 813 837	mammary epithelial cells
+N26	Reference T35 BTO:0004300	mammary epithelial cell
+T1	GENE 1203 1213	Src kinase
+N27	Reference T1 EntrezGene:6714	SRC
+T2	TISSUE 1367 1379	mammary cell
+N5	Reference T2 BTO:0003568	mammary gland cell line
+T8	GENE 1122 1125	AKT
+N8	Reference T8 EntrezGene:207	AKT1
+T9	DISEASE 284 289	tumor
+N25	Reference T9 MONDO:MONDO:0005070	

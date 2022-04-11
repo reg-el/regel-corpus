@@ -1,0 +1,47 @@
+T3	PROMOTER 636 648	MYB promoter
+T7	GENE 13 16	MYB
+N0	Reference T7 EntrezGene:4602	MYB
+T8	DISEASE 62 86	adenoid cystic carcinoma
+T9	DISEASE 125 131	cancer
+T10	GENE 342 345	MYB
+N3	Reference T10 EntrezGene:4602	MYB
+T11	DISEASE 370 394	adenoid cystic carcinoma
+T12	DISEASE 396 399	ACC
+T13	GENE 534 537	MYB
+N5	Reference T13 EntrezGene:4602	MYB
+T15	GENE 662 665	MYB
+N7	Reference T15 EntrezGene:4602	MYB
+T16	GENE 775 778	MYB
+N8	Reference T16 EntrezGene:4602	MYB
+T17	GENE 893 897	TP63
+N9	Reference T17 EntrezGene:8626	TP63
+T19	DISEASE 1014 1017	ACC
+T20	GENE 1113 1116	MYB
+N10	Reference T20 EntrezGene:4602	MYB
+T21	GENE 1165 1168	MYB
+N11	Reference T21 EntrezGene:4602	MYB
+A7	CANCER T8
+A8	CANCER T9
+A9	CANCER T11
+A10	CANCER T12
+A1	REGION T3 INSUFFICIENT
+T1	DISEASE 871 874	ACC
+A2	CANCER T1
+T2	TISSUE 901 920	myoepithelial cells
+T4	TISSUE 944 968	luminal epithelial cells
+N12	Reference T4 BTO:0005437	mammary luminal epithelial cell
+A3	CANCER T19
+T5	DISEASE 1192 1195	ACC
+A4	CANCER T5
+T6	DISEASE 998 1003	tumor
+N1	Reference T8 MONDO:MONDO:0004971	adenoid cystic carcinoma
+N2	Reference T9 MONDO:MONDO:0004992	cancer
+N4	Reference T11 MONDO:MONDO:0004971	adenoid cystic carcinoma
+N13	Reference T12 MONDO:MONDO:0004971	adenoid cystic carcinoma
+N14	Reference T1 MONDO:MONDO:0004971	adenoid cystic carcinoma
+N15	Reference T19 MONDO:MONDO:0004971	adenoid cystic carcinoma
+N16	Reference T5 MONDO:MONDO:0004971	adenoid cystic carcinoma
+N6	Reference T2 BTO:0002309	myoepithelial cell
+T14	GENE 636 639	MYB
+N17	Reference T14 EntrezGene:4602	MYB
+N18	Reference T6 MONDO:MONDO:0005070	

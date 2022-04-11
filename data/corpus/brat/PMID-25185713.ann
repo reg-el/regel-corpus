@@ -1,0 +1,65 @@
+T0	ENHANCER 572 594	-14kb enhancer of PU.1
+T1	ENHANCER 675 688	PU.1 enhancer
+T2	PROMOTER 697 714	proximal promoter
+T6	DISEASE 162 186	hematologic malignancies
+T7	GENE 473 477	PU.1
+N4	Reference T7 EntrezGene:20375	Spi1
+T8	SPECIES 515 520	mouse
+N5	Reference T8 NCBITaxon:10090	Mus musculus
+T9	SPECIES 896 901	mouse
+N6	Reference T9 NCBITaxon:10090	Mus musculus
+T10	DISEASE 911 929	AML/ETO9a leukemia
+T11	DISEASE 1000 1008	Leukemia
+T13	DISEASE 1216 1232	AML/ETO leukemia
+T15	SPECIES 1250 1255	mouse
+N12	Reference T15 NCBITaxon:10090	Mus musculus
+T18	TISSUE 43 72	AML/ETO9a leukemic stem cells
+N15	Reference T18 BTO:0004178	leukemic stem cell
+A3	CANCER T18
+A5	CANCER T10
+T5	TISSUE 294 318	hematopoietic stem cells
+N2	Reference T5 BTO:0000725	hematopoietic stem cell
+T19	TISSUE 320 324	HSCs
+N16	Reference T19 BTO:0000725	hematopoietic stem cell
+T20	TISSUE 400 404	HSCs
+N17	Reference T20 BTO:0000725	hematopoietic stem cell
+A6	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+A7	CANCER T11
+A9	CANCER T13
+T14	TISSUE 1444 1463	leukemia stem cells
+A12	CANCER T14
+N11	Reference T14 BTO:0004178	leukemic stem cell
+T17	TFBS 946 964	Runx binding sites
+A11	REGION T17 INSUFFICIENT
+T21	TFBS 540 564	three Runx binding sites
+A14	REGION T21 INSUFFICIENT
+T22	GENE 987 991	PU.1
+N14	Reference T22 EntrezGene:20375	Spi1
+T23	GENE 1169 1173	PU.1
+N18	Reference T23 EntrezGene:20375	Spi1
+T24	GENE 1357 1361	PU.1
+N19	Reference T24 EntrezGene:20375	Spi1
+T25	GENE 9 13	PU.1
+N20	Reference T25 EntrezGene:20375	Spi1
+T26	GENE 740 744	PU.1
+N21	Reference T26 EntrezGene:20375	Spi1
+T27	GENE 864 868	PU.1
+N22	Reference T27 EntrezGene:20375	Spi1
+T28	GENE 1405 1409	PU.1
+N23	Reference T28 EntrezGene:20375	Spi1
+T12	TISSUE 1110 1135	leukemia-initiating cells
+N3	Reference T10 MONDO:MONDO:0018874	acute myeloid leukemia
+N7	Reference T13 MONDO:MONDO:0018874	acute myeloid leukemia
+N8	Reference T11 MONDO:MONDO:0005059	leukemia
+N1	Reference T6 MONDO:MONDO:0002334	hematopoietic and lymphoid system neoplasm
+N9	Reference T12 BTO:0004178	leukemic stem cell
+T3	TISSUE 785 788	HSC
+N10	Reference T3 BTO:0000725	hematopoietic stem cell
+T4	TISSUE 806 809	HSC
+N13	Reference T4 BTO:0000725	
+T16	GENE 590 594	PU.1
+N24	Reference T16 EntrezGene:20375	Spi1
+T29	GENE 675 679	PU.1
+N25	Reference T29 EntrezGene:20375	Spi1

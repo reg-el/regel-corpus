@@ -1,0 +1,52 @@
+T0	GENE 0 6	ARID1A
+N0	Reference T0 EntrezGene:8289	ARID1A
+T1	SPECIES 81 85	mice
+N1	Reference T1 NCBITaxon:10090	Mus musculus
+T2	SPECIES 199 204	human
+N2	Reference T2 NCBITaxon:9606	Homo sapiens
+T3	GENE 223 229	ARID1A
+N3	Reference T3 EntrezGene:8289	ARID1A
+T4	GENE 372 378	Arid1a
+N4	Reference T4 EntrezGene:93760	Arid1a
+T5	SPECIES 418 423	mouse
+N5	Reference T5 NCBITaxon:10090	Mus musculus
+T6	SPECIES 520 525	human
+N6	Reference T6 NCBITaxon:9606	Homo sapiens
+T7	GENE 705 711	ARID1A
+N7	Reference T7 EntrezGene:8289	ARID1A
+T8	GENE 855 861	ARID1B
+N8	Reference T8 EntrezGene:8289	ARID1A
+T9	GENE 892 898	ARID1A
+N9	Reference T9 EntrezGene:8289	ARID1A
+T10	GENE 1185 1191	ARID1A
+N10	Reference T10 EntrezGene:8289	ARID1A
+T11	DISEASE 65 77	colon cancer
+T12	DISEASE 205 212	cancers
+T13	DISEASE 394 399	tumor
+T14	DISEASE 526 543	colorectal cancer
+T15	DISEASE 545 548	CRC
+T16	DISEASE 557 563	tumors
+T17	GENE 585 588	APC
+N15	Reference T17 EntrezGene:324	APC
+T18	GENE 589 601	beta-catenin
+N16	Reference T18 EntrezGene:1499	CTNNB1
+T19	DISEASE 673 690	intestinal cancer
+T20	DISEASE 1071 1083	colon cancer
+T21	DISEASE 1156 1161	tumor
+T22	TISSUE 424 429	colon
+T23	TISSUE 443 458	small intestine
+T24	DISEASE 495 510	adenocarcinomas
+T26	GENE 478 484	ARID1A
+N19	Reference T26 EntrezGene:93760	Arid1a
+N11	Reference T11 MONDO:MONDO:0021063	malignant colon neoplasm
+N12	Reference T12 MONDO:MONDO:0004992	cancer
+N20	Reference T24 MONDO:MONDO:0004970	adenocarcinoma
+N13	Reference T14 MONDO:MONDO:0005575	colorectal cancer
+N14	Reference T15 MONDO:MONDO:0005575	colorectal cancer
+N18	Reference T20 MONDO:MONDO:0021063	malignant colon neoplasm
+N17	Reference T19 MONDO:MONDO:0005814	intestinal cancer
+N21	Reference T22 BTO:0000269	colon
+N22	Reference T23 BTO:0000651	small intestine
+N23	Reference T13 MONDO:MONDO:0005070	neoplasm
+N24	Reference T16 MONDO:MONDO:0005070	neoplasm
+N25	Reference T21 MONDO:MONDO:0005070	neoplasm

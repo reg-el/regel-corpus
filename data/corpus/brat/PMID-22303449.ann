@@ -1,0 +1,80 @@
+T0	ENHANCER 1058 1066	enhancer
+T1	ENHANCER 1432 1455	FGF10 intronic enhancer
+T2	GENE 0 4	ISL1
+N0	Reference T2 EntrezGene:3670	ISL1
+T3	GENE 24 29	FGF10
+N1	Reference T3 EntrezGene:2255	FGF10
+T4	SPECIES 51 56	human
+N2	Reference T4 NCBITaxon:9606	Homo sapiens
+T5	GENE 109 116	Islet-1
+N3	Reference T5 EntrezGene:3670	ISL1
+T6	GENE 118 122	ISL1
+N4	Reference T6 EntrezGene:3670	ISL1
+T7	SPECIES 205 210	human
+N5	Reference T7 NCBITaxon:9606	Homo sapiens
+T8	SPECIES 239 243	mice
+N6	Reference T8 NCBITaxon:10090	Mus musculus
+T9	GENE 492 497	Fgf10
+N7	Reference T9 EntrezGene:2255	FGF10
+T10	GENE 646 650	Isl1
+N8	Reference T10 EntrezGene:3670	ISL1
+T11	SPECIES 724 729	human
+N9	Reference T11 NCBITaxon:9606	Homo sapiens
+T12	GENE 730 734	ISL1
+N10	Reference T12 EntrezGene:3670	ISL1
+T13	GENE 739 744	FGF10
+N11	Reference T13 EntrezGene:2255	FGF10
+T14	GENE 842 846	ISL1
+N12	Reference T14 EntrezGene:3670	ISL1
+T15	SPECIES 940 946	humans
+N13	Reference T15 NCBITaxon:9606	Homo sapiens
+T19	GENE 1208 1212	ISL1
+N17	Reference T19 EntrezGene:3670	ISL1
+T20	GENE 1240 1244	ISL1
+N18	Reference T20 EntrezGene:3670	ISL1
+T22	GENE 1310 1315	GATA4
+N20	Reference T22 EntrezGene:2626	ATA4
+T23	GENE 1320 1325	TBX20
+N21	Reference T23 EntrezGene:57057	TBX20
+T25	SPECIES 1377 1381	mice
+T26	SPECIES 1426 1431	human
+N24	Reference T26 NCBITaxon:9606	Homo sapiens
+T28	SPECIES 1623 1628	human
+N26	Reference T28 NCBITaxon:9606	Homo sapiens
+T29	DISEASE 1720 1744	congenital malformations
+T33	TISSUE 278 296	second heart field
+T34	TISSUE 298 301	SHF
+T35	TISSUE 323 333	myocardium
+N27	Reference T35 BTO:0000901	myocardium
+T36	TISSUE 337 342	atria
+N28	Reference T36 BTO:0000903	atrium
+T37	TISSUE 344 359	right ventricle
+N29	Reference T37 BTO:0001630	right ventricle
+T38	TISSUE 364 377	outflow tract
+T39	TISSUE 450 453	SHF
+T40	SPECIES 608 618	vertebrate
+N30	Reference T40 NCBITaxon:7742	Vertebrata
+T41	TISSUE 628 631	SHF
+T42	TISSUE 795 812	linear heart tube
+N31	Reference T42 BTO:0006180	endocardial heart tube
+T43	TISSUE 933 936	SHF
+A2	REGION T0 INSUFFICIENT
+T16	TFBS 1097 1154	ISL1 consensus binding site within the FGF10 first intron
+A3	REGION T16 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T24	TISSUE 1503 1524	cardiac outflow tract
+T18	TISSUE 467 477	fibroblast
+N14	Reference T18 BTO:0000452	fibroblast
+T21	TFBS 1255 1277	FGF10 intronic element
+A5	REGION T21 INSUFFICIENT
+N19	Reference T29 MONDO:MONDO:0000839	congenital abnormality
+N15	Reference T25 NCBITaxon:10090	Mus musculus
+T17	TISSUE 211 230	cardiac progenitors
+T27	GENE 1432 1437	FGF10
+N16	Reference T27 EntrezGene:2255	FGF10
+T30	GENE 1097 1101	ISL1
+N22	Reference T30 EntrezGene:3670	ISL1
+T31	GENE 1136 1141	FGF10
+N23	Reference T31 EntrezGene:2255	FGF10
+T32	GENE 1255 1260	FGF10
+N25	Reference T32 EntrezGene:2255	FGF10

@@ -1,0 +1,85 @@
+T0	ENHANCER 16 32	Scl +19 enhancer
+T1	ENHANCER 344 360	Scl +19 enhancer
+T2	ENHANCER 514 530	Scl +19 enhancer
+T3	ENHANCER 1053 1069	Scl +19 enhancer
+T5	GENE 156 166	(Scl)/Tal1
+N0	Reference T5 EntrezGene:21349	Tal1
+T8	SPECIES 572 576	mice
+N1	Reference T8 NCBITaxon:10090	Mus musculus
+T10	SPECIES 850 854	mice
+N2	Reference T10 NCBITaxon:10090	Mus musculus
+A11	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T14	TISSUE 421 431	mast cells
+T15	TISSUE 328 338	mast cells
+A2	REGION T2 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+T19	TISSUE 251 275	hematopoietic stem cells
+N4	Reference T19 BTO:0000725	hematopoietic stem cell
+T20	TISSUE 277 281	HSCs
+N5	Reference T20 BTO:0000725	hematopoietic stem cell
+T21	TISSUE 297 306	erythroid
+N6	Reference T21 BTO:0002731	erythroid cell
+T22	TISSUE 308 322	megakaryocytic
+N7	Reference T22 BTO:0000843	megakaryocyte
+T23	TISSUE 401 415	megakaryocytes
+N8	Reference T23 BTO:0000843	megakaryocyte
+T24	TISSUE 374 378	HSCs
+N9	Reference T24 BTO:0000725	hematopoietic stem cell
+T25	TISSUE 448 463	erythroid cells
+N10	Reference T25 BTO:0002731	erythroid cell
+T26	GENE 589 592	Scl
+T27	TISSUE 614 636	hematopoietic lineages
+N12	Reference T27 BTO:0001035	hematopoietic cell line
+T28	TISSUE 758 761	HSC
+N13	Reference T28 BTO:0000725	hematopoietic stem cell
+T30	TISSUE 1109 1144	hematopoietic stem/progenitor cells
+N14	Reference T30 BTO:0000725	hematopoietic stem cell
+T4	TISSUE 872 875	HSC
+N16	Reference T4 BTO:0000725	hematopoietic stem cell
+T31	TISSUE 1178 1200	hematopoietic lineages
+N17	Reference T31 BTO:0001035	hematopoietic cell line
+T32	GENE 1244 1247	Scl
+T33	TISSUE 1311 1322	liver cells
+T6	ENHANCER 532 552	Scl(Delta19/Delta19)
+A4	REGION T6 INSUFFICIENT
+T7	ENHANCER 829 849	Scl(Delta19/Delta19)
+A5	REGION T7 INSUFFICIENT
+T9	GENE 651 654	Scl
+T16	ENHANCER 1284 1304	Scl(Delta19/Delta19)
+A6	REGION T16 INSUFFICIENT
+T11	TISSUE 47 62	blood stem cell
+T18	TISSUE 196 201	blood
+N20	Reference T18 BTO:0000089	blood
+N21	Reference T15 BTO:0000830	mast cell
+N22	Reference T14 BTO:0000830	mast cell
+T29	TISSUE 766 779	megakaryocyte
+N23	Reference T29 BTO:0000843	megakaryocyte
+N24	Reference T33 BTO:0000224	liver cell line
+T34	TISSUE 117 131	blood lineages
+T12	DISEASE 147 155	leukemia
+N15	Reference T12 MONDO:MONDO:0005059	leukemia
+N26	Reference T11 BTO:0000725	hematopoietic stem cell
+N25	Reference T34 BTO:0001035	hematopoietic cell line
+T13	TISSUE 780 800	erythroid progenitor
+N3	Reference T13 BTO:0004911	erythroid progenitor cell
+T17	TISSUE 921 932	bone marrow
+N27	Reference T17 BTO:0000141	bone marrow
+T35	TISSUE 137 146	stem cell
+T36	GENE 16 19	Scl
+N28	Reference T36 EntrezGene:21349	Tal1
+T37	GENE 344 347	Scl
+N29	Reference T37 EntrezGene:21349	Tal1
+T38	GENE 514 517	Scl
+N30	Reference T38 EntrezGene:21349	Tal1
+T39	GENE 532 535	Scl
+N31	Reference T39 EntrezGene:21349	Tal1
+N11	Reference T26 EntrezGene:21349	Tal1
+N19	Reference T9 EntrezGene:21349	Tal1
+T40	GENE 829 832	Scl
+N32	Reference T40 EntrezGene:21349	Tal1
+T41	GENE 1053 1056	Scl
+N33	Reference T41 EntrezGene:21349	Tal1
+N18	Reference T32 EntrezGene:21349	Tal1
+T42	GENE 1284 1287	Scl
+N34	Reference T42 EntrezGene:21349	Tal1

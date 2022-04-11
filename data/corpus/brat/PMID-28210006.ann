@@ -1,0 +1,78 @@
+T7	GENE 8 12	LSD1
+N0	Reference T7 EntrezGene:23028	KDM1A
+T9	DISEASE 100 108	leukemia
+T10	GENE 150 179	Lysine-specific demethylase 1
+N3	Reference T10 EntrezGene:23028	KDM1A
+T11	GENE 181 185	LSD1
+N4	Reference T11 EntrezGene:23028	KDM1A
+T12	DISEASE 278 300	acute myeloid leukemia
+T13	DISEASE 302 305	AML
+T14	GENE 350 354	LSD1
+N7	Reference T14 EntrezGene:23028	KDM1A
+T15	DISEASE 404 420	MLL-AF9 leukemia
+T16	DISEASE 432 447	erythroleukemia
+T17	DISEASE 449 474	megakaryoblastic leukemia
+T18	DISEASE 479 504	myelodysplastic syndromes
+T19	DISEASE 506 510	MDSs
+T21	DISEASE 669 672	MDS
+T22	DISEASE 677 680	AML
+T24	GENE 813 817	LSD1
+N15	Reference T24 EntrezGene:23028	KDM1A
+T26	GENE 1017 1021	GFI1
+N17	Reference T26 EntrezGene:2672	FI1
+T27	GENE 1026 1029	ERG
+N18	Reference T27 EntrezGene:2078	R
+T28	GENE 1039 1044	CEBPA
+N19	Reference T28 EntrezGene:1050	CEBPA
+T29	GENE 1069 1073	LSD1
+N20	Reference T29 EntrezGene:23028	KDM1A
+T30	GENE 1242 1246	GFI1
+N21	Reference T30 EntrezGene:2672	FI1
+T32	GENE 1533 1537	LSD1
+N23	Reference T32 EntrezGene:23028	KDM1A
+A9	CANCER T9
+A10	CANCER T12
+A11	CANCER T13
+A12	CANCER T15
+A13	CANCER T16
+A14	CANCER T17
+A15	CANCER T18
+A16	CANCER T19
+A18	CANCER T21
+A19	CANCER T22
+T23	TISSUE 746 760	leukemia cells
+A20	CANCER T23
+T20	TISSUE 518 532	leukemia cells
+A17	CANCER T20
+T25	TISSUE 928 949	erythroleukemia cells
+A21	CANCER T25
+T38	TISSUE 967 976	leukocyte
+T39	TISSUE 1204 1211	myeloid
+T40	TISSUE 1258 1265	myeloid
+T31	TISSUE 1376 1402	MDS-related leukemia cells
+A22	CANCER T31
+T41	TISSUE 1476 1489	hematopoietic
+T37	TISSUE 626 633	myeloid
+T35	DISEASE 1625 1628	MDS
+A25	CANCER T35
+T2	DISEASE 41 44	MDS
+N1	Reference T2 MONDO:MONDO:0018881	myelodysplastic syndrome
+T3	DISEASE 53 61	leukemia
+N12	Reference T3 MONDO:MONDO:0005059	leukemia
+N2	Reference T9 MONDO:MONDO:0005059	leukemia
+N5	Reference T12 MONDO:MONDO:0018874	acute myeloid leukemia
+N6	Reference T13 MONDO:MONDO:0018874	acute myeloid leukemia
+N8	Reference T15 MONDO:MONDO:0005059	leukemia
+N10	Reference T17 MONDO:MONDO:0018872	acute megakaryoblastic leukemia
+N9	Reference T16 MONDO:MONDO:0017858	acute erythroid leukemia
+N11	Reference T18 MONDO:MONDO:0018881	myelodysplastic syndrome
+N14	Reference T19 MONDO:MONDO:0018881	myelodysplastic syndrome
+N16	Reference T21 MONDO:MONDO:0018881	myelodysplastic syndrome
+N13	Reference T22 MONDO:MONDO:0018874	acute myeloid leukemia
+N22	Reference T35 MONDO:MONDO:0018881	myelodysplastic syndrome
+T4	DISEASE 1637 1645	leukemia
+N24	Reference T4 MONDO:MONDO:0005059	leukemia
+N25	Reference T25 BTO:0000426	erythroleukemia cell
+N26	Reference T37 BTO:0000906	myeloid cell line
+N27	Reference T40 BTO:0000906	myeloid cell line
+N28	Reference T39 BTO:0000906	myeloid cell line

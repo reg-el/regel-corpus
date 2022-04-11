@@ -1,0 +1,69 @@
+T1	ENHANCER 365 421	distal enhancer located >1 Mb 3' of human and murine Myc
+T2	PROMOTER 497 518	Myc proximal promoter
+T3	ENHANCER 788 824	enhancer (a region spanning >600 kb)
+T4	ENHANCER 909 924	enhancer region
+T6	PROMOTER 1385 1397	Myc promoter
+T9	GENE 40 43	Myc
+N0	Reference T9 EntrezGene:4609	MYC
+T11	DISEASE 79 94	T cell leukemia
+T13	DISEASE 171 206	T-cell acute lymphoblastic leukemia
+T14	GENE 226 231	c-Myc
+N5	Reference T14 EntrezGene:4609	MYC
+T15	GENE 233 236	Myc
+N6	Reference T15 EntrezGene:4609	MYC
+T18	GENE 329 332	Myc
+N9	Reference T18 EntrezGene:4609	MYC
+T27	GENE 845 848	Myc
+N18	Reference T27 EntrezGene:4609	MYC
+T31	GENE 1071 1074	Myc
+N22	Reference T31 EntrezGene:4609	MYC
+T34	GENE 1208 1211	Myc
+N25	Reference T34 EntrezGene:4609	MYC
+T35	GENE 1268 1292	bromodomain containing 4
+N26	Reference T35 EntrezGene:23476	BRD4
+T36	GENE 1294 1298	Brd4
+N27	Reference T36 EntrezGene:23476	BRD4
+T38	GENE 1459 1463	Brd4
+N29	Reference T38 EntrezGene:23476	BRD4
+T40	GENE 1661 1665	Brd4
+N31	Reference T40 EntrezGene:23476	BRD4
+T41	DISEASE 1669 1677	leukemia
+T43	TISSUE 116 122	T-cell
+N33	Reference T43 BTO:0000782	T-lymphocyte
+T44	TISSUE 292 303	pre-T cells
+N34	Reference T44 BTO:0001145	pre-T-lymphocyte
+A1	REGION T1 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+T23	TFBS 655 691	conserved Notch complex binding site
+A9	REGION T23 INSUFFICIENT
+T24	TFBS 524 546	Notch1 binding element
+A10	REGION T24 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+T29	TISSUE 1004 1018	Leukemia cells
+N14	Reference T29 BTO:0001271	leukemia cell
+T32	TFBS 1133 1174	Notch transcription complex binding sites
+A11	REGION T32 INSUFFICIENT
+T45	TISSUE 1215 1230	resistant cells
+N15	Reference T45 BTO:0001271	leukemia cell
+A6	REGION T6 INSUFFICIENT
+A8	CANCER T29
+A12	CANCER T45
+A13	CANCER T41
+A14	CANCER T11
+A15	CANCER T13
+T5	ENHANCER 1107 1123	enhancer domains
+A5	REGION T5 INSUFFICIENT
+T7	ENHANCER 1408 1427	3' enhancer domains
+A7	REGION T7 INSUFFICIENT
+N2	Reference T11 MONDO:MONDO:0005525	T-cell leukemia
+N4	Reference T13 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N10	Reference T41 MONDO:MONDO:0005059	leukemia
+T8	GENE 418 421	Myc
+N1	Reference T8 EntrezGene:4609	MYC
+T10	GENE 497 500	Myc
+N3	Reference T10 EntrezGene:4609	MYC
+T12	GENE 1385 1388	Myc
+N7	Reference T12 EntrezGene:4609	MYC
+T16	GENE 524 530	Notch1
+N8	Reference T16 EntrezGene:4851	NOTCH1

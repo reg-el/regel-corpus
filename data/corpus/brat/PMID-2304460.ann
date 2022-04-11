@@ -1,0 +1,72 @@
+T0	PROMOTER 15 47	G gamma-globin promoter elements
+T1	ENHANCER 62 85	beta-globin 3' enhancer
+T3	ENHANCER 2127 2150	beta-globin 3' enhancer
+T4	SPECIES 140 145	human
+N0	Reference T4 NCBITaxon:9606	Homo sapiens
+T6	SPECIES 277 281	mice
+A7	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+N1	Reference T6 NCBITaxon:10090	Mus musculus
+T5	TISSUE 303 318	embryonic cells
+T8	TISSUE 356 371	erythroid cells
+N2	Reference T8 BTO:0002731	erythroid cell
+T9	GENE 494 508	G gamma-globin
+N3	Reference T9 EntrezGene:3048	HBG2
+T10	GENE 152 166	G gamma-globin
+N4	Reference T10 EntrezGene:3048	HBG2
+T11	GENE 287 294	G gamma
+N5	Reference T11 EntrezGene:3048	HBG2
+T12	GENE 327 336	beta gene
+N6	Reference T12 EntrezGene:3043	HBB
+T13	GENE 528 539	beta-globin
+N7	Reference T13 EntrezGene:3043	HBB
+T14	GENE 685 699	G gamma-globin
+N8	Reference T14 EntrezGene:3048	HBG2
+T15	GENE 732 746	G gamma-globin
+N9	Reference T15 EntrezGene:3048	HBG2
+T16	GENE 809 820	beta-globin
+N10	Reference T16 EntrezGene:3043	HBB
+T17	GENE 853 867	G gamma-globin
+N11	Reference T17 EntrezGene:3048	HBG2
+T18	GENE 930 941	beta-globin
+N12	Reference T18 EntrezGene:3043	HBB
+T19	GENE 1030 1044	G gamma-globin
+N13	Reference T19 EntrezGene:3048	HBG2
+T20	GENE 1148 1162	G gamma-globin
+N14	Reference T20 EntrezGene:3048	HBG2
+T21	GENE 1179 1193	G gamma-globin
+N15	Reference T21 EntrezGene:3048	HBG2
+T22	GENE 1281 1292	beta-globin
+N16	Reference T22 EntrezGene:3043	HBB
+T23	TISSUE 1301 1322	embryonic blood cells
+N17	Reference T23 BTO:0000381	embryonic blood
+T24	GENE 1335 1349	G gamma-globin
+N18	Reference T24 EntrezGene:3048	HBG2
+T25	TISSUE 1584 1605	embryonic blood cells
+N19	Reference T25 BTO:0000381	embryonic blood
+T26	GENE 1774 1788	G gamma-globin
+N20	Reference T26 EntrezGene:3048	HBG2
+T27	TISSUE 1855 1870	erythroid cells
+N21	Reference T27 BTO:0002731	erythroid cell
+T28	GENE 1913 1924	beta-globin
+N22	Reference T28 EntrezGene:3043	HBB
+T2	ENHANCER 1962 1973	3' enhancer
+A2	REGION T2 INSUFFICIENT
+T29	GENE 1984 1998	G gamma-globin
+N23	Reference T29 EntrezGene:3048	HBG2
+T30	GENE 2008 2019	beta-globin
+N24	Reference T30 EntrezGene:3043	HBB
+T31	TISSUE 2081 2102	embryonic blood cells
+N25	Reference T31 BTO:0000381	embryonic blood
+A3	REGION T3 INSUFFICIENT
+T32	GENE 2276 2287	beta-globin
+N26	Reference T32 EntrezGene:3043	HBB
+T33	GENE 177 188	beta-globin
+N28	Reference T33 EntrezGene:3043	HBB
+N27	Reference T5 BTO:0000669	embryonic cell line
+T7	GENE 62 73	beta-globin
+N29	Reference T7 EntrezGene:3043	HBB
+T34	GENE 2127 2138	beta-globin
+N30	Reference T34 EntrezGene:3043	HBB
+T35	GENE 15 29	G gamma-globin
+N31	Reference T35 EntrezGene:3048	HBG2

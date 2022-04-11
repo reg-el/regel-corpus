@@ -1,0 +1,58 @@
+T0	ENHANCER 47 63	distant enhancer
+T1	PROMOTER 72 100	epsilon-globin gene promoter
+T9	PROMOTER 1346 1369	epsilon-globin promoter
+T13	SPECIES 239 244	human
+N1	Reference T13 NCBITaxon:9606	Homo sapiens
+T15	GENE 337 351	epsilon-globin
+N3	Reference T15 EntrezGene:3046	HBE1
+T17	GENE 550 556	GATA-1
+N5	Reference T17 EntrezGene:2623	ATA1
+T18	GENE 700 703	HS2
+N6	Reference T18 EntrezGene:6710	SPTB
+T20	GENE 814 817	HS2
+N8	Reference T20 EntrezGene:6710	SPTB
+T22	GENE 1021 1024	HS2
+N10	Reference T22 EntrezGene:6710	SPTB
+T23	GENE 1059 1062	HS2
+N11	Reference T23 EntrezGene:6710	SPTB
+T24	SPECIES 1140 1164	Saccharomyces cerevisiae
+N12	Reference T24 NCBITaxon:4932	ccharomyces cerevisi
+T25	GENE 1166 1169	HS2
+N13	Reference T25 EntrezGene:6710	SPTB
+T26	GENE 1297 1300	HS2
+N14	Reference T26 EntrezGene:6710	SPTB
+T28	GENE 1374 1377	HS2
+N16	Reference T28 EntrezGene:6710	SPTB
+A29	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T2	ENHANCER 245 328	beta-globin locus control region (LCR) DNase I-hypersensitive site 2 (HS2) enhancer
+A2	REGION T2 INSUFFICIENT
+T3	TISSUE 393 408	erythroid cells
+N2	Reference T3 BTO:0002731	erythroid cell
+T4	PROMOTER 760 783	epsilon-globin promoter
+A3	REGION T4 INSUFFICIENT
+T5	TFBS 524 545	CACCC binding factors
+A4	REGION T5 INSUFFICIENT
+T6	TFBS 928 949	GATA-1 or CACCC sites
+A5	REGION T6 INSUFFICIENT
+A6	REGION T9 INSUFFICIENT
+T7	ENHANCER 1615 1631	distant enhancer
+A7	REGION T7 INSUFFICIENT
+T8	TFBS 727 737	GATA motif
+A8	REGION T8 INSUFFICIENT
+T10	GENE 608 611	LCR
+N4	Reference T10 EntrezGene:109580095	HBB-LCR
+T11	TFBS 1235 1243	TATA box
+A9	REGION T11 INSUFFICIENT
+T12	GENE 245 277	beta-globin locus control region
+N7	Reference T12 EntrezGene:109580095	HBB-LCR
+T14	GENE 279 282	LCR
+N9	Reference T14 EntrezGene:109580095	HBB-LCR
+T16	GENE 72 86	epsilon-globin
+N15	Reference T16 EntrezGene:3046	HBE1
+T19	GENE 760 774	epsilon-globin
+N17	Reference T19 EntrezGene:3046	HBE1
+T21	GENE 1346 1360	epsilon-globin
+N18	Reference T21 EntrezGene:3046	HBE1
+T27	GENE 928 934	GATA-1
+N19	Reference T27 EntrezGene:2623	GATA1

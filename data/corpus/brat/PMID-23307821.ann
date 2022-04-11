@@ -1,0 +1,47 @@
+T2	GENE 33 43	Yin Yang 1
+N0	Reference T2 EntrezGene:7528	YY1
+T3	GENE 662 672	Yin Yang 1
+N1	Reference T3 EntrezGene:7528	YY1
+T4	GENE 674 677	YY1
+N2	Reference T4 EntrezGene:7528	YY1
+T6	GENE 794 797	YY1
+N3	Reference T6 EntrezGene:7528	YY1
+T7	GENE 828 834	Nkx2.5
+N4	Reference T7 EntrezGene:1482	KX2-5
+T8	GENE 882 885	YY1
+N5	Reference T8 EntrezGene:7528	YY1
+T9	GENE 896 902	Nkx2.5
+N6	Reference T9 EntrezGene:1482	KX2-5
+T10	GENE 1110 1113	YY1
+N7	Reference T10 EntrezGene:7528	YY1
+T11	GENE 1126 1132	Nkx2.5
+N8	Reference T11 EntrezGene:1482	KX2-5
+T12	GENE 1188 1193	Gata4
+N9	Reference T12 EntrezGene:2626	ATA4
+T13	GENE 1263 1266	YY1
+N10	Reference T13 EntrezGene:7528	YY1
+T15	GENE 1419 1422	YY1
+N11	Reference T15 EntrezGene:7528	YY1
+T16	GENE 1575 1578	YY1
+N12	Reference T16 EntrezGene:7528	YY1
+T17	GENE 1638 1644	Nkx2.5
+N13	Reference T17 EntrezGene:1482	KX2-5
+T20	TISSUE 266 287	mesodermal precursors
+N15	Reference T20 BTO:0000839	mesoderm
+T5	TISSUE 291 315	cardiac progenitor cells
+T21	TISSUE 317 321	CPCs
+T22	TISSUE 592 596	CPCs
+T23	TISSUE 737 741	CPCs
+T24	TISSUE 1493 1497	CPCs
+T25	TISSUE 564 583	embryonic stem cell
+N16	Reference T25 BTO:0001086	embryonic stem cell
+T26	TISSUE 1217 1233	Cardiac mesoderm
+T27	TISSUE 1340 1359	embryonic stem cell
+N18	Reference T27 BTO:0001086	embryonic stem cell
+T28	TISSUE 1467 1487	embryonic stem cells
+N19	Reference T28 BTO:0001086	embryonic stem cell
+T29	TISSUE 1655 1658	CPC
+T1	ENHANCER 920 952	2.1-kb cardiac-specific enhancer
+A1	REGION T1 INSUFFICIENT
+N14	Reference T26 BTO:0000839	mesoderm
+T14	TISSUE 378 393	cardiac lineage

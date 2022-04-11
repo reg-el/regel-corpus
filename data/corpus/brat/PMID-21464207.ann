@@ -1,0 +1,80 @@
+T3	GENE 41 54	interleukin-4
+N0	Reference T3 EntrezGene:16189	Il4
+T4	GENE 65 70	STAT6
+N1	Reference T4 EntrezGene:20852	Stat6
+T6	DISEASE 188 206	vascular disorders
+T7	DISEASE 218 233	atherosclerosis
+T8	DISEASE 238 250	inflammation
+T9	GENE 271 284	interleukin-4
+N5	Reference T9 EntrezGene:16189	Il4
+T10	GENE 286 290	IL-4
+N6	Reference T10 EntrezGene:16189	Il4
+T11	GENE 309 342	vascular cell adhesion molecule 1
+N7	Reference T11 EntrezGene:22329	Vcam1
+T12	GENE 344 350	VCAM-1
+N8	Reference T12 EntrezGene:22329	Vcam1
+T13	SPECIES 421 425	mice
+N9	Reference T13 NCBITaxon:10090	Mus musculus
+T14	GENE 451 455	IL-4
+N10	Reference T14 EntrezGene:16189	Il4
+T15	GENE 460 487	tumor necrosis factor alpha
+N11	Reference T15 EntrezGene:21926	Tnf
+T17	GENE 489 498	TNF-alpha
+N12	Reference T17 EntrezGene:21926	Tnf
+T18	GENE 544 550	VCAM-1
+N13	Reference T18 EntrezGene:22329	Vcam1
+T19	GENE 563 567	IL-4
+N14	Reference T19 EntrezGene:16189	Il4
+T20	GENE 590 596	VCAM-1
+N15	Reference T20 EntrezGene:22329	Vcam1
+T21	GENE 685 690	STAT6
+N16	Reference T21 EntrezGene:20852	Stat6
+T22	GENE 714 718	IL-4
+N17	Reference T22 EntrezGene:16189	Il4
+T23	GENE 728 733	STAT6
+N18	Reference T23 EntrezGene:20852	Stat6
+T24	GENE 1055 1059	IL-4
+N19	Reference T24 EntrezGene:16189	Il4
+T25	GENE 1094 1099	STAT6
+N20	Reference T25 EntrezGene:20852	Stat6
+T26	GENE 1137 1142	STAT6
+N21	Reference T26 EntrezGene:20852	Stat6
+T27	GENE 1170 1174	IL-4
+N22	Reference T27 EntrezGene:16189	Il4
+T28	GENE 1202 1207	STAT6
+N23	Reference T28 EntrezGene:20852	Stat6
+T31	GENE 1452 1457	STAT6
+N26	Reference T31 EntrezGene:20852	Stat6
+T32	GENE 1471 1475	IL-4
+N27	Reference T32 EntrezGene:16189	Il4
+T33	GENE 1544 1548	IL-4
+N28	Reference T33 EntrezGene:16189	Il4
+T35	DISEASE 1623 1639	vascular disease
+T5	PROMOTER 86 128	vascular cell adhesion molecule 1 promoter
+A3	REGION T5 INSUFFICIENT
+T2	ENHANCER 1544 1573	IL-4-mediated VCAM-1 enhancer
+A2	REGION T2 INSUFFICIENT
+T16	TFBS 1332 1391	STAT6 binding site within 16 kb upstream of the VCAM-1 gene
+A4	REGION T16 INSUFFICIENT
+T29	TISSUE 370 387	endothelial cells
+T34	TISSUE 866 883	endothelial cells
+T37	TISSUE 130 146	Endothelial cell
+T38	TISSUE 406 417	endothelium
+N2	Reference T37 BTO:0001176	endothelial cell
+N25	Reference T38 BTO:0000393	endothelium
+N3	Reference T6 MONDO:MONDO:0005385	vascular disease
+N31	Reference T7 MONDO:MONDO:0005311	atherosclerosis
+N4	Reference T8 MONDO:MONDO:0021166	inflammatory disease
+N30	Reference T35 MONDO:MONDO:0005385	vascular disease
+N24	Reference T29 BTO:0001176	endothelial cell
+N29	Reference T34 BTO:0001176	endothelial cell
+T1	TISSUE 611 619	monocyte
+N32	Reference T1 BTO:0000876	
+T30	GENE 1558 1564	VCAM-1
+N33	Reference T30 EntrezGene:22329	Vcam1
+T36	GENE 86 119	vascular cell adhesion molecule 1
+N34	Reference T36 EntrezGene:22329	Vcam1
+T39	GENE 1380 1386	VCAM-1
+N35	Reference T39 EntrezGene:22329	Vcam1
+T40	GENE 1332 1337	STAT6
+N36	Reference T40 EntrezGene:20852	Stat6

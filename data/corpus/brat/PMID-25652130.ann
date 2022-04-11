@@ -1,0 +1,38 @@
+T2	ENHANCER 640 649	enhancers
+T3	ENHANCER 771 784	two enhancers
+T4	PROMOTER 875 883	promoter
+T6	GENE 89 99	E-cadherin
+N0	Reference T6 EntrezGene:12550	Cdh1
+T7	GENE 390 394	Cdh1
+N1	Reference T7 EntrezGene:12550	Cdh1
+T8	GENE 396 406	E-cadherin
+N2	Reference T8 EntrezGene:12550	Cdh1
+T9	GENE 433 437	Cdh1
+N3	Reference T9 EntrezGene:12550	Cdh1
+T10	GENE 563 568	Grhl3
+N4	Reference T10 EntrezGene:230824	rhl3
+T11	GENE 573 582	Hnf4alpha
+N5	Reference T11 EntrezGene:15378	Hnf4
+T12	GENE 613 618	Grhl3
+N6	Reference T12 EntrezGene:230824	rhl3
+T13	GENE 623 632	Hnf4alpha
+N7	Reference T13 EntrezGene:15378	Hnf4
+T14	GENE 676 680	Cdh1
+N8	Reference T14 EntrezGene:12550	Cdh1
+T16	GENE 799 804	Grhl3
+N10	Reference T16 EntrezGene:230824	rhl3
+T17	GENE 809 818	Hnf4alpha
+N11	Reference T17 EntrezGene:15378	Hnf4
+T18	GENE 899 909	E-cadherin
+N12	Reference T18 EntrezGene:12550	Cdh1
+A2	REGION T2 INSUFFICIENT
+T15	TISSUE 706 747	non-tumorigenic mouse mammary gland cells
+T32	TISSUE 749 754	NMuMG
+N20	Reference T32 BTO:0004183	NMuMg cell
+N9	Reference T15 BTO:0004183	NMuMg cell
+A3	REGION T3 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+T5	TISSUE 1184 1195	tumor cells
+A5	CANCER T5
+T1	ENHANCER 473 529	two enhancers at +7.8 kb and at +11.5 kb within intron 2
+A1	REGION T1 INSUFFICIENT

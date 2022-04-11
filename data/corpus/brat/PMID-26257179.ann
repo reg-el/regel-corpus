@@ -1,0 +1,4 @@
+T4	SPECIES 408 413	human
+N0	Reference T4 NCBITaxon:9606	Homo sapiens
+T5	SPECIES 579 584	human
+N1	Reference T5 NCBITaxon:9606	Homo sapiens

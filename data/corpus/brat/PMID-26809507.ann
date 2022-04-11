@@ -1,0 +1,11 @@
+T6	TISSUE 1312 1317	HPC-7
+T7	TISSUE 1499 1504	HPC-7
+T3	TISSUE 659 724	stem cell factor-dependent multipotent progenitor cell line HPC-7
+T9	TISSUE 934 945	HPC-7 cells
+T1	TISSUE 82 87	blood
+N1	Reference T1 BTO:0000089	blood
+T4	TISSUE 600 634	hematopoietic stem/progenitor cell
+T5	TISSUE 636 640	HSPC
+T8	TISSUE 774 779	HSPCs
+T10	TISSUE 1280 1295	blood stem cell
+T11	TISSUE 1672 1676	HSPC

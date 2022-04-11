@@ -1,0 +1,48 @@
+T4	GENE 0 6	CARMEN
+N0	Reference T4 EntrezGene:728264	CARM
+T5	SPECIES 10 15	human
+N1	Reference T5 NCBITaxon:9606	Homo sapiens
+T6	SPECIES 247 252	human
+N2	Reference T6 NCBITaxon:9606	Homo sapiens
+T7	SPECIES 357 362	human
+N3	Reference T7 NCBITaxon:9606	Homo sapiens
+T8	TISSUE 363 366	CPC
+T9	TISSUE 432 436	CPCs
+T10	SPECIES 455 460	human
+N4	Reference T10 NCBITaxon:9606	Homo sapiens
+T11	GENE 782 788	CARMEN
+N5	Reference T11 EntrezGene:728264	CARM
+T12	GENE 850 856	CARMEN
+N6	Reference T12 EntrezGene:728264	CARM
+T13	GENE 990 996	CARMEN
+N7	Reference T13 EntrezGene:728264	CARM
+T14	GENE 1012 1017	SUZ12
+N8	Reference T14 EntrezGene:23512	SUZ12
+T15	GENE 1022 1026	EZH2
+N9	Reference T15 EntrezGene:2146	ZH2
+T16	GENE 1108 1114	CARMEN
+N10	Reference T16 EntrezGene:728264	CARM
+T17	GENE 1220 1227	MIR-143
+T18	GENE 1320 1326	CARMEN
+N12	Reference T18 EntrezGene:328968	Car
+T20	SPECIES 1390 1395	mouse
+N14	Reference T20 NCBITaxon:10090	Mus musculus
+T21	SPECIES 1400 1405	human
+N15	Reference T21 NCBITaxon:9606	Homo sapiens
+T22	GENE 1538 1544	CARMEN
+N16	Reference T22 EntrezGene:728264	CARM
+T25	TISSUE 253 275	cardiac precursor cell
+T26	TISSUE 277 280	CPC
+T32	TISSUE 1406 1412	hearts
+N22	Reference T32 BTO:0000562	heart
+T34	TISSUE 1483 1497	cardiomyocytes
+T28	GENE 790 848	(CAR)diac (M)esoderm (E)nhancer-associated (N)oncoding RNA
+N19	Reference T28 EntrezGene:728264	CARMN
+T29	TISSUE 467 472	heart
+N20	Reference T29 BTO:0000562	heart
+N11	Reference T17 EntrezGene:406935	MIR143
+T2	GENE 1232 1236	-145
+N28	Reference T2 EntrezGene:406937	MIR145
+N13	Reference T34 BTO:0003324	cardiomyocyte cell line
+T1	TISSUE 1179 1202	cardiac precursor cells
+T3	TISSUE 1571 1583	cardiac cell

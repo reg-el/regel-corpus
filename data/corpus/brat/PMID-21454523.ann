@@ -1,0 +1,40 @@
+T2	SPECIES 54 63	mammalian
+T3	GENE 335 339	CTCF
+N1	Reference T3 EntrezGene:10664	CTCF
+T4	GENE 577 590	Nipped-B-like
+N2	Reference T4 EntrezGene:25836	IPBL
+T5	GENE 592 597	Nipbl
+N3	Reference T5 EntrezGene:25836	IPBL
+T6	GENE 645 649	CTCF
+N4	Reference T6 EntrezGene:10664	CTCF
+T7	GENE 782 787	Nipbl
+N5	Reference T7 EntrezGene:25836	IPBL
+T8	GENE 882 886	CTCF
+N6	Reference T8 EntrezGene:10664	CTCF
+T9	GENE 1219 1224	Nipbl
+N7	Reference T9 EntrezGene:25836	IPBL
+T10	GENE 1303 1308	Nipbl
+N8	Reference T10 EntrezGene:25836	IPBL
+T12	GENE 1429 1434	Nipbl
+N9	Reference T12 EntrezGene:25836	IPBL
+T13	SPECIES 1551 1560	mammalian
+T15	GENE 92 103	beta-globin
+N11	Reference T15 EntrezGene:3043	HBB
+T16	GENE 64 75	beta-globin
+N12	Reference T16 EntrezGene:3043	HBB
+T17	TISSUE 177 192	erythroid cells
+N13	Reference T17 BTO:0002731	erythroid cell
+T18	GENE 313 333	CCCTC-binding factor
+N14	Reference T18 EntrezGene:10664	CTCF
+T19	ENHANCER 922 941	LCR distal enhancer
+A2	REGION T19 INSUFFICIENT
+N10	Reference T13 NCBITaxon:40674	Mammalia
+N15	Reference T2 NCBITaxon:40674	Mammalia
+T1	GENE 611 631	locus control region
+N16	Reference T1 EntrezGene:109580095	HBB-LCR
+T11	GENE 633 636	LCR
+N17	Reference T11 EntrezGene:109580095	HBB-LCR
+T14	GENE 1544 1547	LCR
+N18	Reference T14 EntrezGene:109580095	HBB-LCR
+T20	GENE 922 925	LCR
+N19	Reference T20 EntrezGene:109580095	HBB-LCR

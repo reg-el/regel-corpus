@@ -1,0 +1,88 @@
+T0	ENHANCER 935 995	DNA enhancer element within the first intron of the YAP gene
+T1	GENE 4 16	beta-catenin
+N0	Reference T1 EntrezGene:1499	CTNNB1
+T2	GENE 37 59	Yes-associated protein
+N1	Reference T2 EntrezGene:10413	YAP1
+T3	GENE 61 64	YAP
+N2	Reference T3 EntrezGene:10413	YAP1
+T4	TISSUE 85 111	colorectal carcinoma cells
+T5	GENE 134 146	beta-catenin
+N4	Reference T5 EntrezGene:1499	CTNNB1
+T6	DISEASE 169 187	colorectal cancers
+T7	DISEASE 189 193	CRCs
+T8	GENE 262 274	beta-catenin
+N7	Reference T8 EntrezGene:1499	CTNNB1
+T9	GENE 321 333	beta-catenin
+N8	Reference T9 EntrezGene:1499	CTNNB1
+T10	GENE 350 357	TCF/LEF
+N9	Reference T10 EntrezGene:3172	HNF4A
+T11	GENE 520 542	Yes-associated protein
+N10	Reference T11 EntrezGene:10413	YAP1
+T12	GENE 544 547	YAP
+N11	Reference T12 EntrezGene:10413	YAP1
+T13	GENE 579 582	YAP
+N12	Reference T13 EntrezGene:10413	YAP1
+T14	DISEASE 609 613	CRCs
+T15	GENE 640 652	beta-catenin
+N14	Reference T15 EntrezGene:1499	CTNNB1
+T17	GENE 741 744	YAP
+N16	Reference T17 EntrezGene:10413	YAP1
+T18	GENE 842 845	YAP
+N17	Reference T18 EntrezGene:10413	YAP1
+T19	GENE 900 912	beta-catenin
+N18	Reference T19 EntrezGene:1499	CTNNB1
+T20	GENE 913 917	TCF4
+N19	Reference T20 EntrezGene:6925	TCF4
+T22	GENE 1005 1008	YAP
+N21	Reference T22 EntrezGene:10413	YAP1
+T23	TISSUE 1023 1032	CRC cells
+T24	GENE 1052 1064	beta-catenin
+N23	Reference T24 EntrezGene:1499	CTNNB1
+T25	TISSUE 1079 1088	CRC cells
+T26	GENE 1121 1124	YAP
+N25	Reference T26 EntrezGene:10413	YAP1
+T27	GENE 1150 1153	YAP
+N26	Reference T27 EntrezGene:10413	YAP1
+T28	SPECIES 1229 1234	human
+N27	Reference T28 NCBITaxon:9606	Homo sapiens
+T30	GENE 1346 1349	YAP
+N29	Reference T30 EntrezGene:10413	YAP1
+T31	SPECIES 1411 1416	human
+N30	Reference T31 NCBITaxon:9606	Homo sapiens
+T32	DISEASE 1417 1434	colorectal tumors
+T33	GENE 1503 1506	YAP
+N32	Reference T33 EntrezGene:10413	YAP1
+T34	GENE 1511 1523	beta-catenin
+N33	Reference T34 EntrezGene:1499	CTNNB1
+T35	TISSUE 1563 1574	tumor cells
+T36	GENE 1610 1613	YAP
+N34	Reference T36 EntrezGene:10413	YAP1
+T37	GENE 1672 1684	beta-catenin
+N35	Reference T37 EntrezGene:1499	CTNNB1
+T38	SPECIES 1698 1703	human
+N36	Reference T38 NCBITaxon:9606	Homo sapiens
+T39	TISSUE 1704 1713	CRC cells
+A1	CANCER T4
+N3	Reference T4 BTO:0001615	colorectal cancer cell
+A2	CANCER T6
+A3	CANCER T7
+A4	CANCER T14
+A6	REGION T0 INSUFFICIENT
+A7	CANCER T25
+T41	TISSUE 1235 1258	colon cancer cell lines
+A8	CANCER T41
+A9	CANCER T32
+T29	TISSUE 1478 1492	colonic mucosa
+N28	Reference T29 BTO:0000271	colonic mucosa
+A10	CANCER T39
+N24	Reference T25 BTO:0001615	colorectal cancer cell
+N37	Reference T39 BTO:0001615	colorectal cancer cell
+A11	CANCER T35
+N5	Reference T6 MONDO:MONDO:0005575	colorectal cancer
+N13	Reference T14 MONDO:MONDO:0005575	colorectal cancer
+N20	Reference T23 BTO:0001615	colorectal cancer cell
+N22	Reference T41 BTO:0000797	colonic cancer cell line
+N6	Reference T7 MONDO:MONDO:0005575	colorectal cancer
+T16	GENE 987 990	YAP
+N31	Reference T16 EntrezGene:10413	YAP1
+N15	Reference T32 MONDO:MONDO:0005335	colorectal neoplasm

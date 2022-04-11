@@ -1,0 +1,36 @@
+T2	GENE 27 35	TGF-beta
+N0	Reference T2 EntrezGene:7040	TGFB1
+T4	GENE 276 307	transforming growth factor beta
+N2	Reference T4 EntrezGene:7040	TGFB1
+T5	GENE 309 317	TGF-beta
+N3	Reference T5 EntrezGene:7040	TGFB1
+T7	GENE 606 609	TAZ
+N5	Reference T7 EntrezGene:6901	TAZ
+T8	GENE 610 613	YAP
+N6	Reference T8 EntrezGene:10413	YAP1
+T9	GENE 625 633	TGF-beta
+N7	Reference T9 EntrezGene:7040	TGFB1
+T10	GENE 643 648	SMAD2
+T11	GENE 684 688	OCT4
+N9	Reference T11 EntrezGene:5460	POU5F1
+T12	GENE 852 857	FOXH1
+N10	Reference T12 EntrezGene:8928	FOXH1
+T13	GENE 991 996	FOXH1
+N11	Reference T13 EntrezGene:8928	FOXH1
+T15	TISSUE 80 106	human embryonic stem cells
+T16	TISSUE 335 361	human embryonic stem cells
+T17	TISSUE 424 435	mesendoderm
+N14	Reference T17 BTO:0003953	mesendoderm
+T18	TISSUE 437 439	ME
+N15	Reference T18 BTO:0003953	mesendoderm
+N8	Reference T10 EntrezGene:4087	SMAD2
+T1	GENE 649 650	3
+N16	Reference T1 EntrezGene:4088	SMAD3
+T14	TISSUE 1010 1012	ME
+N17	Reference T14 BTO:0003953	mesendoderm
+T19	TISSUE 880 882	ME
+N18	Reference T19 BTO:0003953	
+T20	TISSUE 800 802	ME
+N19	Reference T20 BTO:0003953	
+N4	Reference T16 BTO:0006080	hESC cell
+N1	Reference T15 BTO:0006080	hESC cell

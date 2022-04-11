@@ -1,0 +1,38 @@
+T7	DISEASE 115 121	asthma
+T8	DISEASE 166 172	asthma
+T10	SPECIES 532 537	human
+N4	Reference T10 NCBITaxon:9606	Homo sapiens
+T13	DISEASE 798 804	asthma
+T14	DISEASE 907 913	asthma
+T15	SPECIES 1035 1040	human
+N9	Reference T15 NCBITaxon:9606	Homo sapiens
+T6	TISSUE 37 44	T cells
+T20	TISSUE 79 94	TH2 memory cell
+T21	TISSUE 234 285	memory CD4(+) T cells that produce type 2 cytokines
+T22	TISSUE 287 296	TH2 cells
+N12	Reference T22 BTO:0001679	Th2 cell
+T1	TISSUE 367 374	T cells
+N13	Reference T1 BTO:0000782	T-lymphocyte
+T23	TISSUE 389 405	peripheral blood
+N14	Reference T23 BTO:0000553	peripheral blood
+T11	TISSUE 538 547	TH1 cells
+N5	Reference T11 BTO:0001678	Th1 cell
+T24	TISSUE 552 561	TH2 cells
+N15	Reference T24 BTO:0001679	Th2 cell
+T2	TISSUE 607 614	T cells
+N16	Reference T2 BTO:0000782	T-lymphocyte
+T3	TISSUE 743 751	TH2 cell
+N17	Reference T3 BTO:0001679	Th2 cell
+T25	TISSUE 894 903	TH2 cells
+N18	Reference T25 BTO:0001679	Th2 cell
+T4	TISSUE 1041 1049	TH2 cell
+N19	Reference T4 BTO:0001679	Th2 cell
+T5	SPECIES 31 36	human
+N20	Reference T5 NCBITaxon:9606	Homo sapiens
+N21	Reference T6 BTO:0000782	T-lymphocyte
+N1	Reference T7 MONDO:MONDO:0004979	asthma
+N2	Reference T8 MONDO:MONDO:0004979	asthma
+N3	Reference T13 MONDO:MONDO:0004979	asthma
+N7	Reference T14 MONDO:MONDO:0004979	asthma
+N8	Reference T20 BTO:0001679	Th2 cell
+N10	Reference T21 BTO:0001679	Th2 cell

@@ -1,0 +1,36 @@
+T1	PROMOTER 279 293	c-fos promoter
+T6	PROMOTER 992 1008	minimal promoter
+T7	GENE 58 63	c-fos
+N0	Reference T7 EntrezGene:14281	Fos
+T8	GENE 79 84	c-fos
+N1	Reference T8 EntrezGene:14281	Fos
+T9	GENE 105 108	Fos
+N2	Reference T9 EntrezGene:14281	Fos
+T10	SPECIES 242 247	mouse
+N3	Reference T10 NCBITaxon:10090	Mus musculus
+T13	GENE 407 412	c-fos
+N6	Reference T13 EntrezGene:14281	Fos
+T14	GENE 467 500	brain-derived neurotrophic factor
+N7	Reference T14 EntrezGene:12064	Bdnf
+T15	GENE 502 506	BDNF
+N8	Reference T15 EntrezGene:12064	Bdnf
+T16	GENE 575 580	c-fos
+N9	Reference T16 EntrezGene:14281	Fos
+T17	GENE 728 733	c-fos
+N10	Reference T17 EntrezGene:14281	Fos
+T18	GENE 955 960	c-fos
+N11	Reference T18 EntrezGene:14281	Fos
+T19	GENE 1077 1082	c-fos
+N12	Reference T19 EntrezGene:14281	Fos
+A1	REGION T1 INSUFFICIENT
+T2	TISSUE 907 912	brain
+N4	Reference T2 BTO:0000142	brain
+A3	REGION T6 INSUFFICIENT
+T4	ENHANCER 329 374	multiple enhancers surrounding the c-fos gene
+A2	REGION T4 INSUFFICIENT
+T5	TISSUE 598 605	neurons
+N5	Reference T5 BTO:0000938	neuron
+T3	GENE 364 369	c-fos
+N13	Reference T3 EntrezGene:14281	Fos
+T11	GENE 279 284	c-fos
+N14	Reference T11 EntrezGene:14281	Fos

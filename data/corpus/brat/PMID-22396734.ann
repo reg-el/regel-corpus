@@ -1,0 +1,48 @@
+T2	GENE 45 49	CTCF
+N0	Reference T2 EntrezGene:13018	Ctcf
+T3	SPECIES 102 108	murine
+N1	Reference T3 NCBITaxon:10090	Mus musculus
+T4	GENE 381 386	Map17
+N2	Reference T4 EntrezGene:67182	Pdzk1ip1
+T5	GENE 452 457	Map17
+N3	Reference T5 EntrezGene:67182	Pdzk1ip1
+T6	GENE 515 518	Sil
+N4	Reference T6 EntrezGene:20460	Stil
+T7	GENE 555 558	Cyp
+N5	Reference T7 EntrezGene:228005	Ppig
+T8	GENE 754 759	Map17
+N6	Reference T8 EntrezGene:67182	Pdzk1ip1
+T9	GENE 964 968	CTCF
+N7	Reference T9 EntrezGene:13018	Ctcf
+T10	GENE 1336 1341	Map17
+N8	Reference T10 EntrezGene:67182	Pdzk1ip1
+T11	GENE 1346 1349	Cyp
+N9	Reference T11 EntrezGene:228005	Ppig
+T14	TISSUE 422 442	haematopoietic cells
+N11	Reference T14 BTO:0000574	hematopoietic cell
+T15	TISSUE 575 580	liver
+N12	Reference T15 BTO:0000759	liver
+T16	TISSUE 1032 1052	haematopoietic cells
+N13	Reference T16 BTO:0000574	hematopoietic cell
+T1	PROMOTER 1139 1151	Scl promoter
+A1	REGION T1 INSUFFICIENT
+T17	TISSUE 1155 1160	brain
+N14	Reference T17 BTO:0000142	brain
+T12	GENE 109 112	Scl
+N10	Reference T12 EntrezGene:21349	Tal1
+T13	GENE 141 144	Scl
+N15	Reference T13 EntrezGene:21349	Tal1
+T18	GENE 223 226	Scl
+N16	Reference T18 EntrezGene:21349	Tal1
+T19	GENE 415 418	Scl
+N17	Reference T19 EntrezGene:21349	Tal1
+T20	GENE 448 451	Scl
+N18	Reference T20 EntrezGene:21349	Tal1
+T21	GENE 750 753	Scl
+N19	Reference T21 EntrezGene:21349	Tal1
+T22	GENE 795 798	Scl
+N20	Reference T22 EntrezGene:21349	Tal1
+T23	ENHANCER 932 956	tissue-specific enhancer
+A2	REGION T23 INSUFFICIENT
+T24	GENE 1139 1142	Scl
+N21	Reference T24 EntrezGene:21349	Tal1

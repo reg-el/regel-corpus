@@ -1,0 +1,20 @@
+T0	SPECIES 25 30	human
+N0	Reference T0 NCBITaxon:9606	Homo sapiens
+T1	SPECIES 155 160	human
+N1	Reference T1 NCBITaxon:9606	Homo sapiens
+T2	SPECIES 394 399	human
+N2	Reference T2 NCBITaxon:9606	Homo sapiens
+T3	SPECIES 449 454	human
+N3	Reference T3 NCBITaxon:9606	Homo sapiens
+T4	SPECIES 516 521	human
+N4	Reference T4 NCBITaxon:9606	Homo sapiens
+T5	SPECIES 725 730	human
+N5	Reference T5 NCBITaxon:9606	Homo sapiens
+T6	SPECIES 990 995	human
+N6	Reference T6 NCBITaxon:9606	Homo sapiens
+T7	TISSUE 482 487	LNCaP
+A7	CANCER T7
+N7	Reference T7 BTO:0001321	LNCaP cell
+T8	TISSUE 455 480	prostate cancer cell line
+A8	CANCER T8
+N8	Reference T8 BTO:0001033	prostate cancer cell line

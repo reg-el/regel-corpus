@@ -1,0 +1,57 @@
+T0	ENHANCER 871 884	Dll4 enhancer
+T1	GENE 25 29	Dll4
+T2	GENE 49 54	Foxn4
+T4	GENE 350 354	Dll4
+T5	GENE 640 645	Ascl1
+T6	GENE 766 771	Foxn4
+T8	GENE 886 891	Foxn4
+T9	GENE 896 901	Ascl1
+T10	GENE 911 915	Dll4
+T11	GENE 1019 1023	Dll4
+T12	GENE 1103 1108	Foxn4
+T13	GENE 1206 1210	Dll4
+T14	GENE 1238 1242	Dll4
+T16	GENE 1384 1388	Dll4
+T19	GENE 1751 1756	Foxn4
+T20	GENE 1827 1831	Dll4
+N21	Reference T1 EntrezGene:54485	Dll4
+N1	Reference T2 EntrezGene:116810	Foxn4
+T24	TISSUE 120 136	V2b interneurons
+T25	TISSUE 144 155	spinal cord
+N22	Reference T25 BTO:0001279	spinal cord
+T26	TISSUE 191 202	spinal cord
+T27	TISSUE 208 223	V2 interneurons
+T28	TISSUE 236 250	p2 progenitors
+T29	TISSUE 290 293	V2a
+T30	TISSUE 298 301	V2b
+N3	Reference T4 EntrezGene:54485	Dll4
+T31	TISSUE 396 409	p2 precursors
+N4	Reference T5 EntrezGene:17172	Ascl1
+T33	TISSUE 742 756	p2 progenitors
+N5	Reference T6 EntrezGene:116810	Foxn4
+A1	REGION T0 INSUFFICIENT
+N6	Reference T8 EntrezGene:116810	Foxn4
+N7	Reference T9 EntrezGene:17172	Ascl1
+N8	Reference T10 EntrezGene:54485	Dll4
+N9	Reference T11 EntrezGene:54485	Dll4
+T7	TISSUE 1038 1051	V2 precursors
+N10	Reference T12 EntrezGene:116810	Foxn4
+N11	Reference T13 EntrezGene:54485	Dll4
+T35	TISSUE 1214 1228	V2a precursors
+N12	Reference T14 EntrezGene:54485	Dll4
+T36	TISSUE 1281 1295	V2b precursors
+T15	TISSUE 1360 1374	V2b precursors
+N13	Reference T16 EntrezGene:54485	Dll4
+T17	TISSUE 1666 1669	V2b
+N14	Reference T19 EntrezGene:116810	Foxn4
+N15	Reference T20 EntrezGene:54485	Dll4
+T37	TISSUE 1921 1923	V2
+N18	Reference T24 BTO:0003811	interneuron
+N19	Reference T26 BTO:0001279	spinal cord
+N20	Reference T27 BTO:0003811	interneuron
+N23	Reference T29 BTO:0003811	interneuron
+N24	Reference T30 BTO:0003811	interneuron
+N16	Reference T17 BTO:0003811	interneuron
+N25	Reference T37 BTO:0003811	interneuron
+T3	GENE 871 875	Dll4
+N2	Reference T3 EntrezGene:54485	Dll4

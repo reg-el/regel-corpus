@@ -1,0 +1,64 @@
+T0	ENHANCER 8 31	HER2 gene body enhancer
+T1	PROMOTER 663 683	HER2 promoter region
+T2	ENHANCER 731 764	enhancer in the HER2 3' gene body
+T3	ENHANCER 787 810	HER2 gene body enhancer
+T10	GENE 47 51	HER2
+N1	Reference T10 EntrezGene:2064	RBB2
+T11	SPECIES 102 107	human
+N2	Reference T11 NCBITaxon:9606	Homo sapiens
+T12	GENE 108 142	epidermal growth factor receptor-2
+N3	Reference T12 EntrezGene:2064	RBB2
+T13	GENE 144 148	HER2
+N4	Reference T13 EntrezGene:2064	RBB2
+T14	GENE 177 181	HER2
+N5	Reference T14 EntrezGene:2064	RBB2
+T16	DISEASE 196 224	HER2-positive breast cancers
+T17	GENE 230 234	HER2
+N8	Reference T17 EntrezGene:2064	RBB2
+T19	DISEASE 270 298	HER2-negative breast cancers
+T20	GENE 530 534	HER2
+N11	Reference T20 EntrezGene:2064	RBB2
+T24	GENE 1003 1017	HER2 promoters
+N15	Reference T24 EntrezGene:2064	RBB2
+T25	GENE 1038 1044	TFAP2C
+N16	Reference T25 EntrezGene:7022	TFAP2C
+T26	GENE 1067 1071	HER2
+N17	Reference T26 EntrezGene:2064	RBB2
+T27	GENE 1263 1267	HER2
+N18	Reference T27 EntrezGene:2064	RBB2
+T28	DISEASE 1282 1295	breast cancer
+T29	GENE 1402 1406	HER2
+N20	Reference T29 EntrezGene:2064	RBB2
+T30	DISEASE 1430 1457	HER2-positive breast cancer
+T31	DISEASE 1499 1527	HER2-negative breast cancers
+A33	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+T15	ENHANCER 812 815	HGE
+A9	REGION T15 INSUFFICIENT
+T4	ENHANCER 1082 1085	HGE
+A4	REGION T4 INSUFFICIENT
+T5	ENHANCER 1160 1170	HGE region
+A5	REGION T5 INSUFFICIENT
+T6	ENHANCER 822 888	HGE starts from the 3' end of intron 19 and extends into intron 22
+A8	REGION T6 INSUFFICIENT
+T7	ENHANCER 1338 1346	enhancer
+A6	REGION T7 INSUFFICIENT
+N7	Reference T16 MONDO:MONDO:0006244	HER2 positive breast carcinoma
+N9	Reference T19 MONDO:MONDO:0000618	Her2-receptor negative breast cancer
+N10	Reference T28 MONDO:MONDO:0007254	breast cancer
+N12	Reference T30 MONDO:MONDO:0006244	HER2 positive breast carcinoma
+N13	Reference T31 MONDO:MONDO:0000618	Her2-receptor negative breast cancer
+T8	DISEASE 1487 1495	HER2-low
+N14	Reference T8 MONDO:MONDO:0000618	Her2-receptor negative breast cancer
+T9	DISEASE 258 266	HER2-low
+N6	Reference T9 MONDO:MONDO:0000618	Her2-receptor negative breast cancer
+T18	GENE 8 12	HER2
+N19	Reference T18 EntrezGene:2064	ERBB2
+T21	GENE 747 751	HER2
+N21	Reference T21 EntrezGene:2064	ERBB2
+T22	GENE 787 791	HER2
+N22	Reference T22 EntrezGene:2064	ERBB2
+T23	GENE 663 667	HER2
+N23	Reference T23 EntrezGene:2064	ERBB2

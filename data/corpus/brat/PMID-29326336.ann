@@ -1,0 +1,78 @@
+T0	ENHANCER 717 774	enhancer located 135 kb upstream of the ARID5B gene locus
+T1	GENE 0 6	ARID5B
+N0	Reference T1 EntrezGene:84159	ARID5B
+T2	GENE 46 50	TAL1
+N1	Reference T2 EntrezGene:6886	TAL1
+T4	GENE 183 191	TAL1/SCL
+N2	Reference T4 EntrezGene:6886	TAL1
+T7	GENE 351 355	TAL1
+N5	Reference T7 EntrezGene:6886	TAL1
+T8	DISEASE 374 379	T-ALL
+T9	GENE 465 471	ARID5B
+N7	Reference T9 EntrezGene:84159	ARID5B
+T11	GENE 559 565	ARID5B
+N9	Reference T11 EntrezGene:84159	ARID5B
+T12	GENE 678 682	TAL1
+N10	Reference T12 EntrezGene:6886	TAL1
+T16	GENE 861 867	ARID5B
+N14	Reference T16 EntrezGene:84159	ARID5B
+T17	GENE 938 944	ARID5B
+N15	Reference T17 EntrezGene:84159	ARID5B
+T18	GENE 949 953	TAL1
+N16	Reference T18 EntrezGene:6886	TAL1
+T19	GENE 1031 1037	ARID5B
+N17	Reference T19 EntrezGene:84159	ARID5B
+T20	GENE 1077 1081	TAL1
+N18	Reference T20 EntrezGene:6886	TAL1
+T21	GENE 1111 1117	ARID5B
+N19	Reference T21 EntrezGene:572528	None
+T22	GENE 1181 1187	ARID5B
+T24	GENE 1269 1275	ARID5B
+T25	DISEASE 1373 1378	tumor
+T26	SPECIES 1392 1401	zebrafish
+N23	Reference T26 NCBITaxon:7955	Danio rerio
+T27	GENE 1429 1435	ARID5B
+N24	Reference T27 EntrezGene:84159	ARID5B
+T28	GENE 1514 1518	TAL1
+N25	Reference T28 EntrezGene:6886	TAL1
+T29	DISEASE 1557 1562	T-ALL
+T32	TISSUE 239 288	T-cell acute lymphoblastic leukemia (T-ALL) cells
+N27	Reference T32 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+T5	TISSUE 639 649	thymocytes
+N3	Reference T5 BTO:0001372	thymocyte
+T6	TISSUE 700 711	T-ALL cells
+N4	Reference T6 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+T33	TISSUE 813 824	T-ALL cells
+N28	Reference T33 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+T15	TISSUE 843 850	T cells
+T23	TISSUE 1231 1242	T-ALL cells
+N21	Reference T23 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+T34	TISSUE 1288 1298	thymocytes
+N29	Reference T34 BTO:0001372	thymocyte
+T35	TISSUE 1310 1316	thymus
+N30	Reference T35 BTO:0001374	thymus
+T10	DISEASE 552 557	T-ALL
+A1	REGION T0 INSUFFICIENT
+T13	ENHANCER 796 809	superenhancer
+A2	REGION T13 INSUFFICIENT
+T14	GENE 434 463	AT-rich interactive domain 5B
+N11	Reference T14 EntrezGene:84159	ARID5B
+T31	SPECIES 694 699	human
+N26	Reference T31 NCBITaxon:9606	Homo sapiens
+N20	Reference T22 EntrezGene:84159	ARID5B
+N22	Reference T24 EntrezGene:84159	ARID5B
+T36	GENE 1164 1167	MYC
+N31	Reference T36 EntrezGene:4609	MYC
+T37	GENE 1550 1553	MYC
+N32	Reference T37 EntrezGene:4609	MYC
+T3	TISSUE 125 131	T-cell
+N33	Reference T3 BTO:0000782	T-lymphocyte
+T30	TISSUE 1588 1594	T-cell
+N34	Reference T30 BTO:0000782	T-lymphocyte
+N6	Reference T8 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N8	Reference T10 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N13	Reference T15 BTO:0000782	T-lymphocyte
+N12	Reference T29 MONDO:MONDO:0004963	
+T38	GENE 757 763	ARID5B
+N35	Reference T38 EntrezGene:84159	ARID5B
+N36	Reference T25 MONDO:MONDO:0005070	

@@ -1,0 +1,72 @@
+T0	ENHANCER 26 104	cell type-specific intronic enhancer of macrophage migration inhibitory factor
+T6	PROMOTER 1571 1583	MIF promoter
+T7	ENHANCER 1617 1651	cell type-specific enhancer of MIF
+T8	ENHANCER 1657 1665	enhancer
+T10	GENE 106 109	MIF
+N1	Reference T10 EntrezGene:4282	MIF
+T11	GENE 211 249	macrophage migration inhibitory factor
+N2	Reference T11 EntrezGene:4282	MIF
+T12	GENE 251 254	MIF
+N3	Reference T12 EntrezGene:4282	MIF
+T13	GENE 350 353	MIF
+N4	Reference T13 EntrezGene:4282	MIF
+T14	SPECIES 415 420	human
+N5	Reference T14 NCBITaxon:9606	Homo sapiens
+T19	TISSUE 927 932	THP-1
+T21	GENE 1371 1374	Sp3
+N12	Reference T21 EntrezGene:6670	SP3
+T22	GENE 1476 1479	MIF
+N13	Reference T22 EntrezGene:4282	MIF
+A25	REGION T0 INSUFFICIENT
+T26	TISSUE 830 850	human T lymphoblasts
+T16	TISSUE 852 858	CEMC7A
+T17	TISSUE 861 889	human embryonic kidney cells
+T27	TISSUE 891 898	HEK293T
+T18	TISSUE 904 925	human monocytic cells
+N9	Reference T18 BTO:0001370	THP-1 cell
+N10	Reference T19 BTO:0001370	THP-1 cell
+T28	TISSUE 948 991	fibroblast-like synoviocyte (FLS) cell line
+N16	Reference T28 BTO:0006386	SW-982 cell
+T29	TISSUE 993 998	SW982
+N17	Reference T29 BTO:0006386	SW-982 cell
+T30	TISSUE 1003 1063	cultured FLS derived from rheumatoid arthritis (RA) patients
+T2	TFBS 1178 1198	consensus Sp1 GC box
+A2	REGION T2 INSUFFICIENT
+T3	GENE 1266 1269	Sp1
+N11	Reference T3 EntrezGene:6667	SP1
+T20	ENHANCER 1281 1328	one of the cis-elements contained in the intron
+A3	REGION T20 INSUFFICIENT
+T31	GENE 1350 1353	Sp1
+N18	Reference T31 EntrezGene:6667	SP1
+T32	GENE 1363 1366	Sp1
+N19	Reference T32 EntrezGene:6667	SP1
+T4	TISSUE 1483 1489	CEMC7A
+T33	ENHANCER 1529 1546	intronic enhancer
+A4	REGION T33 INSUFFICIENT
+A5	REGION T6 INSUFFICIENT
+A6	REGION T7 INSUFFICIENT
+A7	REGION T8 INSUFFICIENT
+T5	GENE 1690 1693	Sp1
+N14	Reference T5 EntrezGene:6667	SP1
+T9	ENHANCER 745 782	HS centred on the first intron of MIF
+A8	REGION T9 INSUFFICIENT
+T15	ENHANCER 803 805	HS
+A10	REGION T15 INSUFFICIENT
+T1	ENHANCER 1065 1105	Two cis-elements within the first intron
+A1	REGION T1 INSUFFICIENT
+T23	ENHANCER 1207 1218	cis-element
+A9	REGION T23 INSUFFICIENT
+N6	Reference T17 BTO:0002181	HEK-293T cell
+N7	Reference T27 BTO:0002181	HEK-293T cell
+T24	GENE 1648 1651	MIF
+N8	Reference T24 EntrezGene:4282	MIF
+T25	TFBS 713 722	GC boxes,
+A11	REGION T25 INSUFFICIENT
+T34	GENE 66 104	macrophage migration inhibitory factor
+N15	Reference T34 EntrezGene:4282	MIF
+T35	GENE 779 782	MIF
+N20	Reference T35 EntrezGene:4282	MIF
+T36	GENE 1571 1574	MIF
+N21	Reference T36 EntrezGene:4282	MIF
+T37	GENE 1188 1191	Sp1
+N22	Reference T37 EntrezGene:6667	SP1

@@ -1,0 +1,106 @@
+T0	ENHANCER 8 23	Distal Enhancer
+T2	ENHANCER 890 909	enhancers for Fgf23
+T3	ENHANCER 1018 1026	enhancer
+T4	ENHANCER 1309 1323	-16kb enhancer
+T5	ENHANCER 1576 1590	-16kb enhancer
+T6	ENHANCER 1665 1679	Fgf23 enhancer
+T7	ENHANCER 1914 1928	-16kb enhancer
+T8	ENHANCER 2089 2103	Fgf23 enhancer
+T9	SPECIES 70 76	Murine
+N0	Reference T9 NCBITaxon:10090	Mus musculus
+T10	DISEASE 77 91	Kidney Disease
+T11	SPECIES 118 123	Mouse
+N2	Reference T11 NCBITaxon:10090	Mus musculus
+T12	GENE 124 129	Fgf23
+N3	Reference T12 EntrezGene:64654	Fgf23
+T13	GENE 136 163	Fibroblast growth factor 23
+N4	Reference T13 EntrezGene:64654	Fgf23
+T14	GENE 165 170	FGF23
+N5	Reference T14 EntrezGene:64654	Fgf23
+T15	GENE 275 280	FGF23
+N6	Reference T15 EntrezGene:64654	Fgf23
+T16	GENE 340 359	parathyroid hormone
+N7	Reference T16 EntrezGene:19226	Pth
+T17	DISEASE 403 425	chronic kidney disease
+T18	DISEASE 427 430	CKD
+T19	GENE 480 485	Fgf23
+N10	Reference T19 EntrezGene:64654	Fgf23
+T20	GENE 724 729	Fgf23
+N11	Reference T20 EntrezGene:64654	Fgf23
+T22	SPECIES 1036 1041	mouse
+N13	Reference T22 NCBITaxon:10090	Mus musculus
+T23	GENE 1130 1135	Fgf23
+N14	Reference T23 EntrezGene:64654	Fgf23
+T24	GENE 1332 1337	FGF23
+N15	Reference T24 EntrezGene:64654	Fgf23
+T25	GENE 1440 1458	interleukin-1-beta
+N16	Reference T25 EntrezGene:16176	Il1b
+T26	GENE 1460 1468	IL-1beta
+N17	Reference T26 EntrezGene:16176	Il1b
+T27	GENE 1475 1502	tumor necrosis factor-alpha
+N18	Reference T27 EntrezGene:21926	Tnf
+T29	GENE 1504 1512	TNFalpha
+N19	Reference T29 EntrezGene:21926	Tnf
+T30	GENE 1623 1628	Fgf23
+N20	Reference T30 EntrezGene:64654	Fgf23
+T32	SPECIES 1707 1713	murine
+N22	Reference T32 NCBITaxon:10090	Mus musculus
+T33	DISEASE 1714 1717	CKD
+T34	GENE 1790 1795	Fgf23
+N24	Reference T34 EntrezGene:64654	Fgf23
+T35	GENE 1873 1878	FGF23
+N25	Reference T35 EntrezGene:64654	Fgf23
+T36	GENE 1955 1960	Fgf23
+N26	Reference T36 EntrezGene:64654	Fgf23
+T37	GENE 2017 2022	FGF23
+N27	Reference T37 EntrezGene:64654	Fgf23
+T38	SPECIES 2039 2045	murine
+N28	Reference T38 NCBITaxon:10090	Mus musculus
+T39	DISEASE 2055 2058	CKD
+T41	SPECIES 2112 2116	mice
+N31	Reference T41 NCBITaxon:10090	Mus musculus
+T42	GENE 2175 2180	FGF23
+N32	Reference T42 EntrezGene:64654	Fgf23
+T43	DISEASE 2195 2216	inflammatory diseases
+A44	REGION T0 INSUFFICIENT
+T45	GENE 361 364	PTH
+N34	Reference T45 EntrezGene:19226	Pth
+T46	TISSUE 656 675	osteocyte cell line
+N35	Reference T46 BTO:0005488	osteocyte cell line
+A2	REGION T2 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+T47	TISSUE 1091 1095	bone
+N36	Reference T47 BTO:0000140	bone
+T48	TISSUE 1097 1103	thymus
+N37	Reference T48 BTO:0001374	thymus
+T49	TISSUE 1109 1115	spleen
+N38	Reference T49 BTO:0001281	spleen
+T50	TISSUE 1238 1242	bone
+N39	Reference T50 BTO:0000140	bone
+A4	REGION T4 INSUFFICIENT
+T28	TISSUE 1517 1521	bone
+N40	Reference T28 BTO:0000140	bone
+A5	REGION T5 INSUFFICIENT
+T53	TISSUE 1606 1622	PTH-induced bone
+N42	Reference T53 BTO:0000140	bone
+A6	REGION T6 INSUFFICIENT
+A7	REGION T7 INSUFFICIENT
+T59	GENE 1981 1984	PTH
+N46	Reference T59 EntrezGene:19226	Pth
+A8	REGION T8 INSUFFICIENT
+T1	ENHANCER 911 990	one of which was located 16kb upstream of the gene's transcriptional start site
+A9	REGION T1 INSUFFICIENT
+N1	Reference T10 MONDO:MONDO:0005240	kidney disease
+N8	Reference T17 MONDO:MONDO:0005300	chronic kidney disease
+N9	Reference T18 MONDO:MONDO:0005300	chronic kidney disease
+N12	Reference T33 MONDO:MONDO:0005300	chronic kidney disease
+N21	Reference T39 MONDO:MONDO:0005300	chronic kidney disease
+N23	Reference T43 MONDO:MONDO:0021166	inflammatory disease
+T21	GENE 48 51	PTH
+N29	Reference T21 EntrezGene:19226	Pth
+T31	GENE 904 909	Fgf23
+N30	Reference T31 EntrezGene:64654	Fgf23
+T40	GENE 1665 1670	Fgf23
+N33	Reference T40 EntrezGene:64654	Fgf23
+T44	GENE 2089 2094	Fgf23
+N41	Reference T44 EntrezGene:64654	Fgf23

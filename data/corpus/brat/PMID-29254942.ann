@@ -1,0 +1,14 @@
+T10	SPECIES 492 497	mouse
+N0	Reference T10 NCBITaxon:10090	Mus musculus
+T13	TISSUE 762 767	liver
+N1	Reference T13 BTO:0000759	liver
+T14	TISSUE 794 800	kidney
+N2	Reference T14 BTO:0000671	kidney
+T15	TISSUE 942 947	liver
+N3	Reference T15 BTO:0000759	liver
+T16	TISSUE 952 958	kidney
+N4	Reference T16 BTO:0000671	kidney
+T17	TISSUE 970 975	liver
+N5	Reference T17 BTO:0000759	liver
+T1	TISSUE 1063 1068	liver
+N6	Reference T1 BTO:0000759	liver

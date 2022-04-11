@@ -1,0 +1,75 @@
+T0	ENHANCER 8 45	SOX9 genital tubercle enhancer region
+T3	ENHANCER 1084 1114	Sox9 genital tubercle enhancer
+T4	ENHANCER 1321 1351	Sox9 genital tubercle enhancer
+T5	ENHANCER 1587 1606	regulatory enhancer
+T7	DISEASE 49 60	hypospadias
+T8	SPECIES 62 67	Human
+N2	Reference T8 NCBITaxon:9606	Homo sapiens
+T9	GENE 85 89	SOX9
+N3	Reference T9 EntrezGene:6662	SOX9
+T10	DISEASE 167 195	disorders of sex development
+T11	DISEASE 197 201	DSDs
+T12	DISEASE 265 268	DSD
+T14	DISEASE 399 409	46,XY DSDs
+T16	SPECIES 641 645	mice
+T18	SPECIES 746 750	mice
+T19	GENE 877 881	Sox9
+N13	Reference T19 EntrezGene:20682	Sox9
+T20	GENE 894 898	SOX9
+N14	Reference T20 EntrezGene:6662	SOX9
+T22	DISEASE 1158 1169	hypospadias
+T23	DISEASE 1198 1201	DSD
+T24	GENE 1262 1266	SOX9
+N18	Reference T24 EntrezGene:6662	SOX9
+T26	GENE 1386 1390	Sox9
+N20	Reference T26 EntrezGene:20682	Sox9
+T27	SPECIES 1445 1449	mice
+N21	Reference T27 NCBITaxon:10090	Mus musculus
+T29	GENE 1615 1619	Sox9
+N22	Reference T29 EntrezGene:6662	SOX9
+A6	REGION T0 INSUFFICIENT
+T2	TISSUE 783 799	genital tubercle
+T15	TISSUE 805 841	primordium of the penis and clitoris
+T17	TISSUE 927 943	genital tubercle
+T32	TISSUE 960 985	urethral plate epithelium
+T33	TISSUE 987 1003	preputial glands
+N28	Reference T33 BTO:0001111	preputial gland
+T34	TISSUE 1005 1029	ventral surface ectoderm
+T35	TISSUE 1034 1050	corpus cavernosa
+N29	Reference T35 BTO:0005454	corpus cavernosum
+A1	REGION T3 INSUFFICIENT
+A2	REGION T4 INSUFFICIENT
+T21	TISSUE 1398 1414	genital tubercle
+A3	REGION T5 INSUFFICIENT
+T6	ENHANCER 452 468	gonadal enhancer
+A4	REGION T6 INSUFFICIENT
+T13	GENE 350 354	SOX9
+N7	Reference T13 EntrezGene:6662	SOX9
+T1	ENHANCER 695 714	testicular enhancer
+A5	REGION T1 INSUFFICIENT
+N1	Reference T7 MONDO:MONDO:0005345	hypospadias
+N4	Reference T10 MONDO:MONDO:0002145	sex differentiation disease
+N5	Reference T11 MONDO:MONDO:0002145	sex differentiation disease
+N6	Reference T12 MONDO:MONDO:0002145	sex differentiation disease
+T25	DISEASE 378 383	46,XX
+N9	Reference T25 MONDO:MONDO:0017576	46,XX disorder of sex development
+N8	Reference T14 MONDO:MONDO:0020040	46,XY disorder of sex development
+N17	Reference T23 MONDO:MONDO:0002145	sex differentiation disease
+N16	Reference T22 MONDO:MONDO:0005345	hypospadias
+N19	Reference T15 BTO:0002433	genital primordium
+N11	Reference T32 BTO:0003906	uroepithelium
+N15	Reference T34 BTO:0000315	ectoderm
+N12	Reference T18 NCBITaxon:10090	Mus musculus
+N10	Reference T16 NCBITaxon:10090	Mus musculus
+T28	GENE 1421 1424	Shh
+N23	Reference T28 EntrezGene:20423	Shh
+T30	TISSUE 620 626	gonads
+N24	Reference T30 BTO:0000534	gonad
+T31	GENE 8 12	SOX9
+N25	Reference T31 EntrezGene:6662	SOX9
+T36	GENE 1084 1088	Sox9
+N26	Reference T36 EntrezGene:20682	Sox9
+T37	GENE 1321 1325	Sox9
+N27	Reference T37 EntrezGene:20682	Sox9
+T38	TISSUE 1326 1342	genital tubercle
+T39	TISSUE 1089 1105	genital tubercle

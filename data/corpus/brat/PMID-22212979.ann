@@ -1,0 +1,70 @@
+T2	ENHANCER 1046 1078	PSA and TMPRSS2 enhancer regions
+T3	GENE 0 17	Androgen receptor
+N0	Reference T3 EntrezGene:367	AR
+T4	DISEASE 123 160	Castration-resistant prostate cancers
+T5	DISEASE 162 167	CRPCs
+T6	GENE 187 204	androgen receptor
+N2	Reference T6 EntrezGene:367	AR
+T7	GENE 206 208	AR
+N3	Reference T7 EntrezGene:367	AR
+T8	GENE 247 249	AR
+N4	Reference T8 EntrezGene:367	AR
+T9	GENE 284 286	AR
+N5	Reference T9 EntrezGene:367	AR
+T10	GENE 416 419	K14
+N6	Reference T10 EntrezGene:3861	KRT14
+T13	GENE 597 599	AR
+N9	Reference T13 EntrezGene:367	AR
+T18	GENE 938 941	PSA
+N14	Reference T18 EntrezGene:354	KLK3
+T19	GENE 946 953	TMPRSS2
+N15	Reference T19 EntrezGene:7113	TMPRSS2
+T20	GENE 1008 1010	AR
+N16	Reference T20 EntrezGene:367	AR
+T23	GENE 1113 1115	AR
+N19	Reference T23 EntrezGene:367	AR
+T24	GENE 1182 1184	AR
+N20	Reference T24 EntrezGene:367	AR
+T25	GENE 1217 1219	AR
+N21	Reference T25 EntrezGene:367	AR
+T26	GENE 1324 1326	AR
+N22	Reference T26 EntrezGene:367	AR
+T27	GENE 1383 1386	PSA
+N23	Reference T27 EntrezGene:354	KLK3
+T28	GENE 1391 1398	TMPRSS2
+N24	Reference T28 EntrezGene:7113	TMPRSS2
+T29	GENE 1423 1425	AR
+N25	Reference T29 EntrezGene:367	AR
+T30	GENE 1501 1503	AR
+N26	Reference T30 EntrezGene:367	AR
+T31	GENE 1538 1540	AR
+N27	Reference T31 EntrezGene:367	AR
+T32	GENE 1753 1755	AR
+N28	Reference T32 EntrezGene:367	AR
+A4	CANCER T5
+A3	CANCER T4
+A2	REGION T2 INSUFFICIENT
+T12	GENE 823 826	PSA
+N8	Reference T12 EntrezGene:354	KLK3
+T14	GENE 832 864	transmembrane protease, serine 2
+N10	Reference T14 EntrezGene:7113	TMPRSS2
+T15	GENE 866 873	TMPRSS2
+N11	Reference T15 EntrezGene:7113	TMPRSS2
+T11	TISSUE 567 577	LNCaP-ARhi
+N12	Reference T11 BTO:0001321	LNCaP cell
+T16	TISSUE 552 562	LNCaP-ARmo
+N13	Reference T16 BTO:0001321	LNCaP cell
+T17	TISSUE 459 498	LNCaP-based AR overexpression cell line
+N17	Reference T17 BTO:0001321	LNCaP cell
+T1	PROMOTER 769 778	promoters
+A1	REGION T1 INSUFFICIENT
+T21	ENHANCER 783 821	enhancers of prostate specific antigen
+A5	REGION T21 INSUFFICIENT
+N1	Reference T4 MONDO:MONDO:0008315	prostate cancer
+N7	Reference T5 MONDO:MONDO:0008315	prostate cancer
+T22	GENE 796 821	prostate specific antigen
+N18	Reference T22 EntrezGene:354	KLK3
+T33	GENE 1046 1049	PSA
+N29	Reference T33 EntrezGene:354	KLK3
+T34	GENE 1054 1061	TMPRSS2
+N30	Reference T34 EntrezGene:7113	TMPRSS2

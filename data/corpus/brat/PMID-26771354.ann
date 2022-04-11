@@ -1,0 +1,53 @@
+T2	TISSUE 315 319	PSCs
+T4	GENE 373 378	BMP-4
+N2	Reference T4 EntrezGene:12159	Bmp4
+T6	GENE 432 437	SMAD1
+N4	Reference T6 EntrezGene:17125	Smad1
+T7	GENE 442 447	SMAD5
+N5	Reference T7 EntrezGene:17129	Smad5
+T8	GENE 519 523	KLF4
+N6	Reference T8 EntrezGene:16600	Klf4
+T9	GENE 528 532	KLF5
+N7	Reference T9 EntrezGene:12224	Klf5
+T10	GENE 549 553	KLF4
+N8	Reference T10 EntrezGene:16600	Klf4
+T11	GENE 580 585	SMAD1
+N9	Reference T11 EntrezGene:17125	Smad1
+T15	GENE 883 887	MEK5
+N13	Reference T15 EntrezGene:23938	Map2k5
+T16	GENE 888 892	ERK5
+N14	Reference T16 EntrezGene:23939	Mapk7
+T17	GENE 910 915	BMP-4
+N15	Reference T17 EntrezGene:12159	Bmp4
+T18	GENE 958 962	Klf2
+N16	Reference T18 EntrezGene:16598	Klf2
+T20	TISSUE 179 201	pluripotent stem cells
+N17	Reference T20 BTO:0006078	pluripotent stem cell
+T21	TISSUE 203 207	PSCs
+N18	Reference T21 BTO:0006078	pluripotent stem cell
+T22	TISSUE 244 264	embryonic stem cells
+N19	Reference T22 BTO:0001086	embryonic stem cell
+T23	TISSUE 266 270	ESCs
+N20	Reference T23 BTO:0001086	embryonic stem cell
+N21	Reference T2 BTO:0006078	pluripotent stem cell
+T1	TISSUE 337 341	ESCs
+N22	Reference T1 BTO:0001086	embryonic stem cell
+T3	TISSUE 385 395	mouse ESCs
+N1	Reference T3 BTO:0001086	embryonic stem cell
+T5	TISSUE 397 402	mESCs
+N3	Reference T5 BTO:0001086	embryonic stem cell
+T24	TISSUE 542 547	mESCs
+N23	Reference T24 BTO:0001086	embryonic stem cell
+T12	TISSUE 775 780	mESCs
+N10	Reference T12 BTO:0001086	embryonic stem cell
+T13	GENE 751 756	Smad1
+T14	TISSUE 940 945	mESCs
+N12	Reference T14 BTO:0001086	embryonic stem cell
+T19	SPECIES 238 243	mouse
+N24	Reference T19 NCBITaxon:10090	Mus musculus
+T25	SPECIES 331 336	human
+N25	Reference T25 NCBITaxon:9606	Homo sapiens
+N11	Reference T13 EntrezGene:17125	Smad1
+T26	GENE 757 758	5
+N26	Reference T26 EntrezGene:17129	Smad5
+T27	TISSUE 23 32	Stem Cell

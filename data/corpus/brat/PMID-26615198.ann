@@ -1,0 +1,40 @@
+T0	PROMOTER 1108 1121	CFTR promoter
+T3	GENE 82 86	CFTR
+N1	Reference T3 EntrezGene:1080	CFTR
+T5	DISEASE 413 428	genetic disease
+T6	GENE 517 568	cystic fibrosis transmembrane conductance regulator
+N4	Reference T6 EntrezGene:1080	CFTR
+T8	GENE 570 574	CFTR
+N6	Reference T8 EntrezGene:1080	CFTR
+T9	GENE 599 603	CFTR
+N7	Reference T9 EntrezGene:1080	CFTR
+T10	DISEASE 623 638	cystic fibrosis
+T11	DISEASE 672 688	genetic disorder
+T12	GENE 715 719	CFTR
+N10	Reference T12 EntrezGene:1080	CFTR
+T13	GENE 866 870	CFTR
+N11	Reference T13 EntrezGene:1080	CFTR
+T14	GENE 990 994	CFTR
+N12	Reference T14 EntrezGene:1080	CFTR
+T17	GENE 1301 1305	CFTR
+N15	Reference T17 EntrezGene:1080	CFTR
+T18	GENE 1447 1451	CTCF
+N16	Reference T18 EntrezGene:10664	CTCF
+T2	TISSUE 1040 1053	primary cells
+N2	Reference T2 BTO:0001413	primary cell
+A2	REGION T0 INSUFFICIENT
+T1	ENHANCER 1343 1395	enhancer elements located on either side of the gene
+A1	REGION T1 INSUFFICIENT
+T4	SPECIES 407 412	human
+N3	Reference T4 NCBITaxon:9606	Homo sapiens
+N5	Reference T5 MONDO:MONDO:0003847	Mendelian disease
+N9	Reference T11 MONDO:MONDO:0003847	Mendelian disease
+T7	SPECIES 692 701	Caucasian
+N13	Reference T7 NCBITaxon:9606	Homo sapiens
+T15	SPECIES 1034 1039	human
+N14	Reference T15 NCBITaxon:9606	Homo sapiens
+N8	Reference T10 MONDO:MONDO:0009061	cystic fibrosis
+T16	TISSUE 39 58	primary human cells
+N17	Reference T16 BTO:0001413	primary cell
+T19	GENE 1108 1112	CFTR
+N18	Reference T19 EntrezGene:1080	CFTR

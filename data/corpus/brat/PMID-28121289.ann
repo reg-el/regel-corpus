@@ -1,0 +1,19 @@
+T7	GENE 91 96	Ep300
+N0	Reference T7 EntrezGene:328572	p300
+T8	SPECIES 398 402	mice
+N1	Reference T8 NCBITaxon:10090	Mus musculus
+T9	GENE 487 492	Ep300
+N2	Reference T9 EntrezGene:328572	p300
+T10	GENE 533 538	Ep300
+N3	Reference T10 EntrezGene:328572	p300
+T1	TISSUE 787 814	embryonic endothelial cells
+T2	TISSUE 815 820	blood
+N4	Reference T2 BTO:0000089	blood
+T3	TISSUE 824 839	skeletal muscle
+N5	Reference T3 BTO:0001103	skeletal muscle
+T4	TISSUE 1070 1086	endothelial cell
+N6	Reference T4 BTO:0001176	endothelial cell
+T5	TISSUE 1045 1050	heart
+N7	Reference T5 BTO:0000562	heart
+T6	TISSUE 1055 1059	lung
+N8	Reference T6 BTO:0000763	lung

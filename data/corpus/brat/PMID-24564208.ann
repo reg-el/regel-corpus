@@ -1,0 +1,42 @@
+T1	GENE 78 86	TNFalpha
+N0	Reference T1 EntrezGene:7124	TNF
+T3	GENE 584 611	tumor necrosis factor alpha
+N2	Reference T3 EntrezGene:7124	TNF
+T5	GENE 613 621	TNFalpha
+N3	Reference T5 EntrezGene:7124	TNF
+T6	GENE 1318 1326	TNFalpha
+N4	Reference T6 EntrezGene:7124	TNF
+T7	GENE 1651 1659	TNFalpha
+N5	Reference T7 EntrezGene:7124	TNF
+T8	GENE 1695 1703	TNFalpha
+N6	Reference T8 EntrezGene:7124	TNF
+T9	SPECIES 2066 2071	human
+N7	Reference T9 NCBITaxon:9606	Homo sapiens
+T11	TISSUE 30 48	AC16 cardiomyocyte
+T12	SPECIES 196 203	mammals
+N8	Reference T12 NCBITaxon:40674	Mammalia
+T2	TISSUE 513 548	ventricular cardiomyocyte cell line
+T13	TISSUE 550 554	AC16
+T4	TISSUE 996 1006	AC16 cells
+T15	TISSUE 1236 1246	AC16 cells
+T17	TISSUE 1727 1731	AC16
+T18	TISSUE 2279 2292	cardiomyocyte
+T19	TISSUE 2401 2414	cardiomyocyte
+T10	TFBS 1181 1204	NF-kappaB binding sites
+A1	REGION T10 INSUFFICIENT
+T14	GENE 655 664	NF-kappaB
+T20	GENE 1345 1354	NF-kappaB
+N1	Reference T14 EntrezGene:4790	NFKB1
+N9	Reference T20 EntrezGene:4790	NFKB1
+N10	Reference T18 BTO:0003324	cardiomyocyte cell line
+N11	Reference T19 BTO:0003324	cardiomyocyte cell line
+N12	Reference T11 BTO:0003324	cardiomyocyte cell line
+T21	SPECIES 507 512	human
+N13	Reference T21 NCBITaxon:9606	Homo sapiens
+N14	Reference T2 BTO:0003324	cardiomyocyte cell line
+N15	Reference T13 BTO:0003324	cardiomyocyte cell line
+N16	Reference T4 BTO:0003324	cardiomyocyte cell line
+N17	Reference T15 BTO:0003324	cardiomyocyte cell line
+N18	Reference T17 BTO:0003324	cardiomyocyte cell line
+T16	GENE 1181 1190	NF-kappaB
+N19	Reference T16 EntrezGene:4790	NFKB1

@@ -1,0 +1,6 @@
+T11	GENE 17 21	Tet2
+T12	GENE 821 825	Tet2
+N2	Reference T11 EntrezGene:214133	Tet2
+N1	Reference T12 EntrezGene:214133	Tet2
+T13	SPECIES 119 126	mammals
+N3	Reference T13 NCBITaxon:40674	Mammalia

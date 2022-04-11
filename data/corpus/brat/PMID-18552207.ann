@@ -1,0 +1,57 @@
+T0	ENHANCER 791 824	B cell-specific upstream enhancer
+T1	ENHANCER 1096 1113	upstream enhancer
+T2	PROMOTER 1253 1266	Cd19 promoter
+T3	SPECIES 92 97	mouse
+N0	Reference T3 NCBITaxon:10090	Mus musculus
+T4	GENE 98 102	Cd19
+N1	Reference T4 EntrezGene:12478	Cd19
+T5	GENE 731 735	Cd19
+N2	Reference T5 EntrezGene:12478	Cd19
+T6	GENE 873 877	Cd19
+N3	Reference T6 EntrezGene:12478	Cd19
+T7	GENE 992 996	Cd19
+N4	Reference T7 EntrezGene:12478	Cd19
+T8	GENE 1055 1059	Cd19
+N5	Reference T8 EntrezGene:12478	Cd19
+T9	GENE 1205 1208	EBF
+N6	Reference T9 EntrezGene:13591	bf1
+T10	GENE 1213 1217	PAX5
+N7	Reference T10 EntrezGene:18507	Pax5
+T12	GENE 1309 1313	PAX5
+N9	Reference T12 EntrezGene:18507	Pax5
+T14	TISSUE 183 207	hematopoietic stem cells
+N10	Reference T14 BTO:0000725	hematopoietic stem cell
+T15	TISSUE 209 213	HSCs
+N11	Reference T15 BTO:0000725	hematopoietic stem cell
+T16	TISSUE 216 220	HSCs
+N12	Reference T16 BTO:0000725	hematopoietic stem cell
+T17	TISSUE 266 273	myeloid
+N13	Reference T17 BTO:0000906	myeloid cell line
+T18	TISSUE 277 310	megakaryocytic-erythroid lineages
+N14	Reference T18 BTO:0001549	megakaryocyte cell line
+T19	TISSUE 388 396	lymphoid
+N15	Reference T19 BTO:0001096	lymphoid cell
+T20	TISSUE 597 605	lymphoid
+N16	Reference T20 BTO:0001096	lymphoid cell
+T21	TISSUE 748 761	hematopoietic
+N17	Reference T21 BTO:0000574	hematopoietic cell
+A3	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T22	GENE 1165 1168	E2A
+N18	Reference T22 EntrezGene:6929	TCF3
+A4	REGION T2 INSUFFICIENT
+T11	TISSUE 341 349	lymphoid
+N8	Reference T11 BTO:0001096	lymphoid cell
+T13	TISSUE 1225 1231	B-cell
+T23	TISSUE 1499 1507	lymphoid
+N19	Reference T23 BTO:0001096	lymphoid cell
+N21	Reference T13 BTO:0000776	B-lymphocyte
+T24	TISSUE 42 48	B cell
+N20	Reference T24 BTO:0000776	B-lymphocyte
+T25	TISSUE 657 663	B cell
+N22	Reference T25 BTO:0000776	
+T26	TISSUE 0 9	Stem cell
+T27	TISSUE 791 797	B cell
+N23	Reference T27 BTO:0000776	B-lymphocyte
+T28	GENE 1253 1257	Cd19
+N24	Reference T28 EntrezGene:12478	Cd19

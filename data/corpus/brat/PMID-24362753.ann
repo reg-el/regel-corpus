@@ -1,0 +1,35 @@
+T2	GENE 24 35	neuroglobin
+N0	Reference T2 EntrezGene:58157	B
+T3	GENE 51 62	Neuroglobin
+N1	Reference T3 EntrezGene:58157	B
+T4	GENE 64 67	NGB
+N2	Reference T4 EntrezGene:58157	B
+T5	DISEASE 133 140	hypoxia
+T6	DISEASE 142 150	ischemia
+T9	GENE 276 279	NGB
+N6	Reference T9 EntrezGene:58157	B
+T10	GENE 403 406	NGB
+N7	Reference T10 EntrezGene:58157	B
+T11	DISEASE 491 508	Alzheimer disease
+T12	VARIANT 809 817	rs981471
+T13	VARIANT 893 902	rs8014408
+T14	GENE 1054 1057	NGB
+N9	Reference T14 EntrezGene:58157	B
+T15	DISEASE 1217 1219	AD
+T16	GENE 1370 1373	NGB
+N11	Reference T16 EntrezGene:58157	B
+T18	TISSUE 74 80	neuron
+N12	Reference T18 BTO:0000938	neuron
+T19	SPECIES 90 100	vertebrate
+N13	Reference T19 NCBITaxon:7742	Vertebrata
+T1	TISSUE 688 701	temporal lobe
+N5	Reference T1 BTO:0001355	temporal lobe
+#1	AnnotatorNotes T12	rs981471
+#2	AnnotatorNotes T13	rs8014408
+T8	TISSUE 1178 1191	temporal lobe
+N14	Reference T8 BTO:0001355	temporal lobe
+T17	REGULATORY_REGION 579 664	promoter/enhancer elements between the transcription start site and 1,142 bp upstream
+A1	REGION T17 INSUFFICIENT
+N4	Reference T6 MONDO:MONDO:0005053	ischemic disease
+N8	Reference T11 MONDO:MONDO:0004975	Alzheimer disease
+N10	Reference T15 MONDO:MONDO:0004975	Alzheimer disease

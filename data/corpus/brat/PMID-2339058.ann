@@ -1,0 +1,30 @@
+T0	ENHANCER 2 32	46 base pair enhancer sequence
+T1	ENHANCER 746 781	46 bp enhancer element within HS II
+T2	SPECIES 246 251	human
+N0	Reference T2 NCBITaxon:9606	Homo sapiens
+A5	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T6	TISSUE 546 572	K562 erythroleukemia cells
+N3	Reference T6 BTO:0000664	K-562 cell
+T3	TISSUE 910 920	K562 cells
+N1	Reference T3 BTO:0000664	K-562 cell
+T7	TISSUE 1028 1042	erythroid cell
+N4	Reference T7 BTO:0002731	erythroid cell
+T4	TISSUE 886 895	erythroid
+N2	Reference T4 BTO:0002731	erythroid cell
+T5	GENE 110 122	gamma-globin
+T8	TISSUE 135 144	erythroid
+T10	GENE 333 344	beta-globin
+T11	GENE 470 482	gamma-globin
+T12	GENE 645 659	epsilon-globin
+T13	GENE 829 841	gamma-globin
+N6	Reference T10 EntrezGene:3043	HBB
+N7	Reference T12 EntrezGene:3046	HBE1
+N8	Reference T5 EntrezGene:3047	HBG1
+N9	Reference T11 EntrezGene:3047	HBG1
+N10	Reference T13 EntrezGene:3047	HBG1
+N11	Reference T8 BTO:0002731	erythroid cell
+T14	SPECIES 1022 1027	human
+N12	Reference T14 NCBITaxon:9606	Homo sapiens
+T9	GENE 252 263	beta-globin
+N5	Reference T9 EntrezGene:3043	HBB

@@ -1,0 +1,33 @@
+T0	REGULATORY_REGION 59 83	Col1a2 Promoter/Enhancer
+T2	REGULATORY_REGION 382 419	fibroblast-specific promoter/enhancer
+T4	ENHANCER 583 657	enhancer region 17 kb upstream of the Col1a2 gene transcription start site
+T8	DISEASE 160 177	fibrotic diseases
+T12	SPECIES 687 691	mice
+T14	SPECIES 1216 1220	mice
+T15	GENE 1262 1265	lox
+N8	Reference T15 EntrezGene:16948	Lox
+T16	SPECIES 1324 1328	mice
+N9	Reference T16 NCBITaxon:10090	Mus musculus
+T18	TISSUE 32 48	Fibroblast Cells
+A17	REGION T0 INSUFFICIENT
+T7	TISSUE 291 308	mesenchymal cells
+N11	Reference T7 BTO:0002625	mesenchymal cell
+A2	REGION T2 INSUFFICIENT
+T19	TISSUE 268 279	fibroblasts
+N12	Reference T19 BTO:0000452	fibroblast
+A4	REGION T4 INSUFFICIENT
+T10	TISSUE 715 732	mesenchymal cells
+N3	Reference T10 BTO:0002625	mesenchymal cell
+T5	GENE 939 954	collagen type I
+N4	Reference T5 EntrezGene:12842	Col1a1
+T6	GENE 224 240	collagen types I
+N6	Reference T6 EntrezGene:12842	Col1a1
+T1	GENE 245 248	III
+N13	Reference T1 EntrezGene:1281	COL3A1
+T3	TISSUE 20 31	Mesenchymal
+N2	Reference T3 BTO:0002625	mesenchymal cell
+N10	Reference T18 BTO:0000453	fibroblast cell line
+N1	Reference T12 NCBITaxon:10090	Mus musculus
+N5	Reference T14 NCBITaxon:10090	Mus musculus
+T9	GENE 621 627	Col1a2
+N7	Reference T9 EntrezGene:12843	Col1a2

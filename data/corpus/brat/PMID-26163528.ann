@@ -1,0 +1,85 @@
+T0	ENHANCER 471 506	enhancer region of the Id2 promoter
+T2	GENE 0 3	Id2
+N0	Reference T2 EntrezGene:15902	Id2
+T3	DISEASE 24 49	Apc-deficient ileal tumor
+T4	GENE 85 111	inhibitor of DNA binding 2
+N2	Reference T4 EntrezGene:15902	Id2
+T5	GENE 113 116	Id2
+N3	Reference T5 EntrezGene:15902	Id2
+T6	DISEASE 134 155	colorectal carcinomas
+T7	GENE 246 249	Id2
+N5	Reference T7 EntrezGene:15902	Id2
+T8	GENE 350 353	Id2
+N6	Reference T8 EntrezGene:15902	Id2
+T9	DISEASE 363 374	ileal tumor
+T10	SPECIES 403 407	mice
+N8	Reference T10 NCBITaxon:10090	Mus musculus
+T11	GENE 423 426	Id2
+N9	Reference T11 EntrezGene:15902	Id2
+T13	GENE 546 549	Apc
+N11	Reference T13 EntrezGene:11789	Apc
+T15	GENE 563 566	Apc
+N12	Reference T15 EntrezGene:11789	Apc
+T17	SPECIES 578 582	mice
+N13	Reference T17 NCBITaxon:10090	Mus musculus
+T18	GENE 605 608	Id2
+N14	Reference T18 EntrezGene:15902	Id2
+T19	GENE 612 615	Apc
+N15	Reference T19 EntrezGene:11789	Apc
+T21	SPECIES 626 630	mice
+N16	Reference T21 NCBITaxon:10090	Mus musculus
+T23	DISEASE 709 714	tumor
+T24	GENE 742 745	Id2
+N18	Reference T24 EntrezGene:15902	Id2
+T25	SPECIES 824 828	mice
+N19	Reference T25 NCBITaxon:10090	Mus musculus
+T26	GENE 905 931	Max dimerization protein 1
+N20	Reference T26 EntrezGene:17119	Mxd1
+T27	GENE 933 937	Mxd1
+N21	Reference T27 EntrezGene:17119	Mxd1
+T28	GENE 999 1002	Id2
+N22	Reference T28 EntrezGene:15902	Id2
+T29	GENE 1050 1053	Apc
+N23	Reference T29 EntrezGene:11789	Apc
+T31	SPECIES 1064 1068	mice
+N24	Reference T31 NCBITaxon:10090	Mus musculus
+T32	GENE 1160 1163	Id2
+N25	Reference T32 EntrezGene:15902	Id2
+T33	SPECIES 1173 1177	mice
+N26	Reference T33 NCBITaxon:10090	Mus musculus
+T34	GENE 1215 1218	Id2
+N27	Reference T34 EntrezGene:15902	Id2
+T35	DISEASE 1228 1233	tumor
+T36	GENE 1265 1269	Mxd1
+N28	Reference T36 EntrezGene:17119	Mxd1
+T37	GENE 1302 1305	Apc
+N29	Reference T37 EntrezGene:11789	Apc
+T39	SPECIES 1316 1320	mice
+N30	Reference T39 NCBITaxon:10090	Mus musculus
+A2	CANCER T3
+A3	CANCER T6
+A5	REGION T0 INSUFFICIENT
+T12	GENE 389 392	Apc
+N7	Reference T12 EntrezGene:11789	Apc
+A7	CANCER T23
+T14	GENE 951 956	c-Myc
+N10	Reference T14 EntrezGene:17869	Myc
+T16	GENE 1104 1109	c-Myc
+N17	Reference T16 EntrezGene:17869	Myc
+A8	CANCER T35
+T20	GENE 1293 1298	c-Myc
+N31	Reference T20 EntrezGene:17869	Myc
+T1	PROMOTER 494 506	Id2 promoter
+T30	TISSUE 806 816	epithelium
+N32	Reference T30 BTO:0000416	epithelium
+T38	TISSUE 1019 1046	ileal intestinal epithelium
+A1	CANCER T9
+A4	REGION T1 INSUFFICIENT
+N4	Reference T6 MONDO:MONDO:0024331	colorectal carcinoma
+N1	Reference T38 BTO:0000781	intestinal epithelium
+T22	GENE 494 497	Id2
+N33	Reference T22 EntrezGene:15902	Id2
+N34	Reference T23 MONDO:MONDO:0005070	neoplasm
+N36	Reference T35 MONDO:MONDO:0005070	neoplasm
+N35	Reference T9 MONDO:MONDO:0006801	ileal neoplasm
+N37	Reference T3 MONDO:MONDO:0006801	ileal neoplasm

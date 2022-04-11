@@ -1,0 +1,30 @@
+T1	PROMOTER 261 285	3.4-kb promoter fragment
+T2	PROMOTER 475 501	proximal promoter fragment
+T3	ENHANCER 510 555	distal non-cardiovasculogenic enhancer region
+T5	GENE 212 217	MesP1
+T7	GENE 447 450	CD4
+N3	Reference T7 EntrezGene:920	CD4
+T4	PROMOTER 69 99	3.4-kb MesP1 promoter fragment
+A4	REGION T4 INSUFFICIENT
+N1	Reference T5 EntrezGene:17292	Mesp1
+T9	TISSUE 386 399	ES stem cells
+N4	Reference T9 BTO:0001086	embryonic stem cell
+A2	REGION T2 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+T10	TISSUE 748 765	endothelial cells
+N5	Reference T10 BTO:0001176	endothelial cell
+T11	TISSUE 770 789	smooth muscle cells
+N6	Reference T11 BTO:0004576	smooth muscle cell
+T12	TISSUE 1387 1408	pluripotent stem cell
+N7	Reference T12 BTO:0006078	pluripotent stem cell
+T8	TISSUE 34 58	cardiovascular stem cell
+T13	TISSUE 108 139	cardiovascular progenitor cells
+T17	TISSUE 999 1012	cardiomyocyte
+T18	TISSUE 732 746	cardiomyocytes
+T19	TISSUE 1450 1469	cardiovascular cell
+T6	TISSUE 344 364	MesP1-positive cells
+A1	REGION T1 INSUFFICIENT
+N2	Reference T18 BTO:0003324	cardiomyocyte cell line
+N8	Reference T17 BTO:0003324	cardiomyocyte cell line
+T14	GENE 76 81	MesP1
+N9	Reference T14 EntrezGene:17292	Mesp1

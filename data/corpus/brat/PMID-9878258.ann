@@ -1,0 +1,44 @@
+T1	SPECIES 30 63	human endogenous retrovirus ERV-9
+N0	Reference T1 NCBITaxon:11745	Human endogenous retrovirus ERV-9
+T2	SPECIES 106 111	human
+N1	Reference T2 NCBITaxon:9606	Homo sapiens
+T3	SPECIES 167 172	human
+N2	Reference T3 NCBITaxon:9606	Homo sapiens
+T4	SPECIES 446 475	human endogenous retroviruses
+N3	Reference T4 NCBITaxon:206037	Human endogenous retroviruses
+T5	SPECIES 676 681	human
+N4	Reference T5 NCBITaxon:9606	Homo sapiens
+T6	SPECIES 822 827	human
+N5	Reference T6 NCBITaxon:9606	Homo sapiens
+T7	TISSUE 199 214	erythroid cells
+T8	SPECIES 686 693	gorilla
+N6	Reference T8 NCBITaxon:9592	Gorilla
+T9	SPECIES 762 770	primates
+N7	Reference T9 NCBITaxon:9443	Primates
+T10	TISSUE 929 944	erythroid cells
+T11	ENHANCER 556 574	U3 enhancer region
+A11	REGION T11 INSUFFICIENT
+T13	GENE 112 144	beta-globin locus control region
+T14	SPECIES 430 435	ERV-9
+N8	Reference T14 NCBITaxon:11745	Human endogenous retrovirus ERV-9
+T15	SPECIES 526 531	ERV-9
+N9	Reference T15 NCBITaxon:11745	Anxa3
+T12	ENHANCER 840 852	LTR enhancer
+A1	REGION T12 INSUFFICIENT
+T17	PROMOTER 857 865	promoter
+A2	REGION T17 INSUFFICIENT
+T18	TFBS 620 649	GATA, CACCC, and CCAAT motifs
+A3	REGION T18 INSUFFICIENT
+N12	Reference T7 BTO:0002731	erythroid cell
+N13	Reference T10 BTO:0002731	erythroid cell
+N10	Reference T13 EntrezGene:109580095	HBB-LCR
+T19	GENE 248 268	locus control region
+N14	Reference T19 EntrezGene:109580095	HBB-LCR
+T20	GENE 270 273	LCR
+N15	Reference T20 EntrezGene:109580095	HBB-LCR
+T21	GENE 321 324	LCR
+N16	Reference T21 EntrezGene:109580095	HBB-LCR
+T22	GENE 516 519	LCR
+N17	Reference T22 EntrezGene:109580095	HBB-LCR
+T16	GENE 1087 1102	beta-globin LCR
+N11	Reference T16 EntrezGene:109580095	HBB-LCR

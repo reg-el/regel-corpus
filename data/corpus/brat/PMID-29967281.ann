@@ -1,0 +1,80 @@
+T0	PROMOTER 1012 1020	promoter
+T1	ENHANCER 1036 1052	enhancer of Six3
+T2	GENE 0 3	SP8
+N0	Reference T2 EntrezGene:320145	Sp8
+T3	GENE 8 11	SP9
+N1	Reference T3 EntrezGene:381373	Sp9
+T4	GENE 86 90	Six3
+N2	Reference T4 EntrezGene:20473	Six3
+T5	GENE 121 125	DRD1
+N3	Reference T5 EntrezGene:13488	Drd1
+T6	GENE 190 194	DRD2
+N4	Reference T6 EntrezGene:13489	Drd2
+T7	SPECIES 542 546	mice
+N5	Reference T7 NCBITaxon:10090	Mus musculus
+T8	GENE 586 589	Sp8
+N6	Reference T8 EntrezGene:320145	Sp8
+T9	GENE 594 597	Sp9
+N7	Reference T9 EntrezGene:381373	Sp9
+T10	GENE 713 716	SP8
+N8	Reference T10 EntrezGene:320145	Sp8
+T11	GENE 721 724	SP9
+N9	Reference T11 EntrezGene:381373	Sp9
+T12	GENE 779 783	Six3
+N10	Reference T12 EntrezGene:20473	Six3
+T13	GENE 873 877	Six3
+N11	Reference T13 EntrezGene:20473	Six3
+T14	GENE 940 943	Sp8
+T15	GENE 986 989	SP9
+N13	Reference T15 EntrezGene:381373	Sp9
+T20	TISSUE 281 289	striatum
+T21	TISSUE 313 328	dorsal striatum
+N15	Reference T21 BTO:0004701	dorsal striatum
+T22	TISSUE 363 379	ventral striatum
+N16	Reference T22 BTO:0004702	ventral striatum
+T23	TISSUE 381 398	nucleus accumbens
+N17	Reference T23 BTO:0001862	nucleus accumbens
+T24	TISSUE 403 421	olfactory tubercle
+N18	Reference T24 BTO:0001869	olfactory tubercle
+T25	TISSUE 330 345	caudate nucleus
+N19	Reference T25 BTO:0000211	caudate nucleus
+T26	TISSUE 350 357	putamen
+N20	Reference T26 BTO:0000212	caudate putamen
+T27	TISSUE 466 493	lateral ganglionic eminence
+N21	Reference T27 BTO:0000497	ganglion
+T28	TISSUE 495 498	LGE
+N22	Reference T28 BTO:0000497	ganglion
+T29	TISSUE 668 671	LGE
+N23	Reference T29 BTO:0000497	ganglion
+T30	TISSUE 824 827	LGE
+N24	Reference T30 BTO:0000497	ganglion
+T31	TISSUE 1143 1146	LGE
+N25	Reference T31 BTO:0000497	ganglion
+A2	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T16	TISSUE 41 60	medium spiny neuron
+N14	Reference T16 BTO:0004778	medium spiny neuron
+T17	TISSUE 137 157	medium spiny neurons
+N26	Reference T17 BTO:0004778	medium spiny neuron
+T18	TISSUE 266 273	neurons
+N27	Reference T18 BTO:0000938	neuron
+T19	TISSUE 445 452	neurons
+N28	Reference T19 BTO:0000938	neuron
+T32	TISSUE 162 166	MSNs
+T33	TISSUE 620 624	MSNs
+N29	Reference T32 BTO:0004778	medium spiny neuron
+N30	Reference T33 BTO:0004778	medium spiny neuron
+T34	TISSUE 684 688	MSNs
+N31	Reference T34 BTO:0004778	
+T35	TISSUE 917 921	MSNs
+N32	Reference T35 BTO:0004778	medium spiny neuron
+T36	TISSUE 1210 1214	MSNs
+N33	Reference T36 BTO:0004778	medium spiny neuron
+N12	Reference T14 EntrezGene:320145	Sp8
+T37	GENE 944 945	9
+N34	Reference T37 EntrezGene:381373	Sp9
+T38	TISSUE 231 235	MSNs
+N35	Reference T38 BTO:0004778	
+N36	Reference T20 BTO:0000418	neostriatum
+T39	GENE 1048 1052	Six3
+N37	Reference T39 EntrezGene:20473	Six3

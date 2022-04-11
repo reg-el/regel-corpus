@@ -1,0 +1,23 @@
+T5	DISEASE 1189 1220	disorders of sexual development
+T7	TISSUE 53 66	Sertoli cells
+N4	Reference T7 BTO:0001238	Sertoli cell
+T8	TISSUE 415 428	Sertoli cells
+N5	Reference T8 BTO:0001238	Sertoli cell
+T9	TISSUE 809 821	Sertoli cell
+T10	TISSUE 578 596	pregranulosa cells
+T1	TISSUE 994 1007	Sertoli cells
+N10	Reference T1 BTO:0001238	Sertoli cell
+T2	TISSUE 446 452	testes
+T6	SPECIES 434 439	mouse
+N6	Reference T6 NCBITaxon:10090	Mus musculus
+T12	ENHANCER 895 932	Sertoli cell enhancer upstream of Wt1
+A1	REGION T12 INSUFFICIENT
+N3	Reference T5 MONDO:MONDO:0002145	sex differentiation disease
+N8	Reference T2 BTO:0001363	testis
+T11	TISSUE 566 573	Sertoli
+N7	Reference T11 BTO:0001238	Sertoli cell
+N9	Reference T9 BTO:0001238	Sertoli cell
+T3	TISSUE 895 907	Sertoli cell
+N1	Reference T3 BTO:0001238	Sertoli cell
+T4	GENE 929 932	Wt1
+N2	Reference T4 EntrezGene:7490	WT1

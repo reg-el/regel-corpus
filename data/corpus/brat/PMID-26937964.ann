@@ -1,0 +1,118 @@
+T0	ENHANCER 24 45	Cebpa +37 kb Enhancer
+T2	ENHANCER 324 332	enhancer
+T3	ENHANCER 498 506	enhancer
+T4	ENHANCER 666 674	enhancer
+T5	ENHANCER 779 787	enhancer
+T7	ENHANCER 2094 2115	+37 kb Cebpa enhancer
+T10	GENE 63 68	Cebpa
+N1	Reference T10 EntrezGene:12606	Cebp
+T11	SPECIES 164 170	murine
+N2	Reference T11 NCBITaxon:10090	Mus musculus
+T12	GENE 171 176	Cebpa
+N3	Reference T12 EntrezGene:12606	Cebp
+T14	SPECIES 314 318	mice
+T15	GENE 359 364	Runx1
+N6	Reference T15 EntrezGene:12394	Runx1
+T16	GENE 371 376	GATA2
+N7	Reference T16 EntrezGene:14461	ta2
+T17	GENE 378 388	C/EBPalpha
+N8	Reference T17 EntrezGene:12606	Cebp
+T18	GENE 390 395	c-Myb
+N9	Reference T18 EntrezGene:17863	Myb
+T19	GENE 582 587	Cebpa
+N10	Reference T19 EntrezGene:12606	Cebp
+T20	SPECIES 704 716	C57BL/6 mice
+N11	Reference T20 NCBITaxon:10090	Mus musculus
+T21	GENE 941 946	Cebpa
+N12	Reference T21 EntrezGene:12606	Cebp
+T22	GENE 1093 1098	Cebpa
+N13	Reference T22 EntrezGene:12606	Cebp
+T23	GENE 1193 1197	IL-3
+N14	Reference T23 EntrezGene:16187	Il3
+T24	SPECIES 1283 1287	mice
+N15	Reference T24 NCBITaxon:10090	Mus musculus
+T25	GENE 1324 1329	Cebpa
+N16	Reference T25 EntrezGene:12606	Cebp
+T26	GENE 1371 1374	LSK
+N17	Reference T26 EntrezGene:16818	Lck
+T27	GENE 1405 1408	LSK
+N18	Reference T27 EntrezGene:16818	Lck
+T28	GENE 1409 1413	SLAM
+N19	Reference T28 EntrezGene:27218	Slamf1
+T29	SPECIES 1457 1461	mice
+N20	Reference T29 NCBITaxon:10090	Mus musculus
+T31	GENE 1747 1751	Gfi1
+N22	Reference T31 EntrezGene:14581	fi1
+T32	GENE 1766 1770	Egr1
+N23	Reference T32 EntrezGene:13653	gr1
+T33	GENE 1775 1779	Klf4
+N24	Reference T33 EntrezGene:16600	Klf4
+T34	GENE 2007 2010	LSK
+N25	Reference T34 EntrezGene:16818	Lck
+T36	GENE 2143 2148	Cebpa
+N27	Reference T36 EntrezGene:12606	Cebp
+A37	REGION T0 INSUFFICIENT
+T9	TISSUE 77 96	Myeloid Progenitors
+N28	Reference T9 BTO:0004730	myeloid progenitor cell
+T38	TISSUE 280 299	myeloid progenitors
+N29	Reference T38 BTO:0004730	myeloid progenitor cell
+T13	TISSUE 433 446	myeloid cells
+T39	TISSUE 600 624	32Dcl3 myeloid cell line
+N4	Reference T39 BTO:0000906	myeloid cell line
+A2	REGION T3 INSUFFICIENT
+A3	REGION T4 INSUFFICIENT
+A4	REGION T5 INSUFFICIENT
+T40	TISSUE 973 978	liver
+N30	Reference T40 BTO:0000759	liver
+T41	TISSUE 980 984	lung
+N31	Reference T41 BTO:0000763	lung
+T42	TISSUE 986 993	adipose
+N32	Reference T42 BTO:0001487	adipose tissue
+T43	TISSUE 995 1004	intestine
+N33	Reference T43 BTO:0000648	intestine
+T44	TISSUE 1006 1012	muscle
+N34	Reference T44 BTO:0000887	muscle
+T45	TISSUE 1018 1024	kidney
+N35	Reference T45 BTO:0000671	kidney
+T46	TISSUE 1063 1075	marrow cells
+N36	Reference T46 BTO:0001441	marrow cell
+T48	TISSUE 1208 1215	myeloid
+T49	TISSUE 1439 1445	marrow
+N38	Reference T49 BTO:0000829	marrow
+T50	TISSUE 2015 2031	monocyte lineage
+N21	Reference T50 BTO:0000876	monocyte
+T30	GENE 1543 1546	LSK
+N39	Reference T30 EntrezGene:16818	Lck
+T51	TISSUE 1609 1620	Granulocyte
+N40	Reference T51 BTO:0000539	granulocyte
+T52	TISSUE 1625 1635	B lymphoid
+N41	Reference T52 BTO:0000776	B-lymphocyte
+T55	TISSUE 1872 1896	hematopoietic stem cells
+N44	Reference T55 BTO:0000725	hematopoietic stem cell
+T6	TISSUE 1934 1940	marrow
+N45	Reference T6 BTO:0000829	marrow
+T56	TISSUE 1984 1990	B cell
+N46	Reference T56 BTO:0000776	B-lymphocyte
+A5	REGION T7 INSUFFICIENT
+A6	REGION T2 INSUFFICIENT
+T37	ENHANCER 193 241	+37 kb, evolutionarily conserved 440 bp enhancer
+A7	REGION T37 INSUFFICIENT
+N47	Reference T13 BTO:0000906	myeloid cell line
+N37	Reference T48 BTO:0000906	myeloid cell line
+T1	TISSUE 1690 1708	erythroid colonies
+N42	Reference T1 BTO:0002731	erythroid cell
+T8	TISSUE 1676 1685	monocytic
+N43	Reference T8 BTO:0000876	monocyte
+T35	TISSUE 934 940	marrow
+N26	Reference T35 BTO:0000829	marrow
+N5	Reference T14 NCBITaxon:10090	Mus musculus
+T47	GENE 366 369	Scl
+N48	Reference T47 EntrezGene:21349	Tal1
+T53	GENE 397 401	Pu.1
+N49	Reference T53 EntrezGene:20375	Spi1
+T54	GENE 1275 1278	Mx1
+N50	Reference T54 EntrezGene:17857	Mx1
+T57	GENE 24 29	Cebpa
+N51	Reference T57 EntrezGene:12606	Cebpa
+T58	GENE 2101 2106	Cebpa
+N52	Reference T58 EntrezGene:12606	Cebpa

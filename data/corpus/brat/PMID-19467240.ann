@@ -1,0 +1,82 @@
+T0	TFBS 2 26	far-upstream Oct-1 motif
+A0	REGION T0 INSUFFICIENT
+T3	GENE 453 458	Oct-1
+N2	Reference T3 EntrezGene:18986	Pou2f1
+T4	GENE 687 692	Oct-1
+N3	Reference T4 EntrezGene:18986	Pou2f1
+T5	GENE 868 873	Oct-1
+N4	Reference T5 EntrezGene:18986	Pou2f1
+T6	GENE 1172 1177	Oct-1
+N5	Reference T6 EntrezGene:18986	Pou2f1
+T7	GENE 1229 1234	Oct-1
+N6	Reference T7 EntrezGene:18986	Pou2f1
+T9	TFBS 770 835	octamer sequence 5'-ATGCAAAT-3' at -10.2 kb in the hiNOS promoter
+A9	REGION T9 INSUFFICIENT
+T10	TFBS 992 1037	Oct-1 motif at -10.2 kb in the hiNOS promoter
+A10	REGION T10 INSUFFICIENT
+T11	TISSUE 1304 1315	hepatocytes
+T12	TFBS 1334 1379	Oct-1 motif at -10.2 kb of the hiNOS promoter
+A12	REGION T12 INSUFFICIENT
+T13	TFBS 1546 1624	far-upstream functional Oct-1 enhancer motif at -10.2 kb in the hiNOS promoter
+A13	REGION T13 INSUFFICIENT
+T14	PROMOTER 821 835	hiNOS promoter
+A14	REGION T14 SUFFICIENT
+#0	AnnotatorNotes T14	chr17,26072592,26074592
+T15	PROMOTER 1023 1037	hiNOS promoter
+A15	REGION T15 SUFFICIENT
+#1	AnnotatorNotes T15	chr17,26072592,26074592
+T16	PROMOTER 1065 1079	hiNOS promoter
+A16	REGION T16 SUFFICIENT
+#2	AnnotatorNotes T16	chr17,26072592,26074592
+T17	PROMOTER 1114 1128	hiNOS promoter
+A17	REGION T17 SUFFICIENT
+#3	AnnotatorNotes T17	chr17,26072592,26074592
+T18	PROMOTER 1365 1379	hiNOS promoter
+A18	REGION T18 SUFFICIENT
+#4	AnnotatorNotes T18	chr17,26072592,26074592
+T19	PROMOTER 1445 1470	thymidine kinase promoter
+A19	REGION T19 INSUFFICIENT
+T20	PROMOTER 1610 1624	hiNOS promoter
+A20	REGION T20 SUFFICIENT
+#5	AnnotatorNotes T20	chr17,26072592,26074592
+T1	GENE 75 112	human inducible nitric oxide synthase
+N1	Reference T1 EntrezGene:4843	NOS2
+T2	GENE 153 190	human inducible nitric oxide synthase
+N7	Reference T2 EntrezGene:4843	NOS2
+T8	GENE 192 197	hiNOS
+N8	Reference T8 EntrezGene:4843	NOS2
+T21	GENE 441 446	hiNOS
+N9	Reference T21 EntrezGene:4843	NOS2
+T22	GENE 707 712	hiNOS
+N10	Reference T22 EntrezGene:4843	NOS2
+T23	GENE 1657 1662	hiNOS
+N11	Reference T23 EntrezGene:4843	NOS2
+T24	GENE 1764 1769	hiNOS
+N12	Reference T24 EntrezGene:4843	NOS2
+T25	GENE 1262 1267	hiNOS
+N13	Reference T25 EntrezGene:4843	NOS2
+N14	Reference T11 BTO:0000575	hepatocyte
+T26	SPECIES 1298 1303	human
+N15	Reference T26 NCBITaxon:9606	Homo sapiens
+T27	GENE 821 826	hiNOS
+N16	Reference T27 EntrezGene:4843	NOS2
+T28	GENE 1023 1028	hiNOS
+N17	Reference T28 EntrezGene:4843	NOS2
+T29	GENE 1065 1070	hiNOS
+N18	Reference T29 EntrezGene:4843	NOS2
+T30	GENE 1114 1119	hiNOS
+N19	Reference T30 EntrezGene:4843	NOS2
+T31	GENE 1365 1370	hiNOS
+N20	Reference T31 EntrezGene:4843	NOS2
+T32	GENE 1610 1615	hiNOS
+N21	Reference T32 EntrezGene:4843	NOS2
+T33	GENE 1445 1461	thymidine kinase
+N22	Reference T33 EntrezGene:7083	TK1
+T34	GENE 15 20	Oct-1
+N23	Reference T34 EntrezGene:18986	Pou2f1
+T35	GENE 992 997	Oct-1
+N24	Reference T35 EntrezGene:18986	Pou2f1
+T36	GENE 1334 1339	Oct-1
+N25	Reference T36 EntrezGene:18986	Pou2f1
+T37	GENE 1570 1575	Oct-1
+N26	Reference T37 EntrezGene:18986	Pou2f1

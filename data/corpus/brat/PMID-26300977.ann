@@ -1,0 +1,22 @@
+T0	GENE 90 95	FOXP2
+N0	Reference T0 EntrezGene:93986	FOXP2
+T1	GENE 137 142	FOXP2
+N1	Reference T1 EntrezGene:93986	FOXP2
+T3	GENE 489 494	FOXP2
+N2	Reference T3 EntrezGene:93986	FOXP2
+T4	SPECIES 676 681	human
+N3	Reference T4 NCBITaxon:9606	Homo sapiens
+T5	DISEASE 51 57	speech
+T6	ENHANCER 114 122	enhancer
+A6	REGION T6 INSUFFICIENT
+T7	DISEASE 183 197	speech apraxia
+T9	DISEASE 300 306	speech
+T8	ENHANCER 524 613	element 2 kb downstream of this breakpoint with epigenetic characteristics of an enhancer
+A1	REGION T8 INSUFFICIENT
+N5	Reference T5 MONDO:MONDO:0004730	speech disorder
+T10	DISEASE 62 79	language disorder
+N6	Reference T10 MONDO:MONDO:0004750	language disorder
+N7	Reference T9 MONDO:MONDO:0004730	speech disorder
+T11	DISEASE 311 328	language deficits
+N8	Reference T11 MONDO:MONDO:0004750	language disorder
+N4	Reference T7 MONDO:MONDO:0011184	childhood apraxia of speech

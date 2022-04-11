@@ -1,0 +1,34 @@
+T4	GENE 23 31	miR-146a
+N0	Reference T4 EntrezGene:406938	MIR146A
+T5	GENE 36 43	miR-155
+N1	Reference T5 EntrezGene:406947	MIR155
+T11	GENE 823 831	miR-146a
+N7	Reference T11 EntrezGene:406938	MIR146A
+T12	GENE 836 843	miR-155
+N8	Reference T12 EntrezGene:406947	MIR155
+T16	GENE 1065 1069	BRD4
+N12	Reference T16 EntrezGene:23476	BRD4
+T17	GENE 1137 1145	miR-146a
+N13	Reference T17 EntrezGene:406938	MIR146A
+T18	GENE 1150 1157	miR-155
+N14	Reference T18 EntrezGene:406947	MIR155
+T19	GENE 1237 1245	miR-146a
+N15	Reference T19 EntrezGene:406938	MIR146A
+T20	GENE 1250 1257	miR-155
+N16	Reference T20 EntrezGene:406947	MIR155
+T6	TISSUE 735 773	human umbilical vein endothelial cells
+T7	TISSUE 775 780	HUVEC
+T1	GENE 625 634	NF-kappaB
+T2	GENE 941 950	NF-kappaB
+T3	GENE 1054 1063	NF-kappaB
+T8	ENHANCER 0 49	Super enhancers at the miR-146a and miR-155 genes
+A1	REGION T8 INSUFFICIENT
+T9	GENE 429 438	NF-kappaB
+T10	ENHANCER 1210 1271	super enhancers that drive miR-146a and miR-155 transcription
+A3	REGION T10 INSUFFICIENT
+N2	Reference T9 EntrezGene:4790	NFKB1
+N3	Reference T1 EntrezGene:4790	NFKB1
+N4	Reference T2 EntrezGene:4790	NFKB1
+N5	Reference T3 EntrezGene:4790	NFKB1
+N6	Reference T6 BTO:0004296	umbilical vein endothelial cell
+N9	Reference T7 BTO:0004296	umbilical vein endothelial cell

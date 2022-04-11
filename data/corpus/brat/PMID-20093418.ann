@@ -1,0 +1,48 @@
+T4	ENHANCER 1201 1247	major intronic enhancer at approximately 87 kb
+T6	GENE 0 23	Glucocorticoid receptor
+N0	Reference T6 EntrezGene:2908	R3C1
+T7	GENE 322 345	glucocorticoid receptor
+N1	Reference T7 EntrezGene:2908	R3C1
+T8	GENE 347 349	GR
+N2	Reference T8 EntrezGene:2908	R3C1
+T9	SPECIES 354 359	human
+N3	Reference T9 NCBITaxon:9606	Homo sapiens
+T11	TISSUE 360 382	A549 lung cancer cells
+T12	GENE 652 654	GR
+N5	Reference T12 EntrezGene:2908	R3C1
+T13	GENE 1262 1264	GR
+N6	Reference T13 EntrezGene:2908	R3C1
+T19	GENE 41 47	FKBP51
+N7	Reference T19 EntrezGene:2289	FKBP5
+T20	GENE 121 127	FKBP51
+N8	Reference T20 EntrezGene:2289	FKBP5
+T21	GENE 129 153	FK506-binding protein 51
+N9	Reference T21 EntrezGene:2289	FKBP5
+T22	GENE 308 314	FKBP51
+A6	CANCER T11
+T10	GENE 414 420	FKBP51
+T23	GENE 581 587	FKBP51
+T1	TFBS 808 855	CCCTC-binding factor- and cohesin-binding sites
+A1	REGION T1 INSUFFICIENT
+T26	GENE 1071 1074	BRM
+N13	Reference T26 EntrezGene:6595	SMARCA2
+T3	PROMOTER 1161 1185	proximal promoter region
+A3	REGION T3 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+T27	GENE 1524 1530	FKBP51
+T28	TISSUE 1616 1626	A549 cells
+A8	CANCER T28
+T29	GENE 1681 1683	GR
+N16	Reference T29 EntrezGene:2908	NR3C1
+N4	Reference T11 BTO:0000018	A-549 cell
+N15	Reference T28 BTO:0000018	A-549 cell
+T14	ENHANCER 658 736	enhancers at about 34 kb 5' and about 87 kb 3' of the transcription start site
+A10	REGION T14 INSUFFICIENT
+T2	ENHANCER 783 792	enhancers
+A9	REGION T2 INSUFFICIENT
+N10	Reference T22 EntrezGene:2289	FKBP5
+N11	Reference T10 EntrezGene:2289	FKBP5
+N12	Reference T23 EntrezGene:2289	FKBP5
+N14	Reference T27 EntrezGene:2289	FKBP5
+T5	GENE 808 828	CCCTC-binding factor
+N17	Reference T5 EntrezGene:10664	CTCF

@@ -1,0 +1,50 @@
+T0	ENHANCER 3 26	autoregulatory enhancer
+T1	ENHANCER 632 720	mammary-specific enhancer within the intergenic sequences separating the two Stat5 genes
+T3	ENHANCER 1362 1381	intergenic enhancer
+T4	ENHANCER 1403 1428	mammary-specific enhancer
+T5	GENE 53 58	STAT5
+N0	Reference T5 EntrezGene:20850	Stat5
+T6	GENE 208 214	STAT5A
+N1	Reference T6 EntrezGene:20850	Stat5
+T7	GENE 431 437	Stat5a
+N2	Reference T7 EntrezGene:20850	Stat5
+T11	GENE 856 860	NFIB
+N6	Reference T11 EntrezGene:18028	fib
+T12	GENE 862 866	ELF5
+N7	Reference T12 EntrezGene:13711	lf5
+T13	GENE 871 875	MED1
+N8	Reference T13 EntrezGene:19014	Med1
+T14	GENE 894 899	STAT5
+N9	Reference T14 EntrezGene:20850	Stat5
+T16	SPECIES 1030 1034	mice
+N11	Reference T16 NCBITaxon:10090	Mus musculus
+T17	GENE 1121 1126	Stat5
+N12	Reference T17 EntrezGene:20850	Stat5
+T18	GENE 1187 1192	STAT5
+N13	Reference T18 EntrezGene:20850	Stat5
+T19	GENE 1330 1335	STAT5
+N14	Reference T19 EntrezGene:20850	Stat5
+T20	GENE 1513 1518	STAT5
+N15	Reference T20 EntrezGene:20850	Stat5
+T21	GENE 1552 1557	STAT5
+N16	Reference T21 EntrezGene:20850	Stat5
+A22	REGION T0 INSUFFICIENT
+T23	TISSUE 349 362	mammary gland
+N17	Reference T23 BTO:0000817	mammary gland
+T25	TISSUE 515 533	mammary epithelium
+N18	Reference T25 BTO:0001430	mammary epithelium
+A1	REGION T1 INSUFFICIENT
+T10	TFBS 924 958	two canonical STAT5 binding motifs
+A2	REGION T10 INSUFFICIENT
+T15	TISSUE 1137 1155	mammary epithelium
+N5	Reference T15 BTO:0001430	mammary epithelium
+A3	REGION T3 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+T8	GENE 438 439	b
+N3	Reference T8 EntrezGene:20851	Stat5b
+T2	GENE 331 340	prolactin
+N10	Reference T2 EntrezGene:19109	Prl
+T9	GENE 709 714	Stat5
+N4	Reference T9 EntrezGene:20850;20851	
+T22	GENE 938 943	STAT5
+N19	Reference T22 EntrezGene:20850	Stat5a

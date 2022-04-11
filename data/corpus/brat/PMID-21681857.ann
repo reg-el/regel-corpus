@@ -1,0 +1,36 @@
+T0	ENHANCER 117 142	enhancer of the NAGS gene
+T1	ENHANCER 799 816	upstream enhancer
+T3	GENE 169 195	N-acetylglutamate synthase
+N1	Reference T3 EntrezGene:162417	AGS
+T4	GENE 197 201	NAGS
+N2	Reference T4 EntrezGene:162417	AGS
+T5	DISEASE 411 425	hyperammonemia
+T6	GENE 721 725	NAGS
+N3	Reference T6 EntrezGene:162417	AGS
+T9	GENE 1161 1166	HNF-1
+N6	Reference T9 EntrezGene:6927	HNF1A
+T10	GENE 1174 1178	NAGS
+N7	Reference T10 EntrezGene:162417	AGS
+T12	GENE 1246 1251	HNF-1
+N9	Reference T12 EntrezGene:6927	HNF1A
+T13	DISEASE 1489 1503	hyperammonemia
+A14	REGION T0 INSUFFICIENT
+T15	SPECIES 366 373	mammals
+N10	Reference T15 NCBITaxon:40674	Mammalia
+A1	REGION T1 INSUFFICIENT
+T16	VARIANT 843 853	c.-3064C>A
+#1	AnnotatorNotes T16	chr12:121413282
+T2	TFBS 1193 1225	consensus HNF-1 binding sequence
+A2	REGION T2 INSUFFICIENT
+T7	TFBS 907 952	hepatic nuclear factor 1 (HNF-1) binding site
+A3	REGION T7 INSUFFICIENT
+N4	Reference T5 MONDO:MONDO:0004739	urea cycle disorder
+N5	Reference T13 MONDO:MONDO:0004739	urea cycle disorder
+T8	GENE 133 137	NAGS
+N8	Reference T8 EntrezGene:162417	NAGS
+T11	GENE 907 931	hepatic nuclear factor 1
+N11	Reference T11 EntrezGene:6927	HNF1A
+T14	GENE 933 938	HNF-1
+N12	Reference T14 EntrezGene:6927	HNF1A
+T17	GENE 1203 1208	HNF-1
+N13	Reference T17 EntrezGene:6927	HNF1A

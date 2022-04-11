@@ -1,0 +1,38 @@
+T1	GENE 22 27	CAF-1
+N0	Reference T1 EntrezGene:110749	Chaf1b
+T2	SPECIES 471 476	mouse
+N1	Reference T2 NCBITaxon:10090	Mus musculus
+T3	GENE 552 579	chromatin assembly factor-1
+N2	Reference T3 EntrezGene:110749	Chaf1b
+T4	GENE 581 586	CAF-1
+N3	Reference T4 EntrezGene:110749	Chaf1b
+T5	GENE 607 613	Chaf1a
+N4	Reference T5 EntrezGene:27221	Chaf1
+T6	GENE 618 624	Chaf1b
+N5	Reference T6 EntrezGene:110749	Chaf1b
+T7	GENE 785 790	CAF-1
+N6	Reference T7 EntrezGene:110749	Chaf1b
+T9	GENE 965 970	CAF-1
+N8	Reference T9 EntrezGene:110749	Chaf1b
+T10	GENE 1179 1183	Sox2
+N9	Reference T10 EntrezGene:20674	Sox2
+T11	GENE 1277 1282	CAF-1
+N10	Reference T11 EntrezGene:110749	Chaf1b
+T12	GENE 1429 1434	CAF-1
+N11	Reference T12 EntrezGene:110749	Chaf1b
+T8	TISSUE 905 913	iPS cell
+T13	TISSUE 492 522	induced pluripotent stem cells
+N7	Reference T13 BTO:0006078	pluripotent stem cell
+T14	TISSUE 524 533	iPS cells
+N12	Reference T14 BTO:0006078	pluripotent stem cell
+N13	Reference T8 BTO:0006078	pluripotent stem cell
+T15	TISSUE 1322 1329	B cells
+T16	TISSUE 1335 1346	macrophages
+N15	Reference T16 BTO:0000801	macrophage
+T17	TISSUE 1351 1362	fibroblasts
+N16	Reference T17 BTO:0000452	fibroblast
+T18	TISSUE 1368 1375	neurons
+N17	Reference T18 BTO:0000938	neuron
+N14	Reference T15 BTO:0000776	B-lymphocyte
+T19	TISSUE 477 488	fibroblasts
+N18	Reference T19 BTO:0000452	fibroblast

@@ -1,0 +1,40 @@
+T0	ENHANCER 465 489	intronic enhancer region
+T1	GENE 57 64	FAM210B
+N0	Reference T1 EntrezGene:116151	FAM210B
+T2	GENE 133 139	GATA-1
+N1	Reference T2 EntrezGene:2623	ATA1
+T3	GENE 212 218	GATA-1
+N2	Reference T3 EntrezGene:2623	ATA1
+T4	GENE 311 318	FAM210B
+N3	Reference T4 EntrezGene:116151	FAM210B
+T5	GENE 339 345	GATA-1
+N4	Reference T5 EntrezGene:2623	ATA1
+T6	GENE 391 397	GATA-1
+N5	Reference T6 EntrezGene:2623	ATA1
+T7	GENE 417 424	FAM210B
+N6	Reference T7 EntrezGene:116151	FAM210B
+T8	SPECIES 496 501	human
+N7	Reference T8 NCBITaxon:9606	Homo sapiens
+T9	SPECIES 506 512	murine
+N8	Reference T9 NCBITaxon:10090	Mus musculus
+T10	GENE 513 520	FAM210B
+N9	Reference T10 EntrezGene:67017	Fam210b
+T11	GENE 652 659	FAM210B
+N10	Reference T11 EntrezGene:116151	FAM210B
+T12	GENE 814 821	FAM210B
+N11	Reference T12 EntrezGene:116151	FAM210B
+T13	GENE 911 918	FAM210B
+N12	Reference T13 EntrezGene:116151	FAM210B
+A1	REGION T0 INSUFFICIENT
+T15	TISSUE 167 176	erythroid
+N14	Reference T15 BTO:0002731	erythroid cell
+T16	TISSUE 569 581	erythroblast
+N15	Reference T16 BTO:0001571	erythroblast
+T17	TISSUE 783 798	erythroid cells
+N16	Reference T17 BTO:0002731	erythroid cell
+T18	TISSUE 841 850	erythroid
+N17	Reference T18 BTO:0002731	erythroid cell
+T20	TISSUE 81 90	erythroid
+N19	Reference T20 BTO:0002731	erythroid cell
+T14	DISEASE 976 994	hereditary anemias
+N13	Reference T14 MONDO:MONDO:0000577	congenital anemia

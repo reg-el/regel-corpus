@@ -1,0 +1,81 @@
+T1	ENHANCER 1152 1194	enhancer within the first intron of Pik3cb
+T2	ENHANCER 1205 1213	enhancer
+T3	SPECIES 1619 1641	adeno-associated virus
+N0	Reference T3 NCBITaxon:272636	Adeno-associated virus
+A1	REGION T1 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+T5	GENE 1683 1689	Pik3cb
+T6	GENE 0 6	Pi3kcb
+A3	TYPO T6
+T7	GENE 143 146	YAP
+N3	Reference T7 EntrezGene:10413	YAP1
+T8	GENE 405 408	YAP
+N4	Reference T8 EntrezGene:10413	YAP1
+T9	GENE 520 523	YAP
+N5	Reference T9 EntrezGene:10413	YAP1
+T10	GENE 780 783	YAP
+N6	Reference T10 EntrezGene:10413	YAP1
+T11	GENE 1043 1046	YAP
+N7	Reference T11 EntrezGene:10413	YAP1
+T12	GENE 1314 1317	YAP
+N8	Reference T12 EntrezGene:10413	YAP1
+T13	GENE 1405 1408	Yap
+N9	Reference T13 EntrezGene:10413	YAP1
+T14	GENE 1504 1507	YAP
+N10	Reference T14 EntrezGene:10413	YAP1
+T15	GENE 1569 1572	Yap
+N11	Reference T15 EntrezGene:10413	YAP1
+T16	GENE 1720 1723	YAP
+N12	Reference T16 EntrezGene:10413	YAP1
+T17	GENE 1743 1746	YAP
+N13	Reference T17 EntrezGene:10413	YAP1
+T18	GENE 952 958	Pik3cb
+N14	Reference T18 EntrezGene:74769	Pik3cb
+T19	GENE 593 596	YAP
+N15	Reference T19 EntrezGene:10413	YAP1
+T20	GENE 714 717	YAP
+N16	Reference T20 EntrezGene:10413	YAP1
+T21	GENE 846 849	YAP
+N17	Reference T21 EntrezGene:10413	YAP1
+T22	GENE 1112 1115	YAP
+N18	Reference T22 EntrezGene:10413	YAP1
+T23	GENE 1260 1263	Yap
+N19	Reference T23 EntrezGene:10413	YAP1
+T24	GENE 1220 1223	YAP
+N20	Reference T24 EntrezGene:10413	YAP1
+N1	Reference T5 EntrezGene:5291	PIK3CB
+T25	GENE 1410 1416	Pik3cb
+N21	Reference T25 EntrezGene:5291	PIK3CB
+T26	GENE 1651 1657	Pik3cb
+N22	Reference T26 EntrezGene:5291	PIK3CB
+T27	GENE 1478 1484	Pik3cb
+N23	Reference T27 EntrezGene:5291	PIK3CB
+N2	Reference T6 EntrezGene:5291	PIK3CB
+T4	GENE 119 141	Yes-associated protein
+N24	Reference T4 EntrezGene:10413	YAP1
+T28	TISSUE 1070 1083	cardiomyocyte
+T29	TISSUE 1445 1458	cardiomyocyte
+T30	TISSUE 1551 1556	heart
+N25	Reference T30 BTO:0000562	heart
+N26	Reference T28 BTO:0003324	cardiomyocyte cell line
+N27	Reference T29 BTO:0003324	cardiomyocyte cell line
+T31	TISSUE 263 268	heart
+N28	Reference T31 BTO:0000562	heart
+T32	TISSUE 665 670	heart
+N29	Reference T32 BTO:0000562	heart
+T33	GENE 19 22	YAP
+N30	Reference T33 EntrezGene:10413	YAP1
+T34	TISSUE 1808 1821	cardiomyocyte
+N31	Reference T34 BTO:0003324	
+T35	TISSUE 66 79	cardiomyocyte
+N32	Reference T35 BTO:0003324	cardiomyocyte cell line
+T36	TISSUE 420 433	cardiomyocyte
+N33	Reference T36 BTO:0003324	cardiomyocyte cell line
+T37	GENE 32 35	AKT
+N34	Reference T37 EntrezGene:207	AKT1
+T38	GENE 1782 1785	AKT
+N35	Reference T38 EntrezGene:207	AKT1
+T39	GENE 1387 1390	Akt
+N36	Reference T39 EntrezGene:207	AKT1
+T40	GENE 1188 1194	Pik3cb
+N37	Reference T40 EntrezGene:5291	PIK3CB

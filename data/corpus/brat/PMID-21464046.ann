@@ -1,0 +1,58 @@
+T0	ENHANCER 1266 1285	Gata1 gene enhancer
+T2	GENE 17 22	Gata1
+T3	GENE 572 578	Nkx2-5
+T4	GENE 726 732	Nkx2-5
+T5	GENE 822 827	Gata1
+T6	GENE 836 842	Nkx2-5
+T7	GENE 900 906	Nkx2-5
+T8	GENE 915 921	Nkx2-5
+T9	GENE 983 988	Gata1
+T10	GENE 1205 1210	Gata1
+T11	GENE 1246 1252	Nkx2-5
+T13	GENE 1336 1341	Gata1
+T14	GENE 1446 1452	Nkx2-5
+T15	GENE 1504 1509	Gata1
+T16	GENE 1560 1566	Nkx2-5
+T1	GENE 0 6	Nkx2-5
+N16	Reference T1 EntrezGene:18091	Nkx2-5
+N1	Reference T2 EntrezGene:14460	Gata1
+T21	TISSUE 243 258	mesodermal cell
+N18	Reference T21 BTO:0000839	mesoderm
+N2	Reference T3 EntrezGene:18091	Nkx2-5
+T24	TISSUE 629 637	mesoderm
+N3	Reference T4 EntrezGene:18091	Nkx2-5
+T26	TISSUE 783 792	erythroid
+N21	Reference T26 BTO:0002731	erythroid cell
+N4	Reference T5 EntrezGene:14460	Gata1
+N5	Reference T6 EntrezGene:18091	Nkx2-5
+N6	Reference T7 EntrezGene:18091	Nkx2-5
+N7	Reference T8 EntrezGene:18091	Nkx2-5
+T27	TISSUE 932 951	embryonic stem cell
+N22	Reference T27 BTO:0001086	embryonic stem cell
+N8	Reference T9 EntrezGene:14460	Gata1
+T31	TISSUE 1101 1121	embryonic stem cells
+N26	Reference T31 BTO:0001086	embryonic stem cell
+N9	Reference T10 EntrezGene:14460	Gata1
+N10	Reference T11 EntrezGene:18091	Nkx2-5
+A1	REGION T0 INSUFFICIENT
+N11	Reference T13 EntrezGene:14460	Gata1
+T12	TISSUE 1394 1407	hematopoietic
+N12	Reference T12 BTO:0000574	hematopoietic cell
+T32	TISSUE 1408 1422	erythroid cell
+N27	Reference T32 BTO:0002731	erythroid cell
+N13	Reference T14 EntrezGene:18091	Nkx2-5
+N14	Reference T15 EntrezGene:14460	Gata1
+N15	Reference T16 EntrezGene:18091	Nkx2-5
+N17	Reference T24 BTO:0000839	mesoderm
+T17	TISSUE 160 173	hematopoietic
+N19	Reference T17 BTO:0001035	hematopoietic cell line
+T18	TISSUE 178 194	cardiac lineages
+T19	TISSUE 848 855	embryos
+N20	Reference T19 BTO:0000379	embryo
+T20	TISSUE 74 93	cardiac progenitors
+T22	GENE 1266 1271	Gata1
+N23	Reference T22 EntrezGene:14460	Gata1
+T23	TISSUE 607 616	erythroid
+N24	Reference T23 BTO:0002731	erythroid cell
+T25	TISSUE 1038 1047	erythroid
+N25	Reference T25 BTO:0002731	erythroid cell

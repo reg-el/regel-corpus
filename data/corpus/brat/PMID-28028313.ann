@@ -1,0 +1,67 @@
+T0	ENHANCER 27 41	GIMAP enhancer
+T1	ENHANCER 580 615	novel TAL1-regulated super-enhancer
+T2	ENHANCER 852 866	GIMAP enhancer
+T3	ENHANCER 1160 1174	GIMAP enhancer
+T4	DISEASE 80 115	T-cell acute lymphoblastic leukemia
+T5	GENE 142 150	TAL1/SCL
+N1	Reference T5 EntrezGene:6886	TAL1
+T6	DISEASE 193 228	T-cell acute lymphoblastic leukemia
+T7	DISEASE 230 235	T-ALL
+T9	GENE 327 331	TAL1
+N4	Reference T9 EntrezGene:6886	TAL1
+T10	GENE 449 453	TAL1
+N5	Reference T10 EntrezGene:6886	TAL1
+T14	GENE 883 887	TAL1
+N8	Reference T14 EntrezGene:6886	TAL1
+T15	GENE 889 894	RUNX1
+N9	Reference T15 EntrezGene:861	RUNX1
+T16	GENE 899 904	GATA3
+N10	Reference T16 EntrezGene:2625	ATA3
+T17	SPECIES 908 913	human
+N11	Reference T17 NCBITaxon:9606	Homo sapiens
+T19	SPECIES 976 981	human
+N13	Reference T19 NCBITaxon:9606	Homo sapiens
+T20	DISEASE 1069 1077	leukemia
+T21	SPECIES 1093 1102	zebrafish
+N15	Reference T21 NCBITaxon:7955	Danio rerio
+T22	TISSUE 1190 1196	T-cell
+A23	REGION T0 INSUFFICIENT
+A4	CANCER T4
+A5	CANCER T6
+A6	CANCER T7
+T25	TISSUE 308 314	T-cell
+T26	TISSUE 357 381	hematopoietic stem cells
+N17	Reference T26 BTO:0000725	hematopoietic stem cell
+T27	TISSUE 383 387	HSCs
+N18	Reference T27 BTO:0000725	hematopoietic stem cell
+T28	TISSUE 417 427	thymocytes
+T29	TISSUE 544 554	thymocytes
+A1	REGION T1 INSUFFICIENT
+T12	TISSUE 700 711	T-ALL cells
+A9	CANCER T12
+T13	TISSUE 746 750	HSCs
+N6	Reference T13 BTO:0000725	hematopoietic stem cell
+T30	TISSUE 762 769	T cells
+T31	TISSUE 821 830	thymocyte
+N7	Reference T31 BTO:0001372	thymocyte
+A2	REGION T2 INSUFFICIENT
+T18	TISSUE 914 925	T-ALL cells
+A10	CANCER T18
+T32	TISSUE 1006 1016	thymocytes
+N12	Reference T32 BTO:0001372	thymocyte
+A3	REGION T3 INSUFFICIENT
+T33	TISSUE 301 307	thymus
+N19	Reference T33 BTO:0001374	thymus
+N20	Reference T4 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N2	Reference T6 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N3	Reference T7 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N14	Reference T20 MONDO:MONDO:0005059	leukemia
+N21	Reference T25 BTO:0000782	T-lymphocyte
+N22	Reference T28 BTO:0001372	thymocyte
+N23	Reference T29 BTO:0001372	thymocyte
+N24	Reference T12 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+N25	Reference T30 BTO:0000782	T-lymphocyte
+N26	Reference T18 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+N27	Reference T22 BTO:0000782	T-lymphocyte
+T8	GENE 586 590	TAL1
+N16	Reference T8 EntrezGene:6886	TAL1

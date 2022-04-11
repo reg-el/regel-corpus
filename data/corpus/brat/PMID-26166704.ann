@@ -1,0 +1,22 @@
+T8	GENE 42 65	Estrogen Receptor alpha
+N0	Reference T8 EntrezGene:2099	SR1
+T12	GENE 717 725	ER-alpha
+N4	Reference T12 EntrezGene:2099	SR1
+T13	GENE 883 889	HECTD1
+N5	Reference T13 EntrezGene:25831	HECTD1
+T14	GENE 975 979	p300
+N6	Reference T14 EntrezGene:2033	P300
+T15	GENE 984 990	RIP140
+N7	Reference T15 EntrezGene:8204	RIP1
+T1	TISSUE 654 673	breast cancer cells
+A1	CANCER T1
+N3	Reference T1 BTO:0000150	breast cancer cell
+T2	ENHANCER 574 639	estrogen receptor alpha (ER-alpha)-bound eRNA(+) active enhancers
+A2	REGION T2 INSUFFICIENT
+T3	ENHANCER 1008 1012	eRNA
+A3	RNA T3
+A4	REGION T3 INSUFFICIENT
+T4	GENE 574 597	estrogen receptor alpha
+N1	Reference T4 EntrezGene:2099	ESR1
+T5	GENE 599 607	ER-alpha
+N2	Reference T5 EntrezGene:2099	ESR1

@@ -1,0 +1,60 @@
+T0	GENE 0 7	SLC13A5
+N0	Reference T0 EntrezGene:284111	SLC13A5
+T2	SPECIES 110 115	human
+N1	Reference T2 NCBITaxon:9606	Homo sapiens
+T3	GENE 127 160	solute carrier family 13 member 5
+N2	Reference T3 EntrezGene:284111	SLC13A5
+T4	GENE 162 169	SLC13A5
+N3	Reference T4 EntrezGene:284111	SLC13A5
+T5	GENE 336 355	pregnane X receptor
+N4	Reference T5 EntrezGene:8856	R1I2
+T6	GENE 357 360	PXR
+N5	Reference T6 EntrezGene:8856	R1I2
+T7	GENE 362 367	NR1I2
+N6	Reference T7 EntrezGene:8856	R1I2
+T8	GENE 587 594	SLC13A5
+N7	Reference T8 EntrezGene:284111	SLC13A5
+T9	GENE 637 640	PXR
+N8	Reference T9 EntrezGene:8856	R1I2
+T10	GENE 668 675	SLC13A5
+N9	Reference T10 EntrezGene:284111	SLC13A5
+T11	SPECIES 706 711	human
+N10	Reference T11 NCBITaxon:9606	Homo sapiens
+T12	GENE 742 745	PXR
+N11	Reference T12 EntrezGene:8856	R1I2
+T13	GENE 819 826	SLC13A5
+N12	Reference T13 EntrezGene:284111	SLC13A5
+T14	SPECIES 830 835	human
+N13	Reference T14 NCBITaxon:9606	Homo sapiens
+T16	GENE 1154 1157	PXR
+N15	Reference T16 EntrezGene:8856	R1I2
+T17	GENE 1167 1174	SLC13A5
+N16	Reference T17 EntrezGene:284111	SLC13A5
+T18	SPECIES 1273 1278	human
+N17	Reference T18 NCBITaxon:9606	Homo sapiens
+T19	GENE 1317 1324	SLC13A5
+N18	Reference T19 EntrezGene:284111	SLC13A5
+T20	GENE 1440 1447	SLC13A5
+N19	Reference T20 EntrezGene:284111	SLC13A5
+T21	GENE 1474 1477	PXR
+N20	Reference T21 EntrezGene:8856	R1I2
+T23	DISEASE 1527 1546	metabolic disorders
+T24	SPECIES 1550 1556	humans
+N22	Reference T24 NCBITaxon:9606	Homo sapiens
+T25	TISSUE 116 121	liver
+T26	GENE 49 68	pregnane X receptor
+N23	Reference T26 EntrezGene:8856	NR1I2
+T27	TISSUE 844 855	hepatocytes
+T28	TISSUE 1287 1298	hepatocytes
+T29	TISSUE 1398 1409	HepG2 cells
+T30	TISSUE 712 723	liver cells
+N24	Reference T30 BTO:0000224	liver cell line
+T31	ENHANCER 1032 1114	two enhancer modules located upstream of the SLC13A5 gene transcription start site
+A31	REGION T31 INSUFFICIENT
+N14	Reference T25 BTO:0000759	liver
+N25	Reference T27 BTO:0000575	hepatocyte
+N26	Reference T28 BTO:0000575	hepatocyte
+N27	Reference T29 BTO:0000599	Hep-G2 cell
+N21	Reference T23 MONDO:MONDO:0005066	metabolic disease
+T1	GENE 1077 1084	SLC13A5
+N28	Reference T1 EntrezGene:284111	SLC13A5

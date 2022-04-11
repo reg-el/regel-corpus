@@ -1,0 +1,60 @@
+T1	SPECIES 347 356	mammalian
+N0	Reference T1 NCBITaxon:40674	Mammalia
+T2	SPECIES 715 724	mammalian
+N1	Reference T2 NCBITaxon:40674	Mammalia
+T3	GENE 775 779	SOX4
+N2	Reference T3 EntrezGene:20677	Sox4
+T4	GENE 784 789	SOX11
+N3	Reference T4 EntrezGene:20666	Sox11
+T5	GENE 898 903	SOX11
+N4	Reference T5 EntrezGene:20666	Sox11
+T6	TISSUE 1206 1218	hypothalamus
+T7	GENE 1280 1284	SOX4
+N5	Reference T7 EntrezGene:20677	Sox4
+T8	GENE 1288 1293	SOX11
+N6	Reference T8 EntrezGene:20666	Sox11
+T10	SPECIES 1369 1373	mice
+N7	Reference T10 NCBITaxon:10090	Mus musculus
+T14	GENE 42 46	GnRH
+N8	Reference T14 EntrezGene:14714	Gnrh1
+T15	GENE 290 294	GnRH
+N9	Reference T15 EntrezGene:14714	Gnrh1
+T19	ENHANCER 530 554	transcriptional enhancer
+A19	REGION T19 INSUFFICIENT
+T20	GENE 939 943	GnRH
+N11	Reference T20 EntrezGene:14714	Gnrh1
+T21	GENE 1025 1029	GnRH
+N12	Reference T21 EntrezGene:14714	Gnrh1
+T22	GENE 1057 1061	GnRH
+N13	Reference T22 EntrezGene:14714	Gnrh1
+T23	ENHANCER 1165 1182	intronic enhancer
+A23	REGION T23 INSUFFICIENT
+T24	GENE 1347 1351	GnRH
+N14	Reference T24 EntrezGene:14714	Gnrh1
+T25	GENE 1522 1526	GnRH
+N15	Reference T25 EntrezGene:14714	Gnrh1
+T26	ENHANCER 1560 1593	intronic transcriptional enhancer
+A26	REGION T26 INSUFFICIENT
+T27	ENHANCER 71 104	intronic transcriptional enhancer
+A27	REGION T27 INSUFFICIENT
+T28	GENE 106 110	GnRH
+N16	Reference T28 EntrezGene:14714	Gnrh1
+T29	PROMOTER 357 370	GnRH promoter
+A29	REGION T29 INSUFFICIENT
+T30	TISSUE 1186 1197	GT1-1 cells
+T31	TISSUE 1352 1359	neurons
+T11	ENHANCER 438 523	transcription-enhancer located in the first intron (intron A) region of the GnRH gene
+A2	REGION T11 INSUFFICIENT
+T12	TFBS 595 676	Y-related high-mobility-group box (SOX) family transcription factor-binding sites
+A3	REGION T12 INSUFFICIENT
+T13	TFBS 864 881	SOX-binding sites
+A5	REGION T13 INSUFFICIENT
+N10	Reference T30 BTO:0003899	GT1-1 cell
+N17	Reference T6 BTO:0000614	hypothalamus
+N18	Reference T31 BTO:0000938	neuron
+T9	TISSUE 954 965	GT1-1 cells
+N19	Reference T9 BTO:0003899	GT1-1 cell
+T16	GENE 514 518	GnRH
+N20	Reference T16 EntrezGene:14714	Gnrh1
+T17	GENE 357 361	GnRH
+N21	Reference T17 EntrezGene:14714	Gnrh1

@@ -1,0 +1,80 @@
+T1	GENE 31 34	CBP
+N0	Reference T1 EntrezGene:12914	Crebbp
+T2	GENE 35 40	CREST
+N1	Reference T2 EntrezGene:269397	Ss18l1
+T3	GENE 72 76	Creb
+N2	Reference T3 EntrezGene:12912	Creb1
+T4	GENE 77 87	HIF-1alpha
+N3	Reference T4 EntrezGene:15251	Hif1
+T5	SPECIES 107 113	murine
+N4	Reference T5 NCBITaxon:10090	Mus musculus
+T6	GENE 260 265	GLUT3
+N5	Reference T6 EntrezGene:20527	Slc2a3
+T8	GENE 322 327	GLUT3
+N7	Reference T8 EntrezGene:20527	Slc2a3
+T9	SPECIES 512 518	murine
+N8	Reference T9 NCBITaxon:10090	Mus musculus
+T10	GENE 519 524	glut3
+N9	Reference T10 EntrezGene:20527	Slc2a3
+T11	GENE 718 728	HIF-1alpha
+N10	Reference T11 EntrezGene:15251	Hif1
+T12	GENE 735 739	Creb
+N11	Reference T12 EntrezGene:12912	Creb1
+T13	GENE 969 972	CBP
+N12	Reference T13 EntrezGene:12914	Crebbp
+T14	GENE 978 982	Creb
+N13	Reference T14 EntrezGene:12912	Creb1
+T15	GENE 987 997	HIF-1alpha
+N14	Reference T15 EntrezGene:15251	Hif1
+T16	GENE 1002 1007	CREST
+N15	Reference T16 EntrezGene:269397	Ss18l1
+T17	GENE 1013 1016	CBP
+N16	Reference T17 EntrezGene:12914	Crebbp
+T18	DISEASE 1020 1027	hypoxia
+T19	GENE 1117 1121	Creb
+N18	Reference T19 EntrezGene:12912	Creb1
+T20	GENE 1158 1162	Creb
+N19	Reference T20 EntrezGene:12912	Creb1
+T21	GENE 1218 1223	glut3
+N20	Reference T21 EntrezGene:20527	Slc2a3
+T22	GENE 1285 1295	HIF-1alpha
+N21	Reference T22 EntrezGene:15251	Hif1
+T23	GENE 1300 1304	Creb
+N22	Reference T23 EntrezGene:12912	Creb1
+T24	GENE 1346 1351	glut3
+N23	Reference T24 EntrezGene:20527	Slc2a3
+T25	GENE 1402 1407	CREST
+N24	Reference T25 EntrezGene:269397	Ss18l1
+T26	GENE 1412 1415	CBP
+N25	Reference T26 EntrezGene:12914	Crebbp
+T27	GENE 1458 1462	Creb
+N26	Reference T27 EntrezGene:12912	Creb1
+T28	GENE 1472 1482	HIF-1alpha
+N27	Reference T28 EntrezGene:15251	Hif1
+T29	GENE 1494 1499	glut3
+N28	Reference T29 EntrezGene:20527	Slc2a3
+T32	GENE 229 258	glucose transporter isoform 3
+N29	Reference T32 EntrezGene:20527	Slc2a3
+T33	ENHANCER 583 651	enhancer activities to -857- to -573-bp and -203- to -177-bp regions
+A1	REGION T33 INSUFFICIENT
+T34	TFBS 751 812	HRE (-828 to -824 bp) and AP-1 (-187 to -180 bp) cis-elements
+A2	REGION T34 INSUFFICIENT
+T35	DISEASE 567 574	hypoxia
+T36	DISEASE 1202 1209	hypoxia
+T37	DISEASE 1318 1325	hypoxia
+T38	TFBS 1483 1486	HRE
+A3	REGION T38 INSUFFICIENT
+T40	DISEASE 653 660	Hypoxia
+T43	TISSUE 490 505	N2A neuroblasts
+T44	DISEASE 173 180	hypoxia
+T7	TISSUE 281 303	N2A murine neuroblasts
+N6	Reference T7 BTO:0000932	neuroblastoma cell line
+N30	Reference T43 BTO:0000932	neuroblastoma cell line
+T46	TISSUE 1253 1268	N2A neuroblasts
+N31	Reference T46 BTO:0000932	neuroblastoma cell line
+T47	TISSUE 1707 1718	neuroblasts
+N32	Reference T47 BTO:0000930	neuroblast
+T30	GENE 1463 1467	AP-1
+N17	Reference T30 EntrezGene:16476	Jun
+T31	GENE 777 781	AP-1
+N33	Reference T31 EntrezGene:16476	Jun

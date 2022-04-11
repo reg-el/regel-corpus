@@ -1,0 +1,175 @@
+Identification	O
+of	O
+a	O
+novel	O
+putative	O
+mitochondrial	O
+protein	O
+FAM210B	O
+associated	O
+with	O
+erythroid	O
+differentiation	O
+.	O
+
+
+The	O
+transcription	O
+factor	O
+GATA	O
+-	O
+1	O
+plays	O
+an	O
+essential	O
+role	O
+in	O
+erythroid	O
+differentiation	O
+.	O
+
+
+To	O
+identify	O
+novel	O
+GATA	O
+-	O
+1	O
+target	O
+genes	O
+,	O
+we	O
+analyzed	O
+a	O
+merged	O
+ChIP	O
+-	O
+seq	O
+and	O
+expression	O
+profiling	O
+dataset	O
+.	O
+
+
+We	O
+identified	O
+FAM210B	O
+as	O
+a	O
+putative	O
+novel	O
+GATA	O
+-	O
+1	O
+target	O
+gene	O
+.	O
+
+
+Study	O
+results	O
+demonstrated	O
+that	O
+GATA	O
+-	O
+1	O
+directly	O
+regulates	O
+FAM210B	O
+expression	O
+,	O
+presumably	O
+by	O
+binding	O
+to	O
+an	O
+intronic	B-ENHANCER
+enhancer	I-ENHANCER
+region	E-ENHANCER
+.	O
+
+
+Both	O
+human	O
+and	O
+murine	O
+FAM210B	O
+are	O
+abundantly	O
+expressed	O
+in	O
+the	O
+later	O
+stages	O
+of	O
+erythroblast	O
+development	O
+.	O
+
+
+Moreover	O
+,	O
+the	O
+deduced	O
+amino	O
+acid	O
+sequence	O
+predicted	O
+that	O
+FAM210B	O
+is	O
+a	O
+membrane	O
+protein	O
+,	O
+and	O
+Western	O
+blot	O
+analysis	O
+demonstrated	O
+its	O
+mitochondrial	O
+localization	O
+.	O
+
+
+Loss	O
+-	O
+of	O
+-	O
+function	O
+analysis	O
+in	O
+erythroid	O
+cells	O
+suggested	O
+that	O
+FAM210B	O
+may	O
+be	O
+involved	O
+in	O
+erythroid	O
+differentiation	O
+.	O
+
+
+The	O
+identification	O
+and	O
+characterization	O
+of	O
+FAM210B	O
+provides	O
+new	O
+insights	O
+in	O
+the	O
+study	O
+of	O
+erythropoiesis	O
+and	O
+hereditary	O
+anemias	O
+.	O

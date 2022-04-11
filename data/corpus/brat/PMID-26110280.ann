@@ -1,0 +1,40 @@
+T3	ENHANCER 1028 1045	Ccnb1ip1 enhancer
+T6	GENE 36 67	cyclin B1 interacting protein 1
+N0	Reference T6 EntrezGene:57820	CCNB1IP1
+T7	SPECIES 105 114	mammalian
+T8	SPECIES 474 479	mouse
+N2	Reference T8 NCBITaxon:10090	Mus musculus
+T9	GENE 480 488	Ccnb1ip1
+N3	Reference T9 EntrezGene:239083	Ccnb1ip1
+T10	GENE 490 521	cyclin B1 interacting protein 1
+N4	Reference T10 EntrezGene:239083	Ccnb1ip1
+T11	GENE 1001 1009	Ccnb1ip1
+N5	Reference T11 EntrezGene:57820	CCNB1IP1
+T13	GENE 1051 1059	Ccnb1ip1
+N7	Reference T13 EntrezGene:57820	CCNB1IP1
+T14	GENE 1209 1217	Ccnb1ip1
+N8	Reference T14 EntrezGene:57820	CCNB1IP1
+T15	SPECIES 1233 1242	mammalian
+T17	GENE 1515 1523	Ccnb1ip1
+N11	Reference T17 EntrezGene:57820	CCNB1IP1
+A3	REGION T3 INSUFFICIENT
+T12	SPECIES 571 578	C57BL/6
+T19	SPECIES 620 629	129X1/SvJ
+N12	Reference T19 NCBITaxon:10090	Mus musculus
+T20	SPECIES 634 640	JF1/Ms
+N13	Reference T20 NCBITaxon:10090	Mus musculus
+T1	ENHANCER 820 836	185-bp fragments
+A1	REGION T1 INSUFFICIENT
+T2	ENHANCER 1283 1291	enhancer
+A4	REGION T2 INSUFFICIENT
+T4	ENHANCER 1354 1428	located immediately upstream of the transcriptional start site of Ccnb1ip1
+A5	REGION T4 INSUFFICIENT
+N6	Reference T12 NCBITaxon:10090	Mus musculus
+N1	Reference T7 NCBITaxon:40674	Mammalia
+N9	Reference T15 NCBITaxon:40674	Mammalia
+T5	TISSUE 556 563	embryos
+N10	Reference T5 BTO:0000379	
+T16	GENE 1028 1036	Ccnb1ip1
+N14	Reference T16 EntrezGene:239083	Ccnb1ip1
+T18	GENE 1420 1428	Ccnb1ip1
+N15	Reference T18 EntrezGene:239083	Ccnb1ip1

@@ -1,0 +1,80 @@
+T6	ENHANCER 1218 1238	long-range enhancers
+T7	ENHANCER 1433 1442	enhancers
+T8	ENHANCER 1534 1567	one of these long-range enhancers
+T9	GENE 30 35	Foxf1
+N0	Reference T9 EntrezGene:2294	FOXF1
+T10	GENE 232 247	forkhead box f1
+N1	Reference T10 EntrezGene:2294	FOXF1
+T11	GENE 249 254	Foxf1
+N2	Reference T11 EntrezGene:2294	FOXF1
+T12	GENE 351 365	Sonic hedgehog
+N3	Reference T12 EntrezGene:6469	SHH
+T13	GENE 367 370	Shh
+N4	Reference T13 EntrezGene:6469	SHH
+T14	GENE 505 510	Foxf1
+N5	Reference T14 EntrezGene:2294	FOXF1
+T15	GENE 539 542	Shh
+N6	Reference T15 EntrezGene:6469	SHH
+T16	GENE 701 706	Foxf1
+N7	Reference T16 EntrezGene:2294	FOXF1
+T17	GENE 723 726	Shh
+N8	Reference T17 EntrezGene:6469	SHH
+T19	GENE 847 850	Gli
+N10	Reference T19 EntrezGene:2735	LI1
+T21	SPECIES 1205 1210	human
+N12	Reference T21 NCBITaxon:9606	Homo sapiens
+T22	DISEASE 1318 1382	alveolar capillary dysplasia with misalignment of pulmonary vein
+T23	GENE 1504 1507	Gli
+N14	Reference T23 EntrezGene:2735	LI1
+T24	GENE 1628 1631	Shh
+N15	Reference T24 EntrezGene:6469	SHH
+T25	GENE 1642 1647	Foxf1
+N16	Reference T25 EntrezGene:2294	FOXF1
+T30	TISSUE 136 156	pulmonary epithelium
+T31	TISSUE 189 193	lung
+N17	Reference T31 BTO:0000763	lung
+T32	TISSUE 165 181	vascular network
+T33	TISSUE 276 291	lung mesenchyme
+T35	TISSUE 412 427	lung epithelium
+N19	Reference T35 BTO:0001653	lung epithelium
+T36	TISSUE 613 631	epithelium in lung
+N20	Reference T36 BTO:0001653	lung epithelium
+T37	TISSUE 753 757	lung
+N21	Reference T37 BTO:0000763	lung
+T2	ENHANCER 896 942	three evolutionarily conserved Foxf1 enhancers
+A1	REGION T2 INSUFFICIENT
+T5	TISSUE 1164 1177	blood vessels
+N11	Reference T5 BTO:0001102	blood vessel
+T20	TISSUE 1082 1105	pulmonary blood vessels
+A4	REGION T6 INSUFFICIENT
+T38	ENHANCER 991 1011	long-range enhancers
+A5	REGION T38 INSUFFICIENT
+T39	ENHANCER 944 982	two of which were long-range enhancers
+A6	REGION T39 INSUFFICIENT
+A7	REGION T7 INSUFFICIENT
+T41	TISSUE 1446 1468	pulmonary blood vessel
+A8	REGION T8 INSUFFICIENT
+T42	TISSUE 1598 1610	blood vessel
+N24	Reference T42 BTO:0001102	blood vessel
+T43	TISSUE 1665 1694	pulmonary distal blood vessel
+T1	ENHANCER 806 838	lung-specific enhancers of Foxf1
+A9	REGION T1 INSUFFICIENT
+N9	Reference T22 MONDO:MONDO:0009934	alveolar capillary dysplasia with misalignment of pulmonary veins
+T3	TISSUE 53 66	blood vessels
+N13	Reference T3 BTO:0001102	
+N22	Reference T33 BTO:0001393	mesenchyme
+N18	Reference T20 BTO:0001102	blood vessel
+N23	Reference T43 BTO:0001102	blood vessel
+N25	Reference T41 BTO:0001102	blood vessel
+N26	Reference T30 BTO:0001653	lung epithelium
+T4	TISSUE 70 96	pulmonary vascular network
+N27	Reference T4 BTO:0001085	vascular system
+N28	Reference T32 BTO:0001085	vascular system
+T18	ENHANCER 866 875	enhancers
+A2	REGION T18 INSUFFICIENT
+T26	ENHANCER 0 20	Long-range enhancers
+A3	REGION T26 INSUFFICIENT
+T27	GENE 833 838	Foxf1
+N29	Reference T27 EntrezGene:2294	FOXF1
+T28	GENE 927 932	Foxf1
+N30	Reference T28 EntrezGene:2294	FOXF1

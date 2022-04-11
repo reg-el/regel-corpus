@@ -1,0 +1,29 @@
+T5	DISEASE 76 105	diffuse large B cell lymphoma
+T6	DISEASE 107 136	Diffuse large B cell lymphoma
+T7	DISEASE 138 143	DLBCL
+T8	DISEASE 297 302	DLBCL
+T9	GENE 408 421	bromodomain 4
+N0	Reference T9 EntrezGene:23476	BRD4
+T10	GENE 423 427	BRD4
+N1	Reference T10 EntrezGene:23476	BRD4
+T11	GENE 473 477	BRD4
+N2	Reference T11 EntrezGene:23476	BRD4
+T12	DISEASE 780 786	DLBCLs
+T13	GENE 800 805	OCA-B
+N3	Reference T13 EntrezGene:5450	POU2AF1
+T14	DISEASE 859 865	cancer
+T15	DISEASE 940 946	DLBCLs
+A5	CANCER T5
+A6	CANCER T6
+A7	CANCER T7
+A8	CANCER T8
+A9	CANCER T12
+A10	CANCER T14
+A11	CANCER T15
+N5	Reference T5 MONDO:MONDO:0018905	diffuse large B-cell lymphoma
+N6	Reference T6 MONDO:MONDO:0018905	diffuse large B-cell lymphoma
+N7	Reference T7 MONDO:MONDO:0018905	diffuse large B-cell lymphoma
+N8	Reference T8 MONDO:MONDO:0018905	diffuse large B-cell lymphoma
+N9	Reference T12 MONDO:MONDO:0018905	diffuse large B-cell lymphoma
+N10	Reference T15 MONDO:MONDO:0018905	diffuse large B-cell lymphoma
+N4	Reference T14 MONDO:MONDO:0004992	cancer

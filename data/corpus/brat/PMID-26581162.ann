@@ -1,0 +1,18 @@
+T0	PROMOTER 704 742	long terminal repeat promoter of HIV-1
+T1	ENHANCER 796 819	viral enhancer sequence
+T2	SPECIES 41 46	HIV-1
+N0	Reference T2 NCBITaxon:11676	Human immunodeficiency virus 1
+T3	SPECIES 89 94	HIV-1
+N1	Reference T3 NCBITaxon:11676	Human immunodeficiency virus 1
+T4	SPECIES 333 336	HIV
+N2	Reference T4 NCBITaxon:12721	Human immunodeficiency virus
+T6	GENE 1329 1337	TNFalpha
+N4	Reference T6 EntrezGene:7124	TNF
+T7	DISEASE 1592 1595	HIV
+T8	DISEASE 1596 1600	AIDS
+A2	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T10	TISSUE 959 966	T cells
+N3	Reference T7 MONDO:MONDO:0005109	HIV infectious disease
+N5	Reference T8 MONDO:MONDO:0012268	AIDS
+N6	Reference T10 BTO:0000782	T-lymphocyte

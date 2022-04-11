@@ -1,0 +1,64 @@
+T1	ENHANCER 1242 1284	ERG-bound enhancer located upstream of HLX
+T4	GENE 53 56	ERG
+N2	Reference T4 EntrezGene:2078	R
+T5	GENE 57 61	p300
+N3	Reference T5 EntrezGene:2033	P300
+T8	GENE 332 336	DLL4
+N6	Reference T8 EntrezGene:54567	DLL4
+T11	GENE 451 455	DLL4
+N9	Reference T11 EntrezGene:54567	DLL4
+T12	GENE 508 512	DLL4
+N10	Reference T12 EntrezGene:54567	DLL4
+T15	GENE 628 631	ERG
+N13	Reference T15 EntrezGene:2078	R
+T16	GENE 652 656	DLL4
+N14	Reference T16 EntrezGene:54567	DLL4
+T17	GENE 685 689	DLL4
+N15	Reference T17 EntrezGene:54567	DLL4
+T18	GENE 713 716	ERG
+N16	Reference T18 EntrezGene:2078	R
+T19	GENE 775 779	p300
+N17	Reference T19 EntrezGene:2033	P300
+T21	GENE 863 866	ERG
+N19	Reference T21 EntrezGene:2078	R
+T22	GENE 888 891	ERG
+N20	Reference T22 EntrezGene:2078	R
+T25	GENE 1133 1136	ERG
+N23	Reference T25 EntrezGene:2078	R
+T26	GENE 1141 1145	p300
+N24	Reference T26 EntrezGene:2033	P300
+T32	GENE 305 330	Notch ligand delta-like 4
+N29	Reference T32 EntrezGene:54567	DLL4
+T33	TISSUE 341 358	endothelial cells
+N30	Reference T33 BTO:0001176	endothelial cell
+A1	REGION T1 INSUFFICIENT
+T2	GENE 140 174	vascular endothelial growth factor
+N1	Reference T2 EntrezGene:7422	VEGFA
+T3	GENE 176 180	VEGF
+N4	Reference T3 EntrezGene:7422	VEGFA
+T6	GENE 538 542	VEGF
+N5	Reference T6 EntrezGene:7422	VEGFA
+T7	GENE 843 847	VEGF
+N7	Reference T7 EntrezGene:7422	VEGFA
+T9	GENE 1381 1385	VEGF
+N8	Reference T9 EntrezGene:7422	VEGFA
+T10	GENE 1493 1497	VEGF
+N11	Reference T10 EntrezGene:7422	VEGFA
+T13	ENHANCER 968 1028	ERG-bound putative enhancer elements near these target genes
+A2	REGION T13 INSUFFICIENT
+T14	GENE 22 26	VEGF
+N12	Reference T14 EntrezGene:7422	VEGFA
+T20	GENE 396 399	ERK
+N18	Reference T20 EntrezGene:2048	EPHB2
+T23	GENE 543 546	ERK
+N21	Reference T23 EntrezGene:2048	EPHB2
+T24	GENE 1128 1131	ERK
+N22	Reference T24 EntrezGene:2048	EPHB2
+T27	GENE 49 52	ERK
+N25	Reference T27 EntrezGene:2048	EPHB2
+T28	GENE 968 971	ERG
+N26	Reference T28 EntrezGene:2078	ERG
+T29	GENE 1242 1245	ERG
+N27	Reference T29 EntrezGene:2078	ERG
+T30	GENE 1281 1284	HLX
+N28	Reference T30 EntrezGene:3142	HLX

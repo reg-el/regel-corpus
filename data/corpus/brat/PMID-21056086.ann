@@ -1,0 +1,92 @@
+T1	ENHANCER 903 918	distal enhancer
+T2	ENHANCER 1007 1015	enhancer
+T3	PROMOTER 1092 1104	Id3 promoter
+T4	PROMOTER 1372 1384	Id3 promoter
+T5	GENE 14 42	bone morphogenetic protein 2
+T6	GENE 44 48	BMP2
+T7	GENE 61 87	inhibitor of DNA binding 3
+N2	Reference T7 EntrezGene:15903	Id3
+T8	GENE 89 92	Id3
+N3	Reference T8 EntrezGene:15903	Id3
+T9	GENE 109 137	Bone morphogenetic protein 2
+T10	GENE 139 143	BMP2
+T12	GENE 284 288	BMP2
+T13	GENE 300 303	Id3
+N8	Reference T13 EntrezGene:15903	Id3
+T14	SPECIES 321 327	murine
+N9	Reference T14 NCBITaxon:10090	Mus musculus
+T15	GENE 484 488	BMP2
+N10	Reference T15 EntrezGene:12156	Bmp2
+T16	GENE 505 510	BMPR2
+N11	Reference T16 EntrezGene:12168	Bmpr2
+T17	GENE 515 521	BMPR1A
+N12	Reference T17 EntrezGene:12166	Bmpr1
+T18	GENE 523 527	ALK3
+N13	Reference T18 EntrezGene:12166	Bmpr1
+T20	GENE 603 606	Id3
+N15	Reference T20 EntrezGene:15903	Id3
+T23	GENE 940 944	BMP4
+N18	Reference T23 EntrezGene:652	BMP4
+T24	SPECIES 962 967	human
+N19	Reference T24 NCBITaxon:9606	Homo sapiens
+T25	GENE 968 971	ID3
+N20	Reference T25 EntrezGene:3399	ID3
+T27	SPECIES 1036 1042	murine
+N22	Reference T27 NCBITaxon:10090	Mus musculus
+T28	GENE 1079 1083	BMP2
+N23	Reference T28 EntrezGene:12156	Bmp2
+T30	SPECIES 1202 1207	human
+N25	Reference T30 NCBITaxon:9606	Homo sapiens
+T31	GENE 1208 1211	ID3
+N26	Reference T31 EntrezGene:3399	ID3
+T32	GENE 1254 1258	BMP2
+N27	Reference T32 EntrezGene:650	BMP2
+T33	GENE 1272 1275	ID3
+N28	Reference T33 EntrezGene:3399	ID3
+T34	GENE 1354 1358	BMP2
+N29	Reference T34 EntrezGene:12156	Bmp2
+T36	SPECIES 1397 1403	murine
+N31	Reference T36 NCBITaxon:10090	Mus musculus
+T37	GENE 1475 1479	BMP2
+N32	Reference T37 EntrezGene:12156	Bmp2
+T38	GENE 1490 1493	Id3
+N33	Reference T38 EntrezGene:15903	Id3
+T39	GENE 1494 1497	ID3
+N1	Reference T6 EntrezGene:650	BMP2
+N35	Reference T5 EntrezGene:650	BMP2
+N4	Reference T9 EntrezGene:650	BMP2
+N5	Reference T10 EntrezGene:650	BMP2
+T11	GENE 174 206	inhibitors of DNA binding (Id) 1
+N6	Reference T11 EntrezGene:3397	ID1
+T42	GENE 208 209	2
+N36	Reference T42 EntrezGene:3398	ID2
+T43	GENE 215 216	3
+N37	Reference T43 EntrezGene:3399	ID3
+N7	Reference T12 EntrezGene:12156	Bmp2
+T44	TISSUE 328 340	gonadotropes
+N38	Reference T44 BTO:0002482	gonadotrophic cell
+T19	GENE 576 583	SMADs 1
+N14	Reference T19 EntrezGene:17125	Smad1
+T45	GENE 588 589	5
+N39	Reference T45 EntrezGene:17129	Smad5
+T46	TFBS 648 713	6-bp cis-element mediating BMP2- and SMAD-dependent transcription
+A1	REGION T1 INSUFFICIENT
+T22	TISSUE 980 1000	ovarian cancer cells
+A5	CANCER T22
+A2	REGION T2 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+T26	TISSUE 1117 1129	gonadotropes
+N17	Reference T26 BTO:0002482	gonadotrophic cell
+T29	TFBS 1147 1167	proximal cis-element
+A6	REGION T29 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+T35	TISSUE 1404 1415	fibroblasts
+N21	Reference T35 BTO:0000452	fibroblast
+N24	Reference T39 EntrezGene:3399	ID3
+A7	REGION T46 INSUFFICIENT
+T21	GENE 1092 1095	Id3
+N16	Reference T21 EntrezGene:15903	Id3
+T40	GENE 1372 1375	Id3
+N30	Reference T40 EntrezGene:15903	Id3
+T41	GENE 675 679	BMP2
+N34	Reference T41 EntrezGene:650	BMP2

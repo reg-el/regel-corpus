@@ -1,0 +1,11 @@
+T7	GENE 137 140	BAF
+N0	Reference T7 EntrezGene:8815	BANF1
+T8	SPECIES 214 219	human
+N1	Reference T8 NCBITaxon:9606	Homo sapiens
+T12	GENE 578 582	p300
+N4	Reference T12 EntrezGene:328572	p300
+T10	TISSUE 398 414	cancer cell line
+T1	TISSUE 383 393	fibroblast
+N2	Reference T1 BTO:0000452	fibroblast
+T2	SPECIES 367 372	mouse
+N3	Reference T2 NCBITaxon:10090	Mus musculus

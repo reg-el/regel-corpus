@@ -1,0 +1,56 @@
+T1	GENE 0 3	YY1
+N0	Reference T1 EntrezGene:22632	Yy1
+T2	GENE 43 48	Hoxa5
+N1	Reference T2 EntrezGene:15402	Hoxa5
+T3	SPECIES 68 73	mouse
+N2	Reference T3 NCBITaxon:10090	Mus musculus
+T4	GENE 552 557	Hoxa5
+N3	Reference T4 EntrezGene:15402	Hoxa5
+T5	GENE 627 632	Hoxa5
+N4	Reference T5 EntrezGene:15402	Hoxa5
+T6	GENE 791 796	Hoxa5
+N5	Reference T6 EntrezGene:15402	Hoxa5
+T7	SPECIES 846 851	mouse
+N6	Reference T7 NCBITaxon:10090	Mus musculus
+T10	GENE 1002 1007	Hoxa4
+N9	Reference T10 EntrezGene:15401	Hoxa4
+T12	GENE 1170 1173	Yy1
+N11	Reference T12 EntrezGene:22632	Yy1
+T13	SPECIES 1191 1195	mice
+N12	Reference T13 NCBITaxon:10090	Mus musculus
+T14	GENE 1209 1214	Hoxa5
+N13	Reference T14 EntrezGene:15402	Hoxa5
+T15	GENE 1250 1255	Hoxa5
+N14	Reference T15 EntrezGene:15402	Hoxa5
+T16	GENE 1260 1265	Hoxa4
+N15	Reference T16 EntrezGene:15401	Hoxa4
+T17	GENE 1289 1292	YY1
+N16	Reference T17 EntrezGene:22632	Yy1
+T18	GENE 1325 1330	Hoxa5
+N17	Reference T18 EntrezGene:15402	Hoxa5
+T19	GENE 1407 1410	YY1
+N18	Reference T19 EntrezGene:22632	Yy1
+T21	TISSUE 587 591	lung
+T22	TISSUE 826 830	lung
+T23	TISSUE 1220 1224	lung
+T24	TISSUE 1360 1364	lung
+T20	TISSUE 596 599	gut
+T25	TISSUE 835 838	gut
+T26	TISSUE 1369 1372	gut
+T27	TFBS 880 980	two DNA regions included in a 1.5-kb XbaI-XbaI fragment located in the Hoxa4-Hoxa5 intergenic domain
+A1	REGION T27 INSUFFICIENT
+T8	TFBS 1046 1105	YY1 transcription factor binds the two regulatory sequences
+A3	REGION T8 INSUFFICIENT
+N7	Reference T21 BTO:0000763	lung
+N8	Reference T20 BTO:0000545	gut
+N10	Reference T22 BTO:0000763	lung
+N19	Reference T25 BTO:0000545	gut
+N20	Reference T23 BTO:0000763	lung
+N21	Reference T24 BTO:0000763	lung
+N22	Reference T26 BTO:0000545	gut
+T9	GENE 951 956	Hoxa4
+N23	Reference T9 EntrezGene:15401	Hoxa4
+T11	GENE 957 962	Hoxa5
+N24	Reference T11 EntrezGene:15402	Hoxa5
+T28	GENE 1046 1049	YY1
+N25	Reference T28 EntrezGene:22632	Yy1

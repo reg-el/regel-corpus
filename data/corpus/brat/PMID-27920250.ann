@@ -1,0 +1,67 @@
+T0	ENHANCER 383 423	liver-specific enhancer in the 3' region
+T1	ENHANCER 433 457	kidney-specific enhancer
+T2	DISEASE 6 12	Anemia
+T3	SPECIES 19 24	Mouse
+N0	Reference T3 NCBITaxon:10090	Mus musculus
+T4	GENE 66 80	Erythropoietin
+N1	Reference T4 EntrezGene:13856	po
+T5	GENE 135 149	erythropoietin
+N2	Reference T5 EntrezGene:13856	po
+T6	GENE 151 154	Epo
+N3	Reference T6 EntrezGene:13856	po
+T7	GENE 242 245	EPO
+N4	Reference T7 EntrezGene:13856	po
+T8	GENE 283 286	EPO
+N5	Reference T8 EntrezGene:13856	po
+T9	DISEASE 301 325	chronic kidney disorders
+T10	DISEASE 351 357	anemia
+T11	GENE 363 366	Epo
+N7	Reference T11 EntrezGene:13856	po
+T13	GENE 587 590	Epo
+N9	Reference T13 EntrezGene:13856	po
+T14	GENE 661 664	Epo
+N10	Reference T14 EntrezGene:13856	po
+T15	GENE 747 750	Epo
+N11	Reference T15 EntrezGene:13856	po
+T16	SPECIES 857 862	mouse
+N12	Reference T16 NCBITaxon:10090	Mus musculus
+T17	GENE 937 940	Epo
+N13	Reference T17 EntrezGene:13856	po
+T18	GENE 1037 1040	Epo
+N14	Reference T18 EntrezGene:13856	po
+T20	SPECIES 1051 1055	mice
+N15	Reference T20 NCBITaxon:10090	Mus musculus
+T22	SPECIES 1094 1098	mice
+N16	Reference T22 NCBITaxon:10090	Mus musculus
+T23	GENE 1110 1113	EPO
+N17	Reference T23 EntrezGene:13856	po
+T25	SPECIES 1138 1143	mouse
+N19	Reference T25 NCBITaxon:10090	Mus musculus
+T27	SPECIES 1298 1302	mice
+N21	Reference T27 NCBITaxon:10090	Mus musculus
+T28	SPECIES 1437 1442	mouse
+N22	Reference T28 NCBITaxon:10090	Mus musculus
+T29	GENE 1480 1483	Epo
+N23	Reference T29 EntrezGene:13856	po
+T31	TISSUE 94 100	Kidney
+N24	Reference T31 BTO:0000671	kidney
+T32	TISSUE 220 226	kidney
+N25	Reference T32 BTO:0000671	kidney
+A2	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T33	TISSUE 481 512	renal EPO-producing (REP) cells
+T36	TISSUE 960 969	REP cells
+T19	DISEASE 1124 1130	anemia
+T21	TISSUE 1197 1206	erythroid
+N18	Reference T21 BTO:0002731	erythroid cell
+T24	GENE 1282 1285	EPO
+N20	Reference T24 EntrezGene:13856	Epo
+T38	TISSUE 1503 1512	REP cells
+N28	Reference T2 MONDO:MONDO:0002280	anemia
+N6	Reference T9 MONDO:MONDO:0005300	chronic kidney disease
+N29	Reference T10 MONDO:MONDO:0002280	anemia
+N30	Reference T19 MONDO:MONDO:0002280	anemia
+T12	TISSUE 383 388	liver
+N8	Reference T12 BTO:0000759	liver
+T26	TISSUE 433 439	kidney
+N26	Reference T26 BTO:0000671	kidney

@@ -1,0 +1,12 @@
+T13	GENE 686 691	NANOG
+N2	Reference T13 EntrezGene:79923	ANO
+T14	GENE 693 697	OCT4
+N3	Reference T14 EntrezGene:5460	POU5F1
+T16	TISSUE 52 78	Human Embryonic Stem Cells
+T1	TISSUE 522 548	human embryonic stem cells
+T2	TISSUE 550 554	ESCs
+T3	TISSUE 892 895	ESC
+N7	Reference T3 BTO:0001086	
+N1	Reference T1 BTO:0006080	hESC cell
+N5	Reference T2 BTO:0006080	hESC cell
+N4	Reference T16 BTO:0006080	hESC cell

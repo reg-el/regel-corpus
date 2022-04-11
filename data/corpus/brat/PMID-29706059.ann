@@ -1,0 +1,67 @@
+T2	ENHANCER 1540 1596	enhancer in the aryl-hydrocarbon receptor repressor gene
+T3	ENHANCER 1935 1948	AHRR enhancer
+T4	ENHANCER 2182 2195	AHRR enhancer
+T6	DISEASE 235 242	cancers
+T7	DISEASE 247 269	cardiovascular disease
+T8	SPECIES 648 653	human
+N2	Reference T8 NCBITaxon:9606	Homo sapiens
+T10	SPECIES 837 842	human
+N4	Reference T10 NCBITaxon:9606	Homo sapiens
+T11	DISEASE 931 946	Atherosclerosis
+T18	GENE 1739 1743	AHRR
+N10	Reference T18 EntrezGene:57491	AHRR
+T19	GENE 1745 1760	C5orf55-EXOC-AS
+N11	Reference T19 EntrezGene:116349	XOC3-AS1
+T20	GENE 1766 1771	SASH1
+N12	Reference T20 EntrezGene:23328	SASH1
+T21	GENE 1866 1870	AHRR
+N13	Reference T21 EntrezGene:57491	AHRR
+T22	GENE 1902 1906	AHRR
+N14	Reference T22 EntrezGene:57491	AHRR
+T24	GENE 2099 2103	AHRR
+N16	Reference T24 EntrezGene:57491	AHRR
+T25	GENE 2124 2128	AHRR
+N17	Reference T25 EntrezGene:57491	AHRR
+A6	CANCER T6
+T1	TISSUE 666 675	monocytes
+T9	TISSUE 787 801	CD14+ monocyte
+T29	TISSUE 1152 1164	CD4+ T cells
+T30	TISSUE 1166 1178	CD8+ T cells
+T12	TISSUE 1180 1198	CD15+ granulocytes
+T13	TISSUE 1200 1213	CD19+ B cells
+T14	TISSUE 1219 1233	CD56+ NK cells
+T15	TISSUE 1412 1420	monocyte
+A1	REGION T2 INSUFFICIENT
+T16	TISSUE 1637 1649	granulocytes
+T17	TISSUE 1837 1846	monocytes
+N3	Reference T17 BTO:0000876	monocyte
+N5	Reference T16 BTO:0000539	granulocyte
+N6	Reference T15 BTO:0000876	monocyte
+A2	REGION T3 INSUFFICIENT
+T23	TISSUE 1988 1997	monocytes
+N7	Reference T23 BTO:0000876	monocyte
+T31	TISSUE 2007 2019	granulocytes
+N8	Reference T31 BTO:0000539	granulocyte
+T32	TISSUE 2139 2147	monocyte
+A3	REGION T4 INSUFFICIENT
+N9	Reference T6 MONDO:MONDO:0004992	cancer
+N1	Reference T7 MONDO:MONDO:0004995	cardiovascular disease
+N15	Reference T11 MONDO:MONDO:0005311	atherosclerosis
+T5	DISEASE 2285 2308	smoking-related disease
+N18	Reference T1 BTO:0000876	monocyte
+N19	Reference T32 BTO:0000876	monocyte
+N20	Reference T29 BTO:0002417	helper T-lymphocyte
+N21	Reference T30 BTO:0002417	helper T-lymphocyte
+N22	Reference T12 BTO:0000539	granulocyte
+N23	Reference T13 BTO:0005244	culture condition:CD19+ cell
+N24	Reference T14 BTO:0003287	NK-92 cell
+T26	TISSUE 1506 1514	monocyte
+N25	Reference T26 BTO:0000876	
+T27	GENE 1556 1591	aryl-hydrocarbon receptor repressor
+N26	Reference T27 EntrezGene:57491	AHRR
+T28	GENE 1598 1602	AHRR
+N27	Reference T28 EntrezGene:57491	AHRR
+T33	GENE 1935 1939	AHRR
+N28	Reference T33 EntrezGene:57491	AHRR
+T34	GENE 2182 2186	AHRR
+N29	Reference T34 EntrezGene:57491	AHRR

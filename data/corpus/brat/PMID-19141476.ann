@@ -1,0 +1,86 @@
+T0	ENHANCER 22 36	Pdx1 enhancers
+T1	ENHANCER 1344 1430	distal enhancer at -6.4 kb relative to the transcriptional start site in the Pdx1 gene
+T2	ENHANCER 1481 1503	proximal Pdx1 enhancer
+T4	GENE 40 45	Foxa1
+N1	Reference T4 EntrezGene:15375	Foxa1
+T5	GENE 50 55	Foxa2
+N2	Reference T5 EntrezGene:15376	Foxa2
+T6	GENE 198 202	Pdx1
+N3	Reference T6 EntrezGene:18609	Pdx1
+T7	GENE 204 208	IPF1
+N4	Reference T7 EntrezGene:18609	Pdx1
+T8	GENE 211 215	Pdx1
+N5	Reference T8 EntrezGene:18609	Pdx1
+T9	GENE 332 336	Pdx1
+N6	Reference T9 EntrezGene:18609	Pdx1
+T10	GENE 448 453	Foxa1
+N7	Reference T10 EntrezGene:15375	Foxa1
+T11	GENE 458 463	Foxa2
+N8	Reference T11 EntrezGene:15376	Foxa2
+T12	GENE 509 513	Pdx1
+N9	Reference T12 EntrezGene:18609	Pdx1
+T13	GENE 558 563	Foxa1
+N10	Reference T13 EntrezGene:15375	Foxa1
+T14	GENE 568 573	Foxa2
+N11	Reference T14 EntrezGene:15376	Foxa2
+T15	GENE 631 635	Pdx1
+N12	Reference T15 EntrezGene:18609	Pdx1
+T16	DISEASE 658 679	pancreatic hypoplasia
+T17	SPECIES 688 692	mice
+N14	Reference T17 NCBITaxon:10090	Mus musculus
+T18	DISEASE 701 714	hyperglycemia
+T19	GENE 1083 1088	Foxa2
+N16	Reference T19 EntrezGene:15376	Foxa2
+T20	GENE 1305 1310	Foxa1
+N17	Reference T20 EntrezGene:15375	Foxa1
+T21	GENE 1315 1320	Foxa2
+N18	Reference T21 EntrezGene:15376	Foxa2
+T24	GENE 1507 1512	Foxa1
+N21	Reference T24 EntrezGene:15375	Foxa1
+T25	GENE 1517 1522	Foxa2
+N22	Reference T25 EntrezGene:15376	Foxa2
+T26	GENE 1581 1585	Pdx1
+N23	Reference T26 EntrezGene:18609	Pdx1
+T27	GENE 1600 1605	Foxa1
+N24	Reference T27 EntrezGene:15375	Foxa1
+T28	GENE 1610 1615	Foxa2
+N25	Reference T28 EntrezGene:15376	Foxa2
+A3	REGION T0 INSUFFICIENT
+T3	TISSUE 848 856	pancreas
+N26	Reference T3 BTO:0000988	pancreas
+T31	TISSUE 900 917	pancreatic anlage
+N27	Reference T31 BTO:0000988	pancreas
+T32	TISSUE 1125 1133	pancreas
+N28	Reference T32 BTO:0000988	pancreas
+T33	TISSUE 1255 1263	pancreas
+N29	Reference T33 BTO:0000988	pancreas
+A1	REGION T1 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+T22	TISSUE 1690 1710	pancreatic primordia
+N19	Reference T22 BTO:0000988	pancreas
+T23	TISSUE 254 275	pancreatic primordium
+N20	Reference T23 BTO:0000988	pancreas
+T34	TISSUE 73 81	pancreas
+N30	Reference T34 BTO:0000988	pancreas
+T35	TISSUE 108 116	pancreas
+N31	Reference T35 BTO:0000988	pancreas
+T36	TISSUE 144 152	endoderm
+N32	Reference T36 BTO:0000800	endoderm
+T37	TISSUE 299 315	endocrine islets
+N33	Reference T37 BTO:0000650	endocrine pancreas
+T38	TISSUE 581 602	pancreatic primordium
+N34	Reference T38 BTO:0000988	pancreas
+T29	TISSUE 750 755	islet
+T39	TISSUE 1268 1273	islet
+N15	Reference T18 MONDO:MONDO:0002909	hyperglycemia
+T40	TISSUE 136 143	foregut
+N35	Reference T40 BTO:0000507	foregut
+N36	Reference T29 BTO:0000991	pancreatic islet
+N37	Reference T39 BTO:0000991	pancreatic islet
+N13	Reference T16 MONDO:MONDO:0010802	pancreatic hypoplasia-diabetes-congenital heart disease syndrome
+T30	GENE 22 26	Pdx1
+N38	Reference T30 EntrezGene:18609	Pdx1
+T41	GENE 1421 1425	Pdx1
+N39	Reference T41 EntrezGene:18609	Pdx1
+T42	GENE 1490 1494	Pdx1
+N40	Reference T42 EntrezGene:18609	Pdx1

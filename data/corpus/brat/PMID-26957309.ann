@@ -1,0 +1,5 @@
+T9	SPECIES 461 466	human
+N0	Reference T9 NCBITaxon:9606	Homo sapiens
+T10	TISSUE 467 474	T cells
+T1	TISSUE 1047 1063	microglial cells
+N1	Reference T10 BTO:0000782	T-lymphocyte

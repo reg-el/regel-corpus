@@ -1,0 +1,78 @@
+T9	GENE 0 5	Tip60
+N0	Reference T9 EntrezGene:81601	Kat5
+T11	GENE 151 156	Tip60
+N2	Reference T11 EntrezGene:10524	KAT5
+T12	GENE 158 162	KAT5
+N3	Reference T12 EntrezGene:10524	KAT5
+T13	SPECIES 210 219	mammalian
+T14	GENE 220 225	Tip60
+N5	Reference T14 EntrezGene:10524	KAT5
+T15	GENE 246 251	Tip60
+N6	Reference T15 EntrezGene:81601	Kat5
+T16	SPECIES 275 280	mouse
+N7	Reference T16 NCBITaxon:10090	Mus musculus
+T18	GENE 360 365	Tip60
+N9	Reference T18 EntrezGene:81601	Kat5
+T19	GENE 508 513	Tip60
+N10	Reference T19 EntrezGene:81601	Kat5
+T20	GENE 601 606	Tip60
+N11	Reference T20 EntrezGene:81601	Kat5
+T21	GENE 654 659	Tip60
+N12	Reference T21 EntrezGene:81601	Kat5
+T22	GENE 714 719	Tip60
+N13	Reference T22 EntrezGene:81601	Kat5
+T23	GENE 769 774	Tip60
+N14	Reference T23 EntrezGene:81601	Kat5
+T24	GENE 898 903	Tip60
+N15	Reference T24 EntrezGene:81601	Kat5
+T25	GENE 1087 1092	Tip60
+N16	Reference T25 EntrezGene:81601	Kat5
+T26	GENE 1103 1107	KAT8
+N17	Reference T26 EntrezGene:67773	Kat8
+T27	GENE 1303 1308	Tip60
+N18	Reference T27 EntrezGene:81601	Kat5
+T28	GENE 1416 1421	Tip60
+N19	Reference T28 EntrezGene:81601	Kat5
+T29	GENE 1518 1523	Tip60
+N20	Reference T29 EntrezGene:81601	Kat5
+T31	GENE 1720 1725	Tip60
+N22	Reference T31 EntrezGene:81601	Kat5
+T32	GENE 1904 1909	Tip60
+N23	Reference T32 EntrezGene:81601	Kat5
+T36	TISSUE 117 137	embryonic stem cells
+N24	Reference T36 BTO:0001086	embryonic stem cell
+T10	TISSUE 297 322	mouse embryonic stem cell
+N1	Reference T10 BTO:0001086	embryonic stem cell
+T37	TISSUE 324 328	mESC
+N25	Reference T37 BTO:0001086	embryonic stem cell
+T17	TISSUE 467 472	mESCs
+N8	Reference T17 BTO:0001086	embryonic stem cell
+T38	TISSUE 628 632	ESCs
+N26	Reference T38 BTO:0001086	embryonic stem cell
+T39	TISSUE 786 791	mESCs
+N27	Reference T39 BTO:0001086	embryonic stem cell
+T4	TISSUE 1615 1620	mESCs
+N28	Reference T4 BTO:0001086	embryonic stem cell
+T40	TISSUE 1805 1809	mESC
+N29	Reference T40 BTO:0001086	embryonic stem cell
+T7	TISSUE 2019 2022	ESC
+N30	Reference T7 BTO:0001086	embryonic stem cell
+T41	TISSUE 2061 2064	ESC
+N31	Reference T41 BTO:0001086	embryonic stem cell
+T6	TISSUE 2180 2185	mESCs
+N32	Reference T6 BTO:0001086	embryonic stem cell
+T1	GENE 1528 1533	c-Myc
+N33	Reference T1 EntrezGene:4609	MYC
+T3	GENE 2032 2037	c-Myc
+N35	Reference T3 EntrezGene:4609	MYC
+T2	TFBS 1639 1696	Tip60 and c-Myc co-bind at 50-60 % of their binding sites
+A1	REGION T2 INSUFFICIENT
+T5	SPECIES 111 116	mouse
+N21	Reference T5 NCBITaxon:10090	Mus musculus
+T8	GENE 94 99	c-Myc
+N34	Reference T8 EntrezGene:4609	MYC
+N4	Reference T13 NCBITaxon:40674	Mammalia
+T30	GENE 1639 1644	Tip60
+N36	Reference T30 EntrezGene:81601	Kat5
+T33	GENE 1649 1654	c-Myc
+N37	Reference T33 EntrezGene:4609	MYC

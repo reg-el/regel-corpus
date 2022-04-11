@@ -1,0 +1,4 @@
+T1	TISSUE 555 575	embryonic stem cells
+N1	Reference T1 BTO:0001086	embryonic stem cell
+T2	TISSUE 651 663	Cancer cells
+A1	CANCER T2

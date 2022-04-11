@@ -1,0 +1,68 @@
+T0	ENHANCER 28 36	enhancer
+T1	ENHANCER 530 553	396-bp minimal enhancer
+T2	ENHANCER 755 763	enhancer
+T3	ENHANCER 1069 1082	Bmp4 enhancer
+T4	ENHANCER 1564 1582	Bmp4 enhancer site
+T5	GENE 47 51	Bmp4
+N0	Reference T5 EntrezGene:12159	Bmp4
+T6	GENE 146 150	Bmp4
+N1	Reference T6 EntrezGene:12159	Bmp4
+T7	GENE 263 267	Bmp4
+N2	Reference T7 EntrezGene:12159	Bmp4
+T10	GENE 609 613	Bmp4
+N5	Reference T10 EntrezGene:12159	Bmp4
+T13	GENE 1406 1410	Bmp4
+N8	Reference T13 EntrezGene:12159	Bmp4
+T14	GENE 1476 1481	Pitx2
+N9	Reference T14 EntrezGene:18741	Pitx2
+T15	GENE 1550 1555	Pitx2
+N10	Reference T15 EntrezGene:18741	Pitx2
+T17	GENE 1708 1712	Bmp4
+N12	Reference T17 EntrezGene:12159	Bmp4
+A18	REGION T0 INSUFFICIENT
+T19	TISSUE 77 84	incisor
+T20	TISSUE 89 97	limb bud
+A1	REGION T1 INSUFFICIENT
+T8	TISSUE 467 489	lateral plate mesoderm
+N3	Reference T8 BTO:0000839	mesoderm
+T9	TISSUE 668 686	incisor epithelium
+T22	TISSUE 639 663	mandibular arch ectoderm
+T23	TISSUE 718 723	tooth
+N4	Reference T23 BTO:0000397	tooth
+N13	Reference T20 BTO:0001640	limb bud
+N14	Reference T19 BTO:0001741	incisor
+A2	REGION T2 INSUFFICIENT
+T24	TISSUE 926 947	incisor dental lamina
+A3	REGION T3 INSUFFICIENT
+T12	TISSUE 1150 1160	mandibular
+N7	Reference T12 BTO:0001751	mandibular ramus
+T25	TISSUE 1165 1183	incisor epithelium
+T26	TISSUE 1436 1448	craniofacial
+N17	Reference T26 BTO:0006387	craniofacial bone
+T27	TISSUE 1453 1457	limb
+N18	Reference T27 BTO:0001492	limb
+A4	REGION T4 INSUFFICIENT
+T16	TISSUE 1588 1615	dental epithelial cell line
+T28	TISSUE 1743 1761	incisor epithelium
+T11	TISSUE 838 842	limb
+N6	Reference T11 BTO:0001492	limb
+T29	TISSUE 873 888	limb mesenchyme
+N11	Reference T29 BTO:0001393	mesenchyme
+T18	REGULATORY_REGION 327 411	regulatory region located ~46 kb upstream of the mouse Bmp4 transcription start site
+A5	REGION T18 INSUFFICIENT
+T21	TFBS 1044 1105	DNA binding motif in the Bmp4 enhancer for Pitx homeoproteins
+A7	REGION T21 INSUFFICIENT
+T30	TFBS 1305 1336	this site supports Pitx binding
+A9	REGION T30 INSUFFICIENT
+N19	Reference T24 BTO:0005563	dental lamina
+N22	Reference T22 BTO:0000315	ectoderm
+T31	SPECIES 920 925	mouse
+N23	Reference T31 NCBITaxon:10090	Mus musculus
+N15	Reference T9 BTO:0001723	enamel epithelium
+N20	Reference T25 BTO:0001723	enamel epithelium
+N21	Reference T16 BTO:0001723	enamel epithelium
+N16	Reference T28 BTO:0001723	enamel epithelium
+T32	GENE 1069 1073	Bmp4
+N24	Reference T32 EntrezGene:12159	Bmp4
+T33	GENE 1564 1568	Bmp4
+N25	Reference T33 EntrezGene:12159	Bmp4

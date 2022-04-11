@@ -1,0 +1,30 @@
+T3	PROMOTER 831 870	Hsp68 silent proximal promoter sequence
+T5	ENHANCER 1215 1278	enhancer located -100 kb from the CCN2 transcription start site
+T6	ENHANCER 1329 1362	enhancer -135 kb upstream of CCN2
+T9	GENE 54 58	CCN2
+N0	Reference T9 EntrezGene:14219	Ccn2
+T10	GENE 89 93	CCN2
+N1	Reference T10 EntrezGene:14219	Ccn2
+T11	GENE 420 424	CCN2
+N2	Reference T11 EntrezGene:14219	Ccn2
+T17	SPECIES 1005 1009	mice
+T20	GENE 1717 1721	CCN2
+N11	Reference T20 EntrezGene:14219	Ccn2
+A3	REGION T3 INSUFFICIENT
+A4	REGION T5 INSUFFICIENT
+A5	REGION T6 INSUFFICIENT
+T4	TISSUE 1401 1413	chondrocytes
+N3	Reference T4 BTO:0000249	chondrocyte
+T7	TISSUE 1614 1626	chondrocytes
+N7	Reference T7 BTO:0000249	chondrocyte
+T12	TISSUE 1535 1546	fibroblasts
+N9	Reference T12 BTO:0000452	fibroblast
+T1	ENHANCER 1091 1116	Four functional enhancers
+A1	REGION T1 INSUFFICIENT
+T2	ENHANCER 1444 1489	two enhancers, located at -198 kb and -229 kb
+A2	REGION T2 INSUFFICIENT
+N4	Reference T17 NCBITaxon:10090	Mus musculus
+T8	GENE 1249 1253	CCN2
+N5	Reference T8 EntrezGene:14219	Ccn2
+T13	GENE 1358 1362	CCN2
+N6	Reference T13 EntrezGene:14219	Ccn2

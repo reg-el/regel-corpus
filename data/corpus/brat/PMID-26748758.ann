@@ -1,0 +1,30 @@
+T2	GENE 0 5	Foxd3
+N0	Reference T2 EntrezGene:15221	Foxd3
+T3	SPECIES 138 143	mouse
+N1	Reference T3 NCBITaxon:10090	Mus musculus
+T4	SPECIES 295 300	mouse
+N2	Reference T4 NCBITaxon:10090	Mus musculus
+T5	GENE 482 487	Foxd3
+N3	Reference T5 EntrezGene:15221	Foxd3
+T6	GENE 605 610	Foxd3
+N4	Reference T6 EntrezGene:15221	Foxd3
+T7	GENE 838 843	Foxd3
+N5	Reference T7 EntrezGene:15221	Foxd3
+T8	GENE 1046 1051	Foxd3
+N6	Reference T8 EntrezGene:15221	Foxd3
+T9	TISSUE 144 158	epiblast cells
+N7	Reference T9 BTO:0004593	epiblast
+T10	TISSUE 235 242	somatic
+T11	TISSUE 247 267	primordial germ cell
+T12	TISSUE 269 272	PGC
+T13	TISSUE 301 321	embryonic stem cells
+N8	Reference T13 BTO:0001086	embryonic stem cell
+T14	TISSUE 875 892	pluripotent cells
+T15	TISSUE 954 957	PGC
+T16	TISSUE 1109 1112	PGC
+N9	Reference T11 BTO:0004982	gonocyte
+N10	Reference T12 BTO:0004982	gonocyte
+N11	Reference T15 BTO:0004982	gonocyte
+N12	Reference T16 BTO:0004982	gonocyte
+N13	Reference T10 BTO:0001268	somatic cell
+N14	Reference T14 BTO:0006078	pluripotent stem cell

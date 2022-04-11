@@ -1,0 +1,62 @@
+T1	GENE 0 5	STAT5
+N0	Reference T1 EntrezGene:20850	Stat5
+T2	GENE 65 69	IL-2
+N1	Reference T2 EntrezGene:16183	Il2
+T3	GENE 123 128	Il2ra
+N2	Reference T3 EntrezGene:16184	Il2r
+T8	GENE 459 464	Il2ra
+N7	Reference T8 EntrezGene:16184	Il2r
+T12	GENE 635 640	STAT5
+N11	Reference T12 EntrezGene:20850	Stat5
+T13	GENE 702 706	IL-2
+N12	Reference T13 EntrezGene:16183	Il2
+T14	GENE 716 720	IL-2
+N13	Reference T14 EntrezGene:16183	Il2
+T15	GENE 731 736	STAT5
+N14	Reference T15 EntrezGene:20850	Stat5
+T18	SPECIES 1029 1033	mice
+N17	Reference T18 NCBITaxon:10090	Mus musculus
+T19	GENE 1059 1064	STAT5
+N18	Reference T19 EntrezGene:20850	Stat5
+T20	GENE 1085 1089	IL-2
+N19	Reference T20 EntrezGene:16183	Il2
+T21	GENE 1098 1103	Il2ra
+N20	Reference T21 EntrezGene:16184	Il2r
+T22	GENE 1381 1386	STAT5
+N21	Reference T22 EntrezGene:20850	Stat5
+T23	GENE 1396 1400	IL-2
+N22	Reference T23 EntrezGene:16183	Il2
+T25	TISSUE 237 244	T cells
+N23	Reference T25 BTO:0000782	T-lymphocyte
+T26	TISSUE 436 443	T cells
+N24	Reference T26 BTO:0000782	T-lymphocyte
+T16	TFBS 962 1025	three of the STAT5 binding sites within the Il2ra superenhancer
+A1	REGION T16 INSUFFICIENT
+T17	ENHANCER 1006 1025	Il2ra superenhancer
+A3	REGION T17 INSUFFICIENT
+T4	ENHANCER 359 432	enhancer elements bound by IL-2-activated STAT5 and IL-21-activated STAT3
+A4	REGION T4 INSUFFICIENT
+T5	ENHANCER 504 544	IL-2-activated STAT5-bound superenhancer
+A5	REGION T5 INSUFFICIENT
+T6	ENHANCER 583 609	STAT3-bound superenhancers
+T7	ENHANCER 1167 1180	superenhancer
+A9	REGION T7 INSUFFICIENT
+A2	REGION T6 INSUFFICIENT
+T9	GENE 386 390	IL-2
+N3	Reference T9 EntrezGene:16183	Il2
+T10	GENE 504 508	IL-2
+N4	Reference T10 EntrezGene:16183	Il2
+T11	GENE 401 406	STAT5
+N5	Reference T11 EntrezGene:20850	Stat5a
+T24	GENE 519 524	STAT5
+N6	Reference T24 EntrezGene:20850	Stat5a
+T27	GENE 583 588	STAT3
+N8	Reference T27 EntrezGene:20848	Stat3
+T28	GENE 427 432	STAT3
+N9	Reference T28 EntrezGene:20848	Stat3
+T29	GENE 411 416	IL-21
+N10	Reference T29 EntrezGene:60505	Il21
+T30	GENE 1006 1011	Il2ra
+N15	Reference T30 EntrezGene:16184	Il2ra
+T31	GENE 975 980	STAT5
+N16	Reference T31 EntrezGene:20850	Stat5a

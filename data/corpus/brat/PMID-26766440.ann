@@ -1,0 +1,16 @@
+T10	ENHANCER 932 955	SLC25A37 super-enhancer
+T17	GENE 579 584	GATA2
+N1	Reference T17 EntrezGene:2624	ATA2
+T18	GENE 588 593	GATA1
+N2	Reference T18 EntrezGene:2623	ATA1
+T2	TISSUE 453 474	erythroid progenitors
+N6	Reference T2 BTO:0004911	erythroid progenitor cell
+T3	TISSUE 646 655	erythroid
+N7	Reference T3 BTO:0002731	erythroid cell
+A1	REGION T10 INSUFFICIENT
+T1	TISSUE 403 438	hematopoietic stem/progenitor cells
+T5	SPECIES 381 386	human
+N3	Reference T5 NCBITaxon:9606	Homo sapiens
+N5	Reference T1 BTO:0000725	hematopoietic stem cell
+T4	GENE 932 940	SLC25A37
+N4	Reference T4 EntrezGene:51312	SLC25A37

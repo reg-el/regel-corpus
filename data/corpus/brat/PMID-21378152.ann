@@ -1,0 +1,110 @@
+T1	ENHANCER 1023 1038	WT1 5' enhancer
+T2	ENHANCER 1120 1131	5' enhancer
+T3	GENE 0 9	TGF-beta1
+N0	Reference T3 EntrezGene:7040	TGFB1
+T6	GENE 114 117	WT1
+N3	Reference T6 EntrezGene:7490	WT1
+T7	GENE 166 203	transforming growth factor (TGF)-beta
+N4	Reference T7 EntrezGene:7040	TGFB1
+T8	DISEASE 219 253	focal segmental glomerulosclerosis
+T9	DISEASE 255 259	FSGS
+T10	GENE 290 298	TGF-beta
+N6	Reference T10 EntrezGene:7040	TGFB1
+T11	GENE 307 310	WT1
+N7	Reference T11 EntrezGene:7490	WT1
+T13	GENE 385 394	TGF-beta1
+N9	Reference T13 EntrezGene:7040	TGFB1
+T14	GENE 410 413	Alb
+N10	Reference T14 EntrezGene:213	ALB
+T15	GENE 414 423	TGF-beta1
+N11	Reference T15 EntrezGene:7040	TGFB1
+T17	SPECIES 435 439	mice
+T18	GENE 458 461	WT1
+N14	Reference T18 EntrezGene:22431	Wt1
+T19	GENE 506 515	TGF-beta1
+N15	Reference T19 EntrezGene:7040	TGFB1
+T20	GENE 524 527	WT1
+N16	Reference T20 EntrezGene:7490	WT1
+T21	GENE 609 612	WT1
+N17	Reference T21 EntrezGene:7490	WT1
+T22	GENE 749 754	Smad4
+N18	Reference T22 EntrezGene:4089	SMAD4
+T23	GENE 803 812	TGF-beta1
+N19	Reference T23 EntrezGene:7040	TGFB1
+T24	GENE 839 842	WT1
+N20	Reference T24 EntrezGene:7490	WT1
+T25	GENE 899 908	TGF-beta1
+N21	Reference T25 EntrezGene:7040	TGFB1
+T30	GENE 1066 1075	TGF-beta1
+N26	Reference T30 EntrezGene:7040	TGFB1
+T31	GENE 1089 1092	WT1
+N27	Reference T31 EntrezGene:7490	WT1
+T33	SPECIES 1160 1164	mice
+T34	GENE 1166 1169	WT1
+N30	Reference T34 EntrezGene:22431	Wt1
+T35	DISEASE 1247 1264	glomeruloclerosis
+T36	GENE 1302 1311	TGF-beta1
+N31	Reference T36 EntrezGene:7040	TGFB1
+T37	GENE 1320 1323	WT1
+N32	Reference T37 EntrezGene:7490	WT1
+T38	SPECIES 1347 1352	human
+N33	Reference T38 NCBITaxon:9606	Homo sapiens
+T39	SPECIES 1380 1384	mice
+N34	Reference T39 NCBITaxon:10090	Mus musculus
+T40	DISEASE 1398 1416	glomerulosclerosis
+T41	GENE 1460 1465	Smad4
+N35	Reference T41 EntrezGene:4089	SMAD4
+T42	GENE 1523 1532	TGF-beta1
+N36	Reference T42 EntrezGene:7040	TGFB1
+T43	DISEASE 1536 1551	podocyte injury
+T44	DISEASE 1556 1560	FSGS
+T45	GENE 1566 1569	WT1
+N39	Reference T45 EntrezGene:7490	WT1
+T47	GENE 18 46	Wilms' tumor suppressor gene
+N40	Reference T47 EntrezGene:7490	WT1
+T4	TISSUE 61 70	podocytes
+N1	Reference T4 BTO:0002295	podocyte
+T5	GENE 84 112	Wilms' tumor suppressor gene
+N2	Reference T5 EntrezGene:7490	WT1
+T48	TISSUE 143 151	podocyte
+N41	Reference T48 BTO:0002295	podocyte
+T49	TISSUE 325 334	podocytes
+N5	Reference T49 BTO:0002295	podocyte
+T12	TISSUE 353 371	podocyte cell line
+N8	Reference T12 BTO:0002295	podocyte
+T50	TISSUE 399 406	kidneys
+N42	Reference T50 BTO:0000671	kidney
+T16	TISSUE 495 504	podocytes
+N12	Reference T16 BTO:0002295	podocyte
+T51	TISSUE 888 897	podocytes
+N43	Reference T51 BTO:0002295	podocyte
+T26	PROMOTER 981 993	WT1 promoter
+A3	REGION T26 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+T27	TISSUE 1192 1201	podocytes
+N22	Reference T27 BTO:0002295	podocyte
+T28	TISSUE 1353 1362	podocytes
+N23	Reference T28 BTO:0002295	podocyte
+T29	TISSUE 1367 1376	podocytes
+N24	Reference T29 BTO:0002295	podocyte
+T32	DISEASE 1613 1628	podocyte injury
+T46	SPECIES 975 980	human
+N25	Reference T46 NCBITaxon:9606	Homo sapiens
+T52	SPECIES 1017 1022	human
+N28	Reference T52 NCBITaxon:9606	Homo sapiens
+T53	SPECIES 347 352	human
+N37	Reference T53 NCBITaxon:9606	Homo sapiens
+N38	Reference T8 MONDO:MONDO:0005363	focal segmental glomerulosclerosis
+N44	Reference T9 MONDO:MONDO:0005363	focal segmental glomerulosclerosis
+N45	Reference T44 MONDO:MONDO:0005363	focal segmental glomerulosclerosis
+N46	Reference T35 MONDO:MONDO:0000490	glomerulosclerosis
+N47	Reference T40 MONDO:MONDO:0000490	glomerulosclerosis
+N48	Reference T43 MONDO:MONDO:0019722	glomerular disease
+N49	Reference T32 MONDO:MONDO:0019722	glomerular disease
+N13	Reference T17 NCBITaxon:10090	Mus musculus
+N29	Reference T33 NCBITaxon:10090	Mus musculus
+T54	GENE 1023 1026	WT1
+N50	Reference T54 EntrezGene:7490	WT1
+T55	GENE 981 984	WT1
+N51	Reference T55 EntrezGene:7490	WT1

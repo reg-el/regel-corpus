@@ -1,0 +1,140 @@
+T3	ENHANCER 1619 1699	enhancer located 8.8 kb upstream of the transcription start site of the Hdc gene
+T5	GENE 26 31	GATA2
+N0	Reference T5 EntrezGene:14461	ta2
+T6	GENE 36 82	microphthalmia-associated transcription factor
+N1	Reference T6 EntrezGene:17342	Mitf
+T8	GENE 92 95	Hdc
+N3	Reference T8 EntrezGene:15186	Hdc
+T9	GENE 365 388	histidine decarboxylase
+N4	Reference T9 EntrezGene:15186	Hdc
+T10	GENE 390 393	Hdc
+N5	Reference T10 EntrezGene:15186	Hdc
+T11	GENE 415 418	HDC
+N6	Reference T11 EntrezGene:15186	Hdc
+T12	GENE 447 450	Hdc
+N7	Reference T12 EntrezGene:15186	Hdc
+T13	GENE 618 623	GATA2
+N8	Reference T13 EntrezGene:14461	ta2
+T14	GENE 628 674	microphthalmia-associated transcription factor
+N9	Reference T14 EntrezGene:17342	Mitf
+T16	GENE 676 680	MITF
+N11	Reference T16 EntrezGene:17342	Mitf
+T17	GENE 710 715	GATA2
+N12	Reference T17 EntrezGene:14461	ta2
+T18	GENE 720 724	MITF
+N13	Reference T18 EntrezGene:17342	Mitf
+T19	GENE 734 737	Hdc
+N14	Reference T19 EntrezGene:15186	Hdc
+T20	SPECIES 757 762	mouse
+N15	Reference T20 NCBITaxon:10090	Mus musculus
+T21	SPECIES 767 772	human
+N16	Reference T21 NCBITaxon:9606	Homo sapiens
+T22	SPECIES 794 798	Mice
+N17	Reference T22 NCBITaxon:10090	Mus musculus
+T23	GENE 838 843	Gata2
+N18	Reference T23 EntrezGene:14461	ta2
+T24	GENE 845 870	aryl hydrocarbon receptor
+N19	Reference T24 EntrezGene:11622	Ahr
+T25	GENE 872 875	Ahr
+N20	Reference T25 EntrezGene:11622	Ahr
+T26	GENE 878 913	aryl hydrocarbon receptor repressor
+N21	Reference T26 EntrezGene:11624	Ahrr
+T27	GENE 915 919	Ahrr
+N22	Reference T27 EntrezGene:11624	Ahrr
+T28	GENE 925 965	basic helix-loop-helix family member E40
+N23	Reference T28 EntrezGene:20893	Bhlhe40
+T29	GENE 967 974	Bhlhe40
+N24	Reference T29 EntrezGene:20893	Bhlhe40
+T32	GENE 1287 1291	MITF
+N27	Reference T32 EntrezGene:17342	Mitf
+T33	SPECIES 1306 1311	mouse
+N28	Reference T33 NCBITaxon:10090	Mus musculus
+T34	SPECIES 1316 1321	human
+N29	Reference T34 NCBITaxon:9606	Homo sapiens
+T35	GENE 1322 1325	HDC
+N30	Reference T35 EntrezGene:3067	HDC
+T37	SPECIES 1405 1409	mice
+N31	Reference T37 NCBITaxon:10090	Mus musculus
+T38	GENE 1459 1464	GATA2
+N32	Reference T38 EntrezGene:14461	ta2
+T39	GENE 1491 1495	Mitf
+N33	Reference T39 EntrezGene:17342	Mitf
+T40	GENE 1497 1500	Ahr
+N34	Reference T40 EntrezGene:11622	Ahr
+T41	GENE 1502 1506	Ahrr
+N35	Reference T41 EntrezGene:11624	Ahrr
+T42	GENE 1512 1519	Bhlhe40
+N36	Reference T42 EntrezGene:20893	Bhlhe40
+T43	GENE 1535 1539	MITF
+N37	Reference T43 EntrezGene:17342	Mitf
+T44	GENE 1549 1552	AHR
+N38	Reference T44 EntrezGene:11622	Ahr
+T45	GENE 1554 1558	AHRR
+N39	Reference T45 EntrezGene:11624	Ahrr
+T46	GENE 1563 1570	BHLHE40
+N40	Reference T46 EntrezGene:20893	Bhlhe40
+T47	GENE 1602 1606	MITF
+N41	Reference T47 EntrezGene:17342	Mitf
+T49	GENE 1732 1736	MITF
+N43	Reference T49 EntrezGene:17342	Mitf
+T50	GENE 1769 1772	Hdc
+N44	Reference T50 EntrezGene:15186	Hdc
+T53	GENE 1858 1862	MITF
+N46	Reference T53 EntrezGene:4286	MITF
+T54	GENE 1884 1887	HDC
+N47	Reference T54 EntrezGene:3067	HDC
+T55	GENE 1967 1972	GATA2
+N48	Reference T55 EntrezGene:14461	ta2
+T56	GENE 1977 1981	MITF
+N49	Reference T56 EntrezGene:17342	Mitf
+T57	GENE 1991 1994	Hdc
+N50	Reference T57 EntrezGene:15186	Hdc
+T7	TISSUE 115 125	mast cells
+N2	Reference T7 BTO:0000830	mast cell
+T60	TISSUE 151 160	mast cell
+N51	Reference T60 BTO:0000830	mast cell
+T61	DISEASE 170 181	anaphylaxis
+T62	TISSUE 235 244	mast cell
+N52	Reference T62 BTO:0000830	mast cell
+T63	DISEASE 254 265	anaphylaxis
+T64	TISSUE 459 469	mast cells
+N53	Reference T64 BTO:0000830	mast cell
+T65	TISSUE 773 783	mast cells
+N54	Reference T65 BTO:0000830	mast cell
+T2	TISSUE 1370 1379	mast cell
+N55	Reference T2 BTO:0000830	mast cell
+T66	TISSUE 1427 1436	mast cell
+N56	Reference T66 BTO:0000830	mast cell
+T67	DISEASE 1446 1457	anaphylaxis
+T68	TISSUE 1523 1533	mast cells
+N57	Reference T68 BTO:0000830	mast cell
+T69	DISEASE 1589 1600	anaphylaxis
+T48	TISSUE 1796 1822	Gata2-deficient mast cells
+N42	Reference T48 BTO:0000830	mast cell
+T71	TISSUE 1837 1856	mast cell line LAD2
+N58	Reference T71 BTO:0004139	LAD-2 cell
+T72	TISSUE 2014 2024	mast cells
+N59	Reference T72 BTO:0000830	mast cell
+T73	TISSUE 2050 2059	mast cell
+N60	Reference T73 BTO:0000830	mast cell
+T74	DISEASE 2069 2080	anaphylaxis
+A1	REGION T3 INSUFFICIENT
+T1	TISSUE 558 567	mast cell
+T4	ENHANCER 1088 1101	Hdc enhancers
+A2	REGION T4 INSUFFICIENT
+T15	ENHANCER 1185 1210	enhancers in the Hdc gene
+A4	REGION T15 INSUFFICIENT
+T30	SPECIES 1831 1836	human
+N10	Reference T30 NCBITaxon:9606	Homo sapiens
+N25	Reference T61 MONDO:MONDO:0100053	anaphylaxis
+N26	Reference T63 MONDO:MONDO:0100053	anaphylaxis
+N45	Reference T67 MONDO:MONDO:0100053	anaphylaxis
+N61	Reference T69 MONDO:MONDO:0100053	anaphylaxis
+N62	Reference T74 MONDO:MONDO:0100053	anaphylaxis
+N63	Reference T1 BTO:0000830	mast cell
+T31	GENE 1088 1091	Hdc
+N64	Reference T31 EntrezGene:15186	Hdc
+T36	GENE 1202 1205	Hdc
+N65	Reference T36 EntrezGene:15186	Hdc
+T51	GENE 1691 1694	Hdc
+N66	Reference T51 EntrezGene:15186	Hdc

@@ -1,0 +1,99 @@
+T1	ENHANCER 1245 1259	SIX2 enhancers
+T4	SPECIES 27 32	mouse
+N0	Reference T4 NCBITaxon:10090	Mus musculus
+T5	SPECIES 37 42	human
+N1	Reference T5 NCBITaxon:9606	Homo sapiens
+T6	SPECIES 262 267	mouse
+N2	Reference T6 NCBITaxon:10090	Mus musculus
+T7	GENE 308 312	Six1
+N3	Reference T7 EntrezGene:20471	Six1
+T8	GENE 317 321	Six2
+N4	Reference T8 EntrezGene:20472	Six2
+T9	GENE 383 387	Six1
+N5	Reference T9 EntrezGene:6495	SIX1
+T10	GENE 466 470	Six2
+N6	Reference T10 EntrezGene:10736	SIX2
+T11	GENE 582 586	Six2
+N7	Reference T11 EntrezGene:20472	Six2
+T12	SPECIES 590 595	mouse
+N8	Reference T12 NCBITaxon:10090	Mus musculus
+T13	SPECIES 600 605	human
+N9	Reference T13 NCBITaxon:9606	Homo sapiens
+T14	GENE 712 716	SIX1
+N10	Reference T14 EntrezGene:6495	SIX1
+T15	GENE 737 741	SIX2
+N11	Reference T15 EntrezGene:10736	SIX2
+T16	SPECIES 763 768	human
+N12	Reference T16 NCBITaxon:9606	Homo sapiens
+T17	GENE 851 855	SIX1
+N13	Reference T17 EntrezGene:6495	SIX1
+T18	GENE 860 864	SIX2
+N14	Reference T18 EntrezGene:10736	SIX2
+T19	SPECIES 885 890	human
+N15	Reference T19 NCBITaxon:9606	Homo sapiens
+T20	SPECIES 956 961	human
+N16	Reference T20 NCBITaxon:9606	Homo sapiens
+T21	GENE 962 966	SIX1
+N17	Reference T21 EntrezGene:6495	SIX1
+T22	GENE 971 975	SIX2
+N18	Reference T22 EntrezGene:10736	SIX2
+T23	SPECIES 1119 1124	mouse
+N19	Reference T23 NCBITaxon:10090	Mus musculus
+T24	GENE 1131 1135	Six2
+N20	Reference T24 EntrezGene:20472	Six2
+T25	GENE 1198 1202	Six1
+N21	Reference T25 EntrezGene:20471	Six1
+T26	SPECIES 1209 1214	human
+N22	Reference T26 NCBITaxon:9606	Homo sapiens
+T27	GENE 1215 1219	SIX1
+N23	Reference T27 EntrezGene:6495	SIX1
+T28	GENE 1224 1228	SIX2
+N24	Reference T28 EntrezGene:10736	SIX2
+T30	ENHANCER 1273 1305	enhancers positioned around SIX1
+N26	Reference T30 EntrezGene:6495	SIX1
+T33	SPECIES 1368 1373	mouse
+N29	Reference T33 NCBITaxon:10090	Mus musculus
+T34	SPECIES 1396 1401	mouse
+N30	Reference T34 NCBITaxon:10090	Mus musculus
+T35	GENE 1425 1429	Six1
+N31	Reference T35 EntrezGene:20471	Six1
+T36	SPECIES 1529 1534	mouse
+N32	Reference T36 NCBITaxon:10090	Mus musculus
+T37	SPECIES 1539 1544	human
+N33	Reference T37 NCBITaxon:9606	Homo sapiens
+T38	SPECIES 1573 1578	human
+N34	Reference T38 NCBITaxon:9606	Homo sapiens
+T39	GENE 1627 1631	SIX1
+N35	Reference T39 EntrezGene:6495	SIX1
+T40	GENE 1636 1640	SIX2
+N36	Reference T40 EntrezGene:10736	SIX2
+T41	SPECIES 1698 1703	mouse
+N37	Reference T41 NCBITaxon:10090	Mus musculus
+T42	GENE 1740 1744	Six2
+N38	Reference T42 EntrezGene:20472	Six2
+A1	REGION T1 INSUFFICIENT
+T43	TISSUE 43 62	nephron progenitors
+T44	TISSUE 112 119	Nephron
+N40	Reference T44 BTO:0000924	nephron
+T45	TISSUE 183 201	nephron progenitor
+T46	TISSUE 235 241	kidney
+N42	Reference T46 BTO:0000671	kidney
+T47	TISSUE 352 371	nephron progenitors
+T50	TISSUE 606 625	nephron progenitors
+T51	TISSUE 769 788	nephron progenitors
+T52	TISSUE 897 916	nephron progenitors
+T54	TISSUE 1545 1564	nephron progenitors
+T56	TISSUE 1854 1872	nephron progenitor
+T58	TISSUE 1934 1941	nephron
+N54	Reference T58 BTO:0000924	nephron
+T2	ENHANCER 1347 1360	SIX1 enhancer
+A2	REGION T2 INSUFFICIENT
+A3	REGION T30 INSUFFICIENT
+T3	SPECIES 1341 1346	human
+N25	Reference T3 NCBITaxon:9606	Homo sapiens
+T29	GENE 1301 1305	SIX1
+N27	Reference T29 EntrezGene:6495	SIX1
+T31	GENE 1347 1351	SIX1
+N28	Reference T31 EntrezGene:6495	SIX1
+T32	GENE 1245 1249	SIX2
+N39	Reference T32 EntrezGene:10736	SIX2

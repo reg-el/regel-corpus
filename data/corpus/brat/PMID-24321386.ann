@@ -1,0 +1,80 @@
+T0	ENHANCER 68 85	intronic enhancer
+T3	ENHANCER 1720 1754	intronic enhancer of the FDXR gene
+T4	SPECIES 30 35	human
+N0	Reference T4 NCBITaxon:9606	Homo sapiens
+T5	GENE 36 56	ferredoxin reductase
+N1	Reference T5 EntrezGene:2232	FDXR
+T6	GENE 110 130	Ferredoxin reductase
+N2	Reference T6 EntrezGene:2232	FDXR
+T7	GENE 132 136	FDXR
+N3	Reference T7 EntrezGene:2232	FDXR
+T8	GENE 152 173	adrenodoxin reductase
+N4	Reference T8 EntrezGene:2232	FDXR
+T9	GENE 355 359	FDXR
+N5	Reference T9 EntrezGene:2232	FDXR
+T10	GENE 521 543	steroidogenic factor-1
+T11	GENE 565 570	Ad4BP
+N7	Reference T11 EntrezGene:2516	R5A1
+T12	GENE 604 608	SF-1
+T13	SPECIES 629 634	human
+N9	Reference T13 NCBITaxon:9606	Homo sapiens
+T14	GENE 831 835	FDXR
+N10	Reference T14 EntrezGene:2232	FDXR
+T15	GENE 847 851	SF-1
+T16	GENE 924 928	FDXR
+N12	Reference T16 EntrezGene:2232	FDXR
+T20	GENE 1137 1141	FDXR
+N16	Reference T20 EntrezGene:2232	FDXR
+T22	GENE 1234 1238	SF-1
+T23	SPECIES 1252 1257	human
+N19	Reference T23 NCBITaxon:9606	Homo sapiens
+T24	GENE 1303 1307	FDXR
+N20	Reference T24 EntrezGene:2232	FDXR
+T26	GENE 1563 1567	SF-1
+T27	GENE 1632 1636	FDXR
+N23	Reference T27 EntrezGene:2232	FDXR
+T28	GENE 1700 1704	SF-1
+A4	REGION T0 INSUFFICIENT
+T31	TISSUE 89 108	steroidogenic cells
+T32	GENE 545 549	SF-1
+N6	Reference T10 EntrezGene:2516	NR5A1
+N26	Reference T32 EntrezGene:2516	NR5A1
+N8	Reference T12 EntrezGene:2516	NR5A1
+T33	TISSUE 635 656	mesenchymal stem cell
+N27	Reference T33 BTO:0003298	mesenchymal stem cell
+T34	TISSUE 678 697	steroidogenic cells
+N11	Reference T15 EntrezGene:2516	NR5A1
+T1	TISSUE 945 964	steroidogenic cells
+T17	TFBS 1026 1096	SF-1 binding region was located within intron 2 of the human FDXR gene
+A1	REGION T17 INSUFFICIENT
+T21	TFBS 1188 1221	SF-1 binding site within intron 2
+A5	REGION T21 INSUFFICIENT
+N13	Reference T22 EntrezGene:2516	NR5A1
+T35	TISSUE 1258 1278	adrenocortical H295R
+N17	Reference T35 BTO:0002588	NCI-H295R cell
+T36	TISSUE 1283 1292	KGN cells
+N18	Reference T36 BTO:0005671	KGN cell
+A6	CANCER T35
+A7	CANCER T36
+T37	TISSUE 1323 1334	H295R cells
+A8	CANCER T37
+N28	Reference T37 BTO:0002588	NCI-H295R cell
+T2	TFBS 1448 1481	SF-1 binding site within intron 2
+N21	Reference T26 EntrezGene:2516	NR5A1
+T25	TISSUE 1581 1592	H295R cells
+N22	Reference T25 BTO:0002588	NCI-H295R cell
+T38	TISSUE 1657 1676	steroidogenic cells
+N24	Reference T28 EntrezGene:2516	NR5A1
+A2	REGION T3 INSUFFICIENT
+A3	CANCER T25
+A9	REGION T2 INSUFFICIENT
+T18	GENE 1745 1749	FDXR
+N14	Reference T18 EntrezGene:2232	FDXR
+T19	GENE 1026 1030	SF-1
+N15	Reference T19 EntrezGene:2516	NR5A1
+T29	GENE 1188 1192	SF-1
+N25	Reference T29 EntrezGene:2516	NR5A1
+T30	GENE 1448 1452	SF-1
+N29	Reference T30 EntrezGene:2516	NR5A1
+T39	GENE 1087 1091	FDXR
+N30	Reference T39 EntrezGene:2232	FDXR

@@ -1,0 +1,12 @@
+T1	ENHANCER 615 624	enhancers
+T4	SPECIES 474 483	mammalian
+T5	GENE 576 580	Oct4
+N1	Reference T5 EntrezGene:5460	POU5F1
+T6	GENE 585 590	Nanog
+N2	Reference T6 EntrezGene:79923	ANO
+N3	Reference T4 NCBITaxon:40674	Mammalia
+A1	REGION T1 INSUFFICIENT
+T2	TISSUE 817 830	somatic cells
+N4	Reference T2 BTO:0001268	somatic cell
+T3	TISSUE 834 843	iPS cells
+N5	Reference T3 BTO:0006081	hiPSC cell

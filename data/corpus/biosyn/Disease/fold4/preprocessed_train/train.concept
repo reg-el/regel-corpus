@@ -1,0 +1,502 @@
+19141476||658|679||Disease||pancreatic hypoplasia||0010802
+19141476||701|714||Disease||hyperglycemia||0002909
+19708858||422|448||Disease||cardiovascular pathologies||0004995
+19708858||550|573||Disease||ischaemic heart disease||0005053
+19708858||1833|1853||Disease||ischaemic conditions||0005053
+21051589||269|284||Disease||prostate cancer||0008315
+21385855||325|341||Disease||beta-thalassemia||0019402
+21464207||188|206||Disease||vascular disorders||0005385
+21464207||218|233||Disease||atherosclerosis||0005311
+21464207||238|250||Disease||inflammation||0021166
+21464207||1623|1639||Disease||vascular disease||0005385
+21494683||42|50||Disease||insomnia||0013600
+21494683||52|60||Disease||Insomnia||0013600
+21494683||194|202||Disease||insomnia||0013600
+21494683||335|343||Disease||insomnia||0013600
+21494683||447|455||Disease||diabetes||0005015
+21494683||490|498||Disease||Insomnia||0013600
+21494683||682|698||Disease||bipolar disorder||0004985
+21494683||703|716||Disease||schizophrenia||0005090
+21494683||1491|1497||Disease||neural||0005071
+21494683||1502|1524||Disease||pancreatic dysfunction||0002356
+21494683||1537|1545||Disease||insomnia||0013600
+21494683||1571|1592||Disease||psychiatric disorders||0002025
+21494683||1619|1646||Disease||circadian rhythm disruption||0024361
+21494683||1651|1669||Disease||metabolic syndrome||0004955
+21536859||13|43||Disease||T-acute lymphoblastic leukemia||0004963
+21536859||309|339||Disease||T-acute lymphoblastic leukemia||0004963
+21536859||341|346||Disease||T-ALL||0004963
+21536859||502|507||Disease||T-ALL||0004963
+21536859||606|611||Disease||T-ALL||0004963
+21536859||1178|1183||Disease||T-ALL||0004963
+21536859||1345|1353||Disease||leukemia||0005059
+21556051||49|85||Disease||castration-resistant prostate cancer||0008315
+21556051||153|160||Disease||tumours||0005070
+21556051||182|218||Disease||castration-resistant prostate cancer||0008315
+21556051||220|224||Disease||CRPC||0008315
+21556051||290|294||Disease||CRPC||0008315
+21556051||340|344||Disease||CRPC||0008315
+21556051||1163|1167||Disease||CRPC||0008315
+21566115||274|284||Disease||autoimmune||0007179
+21566115||289|310||Disease||inflammatory diseases||0021166
+21665992||69|98||Disease||amyotrophic lateral sclerosis||0004976
+21665992||112|141||Disease||Amyotrophic lateral sclerosis||0004976
+21665992||143|146||Disease||ALS||0004976
+21665992||153|178||Disease||neurodegenerative disease||0005559
+21665992||266|269||Disease||ALS||0004976
+21665992||299|302||Disease||ALS||0004976
+21665992||373|376||Disease||ALS||0004976
+21665992||593|596||Disease||ALS||0004976
+21665992||1110|1113||Disease||ALS||0004976
+21665992||1318|1321||Disease||ALS||0004976
+21681857||411|425||Disease||hyperammonemia||0004739
+21681857||1489|1503||Disease||hyperammonemia||0004739
+21868451||460|465||Disease||tumor||0006801
+22212979||123|160||Disease||Castration-resistant prostate cancers||0008315
+22212979||162|167||Disease||CRPCs||0008315
+22260630||436|442||Disease||cancer||0004992
+22260630||447|459||Disease||inflammation||0021166
+22303449||1720|1744||Disease||congenital malformations||0000839
+22337891||169|187||Disease||colorectal cancers||0005575
+22337891||189|193||Disease||CRCs||0005575
+22337891||609|613||Disease||CRCs||0005575
+22401818||147|155||Disease||leukemia||0005059
+22543974||58|82||Disease||congenital heart disease||0005453
+22543974||413|438||Disease||congenital heart diseases||0005453
+22543974||440|444||Disease||CHDs||0005453
+22543974||648|666||Disease||Holt-Oram syndrome||0007732
+22543974||668|687||Disease||heart-hand syndrome||0007732
+22543974||1108|1148||Disease||atrial and/or ventricular septal defects||0020290
+22543974||1189|1207||Disease||Holt-Oram syndrome||0007732
+22543974||1668|1671||Disease||CHD||0005453
+22543974||1828|1846||Disease||Holt-Oram syndrome||0007732
+22761896||1991|2012||Disease||GnRH-related diseases||0005039
+22877652||343|363||Disease||reproductive defects||0005039
+22877652||375|404||Disease||hypogonadotropic hypogonadism||0018555
+22877652||409|436||Disease||polycystic ovarian syndrome||0008487
+23024062||1406|1423||Disease||acute lung injury||0015796
+23024062||1425|1428||Disease||ALI||0015796
+23024062||1745|1748||Disease||ALI||0015796
+23024062||1832|1835||Disease||ALI||0015796
+23302769||60|69||Disease||leukaemia||0005059
+23302769||110|126||Disease||T-cell leukaemia||0005525
+23302769||170|201||Disease||T-acute lymphoblastic leukaemia||0004963
+23302769||203|208||Disease||T-ALL||0004963
+23302769||297|302||Disease||T-ALL||0004963
+23302769||1082|1087||Disease||T-ALL||0004963
+23302769||1466|1471||Disease||T-ALL||0004963
+23644027||103|129||Disease||ventricular septal defects||0002070
+23644027||158|182||Disease||congenital heart disease||0005453
+23644027||184|187||Disease||CHD||0005453
+23644027||304|317||Disease||heart failure||0005252
+23644027||350|365||Disease||genetic defects||0003847
+23644027||395|398||Disease||CHD||0005453
+23644027||646|649||Disease||CHD||0005453
+23644027||661|686||Disease||ventricular septal defect||0002070
+23644027||688|691||Disease||VSD||0002070
+23644027||795|798||Disease||CHD||0005453
+23644027||949|952||Disease||VSD||0002070
+23644027||1094|1097||Disease||VSD||0002070
+23644027||1248|1251||Disease||VSD||0002070
+23644027||1441|1444||Disease||VSD||0002070
+23644027||1635|1638||Disease||VSD||0002070
+23644027||1670|1673||Disease||CHD||0005453
+23644027||1735|1738||Disease||CHD||0005453
+23884959||187|202||Disease||prostate cancer||0008315
+24285714||19|33||Disease||acute leukemia||0010643
+24285714||397|402||Disease||tumor||0005070
+24285714||450|458||Disease||leukemia||0005059
+24285714||1033|1056||Disease||acute myeloid leukemias||0018874
+24285714||1092|1100||Disease||leukemia||0005059
+24332044||76|105||Disease||diffuse large B cell lymphoma||0018905
+24332044||107|136||Disease||Diffuse large B cell lymphoma||0018905
+24332044||138|143||Disease||DLBCL||0018905
+24332044||297|302||Disease||DLBCL||0018905
+24332044||780|786||Disease||DLBCLs||0018905
+24332044||859|865||Disease||cancer||0004992
+24332044||940|946||Disease||DLBCLs||0018905
+24362753||142|150||Disease||ischemia||0005053
+24362753||491|508||Disease||Alzheimer disease||0004975
+24362753||1217|1219||Disease||AD||0004975
+24443471||220|226||Disease||cancer||0004992
+24443471||325|331||Disease||cancer||0004992
+24443471||597|602||Disease||tumor||0005070
+24510239||65|99||Disease||esophageal squamous cell carcinoma||0005580
+24510239||101|135||Disease||Esophageal squamous cell carcinoma||0005580
+24510239||137|141||Disease||ESCC||0005580
+24510239||178|184||Disease||cancer||0004992
+24510239||349|353||Disease||ESCC||0005580
+24510239||507|511||Disease||ESCC||0005580
+24510239||718|722||Disease||ESCC||0005580
+24510239||889|893||Disease||ESCC||0005580
+24510239||1119|1123||Disease||ESCC||0005580
+24510239||1591|1595||Disease||ESCC||0005580
+24510239||1685|1689||Disease||ESCC||0005580
+24510239||1785|1789||Disease||ESCC||0005580
+24510239||1925|1929||Disease||ESCC||0005580
+24662484||6|23||Disease||colorectal cancer||0005575
+24662484||426|444||Disease||colorectal cancers||0005575
+24703906||175|197||Disease||acute myeloid leukemia||0018874
+24703906||199|202||Disease||AML||0018874
+24703906||647|655||Disease||leukemia||0005059
+24703906||893|901||Disease||leukemia||0005059
+24812424||0|19||Disease||Sleep fragmentation||0003406
+24812424||158|177||Disease||Sleep fragmentation||0003406
+24812424||179|181||Disease||SF||0003406
+24812424||328|345||Disease||metabolic disease||0005066
+24812424||469|476||Disease||obesity||0005139
+24812424||481|499||Disease||insulin resistance||0005015
+24812424||516|518||Disease||SF||0003406
+24812424||729|731||Disease||SF||0003406
+24812424||823|841||Disease||insulin resistance||0005015
+24812424||900|902||Disease||SF||0003406
+24812424||1069|1071||Disease||SF||0003406
+24812424||1301|1303||Disease||SF||0003406
+24812424||1422|1440||Disease||metabolic syndrome||0004955
+24812424||1508|1510||Disease||SF||0003406
+24842713||103|168||Disease||alveolar capillary dysplasia with misalignment of pulmonary veins||0009934
+24842713||407|472||Disease||alveolar capillary dysplasia with misalignment of pulmonary veins||0009934
+24842713||474|480||Disease||ACDMPV||0009934
+24842713||662|668||Disease||ACDMPV||0009934
+24842713||859|865||Disease||ACDMPV||0009934
+24842713||1295|1301||Disease||ACDMPV||0009934
+24997565||115|121||Disease||asthma||0004979
+24997565||166|172||Disease||asthma||0004979
+24997565||798|804||Disease||asthma||0004979
+24997565||907|913||Disease||asthma||0004979
+25153150||160|179||Disease||testicular teratoma||0018193
+25185713||162|186||Disease||hematologic malignancies||0002334
+25185713||911|929||Disease||AML/ETO9a leukemia||0018874
+25185713||1000|1008||Disease||Leukemia||0005059
+25185713||1216|1232||Disease||AML/ETO leukemia||0018874
+25194570||77|105||Disease||acute lymphoblastic leukemia||0004967
+25194570||140|146||Disease||cancer||0004992
+25194570||290|296||Disease||cancer||0004992
+25194570||471|506||Disease||T cell acute lymphoblastic leukemia||0004963
+25194570||508|513||Disease||T-ALL||0004963
+25194570||976|981||Disease||T-ALL||0004963
+25194570||1104|1112||Disease||leukemia||0005059
+25194570||1232|1237||Disease||T-ALL||0004963
+25214635||1129|1147||Disease||autoimmune disease||0007179
+25267720||129|149||Disease||Hirschsprung disease||0018309
+25267720||155|175||Disease||Hirschsprung disease||0018309
+25267720||177|181||Disease||HSCR||0018309
+25267720||196|215||Disease||congenital disorder||0003847
+25267720||415|419||Disease||HSCR||0018309
+25267720||578|582||Disease||HSCR||0018309
+25267720||753|757||Disease||HSCR||0018309
+25267720||953|957||Disease||HSCR||0018309
+25267720||1663|1667||Disease||HSCR||0018309
+25267720||1726|1730||Disease||HSCR||0018309
+25303440||128|146||Disease||systemic sclerosis||0005100
+25303440||275|301||Disease||connective tissue diseases||0003900
+25303440||310|328||Disease||systemic sclerosis||0005100
+25303440||330|333||Disease||SSc||0005100
+25303440||335|346||Disease||scleroderma||0019340
+25303440||457|460||Disease||SSc||0005100
+25303440||850|863||Disease||cutaneous SSc||0005100
+25303440||1681|1684||Disease||SSc||0005100
+25303440||1901|1904||Disease||SSc||0005100
+25303440||2151|2154||Disease||SSc||0005100
+25321476||544|562||Disease||skeletal dysplasia||0018230
+25321476||567|581||Disease||osteoarthritis||0005178
+25321476||839|856||Disease||skeletal diseases||0005172
+25369933||79|94||Disease||T cell leukemia||0005525
+25369933||171|206||Disease||T-cell acute lymphoblastic leukemia||0004963
+25369933||1669|1677||Disease||leukemia||0005059
+25453903||113|126||Disease||Ewing sarcoma||0012817
+25453903||178|191||Disease||Ewing sarcoma||0012817
+25453903||311|324||Disease||Ewing sarcoma||0012817
+25453903||790|795||Disease||tumor||0005070
+25453903||1027|1032||Disease||tumor||0005070
+25505291||257|282||Disease||cardiometabolic disorders||0005267
+25505291||1512|1527||Disease||atherosclerosis||0005311
+25769725||154|160||Disease||cancer||0004992
+25769725||336|342||Disease||tumors||0005070
+25769725||1110|1116||Disease||cancer||0004992
+25786345||129|135||Disease||tumors||0005070
+26163528||24|49||Disease||Apc-deficient ileal tumor||0006801
+26163528||134|155||Disease||colorectal carcinomas||0024331
+26163528||363|374||Disease||ileal tumor||0006801
+26163528||709|714||Disease||tumor||0005070
+26163528||1228|1233||Disease||tumor||0005070
+26211970||49|56||Disease||Allergy||0005271
+26211970||117|124||Disease||allergy||0005271
+26211970||289|305||Disease||allergic disease||0005271
+26211970||462|471||Disease||allergies||0005271
+26211970||1611|1627||Disease||allergic disease||0005271
+26211970||1812|1829||Disease||allergic diseases||0005271
+26214589||34|47||Disease||Ewing sarcoma||0012817
+26214589||206|212||Disease||cancer||0004992
+26214589||229|242||Disease||Ewing sarcoma||0012817
+26214589||647|660||Disease||Ewing sarcoma||0012817
+26214589||1366|1386||Disease||Ewing sarcomagenesis||0012817
+26229090||96|111||Disease||B-cell Lymphoma||0004095
+26229090||125|141||Disease||B-cell lymphomas||0004095
+26229090||554|560||Disease||cancer||0004992
+26229090||796|805||Disease||lymphomas||0005062
+26229090||899|907||Disease||lymphoma||0005062
+26229090||722|730||Disease||lymphoma||0005062
+26229090||1276|1284||Disease||lymphoma||0005062
+26229090||1410|1415||Disease||tumor||0005070
+26300977||51|57||Disease||speech||0004730
+26300977||62|79||Disease||language disorder||0004750
+26300977||183|197||Disease||speech apraxia||0011184
+26300977||300|306||Disease||speech||0004730
+26300977||311|328||Disease||language deficits||0004750
+26374622||42|64||Disease||acute myeloid leukemia||0018874
+26374622||207|229||Disease||acute myeloid leukemia||0018874
+26374622||357|379||Disease||acute myeloid leukemia||0018874
+26374622||539|561||Disease||acute myeloid leukemia||0018874
+26374622||679|701||Disease||acute myeloid leukemia||0018874
+26374622||1155|1177||Disease||acute myeloid leukemia||0018874
+26581162||1592|1595||Disease||HIV||0005109
+26581162||1596|1600||Disease||AIDS||0012268
+26604133||0|20||Disease||Rheumatoid arthritis||0008383
+26604133||164|183||Disease||autoimmune diseases||0007179
+26604133||428|448||Disease||rheumatoid arthritis||0008383
+26604133||450|452||Disease||RA||0008383
+26604133||1499|1501||Disease||RA||0008383
+26604133||1554|1556||Disease||RA||0008383
+26604133||1910|1912||Disease||RA||0008383
+26610392||35|41||Disease||glioma||0021042
+26610392||93|99||Disease||glioma||0021042
+26610392||116|122||Disease||Glioma||0021042
+26610392||160|171||Disease||brain tumor||0021211
+26610392||243|249||Disease||glioma||0021042
+26610392||365|371||Disease||glioma||0021042
+26610392||590|596||Disease||glioma||0021042
+26610392||1330|1336||Disease||glioma||0021042
+26610392||1476|1482||Disease||glioma||0021042
+26615198||413|428||Disease||genetic disease||0003847
+26615198||623|638||Disease||cystic fibrosis||0009061
+26615198||672|688||Disease||genetic disorder||0003847
+26780995||884|890||Disease||cancer||0004992
+26795348||75|88||Disease||Breast Cancer||0007254
+26795348||871|884||Disease||breast cancer||0007254
+26809031||1954|1974||Disease||adenovirus infection||0043479
+26817450||221|243||Disease||cardiovascular disease||0004995
+26818267||1994|1999||Disease||tumor||0005070
+26829750||62|86||Disease||adenoid cystic carcinoma||0004971
+26829750||125|131||Disease||cancer||0004992
+26829750||370|394||Disease||adenoid cystic carcinoma||0004971
+26829750||396|399||Disease||ACC||0004971
+26829750||871|874||Disease||ACC||0004971
+26829750||998|1003||Disease||tumor||0005070
+26829750||1014|1017||Disease||ACC||0004971
+26829750||1192|1195||Disease||ACC||0004971
+26859151||118|131||Disease||Breast Cancer||0007254
+26859151||1527|1550||Disease||HER2+ breast carcinomas||0004989
+26859151||1705|1718||Disease||breast cancer||0007254
+26916345||3|25||Disease||ankylosing spondylitis||0005306
+26916345||251|273||Disease||ankylosing spondylitis||0005306
+26916345||275|277||Disease||AS||0005306
+26916345||545|547||Disease||AS||0005306
+26916345||854|856||Disease||AS||0005306
+26916345||1066|1068||Disease||AS||0005306
+26919345||138|155||Disease||cerebral ischemia||0005299
+26934861||77|92||Disease||prostate cancer||0008315
+26934861||201|216||Disease||prostate cancer||0008315
+26934861||1344|1359||Disease||prostate cancer||0008315
+26934861||1422|1437||Disease||prostate cancer||0008315
+26968549||976|994||Disease||hereditary anemias||0000577
+27166834||1318|1382||Disease||alveolar capillary dysplasia with misalignment of pulmonary vein||0009934
+27207652||224|230||Disease||cancer||0004992
+27207652||1493|1499||Disease||cancer||0004992
+27333824||303|321||Disease||ulcerative colitis||0005101
+27333824||323|325||Disease||UC||0005101
+27333824||475|480||Disease||tumor||0005070
+27333824||1303|1305||Disease||UC||0005101
+27941798||65|77||Disease||colon cancer||0021063
+27941798||205|212||Disease||cancers||0004992
+27941798||394|399||Disease||tumor||0005070
+27941798||495|510||Disease||adenocarcinomas||0004970
+27941798||526|543||Disease||colorectal cancer||0005575
+27941798||545|548||Disease||CRC||0005575
+27941798||557|563||Disease||tumors||0005070
+27941798||673|690||Disease||intestinal cancer||0005814
+27941798||1071|1083||Disease||colon cancer||0021063
+27941798||1156|1161||Disease||tumor||0005070
+27980063||284|289||Disease||tumor||0005070
+27989796||49|60||Disease||hypospadias||0005345
+27989796||167|195||Disease||disorders of sex development||0002145
+27989796||197|201||Disease||DSDs||0002145
+27989796||265|268||Disease||DSD||0002145
+27989796||378|383||Disease||46,XX||0017576
+27989796||399|409||Disease||46,XY DSDs||0020040
+27989796||1158|1169||Disease||hypospadias||0005345
+27989796||1198|1201||Disease||DSD||0002145
+28028313||80|115||Disease||T-cell acute lymphoblastic leukemia||0004963
+28028313||193|228||Disease||T-cell acute lymphoblastic leukemia||0004963
+28028313||230|235||Disease||T-ALL||0004963
+28028313||1069|1077||Disease||leukemia||0005059
+28082341||93|115||Disease||Gray platelet syndrome||0007686
+28082341||262|283||Disease||macrothrombocytopenia||0015372
+28082341||288|301||Disease||myelofibrosis||0044903
+28082341||437|458||Disease||macrothrombocytopenia||0015372
+28087634||1189|1220||Disease||disorders of sexual development||0002145
+28104492||219|231||Disease||colon cancer||0021063
+28104492||305|317||Disease||colon cancer||0021063
+28104492||358|370||Disease||colon cancer||0021063
+28104492||1844|1851||Disease||cancers||0004992
+28210006||41|44||Disease||MDS||0018881
+28210006||53|61||Disease||leukemia||0005059
+28210006||100|108||Disease||leukemia||0005059
+28210006||278|300||Disease||acute myeloid leukemia||0018874
+28210006||302|305||Disease||AML||0018874
+28210006||404|420||Disease||MLL-AF9 leukemia||0005059
+28210006||432|447||Disease||erythroleukemia||0017858
+28210006||449|474||Disease||megakaryoblastic leukemia||0018872
+28210006||479|504||Disease||myelodysplastic syndromes||0018881
+28210006||506|510||Disease||MDSs||0018881
+28210006||669|672||Disease||MDS||0018881
+28210006||677|680||Disease||AML||0018874
+28210006||1625|1628||Disease||MDS||0018881
+28210006||1637|1645||Disease||leukemia||0005059
+28213503||258|278||Disease||inflammatory disease||0021166
+28244015||193|206||Disease||breast cancer||0007254
+28244015||1223|1263||Disease||estrogen receptor-positive breast cancer||0006512
+28244015||1264|1269||Disease||tumor||0005070
+28260788||89|94||Disease||T-ALL||0004963
+28260788||250|256||Disease||cancer||0004992
+28260788||331|337||Disease||cancer||0004992
+28260788||542|548||Disease||cancer||0004992
+28260788||885|921||Disease||T-cell acute lymphoblastic leukaemia||0004963
+28260788||1298|1305||Disease||cancers||0004992
+28262837||66|90||Disease||hepatocellular carcinoma||0007256
+28262837||128|152||Disease||Hepatocellular carcinoma||0007256
+28262837||154|157||Disease||HCC||0007256
+28262837||197|204||Disease||cancers||0004992
+28262837||478|484||Disease||cancer||0004992
+28262837||553|556||Disease||HCC||0007256
+28262837||746|749||Disease||HCC||0007256
+28262837||1159|1164||Disease||tumor||0005070
+28262837||1278|1281||Disease||HCC||0007256
+28262837||1341|1344||Disease||HCC||0007256
+28262837||1438|1441||Disease||HCC||0007256
+28446439||91|116||Disease||Alveolar rhabdomyosarcoma||0009994
+28446439||139|154||Disease||myogenic cancer||0018078
+28446439||652|658||Disease||tumors||0005070
+28446439||1245|1261||Disease||rhabdomyosarcoma||0005212
+28446439||1643|1659||Disease||rhabdomyosarcoma||0005212
+28446439||1661|1667||Disease||Cancer||0004992
+28578223||298|308||Disease||angioedema||0010481
+28652246||37|45||Disease||Melanoma||0005105
+28652246||297|305||Disease||melanoma||0005105
+28652246||752|761||Disease||melanomas||0005105
+28652246||846|854||Disease||melanoma||0005105
+28652246||1174|1182||Disease||melanoma||0005105
+28652246||1193|1199||Disease||Cancer||0004992
+28905448||229|234||Disease||tumor||0005070
+28905448||393|398||Disease||tumor||0005070
+28905448||538|545||Disease||cancers||0004992
+28905448||662|675||Disease||osteosarcomas||0009807
+28905448||677|680||Disease||OSs||0009807
+28905448||885|888||Disease||OSs||0009807
+28905448||1219|1222||Disease||OSs||0009807
+28905448||1632|1635||Disease||OSs||0009807
+28916725||1524|1540||Disease||corneal diseases||0000942
+28916725||1542|1553||Disease||astigmatism||0011284
+28916725||1559|1583||Disease||Stevens-Johnson syndrome||0018229
+28916725||2025|2041||Disease||corneal diseases||0000942
+28991225||61|69||Disease||melanoma||0005105
+28991225||201|206||Disease||tumor||0005070
+28991225||364|372||Disease||melanoma||0005105
+28991225||865|873||Disease||melanoma||0005105
+28991225||990|995||Disease||tumor||0005070
+28991225||1093|1102||Disease||melanomas||0005105
+28991225||1185|1193||Disease||melanoma||0005105
+28991225||1264|1269||Disease||tumor||0005070
+29042628||221|230||Disease||leukaemia||0005059
+29113912||65|89||Disease||hepatocellular carcinoma||0007256
+29113912||216|221||Disease||tumor||0005070
+29113912||267|291||Disease||hepatocellular carcinoma||0007256
+29113912||293|296||Disease||HCC||0007256
+29113912||349|352||Disease||HCC||0007256
+29113912||517|521||Disease||HCCs||0007256
+29113912||731|736||Disease||Tumor||0005070
+29113912||915|920||Disease||tumor||0005070
+29113912||1040|1043||Disease||HCC||0007256
+29113912||1263|1267||Disease||HCCs||0007256
+29113912||1507|1510||Disease||HCC||0007256
+29113912||1558|1562||Disease||HCCs||0007256
+29113912||1604|1609||Disease||tumor||0005070
+29113912||1766|1770||Disease||HCCs||0007256
+29113912||1854|1857||Disease||HCC||0007256
+29113912||1889|1893||Disease||HCCs||0007256
+29113912||2014|2019||Disease||tumor||0005070
+29113912||2103|2127||Disease||hepatocellular carcinoma||0007256
+29113912||2175|2181||Disease||tumors||0005070
+29142074||324|335||Disease||scleroderma||0019340
+29142074||337|340||Disease||SSc||0005100
+29277702||170|181||Disease||anaphylaxis||0100053
+29277702||254|265||Disease||anaphylaxis||0100053
+29277702||1446|1457||Disease||anaphylaxis||0100053
+29277702||1589|1600||Disease||anaphylaxis||0100053
+29277702||2069|2080||Disease||anaphylaxis||0100053
+29284139||274|287||Disease||malformations||0021147
+29284139||292|304||Disease||malignancies||0004992
+29326336||374|379||Disease||T-ALL||0004963
+29326336||552|557||Disease||T-ALL||0004963
+29326336||1373|1378||Disease||tumor||0005070
+29326336||1557|1562||Disease||T-ALL||0004963
+29342133||229|256||Disease||haematopoietic malignancies||0002334
+29342133||1466|1475||Disease||leukaemia||0005059
+29342133||1644|1667||Disease||acute myeloid leukaemia||0018874
+29342133||1969|1981||Disease||malignancies||0004992
+29379199||73|86||Disease||neuroblastoma||0005072
+29379199||199|212||Disease||neuroblastoma||0005072
+29379199||312|325||Disease||neuroblastoma||0005072
+29379199||1079|1084||Disease||tumor||0005070
+29379199||1223|1236||Disease||neuroblastoma||0005072
+29408204||93|101||Disease||Melanoma||0005105
+29408204||103|121||Disease||Cutaneous melanoma||0005012
+29408204||139|144||Disease||tumor||0005070
+29408204||168|179||Disease||skin cancer||0002898
+29408204||363|371||Disease||melanoma||0005105
+29408204||597|603||Disease||tumors||0005070
+29408204||768|775||Disease||cancers||0004992
+29408204||1309|1314||Disease||tumor||0005070
+29408204||1325|1333||Disease||melanoma||0005105
+29416716||20|33||Disease||Ewing sarcoma||0012817
+29416716||111|124||Disease||Ewing sarcoma||0012817
+29416716||148|172||Disease||small-round-cell sarcoma||0006974
+29416716||560|573||Disease||Ewing sarcoma||0012817
+29416716||627|633||Disease||tumors||0005070
+29416716||669|688||Disease||Ewing-like sarcomas||0012817
+29416716||777|785||Disease||sarcomas||0005089
+29416716||884|897||Disease||Ewing sarcoma||0012817
+29416716||1250|1263||Disease||Ewing sarcoma||0012817
+29416716||1285|1304||Disease||Ewing-like sarcomas||0012817
+29416716||1569|1582||Disease||Ewing sarcoma||0012817
+29527594||77|91||Disease||Kidney Disease||0005240
+29527594||403|425||Disease||chronic kidney disease||0005300
+29527594||427|430||Disease||CKD||0005300
+29527594||1714|1717||Disease||CKD||0005300
+29527594||2055|2058||Disease||CKD||0005300
+29527594||2195|2216||Disease||inflammatory diseases||0021166
+29706059||235|242||Disease||cancers||0004992
+29706059||247|269||Disease||cardiovascular disease||0004995
+29706059||931|946||Disease||Atherosclerosis||0005311
+29898989||118|123||Disease||tumor||0005070
+29898989||172|186||Disease||Lynch syndrome||0005835
+29898989||199|215||Disease||sporadic cancers||0004992
+29898989||894|908||Disease||Lynch syndrome||0005835
+29898989||1327|1341||Disease||Lynch syndrome||0005835
+29898989||1749|1763||Disease||Lynch syndrome||0005835
+30139998||94|100||Disease||cancer||0004992
+30139998||250|256||Disease||cancer||0004992
+30139998||378|391||Disease||breast cancer||0007254
+30139998||569|573||Disease||TNBC||0005494
+30139998||881|884||Disease||ER+||0006512
+30139998||889|893||Disease||TNBC||0005494
+30139998||1005|1012||Disease||cancers||0004992
+30139998||1115|1121||Disease||cancer||0004992
+30146478||307|339||Disease||acampomelic campomelic dysplasia||0007251
+30146478||341|344||Disease||ACD||0007251
+30146478||1135|1138||Disease||ACD||0007251
+30518632||38|63||Disease||Leukemia of T-Cell Origin||0005525
+30518632||520|525||Disease||T-ALL||0004963
+30518632||907|912||Disease||T-ALL||0004963
+30518632||1566|1578||Disease||CNS leukemia||0001606
+30518632||1813|1818||Disease||T-ALL||0004963

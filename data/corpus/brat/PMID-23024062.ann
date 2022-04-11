@@ -1,0 +1,67 @@
+T0	ENHANCER 1034 1138	enhancer binding site located within the -150 to -130 bp region relative to the transcription start site
+A0	REGION T0 SUFFICIENT
+#0	AnnotatorNotes T0	chr1,60908875,60908895
+T1	PROMOTER 1511 1526	promoter region
+A1	REGION T1 INSUFFICIENT
+T2	GENE 117 156	cytotoxic T lymphocyte antigen (CTLA) 4
+N0	Reference T2 EntrezGene:1493	CTLA4
+T3	GENE 158 163	CTLA4
+N1	Reference T3 EntrezGene:1493	CTLA4
+T4	GENE 239 244	CTLA4
+N2	Reference T4 EntrezGene:1493	CTLA4
+T5	GENE 293 297	CD28
+N3	Reference T5 EntrezGene:940	CD28
+T6	GENE 440 445	CTLA4
+N4	Reference T6 EntrezGene:1493	CTLA4
+T7	GENE 651 656	CTLA4
+N5	Reference T7 EntrezGene:1493	CTLA4
+T8	SPECIES 680 686	murine
+N6	Reference T8 NCBITaxon:10090	Mus musculus
+T9	GENE 1324 1329	CTLA4
+N7	Reference T9 EntrezGene:1493	CTLA4
+T10	SPECIES 1390 1396	murine
+N8	Reference T10 NCBITaxon:10090	Mus musculus
+T11	DISEASE 1406 1423	acute lung injury
+T12	DISEASE 1425 1428	ALI
+T13	GENE 1463 1468	CTLA4
+N11	Reference T13 EntrezGene:1493	CTLA4
+T14	GENE 1593 1598	CTLA4
+N12	Reference T14 EntrezGene:1493	CTLA4
+T15	DISEASE 1745 1748	ALI
+T16	GENE 1812 1817	CTLA4
+N14	Reference T16 EntrezGene:1493	CTLA4
+T17	DISEASE 1832 1835	ALI
+T18	GENE 1966 1971	CTLA4
+N16	Reference T18 EntrezGene:1493	CTLA4
+T19	GENE 14 46	cytotoxic T lymphocyte antigen 4
+N17	Reference T19 EntrezGene:1493	CTLA4
+T20	TISSUE 180 187	T cells
+T21	TISSUE 220 226	T cell
+T22	TISSUE 272 278	T cell
+T23	TISSUE 687 694	T cells
+T25	TISSUE 1695 1723	bronchoalveolar lavage cells
+T26	TISSUE 1729 1733	lung
+T29	PROMOTER 956 970	CTLA4 promoter
+A29	REGION T29 INSUFFICIENT
+T30	PROMOTER 1008 1022	CTLA4 promoter
+A30	REGION T30 INSUFFICIENT
+T31	TISSUE 1665 1693	bronchoalveolar lavage fluid
+N18	Reference T31 BTO:0000155	bronchoalveolar lavage fluid
+T32	GENE 1212 1241	cAMP response element-binding
+N15	Reference T32 EntrezGene:1385	CREB1
+N19	Reference T20 BTO:0000782	T-lymphocyte
+N20	Reference T21 BTO:0000782	T-lymphocyte
+N21	Reference T22 BTO:0000782	T-lymphocyte
+N22	Reference T23 BTO:0000782	T-lymphocyte
+T24	TISSUE 707 721	CD4(+) T cells
+N24	Reference T25 BTO:0000155	bronchoalveolar lavage fluid
+N25	Reference T26 BTO:0000763	lung
+N9	Reference T11 MONDO:MONDO:0015796	acute lung injury
+N10	Reference T12 MONDO:MONDO:0015796	acute lung injury
+N13	Reference T15 MONDO:MONDO:0015796	acute lung injury
+N26	Reference T17 MONDO:MONDO:0015796	acute lung injury
+N23	Reference T24 BTO:0002417	helper T-lymphocyte
+T27	GENE 956 961	CTLA4
+N27	Reference T27 EntrezGene:1493	CTLA4
+T28	GENE 1008 1013	CTLA4
+N28	Reference T28 EntrezGene:1493	CTLA4

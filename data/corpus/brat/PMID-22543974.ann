@@ -1,0 +1,56 @@
+T0	ENHANCER 26 39	TBX5 enhancer
+T1	ENHANCER 902 917	three enhancers
+T2	ENHANCER 1038 1055	enhancer elements
+T3	ENHANCER 1267 1301	enhancer ~90 kb downstream of TBX5
+T4	ENHANCER 1392 1400	enhancer
+T5	ENHANCER 1746 1766	TBX5 heart enhancers
+T7	DISEASE 58 82	congenital heart disease
+T8	DISEASE 413 438	congenital heart diseases
+T9	DISEASE 440 444	CHDs
+T10	GENE 510 514	TBX5
+N2	Reference T10 EntrezGene:6910	TBX5
+T11	DISEASE 648 666	Holt-Oram syndrome
+T12	DISEASE 668 687	heart-hand syndrome
+T13	SPECIES 787 792	mouse
+N5	Reference T13 NCBITaxon:10090	Mus musculus
+T14	GENE 840 844	TBX5
+N6	Reference T14 EntrezGene:21388	Tbx5
+T15	GENE 986 990	TBX5
+T17	DISEASE 1108 1148	atrial and/or ventricular septal defects
+T19	DISEASE 1189 1207	Holt-Oram syndrome
+T21	SPECIES 1457 1462	mouse
+N11	Reference T21 NCBITaxon:10090	Mus musculus
+T22	SPECIES 1467 1476	zebrafish
+N12	Reference T22 NCBITaxon:7955	Danio rerio
+T23	DISEASE 1668 1671	CHD
+T24	GENE 1688 1692	TBX5
+N14	Reference T24 EntrezGene:6910	TBX5
+A6	REGION T0 INSUFFICIENT
+T31	TISSUE 587 592	heart
+N20	Reference T31 BTO:0000562	heart
+T32	TISSUE 597 601	limb
+N21	Reference T32 BTO:0001492	limb
+A1	REGION T1 INSUFFICIENT
+T33	TISSUE 1009 1014	heart
+N22	Reference T33 BTO:0000562	heart
+A2	REGION T2 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+A5	REGION T5 INSUFFICIENT
+T16	DISEASE 1828 1846	Holt-Oram syndrome
+N10	Reference T7 MONDO:MONDO:0005453	congenital heart disease
+N16	Reference T8 MONDO:MONDO:0005453	congenital heart disease
+N1	Reference T9 MONDO:MONDO:0005453	congenital heart disease
+N3	Reference T11 MONDO:MONDO:0007732	Holt-Oram syndrome
+N4	Reference T12 MONDO:MONDO:0007732	Holt-Oram syndrome
+N8	Reference T17 MONDO:MONDO:0020290	atrioventricular septal defect
+N9	Reference T19 MONDO:MONDO:0007732	Holt-Oram syndrome
+N15	Reference T16 MONDO:MONDO:0007732	Holt-Oram syndrome
+N13	Reference T23 MONDO:MONDO:0005453	congenital heart disease
+T6	GENE 26 30	TBX5
+N17	Reference T6 EntrezGene:6910	TBX5
+T18	GENE 1297 1301	TBX5
+N7	Reference T15 EntrezGene:21388	Tbx5
+N18	Reference T18 EntrezGene:21388	Tbx5
+T20	GENE 1746 1750	TBX5
+N19	Reference T20 EntrezGene:6910	TBX5

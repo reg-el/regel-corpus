@@ -1,0 +1,56 @@
+T9	SPECIES 149 154	mouse
+N0	Reference T9 NCBITaxon:10090	Mus musculus
+T10	GENE 155 185	immunoglobulin kappa (Igkappa)
+T11	GENE 383 390	Igkappa
+N2	Reference T11 EntrezGene:692182	Igkv9-129
+T13	SPECIES 900 905	mouse
+N4	Reference T13 NCBITaxon:10090	Mus musculus
+T15	GENE 1237 1244	Igkappa
+T16	GENE 1322 1329	Igkappa
+T17	GENE 1382 1385	E47
+N8	Reference T17 EntrezGene:21423	Tcf3
+T18	GENE 1391 1403	p65NF-kappaB
+N9	Reference T18 EntrezGene:19697	Rel
+T1	ENHANCER 203 220	intronic enhancer
+A1	REGION T1 INSUFFICIENT
+T6	TISSUE 991 1013	P815 mastocytoma cells
+N14	Reference T6 BTO:0000985	P-815 cell
+T14	GENE 1144 1155	beta-globin
+T24	TISSUE 402 427	MPC-11 plasmacytoma cells
+N5	Reference T24 BTO:0001089	MPC-11 cell
+T5	GENE 1376 1380	AP-4
+N3	Reference T5 EntrezGene:83383	Tfap4
+T12	TISSUE 1548 1571	S107 plasmacytoma cells
+N15	Reference T12 BTO:0000456	plasmacytoma cell line
+T2	ENHANCER 225 275	two enhancers downstream of its transcription unit
+A2	REGION T2 INSUFFICIENT
+T3	GENE 1582 1591	NF-kappaB
+N11	Reference T3 EntrezGene:4790	NFKB1
+T4	ENHANCER 481 496	three enhancers
+A4	REGION T4 INSUFFICIENT
+T7	PROMOTER 501 522	Vkappa gene promoters
+A5	REGION T7 INSUFFICIENT
+T8	ENHANCER 32 63	three transcriptional enhancers
+A7	REGION T8 INSUFFICIENT
+T19	PROMOTER 72 93	Vkappa gene promoters
+A8	REGION T19 INSUFFICIENT
+T20	ENHANCER 839 848	enhancers
+A9	REGION T20 INSUFFICIENT
+T21	TISSUE 878 885	B cells
+T22	TISSUE 980 987	T cells
+T23	ENHANCER 1638 1660	Igkappa gene enhancers
+A10	REGION T23 INSUFFICIENT
+T25	ENHANCER 694 696	Ei
+A3	REGION T25 INSUFFICIENT
+T26	ENHANCER 701 704	E3'
+A14	REGION T26 INSUFFICIENT
+T27	ENHANCER 752 754	Ed
+A15	REGION T27 INSUFFICIENT
+N16	Reference T21 BTO:0000776	B-lymphocyte
+N13	Reference T22 BTO:0000782	T-lymphocyte
+N10	Reference T14 EntrezGene:15127	Hbb
+T28	GENE 1638 1645	Igkappa
+N1	Reference T10 EntrezGene:243469	Igk
+N12	Reference T28 EntrezGene:243469	Igk
+N7	Reference T16 EntrezGene:243469	Igk
+N6	Reference T15 EntrezGene:243469	Igk

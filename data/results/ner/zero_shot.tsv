@@ -1,0 +1,5 @@
+NER zero-shot	tp: 4770 - fp: 1625 - fn: 721 - tn: 0 - precision: 0.7459 - recall: 0.8687 - accuracy: 0.6703 - f1-score: 0.8026
+DISEASE   	tp: 586 - fp: 302 - fn: 113 - tn: 0 - precision: 0.6599 - recall: 0.8383 - accuracy: 0.5854 - f1-score: 0.7385
+GENE      	tp: 3588 - fp: 1223 - fn: 537 - tn: 0 - precision: 0.7458 - recall: 0.8698 - accuracy: 0.6709 - f1-score: 0.8030
+SPECIES   	tp: 519 - fp: 99 - fn: 68 - tn: 0 - precision: 0.8398 - recall: 0.8842 - accuracy: 0.7566 - f1-score: 0.8614
+VARIANT   	tp: 77 - fp: 1 - fn: 3 - tn: 0 - precision: 0.9872 - recall: 0.9625 - accuracy: 0.9506 - f1-score: 0.9747

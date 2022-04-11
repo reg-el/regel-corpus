@@ -1,0 +1,78 @@
+T1	PROMOTER 1182 1199	proximal promoter
+A1	REGION T1 SUFFICIENT
+#1	AnnotatorNotes T1	chr14,55518040,55518674
+T2	ENHANCER 1220 1228	enhancer
+A2	REGION T2 INSUFFICIENT
+T3	GENE 100 103	NRL
+N0	Reference T3 EntrezGene:4901	NRL
+T4	GENE 374 377	NRL
+N1	Reference T4 EntrezGene:4901	NRL
+T5	GENE 583 586	Nrl
+N2	Reference T5 EntrezGene:18185	rl
+T6	SPECIES 590 595	mouse
+N3	Reference T6 NCBITaxon:10090	Mus musculus
+T7	GENE 655 658	Nrl
+N4	Reference T7 EntrezGene:18185	rl
+T8	GENE 769 772	Nrl
+N5	Reference T8 EntrezGene:18185	rl
+T9	SPECIES 972 977	mouse
+N6	Reference T9 NCBITaxon:10090	Mus musculus
+T10	GENE 1033 1036	Nrl
+N7	Reference T10 EntrezGene:18185	rl
+T11	SPECIES 1334 1339	mouse
+N8	Reference T11 NCBITaxon:10090	Mus musculus
+T12	GENE 1481 1488	RORbeta
+N9	Reference T12 EntrezGene:225998	Rorb
+T13	GENE 1664 1667	Nrl
+N10	Reference T13 EntrezGene:18185	rl
+T14	GENE 1706 1713	RORbeta
+N11	Reference T14 EntrezGene:225998	Rorb
+T15	GENE 1811 1814	Nrl
+N12	Reference T15 EntrezGene:18185	rl
+T16	GENE 66 94	neural retina leucine zipper
+N13	Reference T16 EntrezGene:4901	NRL
+T17	GENE 379 407	neural retina leucine zipper
+N14	Reference T17 EntrezGene:4901	NRL
+T18	TISSUE 617 623	retina
+T19	TISSUE 978 984	retina
+T21	GENE 1434 1479	retinoid-related orphan nuclear receptor beta
+N15	Reference T21 EntrezGene:225998	Rorb
+T22	TISSUE 1840 1846	retina
+T24	TISSUE 425 428	rod
+N16	Reference T24 BTO:0001024	retinal rod
+T25	TISSUE 441 459	photoreceptor cell
+T26	TISSUE 541 545	rods
+N17	Reference T26 BTO:0001024	retinal rod
+T27	TISSUE 697 701	rods
+N18	Reference T27 BTO:0001024	retinal rod
+T30	TISSUE 1257 1260	rod
+N19	Reference T30 BTO:0001024	retinal rod
+T31	TISSUE 1491 1495	cone
+N20	Reference T31 BTO:0001036	retinal cone
+T32	TISSUE 1496 1499	rod
+N21	Reference T32 BTO:0001024	retinal rod
+T29	PROMOTER 1201 1211	cluster A1
+A4	REGION T29 SUFFICIENT
+#3	AnnotatorNotes T29	chr14,55518040,55518674
+T33	ENHANCER 1230 1239	cluster B
+A6	REGION T33 INSUFFICIENT
+T34	TFBS 1596 1638	consensus elements within clusters A and B
+A7	REGION T34 INSUFFICIENT
+T35	GENE 1539 1582	cyclic AMP response element-binding protein
+N22	Reference T35 EntrezGene:1385	CREB1
+T28	PROMOTER 825 837	Nrl promoter
+A3	REGION T28 INSUFFICIENT
+T36	ENHANCER 838 853	enhancer region
+A5	REGION T36 INSUFFICIENT
+N23	Reference T25 BTO:0001060	photoreceptor cell
+N24	Reference T18 BTO:0001175	retina
+N25	Reference T19 BTO:0001175	retina
+T20	TISSUE 436 440	cone
+N26	Reference T20 BTO:0001036	retinal cone
+T23	TISSUE 607 611	cone
+N27	Reference T23 BTO:0001036	retinal cone
+N28	Reference T22 BTO:0001175	retina
+T37	GENE 1510 1533	orthodenticle homolog 2
+N29	Reference T37 EntrezGene:18424	Otx2
+T38	GENE 825 828	Nrl
+N30	Reference T38 EntrezGene:18185	Nrl

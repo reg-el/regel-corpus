@@ -1,0 +1,70 @@
+T0	ENHANCER 1308 1348	ARE enhancer region of the HO-1 promoter
+T1	PROMOTER 1335 1348	HO-1 promoter
+T2	GENE 21 25	RAC3
+N0	Reference T2 EntrezGene:8202	COA3
+T3	GENE 26 30	AIB1
+N1	Reference T3 EntrezGene:8202	COA3
+T4	GENE 31 36	SRC-3
+N2	Reference T4 EntrezGene:8202	COA3
+T5	GENE 46 50	Nrf2
+N3	Reference T5 EntrezGene:4780	FE2L2
+T6	GENE 106 149	Nuclear factor erythroid 2-related factor 2
+N4	Reference T6 EntrezGene:4780	FE2L2
+T7	GENE 151 155	Nrf2
+N5	Reference T7 EntrezGene:4780	FE2L2
+T8	GENE 403 407	Nrf2
+N6	Reference T8 EntrezGene:4780	FE2L2
+T9	GENE 482 515	receptor-associated coactivator 3
+N7	Reference T9 EntrezGene:8202	COA3
+T10	GENE 517 521	RAC3
+N8	Reference T10 EntrezGene:8202	COA3
+T11	GENE 529 559	steroid receptor coactivator-3
+N9	Reference T11 EntrezGene:8202	COA3
+T12	SPECIES 620 625	human
+N10	Reference T12 NCBITaxon:9606	Homo sapiens
+T13	DISEASE 626 640	breast cancers
+T14	GENE 650 666	heme oxygenase-1
+N12	Reference T14 EntrezGene:3162	HMOX1
+T15	GENE 668 672	HO-1
+N13	Reference T15 EntrezGene:3162	HMOX1
+T16	GENE 682 686	Nrf2
+N14	Reference T16 EntrezGene:4780	FE2L2
+T17	GENE 762 766	RAC3
+N15	Reference T17 EntrezGene:8202	COA3
+T18	GENE 771 775	Nrf2
+N16	Reference T18 EntrezGene:4780	FE2L2
+T19	GENE 899 903	RAC3
+N17	Reference T19 EntrezGene:8202	COA3
+T20	GENE 926 930	Nrf2
+N18	Reference T20 EntrezGene:4780	FE2L2
+T21	GENE 1010 1014	Nrf2
+N19	Reference T21 EntrezGene:4780	FE2L2
+T22	GENE 1019 1023	RAC3
+N20	Reference T22 EntrezGene:8202	COA3
+T23	GENE 1119 1123	RAC3
+N21	Reference T23 EntrezGene:8202	COA3
+T24	GENE 1144 1148	RAC3
+N22	Reference T24 EntrezGene:8202	COA3
+T25	GENE 1282 1286	RAC3
+N23	Reference T25 EntrezGene:8202	COA3
+T27	GENE 1353 1357	Nrf2
+N25	Reference T27 EntrezGene:4780	FE2L2
+T28	GENE 1391 1395	Nrf2
+N26	Reference T28 EntrezGene:4780	FE2L2
+T29	GENE 1474 1478	RAC3
+N27	Reference T29 EntrezGene:8202	COA3
+T31	ENHANCER 197 227	antioxidant responsive element
+A2	REGION T31 INSUFFICIENT
+T32	ENHANCER 229 232	ARE
+A3	REGION T32 INSUFFICIENT
+T33	GENE 523 528	AIB-1
+N28	Reference T33 EntrezGene:8202	NCOA3
+T34	TISSUE 706 716	HeLa cells
+N29	Reference T34 BTO:0000567	HeLa cell
+A4	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T26	TISSUE 1490 1500	HeLa cells
+N24	Reference T26 BTO:0000567	HeLa cell
+N11	Reference T13 MONDO:MONDO:0007254	breast cancer
+T30	GENE 1335 1339	HO-1
+N30	Reference T30 EntrezGene:3162	HMOX1

@@ -1,0 +1,24 @@
+corpus:
+    bioc: ./data/corpus/bioc/regel-corpus.xml
+    conll: ./data/corpus/conll
+    brat: ./data/corpus/brat
+    biosyn: ./data/corpus/biosyn
+    
+ontology:
+    dir: ./data/ontology/
+    disease: ./data/ontology/disease/mondo.obo
+    tissue: ./data/ontology/tissue/bto-full.obo
+    
+pubtator:
+    corpus_bioc: ./data/corpus/pubtator/bioc/regel-corpus.xml
+    corpus_conll: ./data/corpus/pubtator/conll/Variant
+    annotations: /glusterfs/dfs-gfs-dist/gardasam/regel/pubtator
+    
+pubmed: ./data/pubmed/abstracts
+    
+results: ./data/results
+
+    
+        
+    
+    

@@ -1,0 +1,28 @@
+T12	GENE 647 651	P300
+N4	Reference T12 EntrezGene:2033	P300
+T14	GENE 776 780	CTCF
+N6	Reference T14 EntrezGene:10664	CTCF
+T16	GENE 1181 1186	Vegfa
+N8	Reference T16 EntrezGene:7422	VEGFA
+T8	TISSUE 85 96	macrophages
+N10	Reference T8 BTO:0000801	macrophage
+T9	TISSUE 436 446	macrophage
+N1	Reference T9 BTO:0000801	macrophage
+T1	GENE 600 604	PU.1
+T3	TISSUE 1243 1253	macrophage
+N3	Reference T3 BTO:0000801	macrophage
+T2	TISSUE 472 482	macrophage
+N5	Reference T2 BTO:0000801	macrophage
+T4	TISSUE 151 162	macrophages
+N7	Reference T4 BTO:0000801	macrophage
+N2	Reference T1 EntrezGene:6688	SPI1
+T5	TFBS 483 526	RXR cistrome has 5200 genomic binding sites
+A1	REGION T5 INSUFFICIENT
+T6	ENHANCER 687 719	387 liganded RXR-bound enhancers
+A3	REGION T6 INSUFFICIENT
+T7	ENHANCER 970 990	long-range enhancers
+A5	REGION T7 INSUFFICIENT
+T11	ENHANCER 1071 1080	enhancers
+A9	REGION T11 INSUFFICIENT
+T13	ENHANCER 1192 1225	liganded RXR-controlled enhancers
+A11	REGION T13 INSUFFICIENT

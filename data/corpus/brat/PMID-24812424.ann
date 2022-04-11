@@ -1,0 +1,86 @@
+T1	GENE 100 111	adiponectin
+N0	Reference T1 EntrezGene:11450	Adipoq
+T2	SPECIES 152 156	mice
+N1	Reference T2 NCBITaxon:10090	Mus musculus
+T3	SPECIES 220 225	women
+N2	Reference T3 NCBITaxon:9606	Homo sapiens
+T4	DISEASE 328 345	metabolic disease
+T5	GENE 411 422	Adiponectin
+N4	Reference T5 EntrezGene:11450	Adipoq
+T6	GENE 424 430	AdipoQ
+N5	Reference T6 EntrezGene:11450	Adipoq
+T7	DISEASE 469 476	obesity
+T8	DISEASE 481 499	insulin resistance
+T9	GENE 567 573	AdipoQ
+N8	Reference T9 EntrezGene:11450	Adipoq
+T10	SPECIES 638 642	mice
+N9	Reference T10 NCBITaxon:10090	Mus musculus
+T11	SPECIES 671 675	mice
+N10	Reference T11 NCBITaxon:10090	Mus musculus
+T12	DISEASE 823 841	insulin resistance
+T13	GENE 862 868	AdipoQ
+N12	Reference T13 EntrezGene:11450	Adipoq
+T14	GENE 1016 1020	TET1
+N13	Reference T14 EntrezGene:52463	Tet1
+T16	GENE 1282 1288	AdipoQ
+N15	Reference T16 EntrezGene:11450	Adipoq
+T17	GENE 1362 1368	AdipoQ
+N16	Reference T17 EntrezGene:11450	Adipoq
+T18	SPECIES 1387 1392	mouse
+N17	Reference T18 NCBITaxon:10090	Mus musculus
+T19	DISEASE 1422 1440	metabolic syndrome
+T20	TISSUE 588 617	visceral white adipose tissue
+T21	TISSUE 619 623	VWAT
+T22	TISSUE 808 812	VWAT
+T23	TISSUE 883 887	VWAT
+T24	GENE 924 930	DNMT3a
+N19	Reference T24 EntrezGene:13435	Dnmt3a
+T25	GENE 936 937	b
+N20	Reference T25 EntrezGene:13436	Dnmt3b
+T26	GENE 1023 1024	2
+N21	Reference T26 EntrezGene:214133	Tet2
+T27	GENE 1031 1032	3
+N22	Reference T27 EntrezGene:194388	Tet3
+T28	TISSUE 1061 1065	VWAT
+T29	TISSUE 1241 1251	adipocytes
+T30	TISSUE 1257 1261	VWAT
+T31	TISSUE 1398 1408	adipocytes
+T33	DISEASE 158 177	Sleep fragmentation
+T34	DISEASE 0 19	Sleep fragmentation
+T35	DISEASE 179 181	SF
+T36	DISEASE 516 518	SF
+T37	DISEASE 729 731	SF
+T38	DISEASE 1301 1303	SF
+T39	DISEASE 1508 1510	SF
+T40	DISEASE 900 902	SF
+T41	DISEASE 1069 1071	SF
+T42	TISSUE 1393 1397	VWAT
+T15	PROMOTER 1190 1198	promoter
+A1	REGION T15 INSUFFICIENT
+T43	ENHANCER 1203 1229	enhancer regions of AdipoQ
+A2	REGION T43 INSUFFICIENT
+N14	Reference T29 BTO:0000443	adipocyte
+N28	Reference T31 BTO:0000443	adipocyte
+N30	Reference T34 MONDO:MONDO:0003406	sleep-wake disorder
+N31	Reference T33 MONDO:MONDO:0003406	sleep-wake disorder
+N32	Reference T35 MONDO:MONDO:0003406	sleep-wake disorder
+N33	Reference T36 MONDO:MONDO:0003406	sleep-wake disorder
+N34	Reference T37 MONDO:MONDO:0003406	sleep-wake disorder
+N35	Reference T40 MONDO:MONDO:0003406	sleep-wake disorder
+N36	Reference T41 MONDO:MONDO:0003406	sleep-wake disorder
+N37	Reference T38 MONDO:MONDO:0003406	sleep-wake disorder
+N38	Reference T39 MONDO:MONDO:0003406	sleep-wake disorder
+N3	Reference T4 MONDO:MONDO:0005066	metabolic disease
+N6	Reference T7 MONDO:MONDO:0005139	morbid obesity
+N7	Reference T8 MONDO:MONDO:0005015	diabetes mellitus
+N11	Reference T12 MONDO:MONDO:0005015	diabetes mellitus
+N23	Reference T20 BTO:0001456	white adipose tissue
+N24	Reference T21 BTO:0001456	white adipose tissue
+N25	Reference T22 BTO:0001456	white adipose tissue
+N26	Reference T23 BTO:0001456	white adipose tissue
+N39	Reference T28 BTO:0001456	white adipose tissue
+N29	Reference T30 BTO:0001456	white adipose tissue
+N27	Reference T42 BTO:0001456	white adipose tissue
+N18	Reference T19 MONDO:MONDO:0004955	
+T32	GENE 1223 1229	AdipoQ
+N40	Reference T32 EntrezGene:11450	Adipoq

@@ -1,0 +1,79 @@
+T1	ENHANCER 1163 1203	Nodal-proximal epiblast enhancer element
+T3	GENE 0 4	Lhx1
+N0	Reference T3 EntrezGene:16869	Lhx1
+T4	GENE 29 33	Otx2
+N1	Reference T4 EntrezGene:18424	Otx2
+T5	GENE 35 40	Foxa2
+N2	Reference T5 EntrezGene:15376	Foxa2
+T6	GENE 46 50	Ldb1
+N3	Reference T6 EntrezGene:16825	Ldb1
+T7	SPECIES 251 256	mouse
+N4	Reference T7 NCBITaxon:10090	Mus musculus
+T8	GENE 315 320	Eomes
+N5	Reference T8 EntrezGene:13813	omes
+T10	GENE 429 433	Lhx1
+N7	Reference T10 EntrezGene:16869	Lhx1
+T11	GENE 480 485	Smad4
+N8	Reference T11 EntrezGene:17128	Smad4
+T12	GENE 486 491	Eomes
+N9	Reference T12 EntrezGene:13813	omes
+T13	GENE 502 506	Lhx1
+N10	Reference T13 EntrezGene:16869	Lhx1
+T14	GENE 659 663	Lhx1
+N11	Reference T14 EntrezGene:16869	Lhx1
+T15	GENE 967 971	Lhx1
+N12	Reference T15 EntrezGene:16869	Lhx1
+T19	GENE 1340 1344	Lhx1
+N16	Reference T19 EntrezGene:16869	Lhx1
+T20	GENE 1346 1350	Otx2
+N17	Reference T20 EntrezGene:18424	Otx2
+T21	GENE 1356 1361	Foxa2
+N18	Reference T21 EntrezGene:15376	Foxa2
+T22	GENE 1403 1407	Ldb1
+N19	Reference T22 EntrezGene:16825	Ldb1
+T25	TISSUE 61 81	anterior mesendoderm
+N20	Reference T25 BTO:0003953	mesendoderm
+T26	TISSUE 83 87	node
+T27	TISSUE 210 225	endodermal cell
+N22	Reference T27 BTO:0000800	endoderm
+T9	GENE 345 350	Nodal
+N6	Reference T9 EntrezGene:18119	Nodal
+T28	GENE 388 428	LIM domain homeobox transcription factor
+N23	Reference T28 EntrezGene:16869	Lhx1
+T29	TISSUE 441 458	visceral endoderm
+N24	Reference T29 BTO:0003487	visceral endoderm
+T30	TISSUE 525 533	epiblast
+N25	Reference T30 BTO:0004593	epiblast
+T31	TISSUE 562 570	endoderm
+N26	Reference T31 BTO:0000800	endoderm
+T32	TISSUE 584 604	anterior mesendoderm
+T33	TISSUE 610 629	midline progenitors
+T34	TISSUE 673 701	anterior definitive endoderm
+T35	TISSUE 726 730	node
+T36	TISSUE 735 742	midline
+T37	TISSUE 795 812	visceral endoderm
+N28	Reference T37 BTO:0003487	visceral endoderm
+T38	TISSUE 1005 1033	anterior definitive endoderm
+T16	TFBS 1102 1120	Lhx1-binding sites
+A3	REGION T16 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T2	ENHANCER 1208 1262	enhancer regions controlling Otx2 and Foxa2 expression
+A2	REGION T2 INSUFFICIENT
+T17	TISSUE 1470 1490	anterior mesendoderm
+T18	TISSUE 1492 1496	node
+T39	TISSUE 1502 1514	midline cell
+T23	TISSUE 1589 1593	head
+N14	Reference T23 BTO:0000282	head
+T24	TISSUE 93 100	midline
+N15	Reference T32 BTO:0003953	mesendoderm
+N29	Reference T34 BTO:0000800	endoderm
+N30	Reference T17 BTO:0003953	mesendoderm
+N21	Reference T38 BTO:0000800	endoderm
+T40	TISSUE 1178 1186	epiblast
+N13	Reference T40 BTO:0004593	epiblast
+T41	GENE 1237 1241	Otx2
+N27	Reference T41 EntrezGene:18424	Otx2
+T42	GENE 1246 1251	Foxa2
+N31	Reference T42 EntrezGene:15376	Foxa2
+T43	GENE 1102 1106	Lhx1
+N32	Reference T43 EntrezGene:16869	Lhx1

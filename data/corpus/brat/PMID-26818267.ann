@@ -1,0 +1,66 @@
+T3	SPECIES 90 119	human endogenous retroviruses
+N0	Reference T3 NCBITaxon:206037	Human endogenous retroviruses
+T4	SPECIES 153 182	human endogenous retroviruses
+N1	Reference T4 NCBITaxon:206037	Human endogenous retroviruses
+T5	SPECIES 276 281	human
+N2	Reference T5 NCBITaxon:9606	Homo sapiens
+T6	SPECIES 459 464	human
+N3	Reference T6 NCBITaxon:9606	Homo sapiens
+T8	GENE 652 656	TP63
+N5	Reference T8 EntrezGene:8626	TP63
+T9	SPECIES 761 766	human
+N6	Reference T9 NCBITaxon:9606	Homo sapiens
+T10	SPECIES 909 914	human
+N7	Reference T10 NCBITaxon:9606	Homo sapiens
+T11	SPECIES 1111 1116	human
+N8	Reference T11 NCBITaxon:9606	Homo sapiens
+T12	SPECIES 1321 1326	human
+N9	Reference T12 NCBITaxon:9606	Homo sapiens
+T13	SPECIES 1493 1498	human
+N10	Reference T13 NCBITaxon:9606	Homo sapiens
+T14	SPECIES 1711 1716	human
+N11	Reference T14 NCBITaxon:9606	Homo sapiens
+T15	DISEASE 1994 1999	tumor
+T16	GENE 2017 2022	CADM2
+N12	Reference T16 EntrezGene:253559	CADM2
+T17	GENE 2027 2033	SEMA3A
+N13	Reference T17 EntrezGene:10371	SEMA3A
+T18	SPECIES 2204 2209	human
+N14	Reference T18 NCBITaxon:9606	Homo sapiens
+T19	SPECIES 2275 2280	human
+N15	Reference T19 NCBITaxon:9606	Homo sapiens
+T21	SPECIES 187 208	endogenous retrovirus
+N16	Reference T21 NCBITaxon:2692414	Endogenous retrovirus sp.
+T22	SPECIES 241 246	HERVs
+N17	Reference T22 NCBITaxon:206037	Human endogenous retroviruses
+T23	SPECIES 444 454	retroviral
+N18	Reference T23 NCBITaxon:11632	Retroviridae
+T24	SPECIES 495 500	viral
+N19	Reference T24 NCBITaxon:10239	Viruses
+T2	SPECIES 563 568	HERVs
+N20	Reference T2 NCBITaxon:206037	Human endogenous retroviruses
+T25	TISSUE 624 630	testis
+N21	Reference T25 BTO:0001363	testis
+T7	SPECIES 671 675	ERV9
+N4	Reference T7 NCBITaxon:2692414	Endogenous retrovirus sp.
+T26	SPECIES 884 888	ERV9
+N22	Reference T26 NCBITaxon:2692414	Endogenous retrovirus sp.
+T27	SPECIES 1290 1294	ERV9
+N23	Reference T27 NCBITaxon:2692414	Endogenous retrovirus sp.
+T28	SPECIES 1985 1990	ERV9s
+N24	Reference T28 NCBITaxon:2692414	Endogenous retrovirus sp.
+T29	SPECIES 1455 1460	ERV9s
+N25	Reference T29 NCBITaxon:2692414	Endogenous retrovirus sp.
+T30	SPECIES 1617 1622	HERVs
+N26	Reference T30 NCBITaxon:206037	Human endogenous retroviruses
+T31	SPECIES 1736 1741	HERVs
+N27	Reference T31 NCBITaxon:206037	Human endogenous retroviruses
+T32	SPECIES 1471 1476	HERVs
+N28	Reference T32 NCBITaxon:206037	Human endogenous retroviruses
+T33	SPECIES 2255 2267	retroviruses
+N29	Reference T33 NCBITaxon:206037	Human endogenous retroviruses
+T20	GENE 795 806	beta-globin
+N30	Reference T20 EntrezGene:3043	HBB
+T1	SPECIES 618 623	human
+N31	Reference T1 NCBITaxon:9606	Homo sapiens
+N32	Reference T15 MONDO:MONDO:0005070	neoplasm

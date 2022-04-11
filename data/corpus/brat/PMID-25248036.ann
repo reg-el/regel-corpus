@@ -1,0 +1,35 @@
+T0	ENHANCER 767 791	transcriptional enhancer
+T1	PROMOTER 827 845	promoter of IGFBP5
+T2	DISEASE 14 27	breast cancer
+T3	GENE 71 77	IGFBP5
+N1	Reference T3 EntrezGene:3488	IGFBP5
+T4	DISEASE 113 126	breast cancer
+T5	VARIANT 435 444	rs4442975
+T6	VARIANT 453 462	rs6721996
+T7	VARIANT 565 574	rs4442975
+T8	DISEASE 595 636	oestrogen receptor positive (ER+) disease
+T10	GENE 856 900	insulin-like growth factor-binding protein 5
+N4	Reference T10 EntrezGene:3488	IGFBP5
+T11	GENE 948 953	FOXA1
+N5	Reference T11 EntrezGene:3169	FOXA1
+T12	DISEASE 1039 1052	breast cancer
+T13	GENE 1103 1109	IGFBP5
+N7	Reference T13 EntrezGene:3488	IGFBP5
+A2	CANCER T2
+A3	CANCER T4
+T15	SPECIES 664 673	Europeans
+N8	Reference T15 NCBITaxon:9606	Homo sapiens
+A4	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+A8	CANCER T12
+T16	TISSUE 1138 1149	breast cell
+#1	AnnotatorNotes T5	chr2:217056046,G,T
+#2	AnnotatorNotes T7	chr2:217056046,G,T
+#3	AnnotatorNotes T6	chr2:217044740,G,A
+N3	Reference T16 BTO:0000816	breast cell line
+N9	Reference T2 MONDO:MONDO:0007254	breast cancer
+N2	Reference T4 MONDO:MONDO:0007254	breast cancer
+N10	Reference T8 MONDO:MONDO:0006512	estrogen-receptor positive breast cancer
+N6	Reference T12 MONDO:MONDO:0007254	breast cancer
+T9	GENE 839 845	IGFBP5
+N11	Reference T9 EntrezGene:3488	IGFBP5

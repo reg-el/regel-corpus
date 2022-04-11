@@ -1,0 +1,58 @@
+T0	PROMOTER 939 958	Gnrh1 gene promoter
+T2	GENE 94 98	Otx2
+N0	Reference T2 EntrezGene:18424	Otx2
+T3	GENE 622 627	Gnrh1
+N1	Reference T3 EntrezGene:14714	rh1
+T4	GENE 812 817	Gnrh1
+N2	Reference T4 EntrezGene:14714	rh1
+T8	GENE 1009 1013	Otx2
+N6	Reference T8 EntrezGene:18424	Otx2
+T9	GENE 1093 1098	Gnrh1
+N7	Reference T9 EntrezGene:14714	rh1
+T10	GENE 1137 1141	Otx2
+N8	Reference T10 EntrezGene:18424	Otx2
+T11	GENE 1169 1173	Grg4
+N9	Reference T11 EntrezGene:21888	Tle4
+T14	GENE 1266 1270	Otx2
+N12	Reference T14 EntrezGene:18424	Otx2
+T15	GENE 1361 1365	Grg4
+N13	Reference T15 EntrezGene:21888	Tle4
+T16	GENE 1496 1500	Otx2
+N14	Reference T16 EntrezGene:18424	Otx2
+T17	GENE 1504 1509	Gnrh1
+N15	Reference T17 EntrezGene:14714	rh1
+T18	GENE 1564 1568	Otx2
+N16	Reference T18 EntrezGene:18424	Otx2
+T19	GENE 1629 1634	Gnrh1
+N17	Reference T19 EntrezGene:14714	rh1
+T20	GENE 1730 1735	Gnrh1
+N18	Reference T20 EntrezGene:14714	rh1
+T21	GENE 1767 1771	Otx2
+N19	Reference T21 EntrezGene:18424	Otx2
+T22	DISEASE 1991 2012	GnRH-related diseases
+T24	GENE 30 62	gonadotropin-releasing hormone I
+N21	Reference T24 EntrezGene:14714	Gnrh1
+T25	GENE 322 354	gonadotropin-releasing hormone I
+N22	Reference T25 EntrezGene:14714	Gnrh1
+T26	GENE 356 362	GnRH-I
+N23	Reference T26 EntrezGene:14714	Gnrh1
+T27	TISSUE 373 385	hypothalamus
+N24	Reference T27 BTO:0000614	hypothalamus
+T28	TISSUE 172 207	hypothalamic-pituitary-gonadal axis
+A2	REGION T0 INSUFFICIENT
+T6	TFBS 975 1007	two consensus Otx2 binding sites
+A3	REGION T6 INSUFFICIENT
+T1	TISSUE 1307 1318	GT1-7 cells
+N4	Reference T1 BTO:0002708	GT1-7 cell
+T7	TISSUE 1895 1914	reproductive system
+N5	Reference T7 BTO:0000081	reproductive system
+T5	SPECIES 830 835	mouse
+N3	Reference T5 NCBITaxon:10090	Mus musculus
+T12	TISSUE 861 881	neuronal cells GT1-7
+N11	Reference T12 BTO:0000947	neuronal cell line
+N20	Reference T22 MONDO:MONDO:0005039	reproductive system disease
+N10	Reference T28 BTO:0000614;0001073;0000534	
+T13	GENE 939 944	Gnrh1
+N25	Reference T13 EntrezGene:14714	Gnrh1
+T23	GENE 989 993	Otx2
+N26	Reference T23 EntrezGene:18424	Otx2

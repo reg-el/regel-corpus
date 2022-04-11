@@ -1,0 +1,78 @@
+T0	ENHANCER 741 750	enhancers
+T3	ENHANCER 1186 1194	enhancer
+T4	DISEASE 42 50	insomnia
+T5	DISEASE 52 60	Insomnia
+T6	DISEASE 194 202	insomnia
+T7	DISEASE 335 343	insomnia
+T8	DISEASE 447 455	diabetes
+T9	DISEASE 490 498	Insomnia
+T10	GENE 636 640	ROR1
+N5	Reference T10 EntrezGene:4919	ROR1
+T11	GENE 645 650	PLCB1
+N6	Reference T11 EntrezGene:23236	PLCB1
+T12	DISEASE 682 698	bipolar disorder
+T13	DISEASE 703 716	schizophrenia
+T14	GENE 902 906	PAX6
+N8	Reference T14 EntrezGene:5080	PAX6
+T15	SPECIES 1053 1058	human
+N9	Reference T15 NCBITaxon:9606	Homo sapiens
+T16	GENE 1084 1088	PAX6
+N10	Reference T16 EntrezGene:5080	PAX6
+T17	GENE 1138 1143	PLCB1
+N11	Reference T17 EntrezGene:23236	PLCB1
+T18	GENE 1145 1149	CTCF
+N12	Reference T18 EntrezGene:10664	CTCF
+T19	GENE 1213 1217	PAX6
+N13	Reference T19 EntrezGene:5080	PAX6
+T20	GENE 1278 1282	PAX6
+N14	Reference T20 EntrezGene:5080	PAX6
+T21	GENE 1284 1289	PLCB4
+N15	Reference T21 EntrezGene:5332	PLCB4
+T22	GENE 1346 1351	PLCB1
+N16	Reference T22 EntrezGene:23236	PLCB1
+T23	GENE 1420 1424	ROR1
+N17	Reference T23 EntrezGene:4919	ROR1
+T24	GENE 1426 1431	PLCB1
+N18	Reference T24 EntrezGene:23236	PLCB1
+T25	GENE 1436 1441	PLCB4
+N19	Reference T25 EntrezGene:5332	PLCB4
+T26	GENE 1445 1449	PAX6
+N20	Reference T26 EntrezGene:5080	PAX6
+T27	GENE 1454 1458	CTCF
+N21	Reference T27 EntrezGene:10664	CTCF
+T29	DISEASE 1537 1545	insomnia
+T30	DISEASE 1571 1592	psychiatric disorders
+T31	DISEASE 1619 1646	circadian rhythm disruption
+T32	DISEASE 1651 1669	metabolic syndrome
+T38	SPECIES 228 234	Korean
+N26	Reference T38 NCBITaxon:9606	Homo sapiens
+A4	REGION T0 INSUFFICIENT
+T40	TISSUE 1059 1067	pancreas
+N28	Reference T40 BTO:0000988	pancreas
+A3	REGION T3 INSUFFICIENT
+T33	ENHANCER 810 853	within both genes near the significant SNPs
+A6	REGION T33 INSUFFICIENT
+T1	TISSUE 858 872	neuronal cells
+T2	ENHANCER 878 887	enhancers
+A1	REGION T2 INSUFFICIENT
+T34	TISSUE 960 982	central nervous system
+N29	Reference T34 BTO:0000227	central nervous system
+T35	ENHANCER 1040 1049	enhancers
+A8	REGION T35 INSUFFICIENT
+N30	Reference T1 BTO:0000947	neuronal cell line
+N31	Reference T4 MONDO:MONDO:0013600	insomnia
+N1	Reference T5 MONDO:MONDO:0013600	insomnia
+N2	Reference T6 MONDO:MONDO:0013600	insomnia
+N3	Reference T7 MONDO:MONDO:0013600	insomnia
+N4	Reference T9 MONDO:MONDO:0013600	insomnia
+N27	Reference T8 MONDO:MONDO:0005015	diabetes mellitus
+N32	Reference T12 MONDO:MONDO:0004985	bipolar disorder
+N7	Reference T13 MONDO:MONDO:0005090	schizophrenia
+N23	Reference T29 MONDO:MONDO:0013600	insomnia
+N24	Reference T30 MONDO:MONDO:0002025	psychiatric disorder
+N33	Reference T32 MONDO:MONDO:0004955	metabolic syndrome
+N25	Reference T31 MONDO:MONDO:0024361	circadian rhythm sleep disorder
+T28	DISEASE 1491 1497	neural
+N22	Reference T28 MONDO:MONDO:0005071	nervous system disorder
+T36	DISEASE 1502 1524	pancreatic dysfunction
+N34	Reference T36 MONDO:MONDO:0002356	pancreas disease

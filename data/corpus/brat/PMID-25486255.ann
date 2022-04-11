@@ -1,0 +1,52 @@
+T0	ENHANCER 17 38	distal super-enhancer
+T1	ENHANCER 690 752	13kb-long super-enhancer (SE) located 100kb downstream of Sox2
+T2	GENE 52 56	Sox2
+N0	Reference T2 EntrezGene:20674	Sox2
+T3	SPECIES 71 76	mouse
+N1	Reference T3 NCBITaxon:10090	Mus musculus
+T4	GENE 220 224	Oct4
+T5	GENE 226 230	Sox2
+N3	Reference T5 EntrezGene:20674	Sox2
+T6	GENE 235 240	Nanog
+N4	Reference T6 EntrezGene:71950	og
+T7	GENE 663 667	Sox2
+N5	Reference T7 EntrezGene:20674	Sox2
+T9	SPECIES 756 761	mouse
+N7	Reference T9 NCBITaxon:10090	Mus musculus
+T10	GENE 791 795	Oct4
+T11	GENE 797 801	Sox2
+N9	Reference T11 EntrezGene:20674	Sox2
+T12	GENE 803 808	Nanog
+N10	Reference T12 EntrezGene:71950	og
+T13	GENE 870 874	Sox2
+N11	Reference T13 EntrezGene:20674	Sox2
+T14	GENE 1171 1175	Sox2
+N12	Reference T14 EntrezGene:20674	Sox2
+T15	GENE 1192 1196	Sox2
+N13	Reference T15 EntrezGene:20674	Sox2
+T16	SPECIES 1356 1361	mouse
+N14	Reference T16 NCBITaxon:10090	Mus musculus
+A17	REGION T0 INSUFFICIENT
+T18	TISSUE 77 97	embryonic stem cells
+N15	Reference T18 BTO:0001086	embryonic stem cell
+T19	TISSUE 119 139	embryonic stem cells
+N16	Reference T19 BTO:0001086	embryonic stem cell
+T20	TISSUE 141 145	ESCs
+N17	Reference T20 BTO:0001086	embryonic stem cell
+N2	Reference T4 EntrezGene:18999	Pou5f1
+A1	REGION T1 INSUFFICIENT
+T22	TISSUE 762 766	ESCs
+N18	Reference T22 BTO:0001086	embryonic stem cell
+T23	ENHANCER 773 775	SE
+A3	REGION T23 INSUFFICIENT
+N8	Reference T10 EntrezGene:18999	Pou5f1
+T24	ENHANCER 994 1002	13-kb SE
+A4	REGION T24 INSUFFICIENT
+T25	ENHANCER 1137 1139	SE
+A5	REGION T25 INSUFFICIENT
+T26	ENHANCER 1296 1298	SE
+A6	REGION T26 INSUFFICIENT
+T27	TISSUE 1362 1366	ESCs
+N19	Reference T27 BTO:0001086	embryonic stem cell
+T8	GENE 748 752	Sox2
+N6	Reference T8 EntrezGene:20674	Sox2

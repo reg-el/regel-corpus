@@ -1,0 +1,49 @@
+T2	ENHANCER 871 927	Isl1/Ldb1 responsive Mef2c anterior heart field enhancer
+T3	GENE 4 8	Isl1
+N0	Reference T3 EntrezGene:3670	ISL1
+T4	GENE 9 13	Ldb1
+N1	Reference T4 EntrezGene:8861	LDB1
+T5	GENE 333 337	Ldb1
+N2	Reference T5 EntrezGene:8861	LDB1
+T6	GENE 509 513	Ldb1
+N3	Reference T6 EntrezGene:8861	LDB1
+T7	GENE 565 569	Isl1
+N4	Reference T7 EntrezGene:3670	ISL1
+T8	GENE 622 626	Isl1
+N5	Reference T8 EntrezGene:3670	ISL1
+T9	GENE 627 631	Ldb1
+N6	Reference T9 EntrezGene:8861	LDB1
+T10	GENE 745 750	Mef2c
+N7	Reference T10 EntrezGene:4208	MEF2C
+T11	GENE 755 760	Hand2
+N8	Reference T11 EntrezGene:9464	HAND2
+T12	GENE 837 841	Ldb1
+N9	Reference T12 EntrezGene:8861	LDB1
+T16	GENE 1093 1097	Ldb1
+N13	Reference T16 EntrezGene:8861	LDB1
+T17	GENE 1112 1116	Isl1
+N14	Reference T17 EntrezGene:3670	ISL1
+T18	GENE 1117 1121	Ldb1
+N15	Reference T18 EntrezGene:8861	LDB1
+T19	GENE 1158 1162	Isl1
+N16	Reference T19 EntrezGene:3670	ISL1
+T20	GENE 1163 1167	Ldb1
+N17	Reference T20 EntrezGene:8861	LDB1
+T23	TISSUE 101 132	Multipotent Cardiac Progenitors
+T24	TISSUE 134 163	Cardiac stem/progenitor cells
+T25	TISSUE 387 411	cardiac progenitor cells
+T27	TISSUE 470 475	heart
+N18	Reference T27 BTO:0000562	heart
+T28	TISSUE 544 563	cardiac progenitors
+A2	REGION T2 INSUFFICIENT
+T31	TISSUE 962 985	cardiac progenitor cell
+T33	TISSUE 1203 1208	heart
+N21	Reference T33 BTO:0000562	heart
+T1	TISSUE 434 449	cardiac lineage
+T13	GENE 871 875	Isl1
+N10	Reference T13 EntrezGene:3670	ISL1
+T14	GENE 876 880	Ldb1
+N11	Reference T14 EntrezGene:8861	LDB1
+T15	GENE 892 897	Mef2c
+N12	Reference T15 EntrezGene:4208	MEF2C
+T21	TISSUE 898 918	anterior heart field

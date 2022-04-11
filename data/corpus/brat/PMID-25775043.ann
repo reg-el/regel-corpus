@@ -1,0 +1,6 @@
+T4	SPECIES 99 108	mammalian
+T5	GENE 479 483	LSD1
+N1	Reference T5 EntrezGene:23028	KDM1A
+N2	Reference T4 NCBITaxon:40674	Mammalia
+T1	TISSUE 395 414	embryonic stem cell
+N3	Reference T1 BTO:0001086	embryonic stem cell

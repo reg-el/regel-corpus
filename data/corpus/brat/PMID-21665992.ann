@@ -1,0 +1,49 @@
+T0	GENE 24 31	ZNF512B
+N0	Reference T0 EntrezGene:57473	ZNF512B
+T1	VARIANT 536 545	rs2275294
+T2	GENE 891 898	ZNF512B
+N1	Reference T2 EntrezGene:57473	ZNF512B
+T3	GENE 925 956	transforming growth factor-beta
+N2	Reference T3 EntrezGene:7040	TGFB1
+T4	GENE 958 966	TGF-beta
+N3	Reference T4 EntrezGene:7040	TGFB1
+T5	GENE 1020 1027	ZNF512B
+N4	Reference T5 EntrezGene:57473	ZNF512B
+T6	GENE 1187 1194	ZNF512B
+N5	Reference T6 EntrezGene:57473	ZNF512B
+T7	GENE 1233 1241	TGF-beta
+N6	Reference T7 EntrezGene:7040	TGFB1
+T8	GENE 1271 1278	ZNF512B
+N7	Reference T8 EntrezGene:57473	ZNF512B
+T9	DISEASE 69 98	amyotrophic lateral sclerosis
+T10	DISEASE 112 141	Amyotrophic lateral sclerosis
+T11	DISEASE 143 146	ALS
+T12	DISEASE 153 178	neurodegenerative disease
+T13	DISEASE 266 269	ALS
+T14	DISEASE 299 302	ALS
+T15	DISEASE 373 376	ALS
+T16	DISEASE 593 596	ALS
+T17	DISEASE 1110 1113	ALS
+T18	DISEASE 1318 1321	ALS
+T19	TISSUE 218 231	motor neurons
+T20	TISSUE 1060 1073	anterior horn
+T21	ENHANCER 709 735	enhancer region of ZNF512B
+A21	REGION T21 INSUFFICIENT
+N18	Reference T19 BTO:0000312	motoneuron
+N19	Reference T20 BTO:0005151	anterior horn
+T22	TISSUE 1074 1087	motor neurons
+N20	Reference T22 BTO:0000312	motoneuron
+N8	Reference T9 MONDO:MONDO:0004976	amyotrophic lateral sclerosis
+N9	Reference T10 MONDO:MONDO:0004976	amyotrophic lateral sclerosis
+N10	Reference T11 MONDO:MONDO:0004976	amyotrophic lateral sclerosis
+N12	Reference T13 MONDO:MONDO:0004976	amyotrophic lateral sclerosis
+N13	Reference T14 MONDO:MONDO:0004976	amyotrophic lateral sclerosis
+N14	Reference T15 MONDO:MONDO:0004976	amyotrophic lateral sclerosis
+N15	Reference T16 MONDO:MONDO:0004976	amyotrophic lateral sclerosis
+N16	Reference T17 MONDO:MONDO:0004976	amyotrophic lateral sclerosis
+N17	Reference T18 MONDO:MONDO:0004976	amyotrophic lateral sclerosis
+N11	Reference T12 MONDO:MONDO:0005559	neurodegenerative disease
+T23	TISSUE 1095 1106	spinal cord
+N21	Reference T23 BTO:0001279	spinal cord
+T24	GENE 728 735	ZNF512B
+N22	Reference T24 EntrezGene:57473	ZNF512B

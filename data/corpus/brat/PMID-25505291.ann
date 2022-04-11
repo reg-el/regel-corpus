@@ -1,0 +1,118 @@
+T0	ENHANCER 734 777	enhancer, located between +4517 and 4662 bp
+T1	ENHANCER 836 844	enhancer
+T2	GENE 0 9	TGF-beta1
+N0	Reference T2 EntrezGene:7040	TGFB1
+T4	SPECIES 85 90	human
+N2	Reference T4 NCBITaxon:9606	Homo sapiens
+T5	DISEASE 257 282	cardiometabolic disorders
+T6	GENE 284 292	TGF-beta
+N3	Reference T6 EntrezGene:7040	TGFB1
+T7	SPECIES 420 425	human
+N4	Reference T7 NCBITaxon:9606	Homo sapiens
+T8	GENE 439 448	TGF-beta1
+N5	Reference T8 EntrezGene:7040	TGFB1
+T10	GENE 575 580	Smad2
+T11	GENE 626 635	TGF-beta1
+N8	Reference T11 EntrezGene:7040	TGFB1
+T12	GENE 692 695	Id3
+N9	Reference T12 EntrezGene:3399	ID3
+T13	GENE 852 857	Smad2
+T14	GENE 879 882	Id3
+N11	Reference T14 EntrezGene:3399	ID3
+T15	GENE 910 915	Smad1
+T16	GENE 966 971	Smad1
+T17	GENE 1053 1062	TGF-beta1
+N14	Reference T17 EntrezGene:7040	TGFB1
+T18	GENE 1088 1093	Smad1
+T19	GENE 1128 1132	ALK5
+N16	Reference T19 EntrezGene:7046	TGFBR1
+T20	GENE 1133 1137	ALK1
+N17	Reference T20 EntrezGene:94	ACVRL1
+T21	GENE 1186 1191	Smad1
+T22	GENE 1207 1216	TGF-beta1
+N19	Reference T22 EntrezGene:7040	TGFB1
+T23	SPECIES 1227 1232	human
+N20	Reference T23 NCBITaxon:9606	Homo sapiens
+T24	GENE 1260 1265	Smad1
+T25	GENE 1271 1280	TGF-beta1
+N22	Reference T25 EntrezGene:7040	TGFB1
+T26	GENE 1298 1301	Id3
+N23	Reference T26 EntrezGene:3399	ID3
+T27	GENE 1312 1316	HAMP
+N24	Reference T27 EntrezGene:57817	HAMP
+T28	GENE 1321 1326	PLAUR
+N25	Reference T28 EntrezGene:5329	PLAUR
+T30	GENE 1422 1427	Smad1
+T31	GENE 1435 1440	Smad2
+T32	GENE 1500 1508	TGF-beta
+N29	Reference T32 EntrezGene:7040	TGFB1
+T33	DISEASE 1512 1527	atherosclerosis
+T34	GENE 1534 1539	Smad1
+T35	GENE 1593 1598	Smad2
+T36	GENE 1638 1646	TGF-beta
+N32	Reference T36 EntrezGene:7040	TGFB1
+T41	TISSUE 91 102	macrophages
+N33	Reference T41 BTO:0000801	macrophage
+T44	TISSUE 426 437	macrophages
+T45	TISSUE 151 162	Macrophages
+N34	Reference T45 BTO:0000801	macrophage
+T46	GENE 459 464	Smad2
+A2	REGION T0 SUFFICIENT
+A1	REGION T1 SUFFICIENT
+T9	TISSUE 921 938	endothelial cells
+N6	Reference T9 BTO:0001176	endothelial cell
+T47	TISSUE 977 988	macrophages
+N36	Reference T47 BTO:0000801	macrophage
+T48	TISSUE 1099 1110	macrophages
+N37	Reference T48 BTO:0000801	macrophage
+T49	TISSUE 1233 1244	macrophages
+N38	Reference T49 BTO:0000801	macrophage
+#1	AnnotatorNotes T0	chr1,23881244,23881761
+#2	AnnotatorNotes T1	chr1,23881244,23881761
+T37	TISSUE 19 23	bone
+N39	Reference T37 BTO:0000140	bone
+N15	Reference T18 EntrezGene:4086	SMAD1
+T38	GENE 1094 1095	5
+N40	Reference T38 EntrezGene:4090	SMAD5
+N1	Reference T10 EntrezGene:4087	SMAD2
+T3	GENE 581 582	3
+N7	Reference T3 EntrezGene:4088	SMAD3
+N35	Reference T46 EntrezGene:4087	SMAD2
+T39	GENE 465 466	3
+N41	Reference T39 EntrezGene:4088	SMAD3
+N10	Reference T13 EntrezGene:4087	SMAD2
+T40	GENE 858 859	3
+N42	Reference T40 EntrezGene:4088	SMAD3
+N28	Reference T31 EntrezGene:4087	SMAD2
+T50	GENE 1441 1442	3
+N43	Reference T50 EntrezGene:4088	SMAD3
+N31	Reference T35 EntrezGene:4087	SMAD2
+T51	GENE 1599 1600	3
+N44	Reference T51 EntrezGene:4088	SMAD3
+N12	Reference T15 EntrezGene:4086	SMAD1
+T52	GENE 916 917	5
+N45	Reference T52 EntrezGene:4090	SMAD5
+N13	Reference T16 EntrezGene:4086	SMAD1
+T53	GENE 972 973	5
+N46	Reference T53 EntrezGene:4090	SMAD5
+N21	Reference T24 EntrezGene:4086	SMAD1
+T54	GENE 1266 1267	5
+N47	Reference T54 EntrezGene:4090	SMAD5
+N27	Reference T30 EntrezGene:4086	SMAD1
+T55	GENE 1428 1429	5
+N48	Reference T55 EntrezGene:4090	SMAD5
+N30	Reference T34 EntrezGene:4086	SMAD1
+T56	GENE 1540 1541	5
+N49	Reference T56 EntrezGene:4090	SMAD5
+N18	Reference T21 EntrezGene:4086	SMAD1
+T57	GENE 1192 1193	5
+N50	Reference T57 EntrezGene:4090	SMAD5
+T58	GENE 58 63	Smad1
+N51	Reference T58 EntrezGene:4086	SMAD1
+T59	GENE 64 65	5
+N52	Reference T59 EntrezGene:4090	SMAD5
+N53	Reference T5 MONDO:MONDO:0005066;MONDO:0005267	
+N54	Reference T33 MONDO:MONDO:0005311	atherosclerosis
+N26	Reference T44 BTO:0000801	macrophage
+T29	TISSUE 657 668	macrophages
+N55	Reference T29 BTO:0000801	

@@ -1,0 +1,65 @@
+T0	ENHANCER 1249 1301	Fox enhancer sequence in the second intron of Cdkn1c
+T2	GENE 21 26	Foxd1
+N1	Reference T2 EntrezGene:15229	Foxd1
+T3	GENE 121 124	Shh
+N2	Reference T3 EntrezGene:20423	Shh
+T4	GENE 244 247	Shh
+N3	Reference T4 EntrezGene:20423	Shh
+T6	DISEASE 292 304	malignancies
+T7	GENE 413 416	Shh
+N5	Reference T7 EntrezGene:20423	Shh
+T8	SPECIES 477 482	mouse
+N6	Reference T8 NCBITaxon:10090	Mus musculus
+T9	GENE 548 553	Foxd1
+N7	Reference T9 EntrezGene:15229	Foxd1
+T10	GENE 598 601	Shh
+N8	Reference T10 EntrezGene:20423	Shh
+T11	GENE 677 682	Foxd1
+N9	Reference T11 EntrezGene:15229	Foxd1
+T12	GENE 732 735	SHH
+N10	Reference T12 EntrezGene:20423	Shh
+T13	GENE 749 754	FOXD1
+N11	Reference T13 EntrezGene:15229	Foxd1
+T14	GENE 859 862	SHH
+N12	Reference T14 EntrezGene:20423	Shh
+T15	GENE 874 879	FOXD1
+N13	Reference T15 EntrezGene:15229	Foxd1
+T17	GENE 1011 1014	Shh
+N15	Reference T17 EntrezGene:20423	Shh
+T18	GENE 1037 1042	Foxd1
+N16	Reference T18 EntrezGene:15229	Foxd1
+T19	GENE 1076 1082	Cdkn1c
+N17	Reference T19 EntrezGene:12577	Cdkn1c
+T21	GENE 1212 1217	FOXD1
+N19	Reference T21 EntrezGene:15229	Foxd1
+T23	GENE 1396 1399	Shh
+N21	Reference T23 EntrezGene:20423	Shh
+T24	GENE 1414 1419	Foxd1
+N22	Reference T24 EntrezGene:15229	Foxd1
+T25	GENE 1424 1430	Cdkn1c
+N23	Reference T25 EntrezGene:12577	Cdkn1c
+T26	GENE 1595 1598	Shh
+N24	Reference T26 EntrezGene:20423	Shh
+T27	GENE 1599 1604	Foxd1
+N25	Reference T27 EntrezGene:15229	Foxd1
+T28	GENE 1605 1611	Cdkn1c
+N26	Reference T28 EntrezGene:12577	Cdkn1c
+T29	GENE 1667 1670	Shh
+N27	Reference T29 EntrezGene:20423	Shh
+T1	GENE 71 85	Sonic Hedgehog
+N28	Reference T1 EntrezGene:20423	Shh
+T32	GENE 105 119	Sonic Hedgehog
+N29	Reference T32 EntrezGene:20423	Shh
+A1	CANCER T6
+T33	TISSUE 483 504	embryonic fibroblasts
+N30	Reference T33 BTO:0004725	embryonic fibroblast
+A2	REGION T0 INSUFFICIENT
+T16	TISSUE 1451 1477	cranial neural crest cells
+T20	TISSUE 1541 1550	upper lip
+N4	Reference T6 MONDO:MONDO:0004992	cancer
+T5	DISEASE 274 287	malformations
+N14	Reference T5 MONDO:MONDO:0021147	
+N18	Reference T16 BTO:0003825	neural crest cell
+N20	Reference T20 BTO:0001647	lip
+T22	GENE 1295 1301	Cdkn1c
+N31	Reference T22 EntrezGene:12577	Cdkn1c

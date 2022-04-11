@@ -1,0 +1,68 @@
+T0	PROMOTER 690 698	promoter
+T1	ENHANCER 715 723	enhancer
+T2	DISEASE 0 21	Low-Grade Astrocytoma
+T3	GENE 35 39	IDH1
+N1	Reference T3 EntrezGene:3417	IDH1
+T4	GENE 41 44	P53
+N2	Reference T4 EntrezGene:7157	TP53
+T5	GENE 50 54	ATRX
+N3	Reference T5 EntrezGene:546	ATRX
+T7	GENE 135 139	SOX2
+N5	Reference T7 EntrezGene:6657	SOX2
+T8	DISEASE 141 163	Low-grade astrocytomas
+T9	DISEASE 165 169	LGAs
+T10	GENE 201 225	isocitrate dehydrogenase
+N7	Reference T10 EntrezGene:3417	IDH1
+T11	GENE 227 230	IDH
+N8	Reference T11 EntrezGene:3417	IDH1
+T12	GENE 250 253	P53
+N9	Reference T12 EntrezGene:7157	TP53
+T13	GENE 258 262	ATRX
+N10	Reference T13 EntrezGene:546	ATRX
+T14	DISEASE 278 281	LGA
+T15	VARIANT 307 312	R132H
+T16	GENE 313 317	IDH1
+N12	Reference T16 EntrezGene:3417	IDH1
+T17	GENE 319 322	P53
+N13	Reference T17 EntrezGene:7157	TP53
+T18	GENE 334 338	ATRX
+N14	Reference T18 EntrezGene:546	ATRX
+T20	GENE 532 536	IDH1
+N16	Reference T20 EntrezGene:3417	IDH1
+T21	SPECIES 544 549	human
+N17	Reference T21 NCBITaxon:9606	Homo sapiens
+T22	GENE 650 654	SOX2
+N18	Reference T22 EntrezGene:6657	SOX2
+T23	GENE 793 797	CTCF
+N19	Reference T23 EntrezGene:10664	CTCF
+T24	SPECIES 853 858	human
+N20	Reference T24 NCBITaxon:9606	Homo sapiens
+T25	GENE 868 871	IDH
+N21	Reference T25 EntrezGene:3417	IDH1
+T26	DISEASE 879 882	LGA
+T27	GENE 958 962	SOX2
+N23	Reference T27 EntrezGene:6657	SOX2
+T29	TISSUE 99 116	Neural Stem Cells
+N24	Reference T29 BTO:0002881	neural stem cell
+T6	TISSUE 356 373	neural stem cells
+N4	Reference T6 BTO:0002881	neural stem cell
+T19	TISSUE 375 379	NSCs
+N15	Reference T19 BTO:0002881	neural stem cell
+T30	TISSUE 411 414	NSC
+N25	Reference T30 BTO:0002881	neural stem cell
+T31	DISEASE 550 554	LGAs
+A2	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T32	TISSUE 913 916	NSC
+N28	Reference T32 BTO:0002881	neural stem cell
+#1	AnnotatorNotes T15	R132H
+T28	SPECIES 93 98	Human
+N29	Reference T28 NCBITaxon:9606	Homo sapiens
+T33	SPECIES 350 355	human
+N30	Reference T33 NCBITaxon:9606	Homo sapiens
+N31	Reference T2 MONDO:MONDO:0016685	low-grade astrocytoma
+N6	Reference T8 MONDO:MONDO:0016685	low-grade astrocytoma
+N26	Reference T9 MONDO:MONDO:0016685	low-grade astrocytoma
+N11	Reference T14 MONDO:MONDO:0016685	low-grade astrocytoma
+N27	Reference T31 MONDO:MONDO:0016685	low-grade astrocytoma
+N22	Reference T26 MONDO:MONDO:0016685	low-grade astrocytoma

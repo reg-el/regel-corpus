@@ -1,0 +1,41 @@
+T0	ENHANCER 2 62	cell-specific enhancer of the mouse alpha 1-antitrypsin gene
+T1	ENHANCER 583 648	sequences between -520 and -160 bp upstream of the RNA start site
+T2	PROMOTER 716 744	alpha 1-antitrypsin promoter
+T3	PROMOTER 781 801	beta-globin promoter
+T4	ENHANCER 814 829	enhancer region
+T6	ENHANCER 1239 1267	alpha 1-antitrypsin enhancer
+T9	SPECIES 239 244	mouse
+N2	Reference T9 NCBITaxon:10090	Mus musculus
+T10	GENE 245 264	alpha 1-antitrypsin
+T11	TISSUE 401 414	hepatoma cell
+T12	TISSUE 563 577	hepatoma cells
+T14	TISSUE 875 883	hepatoma
+T16	SPECIES 1417 1422	human
+N9	Reference T16 NCBITaxon:9606	Homo sapiens
+T17	GENE 1423 1442	alpha 1-antitrypsin
+A7	REGION T0 INSUFFICIENT
+A8	CANCER T11
+A9	CANCER T12
+A1	REGION T1 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+A10	CANCER T14
+A5	REGION T6 INSUFFICIENT
+N1	Reference T17 EntrezGene:5265	SERPINA1
+N3	Reference T10 EntrezGene:5265	SERPINA1
+T13	ENHANCER 665 687	cell-specific enhancer
+A16	REGION T13 INSUFFICIENT
+N4	Reference T11 BTO:0000608	hepatoma cell
+N5	Reference T12 BTO:0000608	hepatoma cell
+N6	Reference T14 BTO:0000608	hepatoma cell
+T5	SPECIES 32 37	mouse
+N7	Reference T5 NCBITaxon:10090	Mus musculus
+T7	GENE 38 57	alpha 1-antitrypsin
+N8	Reference T7 EntrezGene:5265	SERPINA1
+T8	GENE 716 735	alpha 1-antitrypsin
+N10	Reference T8 EntrezGene:5265	SERPINA1
+T15	GENE 781 792	beta-globin
+N11	Reference T15 EntrezGene:15127	Hbb
+T18	GENE 1239 1258	alpha 1-antitrypsin
+N12	Reference T18 EntrezGene:5265	SERPINA1

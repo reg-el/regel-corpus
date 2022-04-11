@@ -1,0 +1,312 @@
+9878258||199||214||erythroid cells||1
+9878258||929||944||erythroid cells||1
+21368045||650||655||brain||1
+21368045||807||814||neurons||0
+21368045||857||862||ovary||1
+21368045||947||952||ovary||1
+21368045||974||984||epithelial||0
+21368045||989||1004||granulosa cells||1
+21368045||1021||1034||corpora lutea||1
+21368045||1483||1489||neuron||0
+21368045||1516||1521||ovary||1
+21402921||109||117||monocyte||1
+21402921||584||605||monocytic THP-1 cells||0
+21402921||613||623||HeLa cells||1
+21402921||967||978||THP-1 cells||0
+21402921||983||993||HeLa cells||1
+21445863||536||556||haematopoietic cells||1
+21527504||954||965||GT1-1 cells||0
+21527504||1186||1197||GT1-1 cells||0
+21527504||1206||1218||hypothalamus||1
+21527504||1352||1359||neurons||0
+21556051||425||435||CRPC cells||1
+21665992||218||231||motor neurons||1
+21665992||1060||1073||anterior horn||0
+21665992||1074||1087||motor neurons||0
+21665992||1095||1106||spinal cord||1
+21673114||425||428||rod||0
+21673114||436||440||cone||0
+21673114||441||459||photoreceptor cell||0
+21673114||541||545||rods||1
+21673114||607||611||cone||0
+21673114||617||623||retina||1
+21673114||697||701||rods||1
+21673114||978||984||retina||1
+21673114||1257||1260||rod||0
+21673114||1491||1495||cone||0
+21673114||1496||1499||rod||0
+21673114||1840||1846||retina||1
+21689639||235||255||embryonic stem cells||1
+22337891||85||111||colorectal carcinoma cells||1
+22337891||1023||1032||CRC cells||1
+22337891||1079||1088||CRC cells||1
+22337891||1235||1258||colon cancer cell lines||1
+22337891||1478||1492||colonic mucosa||1
+22337891||1704||1713||CRC cells||1
+22543974||587||592||heart||1
+22543974||597||601||limb||1
+22543974||1009||1014||heart||1
+22701669||77||84||incisor||1
+22701669||89||97||limb bud||1
+22701669||467||489||lateral plate mesoderm||1
+22701669||639||663||mandibular arch ectoderm||1
+22701669||668||686||incisor epithelium||1
+22701669||718||723||tooth||0
+22701669||838||842||limb||1
+22701669||873||888||limb mesenchyme||0
+22701669||926||947||incisor dental lamina||1
+22701669||1150||1160||mandibular||0
+22701669||1165||1183||incisor epithelium||1
+22701669||1436||1448||craniofacial||0
+22701669||1453||1457||limb||0
+22701669||1588||1615||dental epithelial cell line||1
+22701669||1743||1761||incisor epithelium||1
+22761896||172||207||hypothalamic-pituitary-gonadal axis||0
+22761896||373||385||hypothalamus||1
+22761896||861||881||neuronal cells GT1-7||0
+22761896||1307||1318||GT1-7 cells||0
+22761896||1895||1914||reproductive system||1
+22877652||162||203||hypothalamic-pituitary-gonadal (HPG) axis||0
+23184392||386||399||ES stem cells||1
+23184392||732||746||cardiomyocytes||1
+23184392||748||765||endothelial cells||1
+23184392||770||789||smooth muscle cells||1
+23184392||999||1012||cardiomyocyte||1
+23184392||1387||1408||pluripotent stem cell||1
+23307821||266||287||mesodermal precursors||1
+23307821||564||583||embryonic stem cell||1
+23307821||1217||1233||Cardiac mesoderm||0
+23307821||1340||1359||embryonic stem cell||1
+23307821||1467||1487||embryonic stem cells||1
+24000349||97||103||testis||1
+24000349||403||409||testis||1
+24000349||455||461||testis||1
+24000349||956||962||type A||0
+24000349||967||982||B spermatogonia||0
+24014243||15||38||hematopoietic stem cell||1
+24014243||234||258||hematopoietic stem cells||1
+24014243||260||264||HSCs||1
+24014243||387||391||HSCs||1
+24014243||550||553||HSC||1
+24014243||589||593||HSCs||1
+24014243||897||900||HSC||1
+24014243||1109||1113||HSCs||1
+24014243||1343||1346||HSC||1
+24014243||1464||1468||HSCs||1
+24157522||53||57||lung||1
+24157522||62||65||gut||1
+24157522||75||82||embryos||1
+24157522||199||202||gut||1
+24157522||262||282||endodermal epithelia||1
+24157522||292||303||oral cavity||1
+24157522||311||320||intestine||1
+24157522||378||388||mesenchyme||1
+24157522||429||459||gastrointestinal smooth muscle||1
+24157522||569||577||endoderm||1
+24157522||770||797||gastroesophageal epithelium||1
+24157522||971||980||esophagus||1
+24157522||985||992||stomach||1
+24797517||512||532||embryonic stem cells||1
+24797517||560||571||macrophages||1
+24812424||588||617||visceral white adipose tissue||1
+24812424||619||623||VWAT||1
+24812424||808||812||VWAT||1
+24812424||883||887||VWAT||1
+24812424||1061||1065||VWAT||1
+24812424||1241||1251||adipocytes||1
+24812424||1257||1261||VWAT||1
+24812424||1393||1397||VWAT||1
+24812424||1398||1408||adipocytes||1
+24915132||99||111||CD4+ T cells||0
+24915132||177||191||CD4(+) T cells||0
+24915132||334||338||skin||1
+24915132||434||448||CD4(+) T cells||0
+24915132||506||513||T cells||1
+24915132||622||635||CD4(+) T cell||0
+24915132||1052||1063||T cell line||0
+24915132||1110||1126||CD4(+) Th1 cells||0
+24915132||1250||1259||Th1 cells||1
+24915132||1556||1565||Th1 cells||1
+24915132||1616||1630||CD4(+) T cells||0
+25185713||43||72||AML/ETO9a leukemic stem cells||0
+25185713||294||318||hematopoietic stem cells||1
+25185713||320||324||HSCs||1
+25185713||400||404||HSCs||1
+25185713||785||788||HSC||1
+25185713||806||809||HSC||1
+25185713||1110||1135||leukemia-initiating cells||0
+25185713||1444||1463||leukemia stem cells||1
+25209250||140||148||endoderm||1
+25209250||239||247||endoderm||1
+25209250||541||548||embryos||1
+25209250||573||580||embryos||1
+25209250||884||891||embryos||1
+25209250||986||989||gut||1
+25209250||1133||1141||endoderm||1
+25321476||85||96||chondrocyte||1
+25321476||149||157||skeleton||1
+25321476||210||240||cartilage-forming chondrocytes||0
+25321476||283||295||chondrocytes||1
+25321476||350||354||bone||1
+25321476||476||480||bone||1
+25321476||631||643||chondrocytes||1
+25321476||701||718||endochondral bone||0
+25321476||1117||1128||chondrocyte||1
+25321476||1777||1780||MCT||0
+25321476||1782||1841||mouse chondrocytes immortalized with large T antigen) cells||0
+25321476||1957||1966||MCT cells||1
+25321476||2138||2147||MCT cells||1
+25321476||2446||2457||chondrocyte||1
+25486239||31||46||arcuate nucleus||0
+25486239||227||245||Kisspeptin neurons||1
+25486239||262||277||arcuate nucleus||1
+25486239||279||282||ARC||1
+25486239||392||395||ARC||0
+25486239||716||747||kisspeptin-immunoreactive cells||0
+25486239||760||763||ARC||1
+25486239||768||805||anteroventral periventricular nucleus||0
+25486239||838||856||kisspeptin neurons||1
+25486239||972||975||ARC||0
+25486239||976||1007||kisspeptin-immunoreactive cells||0
+25486239||1093||1130||anteroventral periventricular nucleus||0
+25486239||1409||1412||ARC||1
+25486239||1551||1554||ARC||1
+25486239||1748||1751||ARC||1
+25486239||1878||1881||ARC||0
+25622893||308||314||testis||1
+26166704||654||673||breast cancer cells||0
+26211970||607||632||lymphoblastoid cell lines||1
+26211970||634||638||LCLs||1
+26211970||834||838||LCLs||1
+26211970||1078||1082||LCLs||1
+26211970||1419||1423||LCLs||0
+26211970||1679||1685||B cell||1
+26216945||718||732||CD4(+) T cells||0
+26216945||925||939||CD4(+) T cells||0
+26216945||1112||1118||T-cell||0
+26216945||1150||1156||T-cell||0
+26216945||1282||1288||T-cell||0
+26321200||470||475||heart||1
+26321200||1203||1208||heart||1
+26382291||99||104||brain||1
+26382291||736||745||hindbrain||0
+26382291||832||837||brain||1
+26382291||839||844||heart||1
+26382291||850||853||eye||1
+26382291||1341||1344||eye||1
+26382291||1346||1355||hindbrain||1
+26382291||1361||1365||limb||1
+26494787||61||81||anterior mesendoderm||1
+26494787||210||225||endodermal cell||0
+26494787||441||458||visceral endoderm||1
+26494787||525||533||epiblast||1
+26494787||562||570||endoderm||1
+26494787||584||604||anterior mesendoderm||0
+26494787||673||701||anterior definitive endoderm||0
+26494787||795||812||visceral endoderm||0
+26494787||1005||1033||anterior definitive endoderm||0
+26494787||1178||1186||epiblast||0
+26494787||1470||1490||anterior mesendoderm||0
+26494787||1589||1593||head||1
+26615198||39||58||primary human cells||0
+26615198||1040||1053||primary cells||0
+26748758||144||158||epiblast cells||1
+26748758||235||242||somatic||0
+26748758||247||267||primordial germ cell||0
+26748758||269||272||PGC||1
+26748758||301||321||embryonic stem cells||1
+26748758||875||892||pluripotent cells||0
+26748758||954||957||PGC||1
+26748758||1109||1112||PGC||1
+26751080||600||610||A549 cells||1
+26771354||179||201||pluripotent stem cells||1
+26771354||203||207||PSCs||1
+26771354||244||264||embryonic stem cells||1
+26771354||266||270||ESCs||1
+26771354||315||319||PSCs||1
+26771354||337||341||ESCs||1
+26771354||385||395||mouse ESCs||0
+26771354||397||402||mESCs||1
+26771354||542||547||mESCs||1
+26771354||775||780||mESCs||1
+26771354||940||945||mESCs||1
+26795348||1225||1231||breast||0
+26829750||901||920||myoepithelial cells||1
+26829750||944||968||luminal epithelial cells||1
+26912657||151||162||Macrophages||1
+26912657||640||651||macrophages||1
+26912657||1079||1090||macrophages||1
+26912657||1309||1320||macrophages||1
+27941798||424||429||colon||1
+27941798||443||458||small intestine||1
+27989796||620||626||gonads||1
+27989796||805||841||primordium of the penis and clitoris||0
+27989796||960||985||urethral plate epithelium||1
+27989796||987||1003||preputial glands||1
+27989796||1005||1029||ventral surface ectoderm||0
+27989796||1034||1050||corpus cavernosa||1
+28045957||57||63||Testis||1
+28045957||387||400||Sertoli cells||1
+28045957||414||429||granulosa cells||1
+28045957||260||266||testis||1
+28045957||647||653||gonads||1
+28045957||702||708||gonads||1
+28045957||1037||1044||embryos||1
+28045957||1069||1076||embryos||1
+28045957||1153||1162||ovotestes||1
+28045957||1312||1326||granulosa cell||1
+28045957||1574||1579||gonad||1
+28260788||1439||1455||T-lymphoid cells||0
+28536097||341||358||endothelial cells||1
+28578223||162||171||monocytes||1
+28614915||104||117||Mesencephalon||1
+28614915||170||175||brain||1
+28614915||397||410||mesencephalon||1
+28614915||447||460||mesencephalon||1
+28614915||837||844||embryos||1
+28614915||782||795||mesencephalon||1
+28614915||1143||1150||embryos||1
+28614915||1088||1101||mesencephalon||1
+28614915||1336||1349||mesencephalon||1
+28614915||1556||1569||mesencephalon||1
+28836200||20||31||Mesenchymal||0
+28836200||32||48||Fibroblast Cells||0
+28836200||268||279||fibroblasts||1
+28836200||291||308||mesenchymal cells||1
+28836200||715||732||mesenchymal cells||1
+28916725||342||361||embryonic stem cell||1
+28916725||529||545||epithelial cells||0
+28916725||877||901||corneal epithelial cells||1
+28916725||978||996||ectodermal lineage||1
+28916725||1095||1115||embryonic stem cells||1
+28916725||1774||1798||corneal epithelial cells||1
+28916725||1871||1887||epithelial cells||1
+28916725||1940||1963||corneal epithelial cell||1
+29453285||102||127||endometrial stromal cells||1
+29453285||207||232||endometrial stromal cells||1
+29453285||234||238||ESCs||1
+29453285||839||843||ESCs||1
+29453285||1073||1084||HepG2 cells||1
+29453285||1373||1377||ESCs||1
+29453285||1669||1673||ESCs||1
+29695788||110||136||human embryonic stem cells||1
+29695788||199||207||epiblast||1
+29706059||666||675||monocytes||1
+29706059||1152||1164||CD4+ T cells||0
+29706059||1166||1178||CD8+ T cells||0
+29706059||1180||1198||CD15+ granulocytes||0
+29706059||1200||1213||CD19+ B cells||0
+29706059||1219||1233||CD56+ NK cells||0
+29706059||1412||1420||monocyte||0
+29706059||1506||1514||monocyte||1
+29706059||1637||1649||granulocytes||1
+29706059||1837||1846||monocytes||1
+29706059||1988||1997||monocytes||1
+29706059||2007||2019||granulocytes||1
+29706059||2139||2147||monocyte||1
+29898989||76||92||Colorectal Cells||1
+29898989||1154||1170||colorectal cells||1
+29898989||1530||1562||SW620 colorectal carcinoma cells||1
+29898989||1653||1669||colorectal cells||1
+30139998||490||513||ER+ breast cancer cells||0
+30139998||532||567||triple-negative breast cancer cells||0

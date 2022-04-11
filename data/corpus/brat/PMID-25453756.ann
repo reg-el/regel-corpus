@@ -1,0 +1,24 @@
+T2	DISEASE 34 47	schizophrenia
+T3	DISEASE 121 134	schizophrenia
+T4	DISEASE 246 259	schizophrenia
+T6	DISEASE 510 523	schizophrenia
+T7	GENE 890 897	CACNA1C
+N5	Reference T7 EntrezGene:775	CACNA1C
+T8	DISEASE 959 972	schizophrenia
+T11	TISSUE 789 806	prefrontal cortex
+N7	Reference T11 BTO:0002807	prefrontal cortex
+T12	TISSUE 850 857	neurons
+N8	Reference T12 BTO:0000938	neuron
+T13	TISSUE 820 841	pluripotent stem cell
+N9	Reference T13 BTO:0006078	pluripotent stem cell
+T14	TISSUE 405 410	brain
+N10	Reference T14 BTO:0000142	brain
+N3	Reference T2 MONDO:MONDO:0005090	schizophrenia
+N1	Reference T3 MONDO:MONDO:0005090	schizophrenia
+N2	Reference T4 MONDO:MONDO:0005090	schizophrenia
+N4	Reference T6 MONDO:MONDO:0005090	schizophrenia
+N6	Reference T8 MONDO:MONDO:0005090	schizophrenia
+T1	SPECIES 399 404	human
+N11	Reference T1 NCBITaxon:9606	Homo sapiens
+T5	TISSUE 1101 1106	brain
+N12	Reference T5 BTO:0000142	brain

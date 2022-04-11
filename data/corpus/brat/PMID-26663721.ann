@@ -1,0 +1,34 @@
+T4	SPECIES 95 100	Mouse
+N0	Reference T4 NCBITaxon:10090	Mus musculus
+T5	SPECIES 105 110	Human
+N1	Reference T5 NCBITaxon:9606	Homo sapiens
+T6	SPECIES 445 450	human
+N2	Reference T6 NCBITaxon:9606	Homo sapiens
+T7	SPECIES 455 460	mouse
+N3	Reference T7 NCBITaxon:10090	Mus musculus
+T8	SPECIES 664 669	human
+N4	Reference T8 NCBITaxon:9606	Homo sapiens
+T9	SPECIES 674 679	mouse
+N5	Reference T9 NCBITaxon:10090	Mus musculus
+T10	SPECIES 1015 1019	mice
+N6	Reference T10 NCBITaxon:10090	Mus musculus
+T11	SPECIES 1024 1030	humans
+N7	Reference T11 NCBITaxon:9606	Homo sapiens
+T12	SPECIES 1371 1376	mouse
+N8	Reference T12 NCBITaxon:10090	Mus musculus
+T13	SPECIES 1381 1386	human
+N9	Reference T13 NCBITaxon:9606	Homo sapiens
+T1	TFBS 1152 1168	GR binding sites
+A1	REGION T1 INSUFFICIENT
+T2	TFBS 956 982	consensus GR-binding motif
+A3	REGION T2 INSUFFICIENT
+T3	TISSUE 299 312	immune system
+N10	Reference T3 BTO:0005810	immune system
+T14	TISSUE 111 122	Macrophages
+N11	Reference T14 BTO:0000801	macrophage
+T15	TISSUE 461 472	macrophages
+N12	Reference T15 BTO:0000801	macrophage
+T16	TISSUE 680 691	macrophages
+N13	Reference T16 BTO:0000801	
+T17	TISSUE 1387 1398	macrophages
+N14	Reference T17 BTO:0000801	

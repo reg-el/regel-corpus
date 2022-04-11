@@ -1,0 +1,54 @@
+T5	ENHANCER 1094 1133	187 bp dorsal midline-specific enhancer
+T7	GENE 126 131	EphA7
+N1	Reference T7 EntrezGene:2045	PHA7
+T8	GENE 253 258	EphA7
+N2	Reference T8 EntrezGene:2045	PHA7
+T9	GENE 411 416	EphA7
+N3	Reference T9 EntrezGene:2045	PHA7
+T10	GENE 524 529	EphA7
+N4	Reference T10 EntrezGene:2045	PHA7
+T12	ENHANCER 922 977	305 kb downstream of the EphA7 transcription start site
+A5	REGION T5 INSUFFICIENT
+A8	REGION T12 INSUFFICIENT
+T13	ENHANCER 707 779	downstream of the EphA7 transcription start site, +302.6 kb to +327.9 kb
+A11	REGION T13 INSUFFICIENT
+T2	ENHANCER 54 86	Dorsal Midline-Specific Enhancer
+A2	REGION T2 INSUFFICIENT
+T1	ENHANCER 564 596	dorsal midline-specific enhancer
+A1	REGION T1 INSUFFICIENT
+T3	ENHANCER 1008 1049	dorsal midline-specific enhancer of EphA7
+A3	REGION T3 INSUFFICIENT
+T4	ENHANCER 612 634	25.3 kb genomic region
+A4	REGION T4 INSUFFICIENT
+T6	TISSUE 187 191	dien
+N6	Reference T6 BTO:0000342	diencephalon
+T14	TISSUE 197 210	mesencephalon
+T15	TISSUE 327 331	dien
+N7	Reference T15 BTO:0000342	diencephalon
+T16	TISSUE 337 350	mesencephalon
+T17	TISSUE 446 450	dien
+N8	Reference T17 BTO:0000342	diencephalon
+T18	TISSUE 456 469	mesencephalon
+T19	TISSUE 1222 1226	dien
+N9	Reference T19 BTO:0000342	diencephalon
+T20	TISSUE 1232 1245	mesencephalon
+N10	Reference T14 BTO:0000138	midbrain
+N11	Reference T16 BTO:0000138	midbrain
+N12	Reference T18 BTO:0000138	midbrain
+N13	Reference T20 BTO:0000138	midbrain
+T21	GENE 29 34	EphA7
+N14	Reference T21 EntrezGene:2045	EPHA7
+T22	TISSUE 424 438	dorsal midline
+T23	TISSUE 94 106	Diencephalon
+N15	Reference T23 BTO:0000342	
+T24	TISSUE 111 124	Mesencephalon
+N16	Reference T24 BTO:0000138	
+T11	TISSUE 54 68	Dorsal Midline
+T25	GENE 725 730	EphA7
+N5	Reference T25 EntrezGene:2045	EPHA7
+T26	GENE 947 952	EphA7
+N17	Reference T26 EntrezGene:2045	EPHA7
+T27	TISSUE 1008 1022	dorsal midline
+T28	GENE 1044 1049	EphA7
+N18	Reference T28 EntrezGene:2045	EPHA7
+T29	TISSUE 1101 1115	dorsal midline

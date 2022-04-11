@@ -1,0 +1,54 @@
+T0	ENHANCER 86 96	enhancer 1
+T3	GENE 0 17	Androgen receptor
+N0	Reference T3 EntrezGene:367	AR
+T4	GENE 32 62	gonadotropin-releasing hormone
+N1	Reference T4 EntrezGene:2796	RH1
+T5	GENE 98 128	Gonadotropin-releasing hormone
+N2	Reference T5 EntrezGene:2796	RH1
+T6	GENE 130 134	GnRH
+N3	Reference T6 EntrezGene:2796	RH1
+T7	GENE 236 240	GnRH
+N4	Reference T7 EntrezGene:2796	RH1
+T8	DISEASE 343 363	reproductive defects
+T9	DISEASE 375 404	hypogonadotropic hypogonadism
+T10	DISEASE 409 436	polycystic ovarian syndrome
+T11	GENE 462 466	GnRH
+N7	Reference T11 EntrezGene:2796	RH1
+T12	GENE 510 527	androgen receptor
+N8	Reference T12 EntrezGene:367	AR
+T13	GENE 529 531	AR
+N9	Reference T13 EntrezGene:367	AR
+T14	GENE 592 594	AR
+N10	Reference T14 EntrezGene:367	AR
+T15	GENE 614 618	GnRH
+N11	Reference T15 EntrezGene:2796	RH1
+T16	GENE 702 704	AR
+N12	Reference T16 EntrezGene:367	AR
+T17	GENE 720 724	GnRH
+N13	Reference T17 EntrezGene:2796	RH1
+T19	GENE 935 937	AR
+N15	Reference T19 EntrezGene:367	AR
+T20	GENE 959 961	AR
+N16	Reference T20 EntrezGene:367	AR
+T21	GENE 1143 1145	AR
+N17	Reference T21 EntrezGene:367	AR
+T23	GENE 1186 1188	AR
+N19	Reference T23 EntrezGene:367	AR
+A3	REGION T0 INSUFFICIENT
+T1	PROMOTER 660 677	proximal promoter
+A1	REGION T1 INSUFFICIENT
+T2	ENHANCER 747 761	major enhancer
+A2	REGION T2 INSUFFICIENT
+T18	ENHANCER 763 770	GnRH-E1
+A4	REGION T18 INSUFFICIENT
+T22	ENHANCER 1160 1167	GnRH-E1
+A5	REGION T22 INSUFFICIENT
+N5	Reference T9 MONDO:MONDO:0018555	hypogonadotropic hypogonadism
+N6	Reference T10 MONDO:MONDO:0008487	polycystic ovary syndrome
+N21	Reference T8 MONDO:MONDO:0005039	reproductive system disease
+T24	TISSUE 162 203	hypothalamic-pituitary-gonadal (HPG) axis
+N14	Reference T24 BTO:0000614;0001073;0000534	
+T25	GENE 763 767	GnRH
+N18	Reference T25 EntrezGene:2796	GNRH1
+T26	GENE 1160 1164	GnRH
+N20	Reference T26 EntrezGene:2796	GNRH1

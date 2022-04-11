@@ -1,0 +1,78 @@
+T2	PROMOTER 1430 1456	proximal promoter (-300bp)
+T3	ENHANCER 1461 1484	enhancer region at -6kb
+T4	ENHANCER 1493 1526	enhancer region located in exon 3
+T5	GENE 139 157	vitamin D receptor
+N0	Reference T5 EntrezGene:22337	Vdr
+T6	DISEASE 219 231	colon cancer
+T7	DISEASE 305 317	colon cancer
+T8	DISEASE 358 370	colon cancer
+T9	GENE 663 668	K-RAS
+N4	Reference T9 EntrezGene:3845	KRAS
+T10	VARIANT 670 675	G12 V
+T11	SPECIES 737 742	human
+N5	Reference T11 NCBITaxon:9606	Homo sapiens
+T12	GENE 779 786	CYP24A1
+N6	Reference T12 EntrezGene:1591	CYP24A1
+T15	GENE 1009 1014	H-RAS
+T16	GENE 1063 1070	CYP24A1
+T17	GENE 1120 1138	Vitamin D receptor
+N11	Reference T17 EntrezGene:22337	Vdr
+T18	GENE 1140 1143	VDR
+N12	Reference T18 EntrezGene:22337	Vdr
+T19	GENE 1231 1234	VDR
+N13	Reference T19 EntrezGene:22337	Vdr
+T20	GENE 1279 1282	VDR
+N14	Reference T20 EntrezGene:22337	Vdr
+T21	GENE 1320 1323	VDR
+N15	Reference T21 EntrezGene:22337	Vdr
+T22	GENE 1352 1355	VDR
+N16	Reference T22 EntrezGene:22337	Vdr
+T23	GENE 1414 1417	VDR
+N17	Reference T23 EntrezGene:22337	Vdr
+T24	GENE 1740 1743	VDR
+N18	Reference T24 EntrezGene:22337	Vdr
+T25	DISEASE 1844 1851	cancers
+T28	TISSUE 99 126	intestinal epithelial cells
+N20	Reference T28 BTO:0005937	intestinal epithelial cell
+A5	CANCER T6
+A6	CANCER T7
+A7	CANCER T8
+T29	TISSUE 555 560	colon
+N21	Reference T29 BTO:0000188	colonic cell line
+T30	TISSUE 565 586	intestinal cell lines
+N22	Reference T30 BTO:0000003	intestinal cell line
+T31	TISSUE 614 626	Caco-2 cells
+N23	Reference T31 BTO:0000195	CACO-2 cell
+T1	GENE 743 777	25-hydroxyvitamin D, 24 hydroxyase
+N24	Reference T1 EntrezGene:1591	CYP24A1
+T13	TISSUE 898 921	Young Adult Mouse Colon
+T34	TISSUE 923 927	YAMC
+T14	TISSUE 933 975	Rat Intestinal Epithelial (RIE) cell lines
+N7	Reference T15 EntrezGene:15461	Hras
+N8	Reference T16 EntrezGene:13081	Cyp24a1
+T36	TISSUE 1172 1176	YAMC
+T37	TISSUE 1181 1190	RIE cells
+A1	REGION T2 INSUFFICIENT
+A2	REGION T3 INSUFFICIENT
+A3	REGION T4 INSUFFICIENT
+T39	TISSUE 1572 1582	YAMC cells
+T26	TISSUE 1705 1727	colon epithelial cells
+N9	Reference T26 BTO:0004297	colonic epithelial cell
+A4	CANCER T25
+#1	AnnotatorNotes T10	12,25245350,C,A/G/T
+T38	TISSUE 1584 1588	YAMC
+N1	Reference T6 MONDO:MONDO:0021063	malignant colon neoplasm
+N2	Reference T7 MONDO:MONDO:0021063	malignant colon neoplasm
+N3	Reference T8 MONDO:MONDO:0021063	malignant colon neoplasm
+N10	Reference T25 MONDO:MONDO:0004992	cancer
+N19	Reference T13 BTO:0000269	colon
+N25	Reference T34 BTO:0000269	colon
+N26	Reference T14 BTO:0005937	intestinal epithelial cell
+N27	Reference T36 BTO:0000269	colon
+N28	Reference T37 BTO:0005937	intestinal epithelial cell
+N29	Reference T39 BTO:0000269	colon
+N30	Reference T38 BTO:0000269	colon
+T27	SPECIES 910 915	Mouse
+N31	Reference T27 NCBITaxon:10090	Mus musculus
+T32	SPECIES 933 936	Rat
+N32	Reference T32 NCBITaxon:10116	Rattus norvegicus

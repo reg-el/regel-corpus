@@ -1,0 +1,81 @@
+T2	PROMOTER 683 696	two promoters
+T3	PROMOTER 808 822	LMO1 promoters
+T4	ENHANCER 948 972	transcriptional enhancer
+T5	PROMOTER 1047 1061	LMO1 promoters
+T6	ENHANCER 1106 1117	3' enhancer
+T7	DISEASE 60 69	leukaemia
+T8	GENE 79 83	LMO1
+N1	Reference T8 EntrezGene:109594	Lmo1
+T9	DISEASE 110 126	T-cell leukaemia
+T10	GENE 128 132	LMO1
+N3	Reference T10 EntrezGene:109594	Lmo1
+T11	DISEASE 170 201	T-acute lymphoblastic leukaemia
+T12	DISEASE 203 208	T-ALL
+T13	DISEASE 297 302	T-ALL
+T14	GENE 330 334	LMO1
+N7	Reference T14 EntrezGene:109594	Lmo1
+T15	GENE 431 435	LMO1
+N8	Reference T15 EntrezGene:109594	Lmo1
+T16	GENE 674 678	LMO1
+N9	Reference T16 EntrezGene:109594	Lmo1
+T18	SPECIES 747 751	mice
+T19	GENE 798 802	LMO1
+N12	Reference T19 EntrezGene:109594	Lmo1
+T22	SPECIES 1028 1033	mouse
+N15	Reference T22 NCBITaxon:10090	Mus musculus
+T24	DISEASE 1082 1087	T-ALL
+T26	GENE 1160 1168	SCL/TAL1
+N19	Reference T26 EntrezGene:21349	Tal1
+T27	GENE 1173 1178	GATA3
+N20	Reference T27 EntrezGene:14462	ta3
+T28	GENE 1218 1222	LMO1
+N21	Reference T28 EntrezGene:109594	Lmo1
+T29	GENE 1291 1299	SCL/TAL1
+N22	Reference T29 EntrezGene:21349	Tal1
+T30	GENE 1354 1358	LMO1
+N23	Reference T30 EntrezGene:109594	Lmo1
+T31	GENE 1395 1399	LMO1
+N24	Reference T31 EntrezGene:109594	Lmo1
+T32	DISEASE 1466 1471	T-ALL
+T35	TISSUE 463 485	haematopoietic lineage
+T36	TISSUE 532 547	leukaemic cells
+N26	Reference T36 BTO:0001271	leukemia cell
+A7	CANCER T36
+T37	TISSUE 625 639	haematopoietic
+N27	Reference T37 BTO:0000574	hematopoietic cell
+N28	Reference T35 BTO:0000574	hematopoietic cell
+T38	TISSUE 644 659	leukaemic cells
+N29	Reference T38 BTO:0001271	leukemia cell
+A2	REGION T2 INSUFFICIENT
+N10	Reference T18 NCBITaxon:10090	Mus musculus
+A3	REGION T3 INSUFFICIENT
+T20	TISSUE 866 880	blood lineages
+T39	TISSUE 891 898	T-cells
+N13	Reference T39 BTO:0000782	T-lymphocyte
+A4	REGION T4 INSUFFICIENT
+T40	TISSUE 1002 1007	blood
+N30	Reference T40 BTO:0000089	blood
+A8	CANCER T38
+A5	REGION T5 INSUFFICIENT
+A6	REGION T6 INSUFFICIENT
+T23	TISSUE 1145 1156	T-ALL cells
+A9	CANCER T23
+T1	ENHANCER 37 45	enhancer
+A1	REGION T1 INSUFFICIENT
+T21	GENE 928 932	LMO1
+N14	Reference T21 EntrezGene:109594	Lmo1
+N16	Reference T23 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+N18	Reference T7 MONDO:MONDO:0005059	leukemia
+N2	Reference T9 MONDO:MONDO:0005525	T-cell leukemia
+N4	Reference T11 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N5	Reference T12 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N6	Reference T13 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N17	Reference T24 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N25	Reference T32 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+T17	TISSUE 1034 1041	embryos
+N31	Reference T17 BTO:0000379	
+N11	Reference T20 BTO:0001035	hematopoietic cell line
+T25	GENE 808 812	LMO1
+N32	Reference T25 EntrezGene:109594	Lmo1
+T33	GENE 1047 1051	LMO1
+N33	Reference T33 EntrezGene:109594	Lmo1

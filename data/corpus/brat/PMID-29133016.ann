@@ -1,0 +1,28 @@
+T6	PROMOTER 1953 1968	promoter region
+T7	SPECIES 800 805	mouse
+N0	Reference T7 NCBITaxon:10090	Mus musculus
+T10	GENE 1227 1234	miR-155
+N3	Reference T10 EntrezGene:387173	Mir155
+T11	GENE 1554 1558	JunB
+N4	Reference T11 EntrezGene:16477	Junb
+T12	GENE 1829 1836	miR-155
+N5	Reference T12 EntrezGene:387173	Mir155
+T14	TISSUE 806 817	macrophages
+N6	Reference T14 BTO:0000801	macrophage
+T1	GENE 1537 1549	NFkappaB-p65
+N7	Reference T1 EntrezGene:19697	Rela
+A1	REGION T6 INSUFFICIENT
+T2	TISSUE 2162 2173	macrophages
+N8	Reference T2 BTO:0000801	macrophage
+T3	ENHANCER 1599 1628	two distinct enhancer subsets
+A2	REGION T3 INSUFFICIENT
+T4	TISSUE 255 265	macrophage
+N1	Reference T4 BTO:0000801	macrophage
+T5	TISSUE 409 419	macrophage
+N2	Reference T5 BTO:0000801	
+T8	TISSUE 615 625	macrophage
+N9	Reference T8 BTO:0000801	
+T9	TISSUE 35 45	macrophage
+N10	Reference T9 BTO:0000801	
+T13	ENHANCER 1920 1944	LPS-responsive enhancers
+A3	REGION T13 INSUFFICIENT

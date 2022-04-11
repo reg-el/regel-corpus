@@ -1,0 +1,42 @@
+T2	GENE 84 94	PGC-1alpha
+N0	Reference T2 EntrezGene:10891	PPARGC1A
+T3	GENE 100 168	Peroxisome proliferator-activated receptor-gamma coactivator 1 alpha
+N1	Reference T3 EntrezGene:10891	PPARGC1A
+T4	GENE 170 180	PGC-1alpha
+N2	Reference T4 EntrezGene:10891	PPARGC1A
+T5	GENE 274 284	PGC-1alpha
+N3	Reference T5 EntrezGene:10891	PPARGC1A
+T6	GENE 388 418	Lysine Specific Demethylase 1A
+N4	Reference T6 EntrezGene:23028	KDM1A
+T7	GENE 420 424	LSD1
+N5	Reference T7 EntrezGene:23028	KDM1A
+T8	GENE 468 478	PGC-1alpha
+N6	Reference T8 EntrezGene:10891	PPARGC1A
+T9	GENE 564 568	MED1
+N7	Reference T9 EntrezGene:5469	MED1
+T10	GENE 573 578	MED17
+N8	Reference T10 EntrezGene:9440	MED17
+T11	GENE 588 619	NOP2/Sun RNA methytransferase 7
+N9	Reference T11 EntrezGene:79730	NSUN7
+T12	GENE 621 626	NSUN7
+N10	Reference T12 EntrezGene:79730	SUN7
+T13	GENE 741 747	Set7/9
+N11	Reference T13 EntrezGene:73251	Setd7
+T14	GENE 752 757	NSun7
+N12	Reference T14 EntrezGene:70918	Nsun7
+T15	GENE 815 825	PGC-1alpha
+N13	Reference T15 EntrezGene:10891	PPARGC1A
+T16	GENE 839 843	Pfkl
+N14	Reference T16 EntrezGene:18641	Pfkl
+T17	GENE 845 850	Sirt5
+N15	Reference T17 EntrezGene:68346	Sirt5
+T18	GENE 852 857	Idh3b
+N16	Reference T18 EntrezGene:170718	Idh3b
+T19	GENE 863 868	Hmox2
+N17	Reference T19 EntrezGene:15369	Hmox2
+T20	GENE 1130 1140	PGC-1alpha
+N18	Reference T20 EntrezGene:10891	PPARGC1A
+T21	GENE 373 379	SET7/9
+N19	Reference T21 EntrezGene:80854	SETD7
+T22	TISSUE 761 771	liver cell
+N20	Reference T22 BTO:0000224	liver cell line

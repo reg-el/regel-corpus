@@ -1,0 +1,104 @@
+T0	ENHANCER 1936 1978	upstream/enhancer region of MMP-2 promoter
+T2	SPECIES 48 53	human
+N0	Reference T2 NCBITaxon:9606	Homo sapiens
+T4	SPECIES 126 145	Antrodia cinnamomea
+N2	Reference T4 NCBITaxon:196114	None
+T5	DISEASE 177 191	Bladder cancer
+T6	DISEASE 217 223	cancer
+T7	DISEASE 258 275	urological cancer
+T8	DISEASE 322 337	bladder cancers
+T9	DISEASE 508 522	bladder cancer
+T10	SPECIES 619 638	Antrodia cinnamomea
+N8	Reference T10 NCBITaxon:196114	None
+T11	TISSUE 716 735	breast cancer cells
+T12	DISEASE 788 794	cancer
+T13	SPECIES 974 979	human
+N10	Reference T13 NCBITaxon:9606	Homo sapiens
+T15	GENE 1037 1040	DR5
+N12	Reference T15 EntrezGene:8795	TNFRSF10B
+T16	GENE 1042 1045	Bax
+N13	Reference T16 EntrezGene:581	BAX
+T20	GENE 1356 1359	FAK
+N17	Reference T20 EntrezGene:5747	PTK2
+T21	GENE 1570 1580	E-cadherin
+N18	Reference T21 EntrezGene:999	CDH1
+T22	GENE 1595 1603	vimentin
+N19	Reference T22 EntrezGene:7431	VIM
+T24	GENE 1724 1729	MMP-2
+N21	Reference T24 EntrezGene:4313	MMP2
+T25	GENE 1764 1767	ERK
+T26	GENE 1772 1777	c-Fos
+N23	Reference T26 EntrezGene:2353	FOS
+T27	GENE 1923 1928	c-Fos
+N24	Reference T27 EntrezGene:2353	FOS
+T29	GENE 2023 2028	MMP-2
+N26	Reference T29 EntrezGene:4313	MMP2
+T30	TISSUE 2143 2163	bladder cancer cells
+T31	GENE 2194 2197	FAK
+N28	Reference T31 EntrezGene:5747	PTK2
+T32	GENE 2211 2214	ERK
+T33	GENE 2215 2220	c-Fos
+N30	Reference T33 EntrezGene:2353	FOS
+T34	GENE 2221 2225	MMP2
+N31	Reference T34 EntrezGene:4313	MMP2
+T35	GENE 2363 2366	Bax
+N32	Reference T35 EntrezGene:581	BAX
+T36	GENE 2377 2380	DR5
+N33	Reference T36 EntrezGene:8795	TNFRSF10B
+T37	DISEASE 2440 2446	cancer
+T38	SPECIES 2485 2490	human
+N35	Reference T38 NCBITaxon:9606	Homo sapiens
+T39	TISSUE 2491 2511	bladder cancer cells
+T40	TISSUE 2589 2609	bladder cancer cells
+A3	CANCER T5
+A4	CANCER T6
+A5	CANCER T7
+A6	CANCER T8
+A7	CANCER T9
+A8	CANCER T11
+A9	CANCER T12
+T42	GENE 1061 1070	caspase-3
+N37	Reference T42 EntrezGene:836	CASP3
+T43	GENE 1072 1074	-8
+N38	Reference T43 EntrezGene:841	CASP8
+T44	GENE 1079 1081	-9
+N39	Reference T44 EntrezGene:842	CASP9
+T17	GENE 1264 1291	focal adhesion kinase (FAK)
+N14	Reference T17 EntrezGene:5747	PTK2
+T18	GENE 1296 1304	paxillin
+N15	Reference T18 EntrezGene:5829	PXN
+A11	CANCER T30
+A12	CANCER T37
+A13	CANCER T39
+T19	TISSUE 54 74	bladder cancer cells
+N22	Reference T19 BTO:0000362	urinary bladder cancer cell
+T3	TISSUE 696 700	lung
+A2	CANCER T3
+N1	Reference T3 BTO:0000551	lung cancer cell
+A14	CANCER T19
+N29	Reference T11 BTO:0000150	breast cancer cell
+T23	TISSUE 980 1005	bladder cancer 5637 cells
+A15	CANCER T23
+N40	Reference T23 BTO:0003137	5637 cell
+N11	Reference T30 BTO:0000362	urinary bladder cancer cell
+N27	Reference T39 BTO:0000362	urinary bladder cancer cell
+A10	CANCER T40
+N36	Reference T40 BTO:0000362	urinary bladder cancer cell
+T14	GENE 2368 2371	Fas
+N41	Reference T14 EntrezGene:355	FAS
+A16	REGION T0 INSUFFICIENT
+T1	PROMOTER 1964 1978	MMP-2 promoter
+A1	REGION T1 INSUFFICIENT
+N3	Reference T5 MONDO:MONDO:0001187	urinary bladder cancer
+N4	Reference T6 MONDO:MONDO:0004992	cancer
+N5	Reference T7 MONDO:MONDO:0006295	malignant urinary system neoplasm
+N6	Reference T8 MONDO:MONDO:0001187	urinary bladder cancer
+N7	Reference T9 MONDO:MONDO:0001187	urinary bladder cancer
+N9	Reference T12 MONDO:MONDO:0004992	cancer
+N25	Reference T37 MONDO:MONDO:0004992	cancer
+T28	GENE 1032 1035	Fas
+N34	Reference T28 EntrezGene:355	FAS
+N16	Reference T25 EntrezGene:2048	EPHB2
+N20	Reference T32 EntrezGene:2048	EPHB2
+T41	GENE 1964 1969	MMP-2
+N42	Reference T41 EntrezGene:4313	MMP2

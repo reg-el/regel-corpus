@@ -1,0 +1,72 @@
+T2	GENE 0 7	NEUROG3
+N0	Reference T2 EntrezGene:50674	UROG3
+T3	GENE 46 51	STAT3
+N1	Reference T3 EntrezGene:6774	STAT3
+T4	SPECIES 81 90	mammalian
+T5	GENE 247 252	STAT3
+N3	Reference T5 EntrezGene:6774	STAT3
+T6	GENE 315 319	THY1
+N4	Reference T6 EntrezGene:21838	Thy1
+T7	SPECIES 350 355	mouse
+N5	Reference T7 NCBITaxon:10090	Mus musculus
+T8	GENE 581 588	Neurog3
+N6	Reference T8 EntrezGene:50674	UROG3
+T9	GENE 656 661	STAT3
+N7	Reference T9 EntrezGene:6774	STAT3
+T10	GENE 703 707	GDNF
+N8	Reference T10 EntrezGene:2668	DNF
+T11	GENE 787 792	STAT3
+N9	Reference T11 EntrezGene:6774	STAT3
+T12	GENE 811 818	Neurog3
+N10	Reference T12 EntrezGene:50674	UROG3
+T13	GENE 846 851	STAT3
+N11	Reference T13 EntrezGene:6774	STAT3
+T15	GENE 917 921	THY1
+N13	Reference T15 EntrezGene:7070	THY1
+T16	GENE 989 996	Neurog3
+N14	Reference T16 EntrezGene:50674	UROG3
+T17	GENE 1037 1041	THY1
+N15	Reference T17 EntrezGene:7070	THY1
+T18	GENE 1276 1280	THY1
+N16	Reference T18 EntrezGene:21838	Thy1
+T20	SPECIES 1436 1440	mice
+N18	Reference T20 NCBITaxon:10090	Mus musculus
+T21	GENE 1515 1520	STAT3
+N19	Reference T21 EntrezGene:6774	STAT3
+T22	GENE 1549 1556	NEUROG3
+N20	Reference T22 EntrezGene:50674	UROG3
+T23	SPECIES 1638 1647	mammalian
+N2	Reference T4 NCBITaxon:40674	Mammalia
+T25	TISSUE 111 124	spermatogonia
+N22	Reference T25 BTO:0000958	spermatogonium
+T27	TISSUE 203 216	spermatogonia
+N24	Reference T27 BTO:0000958	spermatogonium
+T28	SPECIES 286 293	mammals
+N25	Reference T28 NCBITaxon:40674	Mammalia
+T30	TISSUE 379 404	spermatogonial stem cells
+T31	TISSUE 406 409	SSC
+T33	TISSUE 923 936	spermatogonia
+N30	Reference T33 BTO:0000958	spermatogonium
+T34	TISSUE 1043 1056	spermatogonia
+N31	Reference T34 BTO:0000958	spermatogonium
+T35	TISSUE 1239 1252	spermatogonia
+N32	Reference T35 BTO:0000958	spermatogonium
+N21	Reference T23 NCBITaxon:40674	Mammalia
+T24	TISSUE 1617 1630	spermatogonia
+N33	Reference T24 BTO:0000958	spermatogonium
+T36	TISSUE 1282 1295	spermatogonia
+N34	Reference T36 BTO:0000958	spermatogonium
+T1	PROMOTER 874 897	distal Neurog3 promoter
+A1	REGION T1 INSUFFICIENT
+T14	ENHANCER 898 913	enhancer region
+A2	REGION T14 INSUFFICIENT
+T19	GENE 1323 1330	Neurog3
+N12	Reference T19 EntrezGene:50674	NEUROG3
+T26	TISSUE 1416 1422	testes
+N17	Reference T26 BTO:0001363	
+T29	TISSUE 356 362	testes
+N23	Reference T29 BTO:0001363	testis
+T37	TISSUE 1067 1076	stem cell
+T32	TISSUE 419 453	stem cell progenitor spermatogonia
+T38	GENE 881 888	Neurog3
+N26	Reference T38 EntrezGene:50674	NEUROG3

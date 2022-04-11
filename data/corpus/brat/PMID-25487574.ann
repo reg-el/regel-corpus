@@ -1,0 +1,47 @@
+T0	ENHANCER 653 668	Cx30.2 enhancer
+T1	GENE 0 4	MyoR
+N0	Reference T1 EntrezGene:17681	Msc
+T2	GENE 48 53	Gata4
+N1	Reference T2 EntrezGene:14463	ta4
+T3	TISSUE 373 376	AVN
+T5	GENE 533 537	MyoR
+N3	Reference T5 EntrezGene:17681	Msc
+T6	GENE 624 628	MyoR
+N4	Reference T6 EntrezGene:17681	Msc
+T7	GENE 745 749	MyoR
+N5	Reference T7 EntrezGene:17681	Msc
+T8	GENE 774 779	Gata4
+N6	Reference T8 EntrezGene:14463	ta4
+T9	GENE 843 847	MyoR
+N7	Reference T9 EntrezGene:17681	Msc
+T10	GENE 905 909	MyoR
+N8	Reference T10 EntrezGene:17681	Msc
+T11	GENE 1080 1085	Hand2
+N9	Reference T11 EntrezGene:15111	Hand2
+T12	GENE 1160 1164	MyoR
+N10	Reference T12 EntrezGene:17681	Msc
+T13	SPECIES 1168 1172	mice
+N11	Reference T13 NCBITaxon:10090	Mus musculus
+T15	GENE 1271 1275	MyoR
+N13	Reference T15 EntrezGene:17681	Msc
+T16	GENE 1288 1293	Gata4
+N14	Reference T16 EntrezGene:14463	ta4
+T22	TISSUE 180 201	atrioventricular node
+N18	Reference T22 BTO:0005689	atrioventricular node
+T23	TISSUE 203 206	AVN
+N19	Reference T23 BTO:0005689	atrioventricular node
+N21	Reference T3 BTO:0005689	atrioventricular node
+T4	TISSUE 511 514	AVN
+N2	Reference T4 BTO:0005689	atrioventricular node
+T25	TISSUE 583 598	Cx30.2(+) cells
+T26	TISSUE 606 609	AVN
+N22	Reference T26 BTO:0005689	atrioventricular node
+A1	REGION T0 INSUFFICIENT
+T27	TISSUE 682 685	AVN
+N23	Reference T27 BTO:0005689	atrioventricular node
+T14	GENE 1183 1189	Cx30.2
+N12	Reference T14 EntrezGene:353155	Gjd3
+T17	TISSUE 59 84	cardiac conduction system
+N15	Reference T17 BTO:0000901	myocardium
+T18	GENE 653 659	Cx30.2
+N16	Reference T18 EntrezGene:353155	Gjd3

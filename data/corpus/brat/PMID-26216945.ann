@@ -1,0 +1,26 @@
+T3	SPECIES 56 61	human
+N1	Reference T3 NCBITaxon:9606	Homo sapiens
+T4	SPECIES 314 319	human
+N2	Reference T4 NCBITaxon:9606	Homo sapiens
+T5	SPECIES 369 378	Mammalian
+T6	SPECIES 615 620	human
+N4	Reference T6 NCBITaxon:9606	Homo sapiens
+T13	GENE 1374 1394	CCCTC-binding factor
+N11	Reference T13 EntrezGene:10664	CTCF
+T14	GENE 1396 1400	CTCF
+N12	Reference T14 EntrezGene:10664	CTCF
+T16	SPECIES 1698 1703	human
+N14	Reference T16 NCBITaxon:9606	Homo sapiens
+T17	SPECIES 1762 1767	human
+N15	Reference T17 NCBITaxon:9606	Homo sapiens
+N3	Reference T5 NCBITaxon:40674	Mammalia
+T2	TISSUE 718 732	CD4(+) T cells
+T1	TISSUE 925 939	CD4(+) T cells
+T7	TISSUE 1112 1118	T-cell
+N5	Reference T7 BTO:0000782	T-lymphocyte
+T8	TISSUE 1150 1156	T-cell
+N6	Reference T8 BTO:0000782	T-lymphocyte
+T9	TISSUE 1282 1288	T-cell
+N7	Reference T9 BTO:0000782	T-lymphocyte
+N8	Reference T2 BTO:0002417	helper T-lymphocyte
+N9	Reference T1 BTO:0002417	helper T-lymphocyte

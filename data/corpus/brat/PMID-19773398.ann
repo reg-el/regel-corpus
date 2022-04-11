@@ -1,0 +1,62 @@
+T1	DISEASE 0 38	X-linked congenital adrenal hypoplasia
+T2	DISEASE 44 73	hypogonadotropic hypogonadism
+T3	GENE 154 159	NR0B1
+N2	Reference T3 EntrezGene:190	R0B1
+T4	GENE 161 165	DAX1
+N3	Reference T4 EntrezGene:190	R0B1
+T5	DISEASE 182 220	X-linked congenital adrenal hypoplasia
+T6	DISEASE 226 255	hypogonadotropic hypogonadism
+T7	DISEASE 257 261	AHCH
+T8	GENE 312 359	nuclear receptor subfamily 0, group B, member 1
+N6	Reference T8 EntrezGene:190	R0B1
+T9	GENE 361 366	NR0B1
+N7	Reference T9 EntrezGene:190	R0B1
+T10	DISEASE 430 461	sex-reversal adrenal hypoplasia
+T11	GENE 509 513	DAX1
+N9	Reference T11 EntrezGene:190	R0B1
+T13	DISEASE 576 580	AHCH
+T14	GENE 705 710	NR0B1
+N11	Reference T14 EntrezGene:190	R0B1
+T15	GENE 825 830	NR0B1
+N12	Reference T15 EntrezGene:190	R0B1
+T16	DISEASE 880 894	genetic defect
+T22	GENE 1346 1350	SF-1
+T23	GENE 1438 1442	SF-1
+T24	DISEASE 1565 1569	AHCH
+T25	GENE 1649 1654	NR0B1
+N21	Reference T25 EntrezGene:190	R0B1
+T26	GENE 1746 1750	DAX1
+N22	Reference T26 EntrezGene:190	R0B1
+T28	TFBS 1197 1214	SF-1 binding site
+A1	REGION T28 INSUFFICIENT
+T20	ENHANCER 1291 1325	enhancer element upstream of NR0B1
+A2	REGION T20 INSUFFICIENT
+T21	ENHANCER 1097 1136	noncoding region 4 kb upstream of NR0B1
+A3	REGION T21 INSUFFICIENT
+T17	GENE 939 943	DAX1
+N14	Reference T17 EntrezGene:190	NR0B1
+T18	GENE 948 970	steroidogenic factor 1
+N15	Reference T18 EntrezGene:2516	NR5A1
+T27	GENE 972 976	SF-1
+N17	Reference T27 EntrezGene:2516	NR5A1
+N18	Reference T1 MONDO:MONDO:0010264	X-linked adrenal hypoplasia congenita
+N1	Reference T2 MONDO:MONDO:0018555	hypogonadotropic hypogonadism
+N4	Reference T5 MONDO:MONDO:0010264	X-linked adrenal hypoplasia congenita
+N5	Reference T6 MONDO:MONDO:0018555	hypogonadotropic hypogonadism
+N23	Reference T7 MONDO:MONDO:0018555	hypogonadotropic hypogonadism
+N24	Reference T13 MONDO:MONDO:0018555	hypogonadotropic hypogonadism
+N25	Reference T24 MONDO:MONDO:0018555	hypogonadotropic hypogonadism
+N8	Reference T10 MONDO:MONDO:0010264	X-linked adrenal hypoplasia congenita
+N13	Reference T16 MONDO:MONDO:0003847	Mendelian disease
+N10	Reference T22 EntrezGene:2516	NR5A1
+N16	Reference T23 EntrezGene:2516	NR5A1
+T12	SPECIES 1229 1235	murine
+N19	Reference T12 NCBITaxon:10090	Mus musculus
+T19	TISSUE 1470 1476	testes
+N20	Reference T19 BTO:0001363	testis
+T29	GENE 1131 1136	NR0B1
+N26	Reference T29 EntrezGene:190	NR0B1
+T30	GENE 1320 1325	NR0B1
+N27	Reference T30 EntrezGene:190	NR0B1
+T31	GENE 1197 1201	SF-1
+N28	Reference T31 EntrezGene:2516	NR5A1

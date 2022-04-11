@@ -1,0 +1,50 @@
+T4	GENE 0 4	PU.1
+N0	Reference T4 EntrezGene:6688	SPI1
+T5	GENE 9 21	C/EBP(alpha)
+N1	Reference T5 EntrezGene:1050	CEBPA
+T6	GENE 67 76	NF-kappaB
+N2	Reference T6 EntrezGene:4790	FKB1
+T7	GENE 390 399	NF-kappaB
+N3	Reference T7 EntrezGene:4790	FKB1
+T8	GENE 441 450	TNF-alpha
+N4	Reference T8 EntrezGene:7124	TNF
+T9	GENE 466 475	NF-kappaB
+N5	Reference T9 EntrezGene:4790	FKB1
+T10	GENE 476 479	p65
+N6	Reference T10 EntrezGene:5970	RELA
+T12	GENE 657 660	p65
+N8	Reference T12 EntrezGene:5970	RELA
+T13	GENE 751 760	TNF-alpha
+N9	Reference T13 EntrezGene:7124	TNF
+T14	GENE 853 857	PU.1
+N10	Reference T14 EntrezGene:6688	SPI1
+T15	GENE 862 872	C/EBPalpha
+N11	Reference T15 EntrezGene:1050	CEBPA
+T16	GENE 937 946	NF-kappaB
+N12	Reference T16 EntrezGene:4790	FKB1
+T17	GENE 1011 1015	PU.1
+N13	Reference T17 EntrezGene:6688	SPI1
+T18	GENE 1020 1030	C/EBPalpha
+N14	Reference T18 EntrezGene:1050	CEBPA
+T19	GENE 1041 1050	TNF-alpha
+N15	Reference T19 EntrezGene:7124	TNF
+T20	GENE 1096 1105	NF-kappaB
+N16	Reference T20 EntrezGene:4790	FKB1
+T1	TISSUE 613 623	HeLa cells
+A1	CANCER T1
+T2	TISSUE 584 605	monocytic THP-1 cells
+A2	CANCER T2
+T3	TISSUE 967 978	THP-1 cells
+A3	CANCER T3
+T33	TISSUE 983 993	HeLa cells
+A5	CANCER T33
+T22	SPECIES 578 583	human
+N7	Reference T22 NCBITaxon:9606	Homo sapiens
+N18	Reference T2 BTO:0001370	THP-1 cell
+N19	Reference T1 BTO:0000567	HeLa cell
+N20	Reference T33 BTO:0000567	HeLa cell
+N22	Reference T3 BTO:0001370	THP-1 cell
+T11	SPECIES 1192 1201	mammalian
+N17	Reference T11 NCBITaxon:40674	Mammalia
+T21	TISSUE 109 117	monocyte
+N21	Reference T21 BTO:0000876	

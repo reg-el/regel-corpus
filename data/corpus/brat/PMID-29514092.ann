@@ -1,0 +1,38 @@
+T9	GENE 21 25	IRF8
+N0	Reference T9 EntrezGene:3394	IRF8
+T10	GENE 666 670	IRF8
+N1	Reference T10 EntrezGene:3394	IRF8
+T11	GENE 851 855	Irf8
+N2	Reference T11 EntrezGene:3394	IRF8
+T18	TISSUE 65 86	Mononuclear Phagocyte
+T19	TISSUE 100 109	Monocytes
+N3	Reference T19 BTO:0000876	monocyte
+T20	TISSUE 114 129	dendritic cells
+N4	Reference T20 BTO:0002042	dendritic cell
+T21	TISSUE 131 134	DCs
+N5	Reference T21 BTO:0002042	dendritic cell
+T22	TISSUE 137 159	mononuclear phagocytes
+N6	Reference T22 BTO:0001433	mononuclear phagocyte
+T23	TISSUE 205 229	hematopoietic stem cells
+N7	Reference T23 BTO:0000725	hematopoietic stem cell
+T24	TISSUE 234 257	monocyte-DC progenitors
+T25	TISSUE 259 263	MDPs
+T1	TISSUE 429 450	mononuclear phagocyte
+N8	Reference T1 BTO:0001433	mononuclear phagocyte
+T2	TISSUE 486 488	DC
+N9	Reference T2 BTO:0002042	dendritic cell
+T3	TISSUE 472 480	Monocyte
+N10	Reference T3 BTO:0000876	monocyte
+T4	TISSUE 686 694	monocyte
+N11	Reference T4 BTO:0000876	monocyte
+T5	TISSUE 699 701	DC
+N12	Reference T5 BTO:0002042	dendritic cell
+T6	TISSUE 816 824	monocyte
+N13	Reference T6 BTO:0000876	monocyte
+T26	TISSUE 829 840	DC lineages
+N14	Reference T26 BTO:0002042	dendritic cell
+T27	TISSUE 859 892	mononuclear phagocyte progenitors
+T28	TISSUE 904 908	MDPs
+T7	TISSUE 1203 1224	mononuclear phagocyte
+N15	Reference T7 BTO:0001433	mononuclear phagocyte
+N16	Reference T18 BTO:0001433	mononuclear phagocyte

@@ -1,0 +1,70 @@
+T1	PROMOTER 1188 1206	HO-1 gene promoter
+T4	GENE 26 42	heme oxygenase-1
+N0	Reference T4 EntrezGene:3162	HMOX1
+T5	GENE 62 66	Nrf2
+N1	Reference T5 EntrezGene:4780	FE2L2
+T6	GENE 82 87	Bach1
+N2	Reference T6 EntrezGene:571	BACH1
+T7	SPECIES 98 103	human
+N3	Reference T7 NCBITaxon:9606	Homo sapiens
+T8	GENE 195 211	heme oxygenase-1
+N4	Reference T8 EntrezGene:3162	HMOX1
+T9	GENE 213 217	HO-1
+N5	Reference T9 EntrezGene:3162	HMOX1
+T10	GENE 363 367	HO-1
+N6	Reference T10 EntrezGene:3162	HMOX1
+T11	SPECIES 390 395	human
+N7	Reference T11 NCBITaxon:9606	Homo sapiens
+T12	GENE 448 452	HO-1
+N8	Reference T12 EntrezGene:3162	HMOX1
+T13	GENE 796 800	Nrf2
+N9	Reference T13 EntrezGene:4780	FE2L2
+T14	GENE 835 839	Nrf2
+N10	Reference T14 EntrezGene:4780	FE2L2
+T15	GENE 906 910	Nrf2
+N11	Reference T15 EntrezGene:4780	FE2L2
+T16	GENE 960 965	Bach1
+N12	Reference T16 EntrezGene:571	BACH1
+T17	GENE 1100 1104	Nrf2
+N13	Reference T17 EntrezGene:4780	FE2L2
+T19	GENE 1297 1301	Nrf2
+N15	Reference T19 EntrezGene:4780	FE2L2
+T20	GENE 1457 1461	Nrf2
+N16	Reference T20 EntrezGene:4780	FE2L2
+T21	GENE 1530 1534	HO-1
+N17	Reference T21 EntrezGene:3162	HMOX1
+T22	GENE 1648 1652	Nrf2
+N18	Reference T22 EntrezGene:4780	FE2L2
+T23	GENE 1665 1670	Bach1
+N19	Reference T23 EntrezGene:571	BACH1
+T24	GENE 1715 1719	Nrf2
+N20	Reference T24 EntrezGene:4780	FE2L2
+T26	GENE 1777 1781	HO-1
+N22	Reference T26 EntrezGene:3162	HMOX1
+T27	GENE 1888 1892	HO-1
+N23	Reference T27 EntrezGene:3162	HMOX1
+T28	SPECIES 1975 1980	human
+N24	Reference T28 NCBITaxon:9606	Homo sapiens
+T29	TISSUE 104 130	vascular endothelial cells
+N25	Reference T29 BTO:0001854	vascular endothelial cell
+T30	TISSUE 396 422	vascular endothelial cells
+N26	Reference T30 BTO:0001854	vascular endothelial cell
+T31	TISSUE 424 427	ECs
+N27	Reference T31 BTO:0001854	vascular endothelial cell
+A1	REGION T1 INSUFFICIENT
+T32	TISSUE 1796 1799	ECs
+T33	TISSUE 1990 1993	ECs
+N28	Reference T33 BTO:0001854	vascular endothelial cell
+T34	TISSUE 1439 1442	ECs
+N29	Reference T34 BTO:0001854	vascular endothelial cell
+T18	ENHANCER 1162 1206	E2 enhancer region of the HO-1 gene promoter
+A5	REGION T18 INSUFFICIENT
+T2	PROMOTER 1735 1767	HO-1 E2 enhancer promoter region
+A2	REGION T2 INSUFFICIENT
+T3	ENHANCER 1740 1751	E2 enhancer
+A3	REGION T3 INSUFFICIENT
+N14	Reference T32 BTO:0001854	vascular endothelial cell
+T25	GENE 1735 1739	HO-1
+N21	Reference T25 EntrezGene:3162	HMOX1
+T35	GENE 1188 1192	HO-1
+N30	Reference T35 EntrezGene:3162	HMOX1

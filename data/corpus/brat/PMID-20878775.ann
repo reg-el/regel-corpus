@@ -1,0 +1,26 @@
+T2	GENE 542 546	Dlx5
+N0	Reference T2 EntrezGene:13395	Dlx5
+T3	GENE 548 552	Msx2
+N1	Reference T3 EntrezGene:17702	Msx2
+T4	GENE 558 563	Runx2
+N2	Reference T4 EntrezGene:12393	Runx2
+T6	GENE 1036 1040	TCF4
+N4	Reference T6 EntrezGene:21413	Tcf4
+T7	GENE 1041 1053	beta-catenin
+N5	Reference T7 EntrezGene:12387	Ctnnb1
+T8	GENE 1261 1265	p300
+N6	Reference T8 EntrezGene:328572	p300
+T25	TISSUE 239 243	bone
+N11	Reference T25 BTO:0000140	bone
+T15	TFBS 919 954	Smad and TCF/LEF1 DNA-binding sites
+A2	REGION T15 INSUFFICIENT
+T5	TISSUE 567 578	C2C12 cells
+N3	Reference T5 BTO:0000165	C2C12 cell
+T14	TISSUE 600 634	bone marrow-mesenchymal stem cells
+N7	Reference T14 BTO:0003298	mesenchymal stem cell
+T16	TISSUE 122 132	Osteoblast
+N8	Reference T16 BTO:0001593	osteoblast
+T19	TISSUE 652 661	calvarial
+N9	Reference T19 BTO:0001328	calvarium
+T10	GENE 789 796	osterix
+N12	Reference T10 EntrezGene:121340	SP7

@@ -1,0 +1,80 @@
+T0	ENHANCER 619 729	enhancer regions containing DNase I hypersensitive sites overlapping the rs874040 linkage disequilibrium block
+T1	DISEASE 0 20	Rheumatoid arthritis
+T2	GENE 32 36	RBPJ
+N1	Reference T2 EntrezGene:3516	RBPJ
+T3	DISEASE 164 183	autoimmune diseases
+T4	GENE 261 265	RBPJ
+N3	Reference T4 EntrezGene:3516	RBPJ
+T5	DISEASE 428 448	rheumatoid arthritis
+T6	DISEASE 450 452	RA
+T7	VARIANT 489 497	rs874040
+T8	GENE 524 528	RBPJ
+N6	Reference T8 EntrezGene:3516	RBPJ
+T9	VARIANT 692 700	rs874040
+T10	SPECIES 733 738	human
+N7	Reference T10 NCBITaxon:9606	Homo sapiens
+T11	VARIANT 784 792	rs874040
+T12	GENE 856 860	RBPJ
+N8	Reference T12 EntrezGene:3516	RBPJ
+T13	VARIANT 1065 1073	rs874040
+T14	GENE 1145 1163	IL (interleukin)-9
+N9	Reference T14 EntrezGene:3578	IL9
+T15	GENE 1292 1299	Jagged2
+N10	Reference T15 EntrezGene:3714	JAG2
+T16	GENE 1312 1316	IL-9
+N11	Reference T16 EntrezGene:3578	IL9
+T17	GENE 1321 1327	IL-17A
+N12	Reference T17 EntrezGene:3605	IL17A
+T18	GENE 1387 1395	IFNgamma
+N13	Reference T18 EntrezGene:3458	IF
+T19	VARIANT 1414 1422	rs874040
+T20	VARIANT 1469 1477	rs874040
+T21	DISEASE 1499 1501	RA
+T22	GENE 1503 1507	RBPJ
+N15	Reference T22 EntrezGene:3516	RBPJ
+T23	DISEASE 1554 1556	RA
+T24	GENE 1658 1662	IL-9
+N17	Reference T24 EntrezGene:3578	IL9
+T25	GENE 1664 1670	IL-17A
+N18	Reference T25 EntrezGene:3605	IL17A
+T26	GENE 1675 1683	IFNgamma
+N19	Reference T26 EntrezGene:3458	IF
+T27	VARIANT 1760 1768	rs874040
+T28	DISEASE 1910 1912	RA
+T30	TISSUE 64 76	CD4+ T cells
+#1	AnnotatorNotes T7	chr4:26106575,G,C
+#2	AnnotatorNotes T11	chr4:26106575,G,C
+A1	REGION T0 INSUFFICIENT
+#3	AnnotatorNotes T9	chr4:26106575,G,C
+T31	TISSUE 764 778	CD4(+) T cells
+T32	TISSUE 893 907	CD4(+) T cells
+T33	TISSUE 987 1001	CD4(+) T cells
+#4	AnnotatorNotes T13	chr4:26106575,G,C
+T34	GENE 1175 1196	interferon (IFN)gamma
+N25	Reference T34 EntrezGene:3458	IFNG
+T35	GENE 1165 1170	IL-17
+N26	Reference T35 EntrezGene:3605	IL17A
+#5	AnnotatorNotes T27	chr4:26106575,G,C
+#6	AnnotatorNotes T20	chr4:26106575,G,C
+#7	AnnotatorNotes T19	chr4:26106575,G,C
+T36	TISSUE 1793 1800	T cells
+T29	TISSUE 1541 1548	T cells
+T37	TISSUE 1078 1092	memory T cells
+T38	TISSUE 1434 1448	CD4(+) T cells
+T39	GENE 189 259	recombination signal-binding protein for immunoglobulin kappa J region
+N31	Reference T39 EntrezGene:3516	RBPJ
+N32	Reference T1 MONDO:MONDO:0008383	rheumatoid arthritis
+N2	Reference T3 MONDO:MONDO:0007179	autoimmune disease
+N4	Reference T5 MONDO:MONDO:0008383	rheumatoid arthritis
+N5	Reference T6 MONDO:MONDO:0008383	rheumatoid arthritis
+N14	Reference T21 MONDO:MONDO:0008383	rheumatoid arthritis
+N16	Reference T23 MONDO:MONDO:0008383	rheumatoid arthritis
+N20	Reference T28 MONDO:MONDO:0008383	rheumatoid arthritis
+N21	Reference T30 BTO:0002417	helper T-lymphocyte
+N22	Reference T31 BTO:0002417	helper T-lymphocyte
+N23	Reference T32 BTO:0002417	helper T-lymphocyte
+N24	Reference T33 BTO:0002417	helper T-lymphocyte
+N29	Reference T37 BTO:0002417	helper T-lymphocyte
+N28	Reference T29 BTO:0000782	T-lymphocyte
+N30	Reference T38 BTO:0002417	helper T-lymphocyte
+N27	Reference T36 BTO:0000782	T-lymphocyte

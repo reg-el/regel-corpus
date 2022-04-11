@@ -1,0 +1,302 @@
+18202151||266||277||osteoblasts||1
+18202151||279||296||mesenchymal cells||1
+18202151||312||319||T cells||1
+18202151||337||347||osteoclast||1
+19141476||73||81||pancreas||1
+19141476||108||116||pancreas||1
+19141476||136||143||foregut||0
+19141476||144||152||endoderm||0
+19141476||254||275||pancreatic primordium||1
+19141476||299||315||endocrine islets||0
+19141476||581||602||pancreatic primordium||1
+19141476||750||755||islet||1
+19141476||848||856||pancreas||1
+19141476||900||917||pancreatic anlage||1
+19141476||1125||1133||pancreas||1
+19141476||1255||1263||pancreas||1
+19141476||1268||1273||islet||1
+19141476||1690||1710||pancreatic primordia||1
+21087445||861||889||human embryonic kidney cells||0
+21087445||891||898||HEK293T||1
+21087445||904||925||human monocytic cells||0
+21087445||927||932||THP-1||0
+21087445||948||991||fibroblast-like synoviocyte (FLS) cell line||0
+21087445||993||998||SW982||1
+21454523||177||192||erythroid cells||1
+21536859||82||96||leukemic cells||1
+21536859||200||215||blood stem cell||1
+21536859||678||695||MOLT4 T-ALL cells||0
+21536859||757||768||T-ALL cells||0
+21536859||805||811||T-cell||0
+21536859||947||954||T cells||1
+21536859||1034||1050||bone marrow stem||0
+21797989||199||204||fast-||0
+21797989||209||234||slow-twitch muscle fibers||0
+21797989||446||463||skeletal myocytes||1
+21797989||1313||1318||slow-||0
+21797989||1323||1356||intermediate-twitch muscle fibers||0
+21797989||1358||1365||types I||0
+21797989||1370||1373||IIa||0
+21797989||1428||1453||fast-twitch muscle fibers||0
+21797989||1455||1464||types IIb||0
+21797989||1469||1472||IId||0
+21797989||1560||1565||slow-||0
+21797989||1570||1603||intermediate-twitch muscle fibers||0
+21797989||1795||1816||skeletal muscle fiber||1
+22396734||422||442||haematopoietic cells||1
+22396734||575||580||liver||1
+22396734||1032||1052||haematopoietic cells||1
+22396734||1155||1160||brain||1
+22401818||47||62||blood stem cell||1
+22401818||117||131||blood lineages||1
+22401818||196||201||blood||1
+22401818||251||275||hematopoietic stem cells||1
+22401818||277||281||HSCs||1
+22401818||297||306||erythroid||1
+22401818||308||322||megakaryocytic||1
+22401818||328||338||mast cells||1
+22401818||374||378||HSCs||1
+22401818||401||415||megakaryocytes||1
+22401818||421||431||mast cells||1
+22401818||448||463||erythroid cells||1
+22401818||614||636||hematopoietic lineages||1
+22401818||758||761||HSC||1
+22401818||766||779||megakaryocyte||0
+22401818||780||800||erythroid progenitor||0
+22401818||872||875||HSC||1
+22401818||921||932||bone marrow||1
+22401818||1109||1144||hematopoietic stem/progenitor cells||0
+22401818||1178||1200||hematopoietic lineages||1
+22401818||1311||1322||liver cells||1
+23024062||180||187||T cells||1
+23024062||220||226||T cell||1
+23024062||272||278||T cell||1
+23024062||687||694||T cells||0
+23024062||707||721||CD4(+) T cells||0
+23024062||1665||1693||bronchoalveolar lavage fluid||1
+23024062||1695||1723||bronchoalveolar lavage cells||1
+23024062||1729||1733||lung||1
+23159876||120||124||Bone||1
+23159876||183||205||mesenchymal precursors||1
+23159876||217||234||osteoblastic cell||1
+23159876||75||79||bone||1
+23159876||386||397||osteoblasts||1
+23159876||450||454||bone||1
+23159876||625||636||mesenchymal||1
+23159876||641||658||osteoblastic cell||1
+23159876||824||828||bone||1
+23159876||1507||1511||bone||1
+23302769||463||485||haematopoietic lineage||1
+23302769||532||547||leukaemic cells||1
+23302769||625||639||haematopoietic||1
+23302769||644||659||leukaemic cells||1
+23302769||866||880||blood lineages||1
+23302769||891||898||T-cells||0
+23302769||1002||1007||blood||0
+23302769||1034||1041||embryos||1
+23302769||1145||1156||T-ALL cells||0
+23321477||281||303||N2A murine neuroblasts||1
+23321477||490||505||N2A neuroblasts||1
+23321477||1253||1268||N2A neuroblasts||1
+23321477||1707||1718||neuroblasts||1
+23443045||693||704||fibroblasts||1
+24288367||337||362||MCF-7 breast cancer cells||0
+24288367||1016||1027||MCF-7 cells||0
+24288367||1396||1415||breast cancer cells||1
+24705708||587||591||lung||1
+24705708||596||599||gut||1
+24705708||826||830||lung||1
+24705708||835||838||gut||1
+24705708||1220||1224||lung||0
+24705708||1360||1364||lung||1
+24705708||1369||1372||gut||1
+24842713||744||748||lung||0
+24842713||1058||1063||lungs||1
+24842713||1119||1135||lung fibroblasts||1
+24997565||37||44||T cells||1
+24997565||79||94||TH2 memory cell||1
+24997565||234||285||memory CD4(+) T cells that produce type 2 cytokines||0
+24997565||287||296||TH2 cells||1
+24997565||367||374||T cells||1
+24997565||389||405||peripheral blood||1
+24997565||538||547||TH1 cells||1
+24997565||552||561||TH2 cells||1
+24997565||607||614||T cells||1
+24997565||743||751||TH2 cell||1
+24997565||894||903||TH2 cells||1
+24997565||1041||1049||TH2 cell||1
+25030696||85||96||macrophages||1
+25030696||151||162||macrophages||1
+25030696||436||446||macrophage||1
+25030696||472||482||macrophage||1
+25030696||1243||1253||macrophage||1
+25223790||817||830||somatic cells||1
+25223790||834||843||iPS cells||1
+25249570||66||79||cardiomyocyte||1
+25249570||263||268||heart||1
+25249570||420||433||cardiomyocyte||1
+25249570||665||670||heart||1
+25249570||1070||1083||cardiomyocyte||1
+25249570||1445||1458||cardiomyocyte||1
+25249570||1551||1556||heart||1
+25249570||1808||1821||cardiomyocyte||1
+25403490||242||251||myoblasts||1
+25403490||470||485||skeletal muscle||1
+25403490||1279||1285||muscle||1
+25403490||1448||1457||myoblasts||1
+25548254||72||97||CD44hiCD62L+ CD8+ T cells||0
+25548254||105||135||CD8alphaalpha+ dendritic cells||0
+25548254||195||204||thymocyte||1
+25548254||806||837||CD44(hi)CD62L(+) CD8(+) T cells||0
+25548254||861||875||CD8(+) T cells||0
+25548254||1089||1103||CD8(+) T cells||0
+25548254||1168||1182||CD8(+) T cells||0
+25548254||1335||1355||CD8alphaalpha(+) DCs||0
+25548254||1367||1396||CD8alphaalpha-expressing IELs||0
+25548254||1481||1512||CD44(hi)CD62L(+) CD8(+) T cells||0
+25548254||1573||1587||CD8(+) T cells||0
+25548254||1595||1615||CD8alphaalpha(+) DCs||0
+26110280||556||563||embryos||1
+26229090||461||480||lymphoma cell lines||1
+26550034||117||137||embryonic stem cells||1
+26550034||297||322||mouse embryonic stem cell||0
+26550034||324||328||mESC||1
+26550034||467||472||mESCs||1
+26550034||628||632||ESCs||1
+26550034||786||791||mESCs||1
+26550034||1615||1620||mESCs||1
+26550034||1805||1809||mESC||1
+26550034||2019||2022||ESC||1
+26550034||2061||2064||ESC||1
+26550034||2180||2185||mESCs||1
+26663721||111||122||Macrophages||1
+26663721||299||312||immune system||1
+26663721||461||472||macrophages||1
+26663721||680||691||macrophages||1
+26663721||1387||1398||macrophages||1
+26673693||142||148||T-cell||0
+26673693||305||334||CD4(-)/CD8(-) double negative||0
+26673693||336||338||DN||0
+26673693||343||388||CD4(+)/CD8(+) double positive (DP) thymocytes||0
+26673693||644||646||DN||0
+26673693||651||653||DP||0
+26673693||704||706||DP||0
+26673693||899||905||T-cell||0
+26673693||951||953||DN||0
+26673693||957||959||DP||0
+26673693||1014||1036||Ets1(-/-) thymic cells||0
+26673693||1225||1227||DN||0
+26673693||1263||1265||DP||0
+26774474||761||771||liver cell||1
+26809031||611||651||primary human bronchial epithelial cells||0
+26809031||653||658||NHBEC||1
+26809031||664||714||TERT-immortalized normal human diploid fibroblasts||0
+26809031||716||724||HDF-TERT||0
+26855180||735||773||human umbilical vein endothelial cells||0
+26855180||775||780||HUVEC||1
+26883548||228||235||B cells||1
+26916345||153||161||Th1-cell||0
+26916345||653||660||HEK293T||0
+26916345||794||806||CD4+ T cells||0
+26916345||973||985||CD4+ T-cells||0
+26916345||1352||1364||CD4+ T-cells||0
+26916345||1548||1560||CD4+ T-cells||0
+26916345||1776||1784||Th1-cell||0
+26916345||1875||1886||(Th1) cells||0
+27207652||52||71||breast cancer cells||1
+27207652||640||659||breast cancer cells||1
+27895109||689||714||embryonic stem (ES) cells||0
+27895109||787||794||ES cell||1
+28082341||154||163||platelets||1
+28082341||495||503||platelet||0
+28082341||950||966||CD34+ stem cells||0
+28082341||970||984||megakaryocytes||1
+28082341||1379||1389||K562 cells||1
+28082341||1652||1662||K562 cells||1
+28087634||53||66||Sertoli cells||1
+28087634||415||428||Sertoli cells||1
+28087634||446||452||testes||1
+28087634||566||573||Sertoli||1
+28087634||809||821||Sertoli cell||1
+28087634||994||1007||Sertoli cells||1
+28087634||895||907||Sertoli cell||1
+28104492||99||126||intestinal epithelial cells||1
+28104492||555||560||colon||1
+28104492||565||586||intestinal cell lines||1
+28104492||614||626||Caco-2 cells||0
+28104492||898||921||Young Adult Mouse Colon||0
+28104492||923||927||YAMC||1
+28104492||933||975||Rat Intestinal Epithelial (RIE) cell lines||0
+28104492||1172||1176||YAMC||1
+28104492||1181||1190||RIE cells||1
+28104492||1572||1582||YAMC cells||1
+28104492||1584||1588||YAMC||0
+28104492||1705||1727||colon epithelial cells||1
+28213503||493||519||LPS-stimulated macrophages||0
+28262751||383||393||fibroblast||0
+28262837||780||789||HCC cells||1
+28262837||885||893||HCC cell||1
+28262837||1130||1138||HCC cell||1
+28335007||309||314||liver||1
+28335007||813||818||liver||1
+28335007||873||878||liver||1
+28905448||321||341||embryonic stem cells||1
+28905448||579||596||cancer stem cells||1
+28905448||598||602||CSCs||1
+28905448||654||658||CSCs||0
+29256171||1401||1413||chondrocytes||0
+29256171||1535||1546||fibroblasts||0
+29256171||1614||1626||chondrocytes||1
+29326336||125||131||T-cell||0
+29326336||239||288||T-cell acute lymphoblastic leukemia (T-ALL) cells||0
+29326336||639||649||thymocytes||1
+29326336||700||711||T-ALL cells||0
+29326336||813||824||T-ALL cells||0
+29326336||843||850||T cells||1
+29326336||1231||1242||T-ALL cells||0
+29326336||1288||1298||thymocytes||1
+29326336||1310||1316||thymus||1
+29326336||1588||1594||T-cell||0
+29408204||320||330||melanocyte||1
+29408204||573||592||melanoma cell lines||1
+29408204||916||930||melanoma cells||1
+29408204||1193||1207||melanoma cells||1
+30008316||1140||1147||myeloid||1
+30033119||52||78||Human Embryonic Stem Cells||1
+30033119||522||548||human embryonic stem cells||1
+30033119||550||554||ESCs||1
+30033119||892||895||ESC||1
+30518632||15||37||Central Nervous System||0
+30518632||318||324||T-cell||0
+30518632||379||428||T-cell acute lymphoblastic leukemia (T-ALL) cells||0
+30518632||531||553||central nervous system||0
+30518632||555||558||CNS||0
+30518632||719||735||T-ALL cell lines||0
+30518632||856||872||T-ALL cell lines||0
+30518632||918||921||CNS||0
+30518632||981||992||T-ALL cells||0
+30518632||1141||1152||T-ALL cells||0
+30518632||1385||1396||T-ALL cells||0
+30518632||1634||1639||blood||0
+30518632||1640||1645||brain||0
+30518632||1824||1827||CNS||0
+30544251||618||647||bone marrow stromal cell line||1
+30544251||649||652||ST2||1
+30544251||661||671||adipocytes||1
+30544251||676||687||osteoblasts||1
+30544251||1413||1442||bone marrow-derived ST2 cells||0
+30590035||62||70||Germline||0
+30590035||82||109||Human primordial germ cells||0
+30590035||111||116||hPGCs||1
+30590035||132||153||embryonic progenitors||1
+30590035||161||170||germ cell||1
+30590035||222||226||hPGC||1
+30590035||299||303||hPGC||0
+30590035||460||465||hPGCs||1
+30590035||470||485||hPGC-like cells||0
+30590035||487||494||hPGCLCs||1
+30590035||516||542||human embryonic stem cells||1
+30590035||544||549||hESCs||1
+30590035||602||607||hPGCs||1
+30590035||612||619||hPGCLCs||1
+30590035||902||908||hPGCLC||1

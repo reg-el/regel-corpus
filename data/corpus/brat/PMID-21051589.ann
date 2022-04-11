@@ -1,0 +1,91 @@
+T0	PROMOTER 943 955	PSA promoter
+T1	PROMOTER 1038 1050	PSA promoter
+T2	ENHANCER 1174 1206	enhancer region (24801 to 23933)
+T3	GENE 20 33	interleukin-6
+N0	Reference T3 EntrezGene:3569	IL6
+T4	GENE 44 69	prostate-specific antigen
+N1	Reference T4 EntrezGene:354	KLK3
+T6	GENE 121 134	Interleukin-6
+N3	Reference T6 EntrezGene:3569	IL6
+T7	GENE 136 140	IL-6
+N4	Reference T7 EntrezGene:3569	IL6
+T9	GENE 255 259	IL-6
+N6	Reference T9 EntrezGene:3569	IL6
+T11	GENE 408 412	IL-6
+N8	Reference T11 EntrezGene:3569	IL6
+T12	GENE 446 471	prostate-specific antigen
+N9	Reference T12 EntrezGene:354	KLK3
+T13	SPECIES 481 486	human
+N10	Reference T13 NCBITaxon:9606	Homo sapiens
+T15	GENE 569 573	IL-6
+N12	Reference T15 EntrezGene:3569	IL6
+T16	GENE 718 722	IL-6
+N13	Reference T16 EntrezGene:3569	IL6
+T17	GENE 742 745	PSA
+N14	Reference T17 EntrezGene:354	KLK3
+T19	GENE 852 856	IL-6
+N15	Reference T19 EntrezGene:3569	IL6
+T20	GENE 930 933	MAZ
+N16	Reference T20 EntrezGene:4150	MAZ
+T22	GENE 982 985	MAZ
+N18	Reference T22 EntrezGene:4150	MAZ
+T23	GENE 1025 1029	IL-6
+N19	Reference T23 EntrezGene:3569	IL6
+T25	GENE 1131 1135	IL-6
+N21	Reference T25 EntrezGene:3569	IL6
+T26	GENE 1290 1295	STAT3
+N22	Reference T26 EntrezGene:6774	STAT3
+T27	SPECIES 1406 1411	human
+N23	Reference T27 NCBITaxon:9606	Homo sapiens
+T28	GENE 1412 1415	PSA
+N24	Reference T28 EntrezGene:354	KLK3
+T29	GENE 1459 1464	STAT3
+N25	Reference T29 EntrezGene:6774	STAT3
+T30	GENE 1541 1562	heat shock protein 90
+N26	Reference T30 EntrezGene:3320	HSP90AA1
+T31	GENE 1564 1569	Hsp90
+N27	Reference T31 EntrezGene:3320	HSP90AA1
+T32	GENE 1645 1649	IL-6
+N28	Reference T32 EntrezGene:3569	IL6
+T33	GENE 1658 1661	PSA
+N29	Reference T33 EntrezGene:354	KLK3
+T34	GENE 1706 1710	IL-6
+N30	Reference T34 EntrezGene:3569	IL6
+T35	GENE 1723 1726	PSA
+N31	Reference T35 EntrezGene:354	KLK3
+T36	GENE 1752 1757	Hsp90
+N32	Reference T36 EntrezGene:3320	HSP90AA1
+T37	GENE 1798 1802	IL-6
+N33	Reference T37 EntrezGene:3569	IL6
+T38	GENE 1806 1809	PSA
+N34	Reference T38 EntrezGene:354	KLK3
+T5	TISSUE 89 119	prostate LNCaP carcinoma cells
+A3	CANCER T5
+N2	Reference T5 BTO:0001321	LNCaP cell
+T8	TISSUE 199 223	prostate carcinoma cells
+A4	CANCER T8
+N5	Reference T8 BTO:0001321	LNCaP cell
+T10	DISEASE 269 284	prostate cancer
+T40	TISSUE 615 626	LNCaP cells
+A5	CANCER T40
+N35	Reference T40 BTO:0001321	LNCaP cell
+T14	TISSUE 487 517	prostate LNCaP carcinoma cells
+N11	Reference T14 BTO:0001321	LNCaP cell
+A6	CANCER T14
+T18	TISSUE 793 804	LNCaP cells
+A7	CANCER T18
+N36	Reference T18 BTO:0001321	LNCaP cell
+A2	REGION T2 INSUFFICIENT
+A1	REGION T0 INSUFFICIENT
+A8	REGION T1 INSUFFICIENT
+T21	GENE 1234 1288	signal transducer and activator of the transcription 3
+N17	Reference T21 EntrezGene:6774	STAT3
+N7	Reference T10 MONDO:MONDO:0008315	prostate cancer
+T24	GENE 473 476	PSA
+N20	Reference T24 EntrezGene:354	KLK3
+T39	GENE 892 897	c-Myc
+N37	Reference T39 EntrezGene:4609	MYC
+T41	GENE 943 946	PSA
+N38	Reference T41 EntrezGene:354	KLK3
+T42	GENE 1038 1041	PSA
+N39	Reference T42 EntrezGene:354	KLK3

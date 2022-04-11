@@ -1,0 +1,32 @@
+T0	ENHANCER 866 882	enhancer element
+T1	SPECIES 66 71	human
+N0	Reference T1 NCBITaxon:9606	Homo sapiens
+T2	SPECIES 228 234	humans
+N1	Reference T2 NCBITaxon:9606	Homo sapiens
+T4	GENE 831 834	YY1
+N3	Reference T4 EntrezGene:7528	YY1
+T5	GENE 921 926	IL2RA
+N4	Reference T5 EntrezGene:3559	IL2RA
+T6	DISEASE 1129 1147	autoimmune disease
+T7	TISSUE 72 78	T cell
+T8	TISSUE 91 103	T lymphocyte
+T9	TISSUE 306 320	CD4(+) T cells
+A1	REGION T0 INSUFFICIENT
+T10	TISSUE 988 995	T cells
+T11	TISSUE 1078 1086	T helper
+T12	TISSUE 354 365	T helper 17
+T13	TISSUE 366 374	(T(H)17)
+T3	TISSUE 641 646	T(H)1
+T14	TISSUE 647 648	2
+T15	TISSUE 649 651	17
+N10	Reference T11 BTO:0002417	helper T-lymphocyte
+N11	Reference T7 BTO:0000782	T-lymphocyte
+N12	Reference T8 BTO:0000782	T-lymphocyte
+N15	Reference T10 BTO:0000782	T-lymphocyte
+N5	Reference T6 MONDO:MONDO:0007179	autoimmune disease
+N6	Reference T12 BTO:0005655	Th17 cell
+N7	Reference T13 BTO:0005655	Th17 cell
+N2	Reference T3 BTO:0001678	Th1 cell
+N9	Reference T14 BTO:0001679	Th2 cell
+N8	Reference T15 BTO:0005655	Th17 cell
+N13	Reference T9 BTO:0002417	helper T-lymphocyte

@@ -1,0 +1,98 @@
+T0	ENHANCER 2 22	Myc enhancer cluster
+T1	ENHANCER 400 414	super-enhancer
+T2	ENHANCER 916 930	super-enhancer
+T9	GENE 117 120	Myc
+N1	Reference T9 EntrezGene:17869	Myc
+T10	DISEASE 229 256	haematopoietic malignancies
+T12	GENE 451 454	Myc
+N4	Reference T12 EntrezGene:17869	Myc
+T13	SPECIES 542 546	mice
+N5	Reference T13 NCBITaxon:10090	Mus musculus
+T14	SPECIES 551 557	humans
+N6	Reference T14 NCBITaxon:9606	Homo sapiens
+T15	SPECIES 586 590	mice
+N7	Reference T15 NCBITaxon:10090	Mus musculus
+T16	GENE 619 622	Myc
+N8	Reference T16 EntrezGene:17869	Myc
+T17	GENE 827 830	Mx1
+N9	Reference T17 EntrezGene:17857	Mx1
+T18	GENE 872 875	Myc
+N10	Reference T18 EntrezGene:17869	Myc
+T19	GENE 1054 1059	GFI1b
+N11	Reference T19 EntrezGene:14582	fi1b
+T20	GENE 1061 1066	RUNX1
+N12	Reference T20 EntrezGene:12394	Runx1
+T21	GENE 1071 1074	MYB
+N13	Reference T21 EntrezGene:17863	Myb
+T22	SPECIES 1088 1092	mice
+N14	Reference T22 NCBITaxon:10090	Mus musculus
+T23	GENE 1166 1169	Myc
+N15	Reference T23 EntrezGene:17869	Myc
+T24	DISEASE 1466 1475	leukaemia
+T25	SPECIES 1479 1483	mice
+N17	Reference T25 NCBITaxon:10090	Mus musculus
+T26	GENE 1528 1531	Myc
+N18	Reference T26 EntrezGene:17869	Myc
+T27	SPECIES 1546 1551	mouse
+N19	Reference T27 NCBITaxon:10090	Mus musculus
+T28	SPECIES 1638 1643	human
+N20	Reference T28 NCBITaxon:9606	Homo sapiens
+T29	DISEASE 1644 1667	acute myeloid leukaemia
+T30	GENE 1731 1734	MYC
+N22	Reference T30 EntrezGene:4609	MYC
+T31	DISEASE 1969 1981	malignancies
+T33	ENHANCER 1360 1382	blood enhancer cluster
+A6	CANCER T24
+A9	CANCER T29
+A10	CANCER T31
+T6	TISSUE 44 78	leukaemic haematopoietic stem cell
+A11	CANCER T6
+T32	TISSUE 156 181	haematopoietic stem cells
+N23	Reference T32 BTO:0000725	hematopoietic stem cell
+A8	CANCER T10
+T34	TISSUE 488 502	haematopoietic
+N25	Reference T34 BTO:0000725	hematopoietic stem cell
+T35	TISSUE 507 526	leukaemic stem cell
+N26	Reference T35 BTO:0004178	leukemic stem cell
+A12	CANCER T35
+T36	TISSUE 637 662	haematopoietic stem cells
+N27	Reference T36 BTO:0000725	hematopoietic stem cell
+T37	TISSUE 772 779	myeloid
+T38	TISSUE 784 791	B cells
+T39	TISSUE 884 909	haematopoietic stem cells
+N30	Reference T39 BTO:0000725	hematopoietic stem cell
+T41	ENHANCER 1385 1389	BENC
+A13	REGION T41 INSUFFICIENT
+A14	REGION T33 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T42	ENHANCER 1405 1409	BENC
+A15	REGION T42 INSUFFICIENT
+T7	ENHANCER 1814 1818	BENC
+A7	REGION T7 INSUFFICIENT
+A5	REGION T0 INSUFFICIENT
+T5	ENHANCER 279 359	evolutionarily conserved region located 1.7 megabases downstream of the Myc gene
+A16	REGION T5 INSUFFICIENT
+T3	ENHANCER 950 966	enhancer modules
+A3	REGION T3 INSUFFICIENT
+T4	ENHANCER 1126 1142	enhancer modules
+A4	REGION T4 INSUFFICIENT
+T8	ENHANCER 1308 1324	enhancer modules
+A17	REGION T8 INSUFFICIENT
+T11	ENHANCER 1500 1511	BENC module
+A18	REGION T11 INSUFFICIENT
+T43	TISSUE 1552 1577	haematopoietic stem cells
+N3	Reference T24 MONDO:MONDO:0005059	leukemia
+N16	Reference T29 MONDO:MONDO:0018874	acute myeloid leukemia
+N21	Reference T31 MONDO:MONDO:0004992	cancer
+N2	Reference T10 MONDO:MONDO:0002334	hematopoietic and lymphoid system neoplasm
+N24	Reference T6 BTO:0004178	leukemic stem cell
+N28	Reference T37 BTO:0000906	myeloid cell line
+N29	Reference T38 BTO:0000776	B-lymphocyte
+N31	Reference T43 BTO:0000725	hematopoietic stem cell
+T40	GENE 2 5	Myc
+N32	Reference T40 EntrezGene:17869	Myc
+T44	GENE 351 354	Myc
+N33	Reference T44 EntrezGene:17869	Myc
+T45	TISSUE 1360 1365	blood
+N34	Reference T45 BTO:0000089	blood

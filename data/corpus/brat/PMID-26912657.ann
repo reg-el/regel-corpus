@@ -1,0 +1,50 @@
+T0	GENE 33 41	IL-1beta
+N0	Reference T0 EntrezGene:16176	Il1b
+T1	SPECIES 57 64	Anthrax
+N1	Reference T1 NCBITaxon:1392	Bacillus anthracis
+T2	GENE 100 121	Histone Deacetylase 8
+N2	Reference T2 EntrezGene:70315	Hdac8
+T3	GENE 123 128	HDAC8
+N3	Reference T3 EntrezGene:70315	Hdac8
+T4	SPECIES 144 150	Murine
+N4	Reference T4 NCBITaxon:10090	Mus musculus
+T5	GENE 501 522	histone deacetylase 8
+N5	Reference T5 EntrezGene:70315	Hdac8
+T6	GENE 524 529	HDAC8
+N6	Reference T6 EntrezGene:70315	Hdac8
+T7	GENE 545 550	HDAC8
+N7	Reference T7 EntrezGene:70315	Hdac8
+T8	SPECIES 633 639	murine
+N8	Reference T8 NCBITaxon:10090	Mus musculus
+T9	GENE 677 685	IL-1beta
+N9	Reference T9 EntrezGene:16176	Il1b
+T10	GENE 698 703	HDAC8
+N10	Reference T10 EntrezGene:70315	Hdac8
+T11	GENE 832 837	HDAC8
+N11	Reference T11 EntrezGene:70315	Hdac8
+T12	GENE 949 954	HDAC8
+N12	Reference T12 EntrezGene:70315	Hdac8
+T13	GENE 1146 1151	HDAC8
+N13	Reference T13 EntrezGene:70315	Hdac8
+T14	GENE 1197 1205	IL-1beta
+N14	Reference T14 EntrezGene:16176	Il1b
+T15	GENE 1249 1254	HDAC8
+N15	Reference T15 EntrezGene:70315	Hdac8
+T16	GENE 14 31	Interleukin 1beta
+N16	Reference T16 EntrezGene:16176	Il1b
+T18	GENE 993 1002	NF-kappaB
+N18	Reference T18 EntrezGene:19697	Rela
+T19	TISSUE 151 162	Macrophages
+T20	TISSUE 640 651	macrophages
+T21	TISSUE 1079 1090	macrophages
+T22	TISSUE 1309 1320	macrophages
+T23	ENHANCER 1012 1033	pro-IL-1beta enhancer
+A23	REGION T23 INSUFFICIENT
+N17	Reference T19 BTO:0000801	macrophage
+N19	Reference T20 BTO:0000801	macrophage
+N20	Reference T21 BTO:0000801	macrophage
+N21	Reference T22 BTO:0000801	macrophage
+T17	GENE 877 880	p38
+N22	Reference T17 EntrezGene:1432	MAPK14
+T24	GENE 1016 1024	IL-1beta
+N23	Reference T24 EntrezGene:16176	Il1b

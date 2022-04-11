@@ -1,0 +1,63 @@
+T0	PROMOTER 852 872	Set7/9 gene promoter
+T2	GENE 18 24	Set7/9
+N0	Reference T2 EntrezGene:73251	Setd7
+T3	GENE 430 436	Set7/9
+N1	Reference T3 EntrezGene:73251	Setd7
+T4	GENE 491 497	Set7/9
+N2	Reference T4 EntrezGene:73251	Setd7
+T5	SPECIES 638 643	mouse
+N3	Reference T5 NCBITaxon:10090	Mus musculus
+T6	GENE 682 688	Set7/9
+N4	Reference T6 EntrezGene:73251	Setd7
+T8	GENE 1015 1019	Pdx1
+N6	Reference T8 EntrezGene:18609	Pdx1
+T9	GENE 1066 1072	Set7/9
+N7	Reference T9 EntrezGene:73251	Setd7
+T10	TISSUE 1095 1111	insulinoma cells
+T11	SPECIES 1124 1129	mouse
+N9	Reference T11 NCBITaxon:10090	Mus musculus
+T12	GENE 1140 1146	Set7/9
+N10	Reference T12 EntrezGene:73251	Setd7
+T13	GENE 1296 1300	Ins1
+T14	GENE 1304 1309	Glut2
+N12	Reference T14 EntrezGene:20526	Slc2a2
+T15	GENE 1315 1319	MafA
+N13	Reference T15 EntrezGene:378435	Maf
+T16	GENE 1456 1460	Ins1
+T17	GENE 1467 1472	Glut2
+N15	Reference T17 EntrezGene:20526	Slc2a2
+T18	GENE 1521 1527	Set7/9
+N16	Reference T18 EntrezGene:73251	Setd7
+T19	GENE 1648 1654	Set7/9
+N17	Reference T19 EntrezGene:73251	Setd7
+T21	TISSUE 129 138	beta-cell
+T22	TISSUE 366 382	islet beta-cells
+T23	TISSUE 728 739	islet cells
+T24	TISSUE 751 757	alpha-
+T25	TISSUE 762 772	beta-cells
+A2	REGION T0 INSUFFICIENT
+T26	TISSUE 1045 1055	beta-cells
+N8	Reference T10 BTO:0000632	insulinoma cell
+T1	TISSUE 886 891	islet
+T20	ENHANCER 901 999	enhancer located between -5,768 and -6,030 base pairs (relative to the transcriptional start site)
+A1	REGION T20 INSUFFICIENT
+T7	TISSUE 1531 1537	islets
+T27	TISSUE 1678 1687	beta-cell
+N5	Reference T13 EntrezGene:16258	In(17)1t
+T28	GENE 1301 1302	2
+N11	Reference T28 EntrezGene:16259	In(17)2t
+N14	Reference T16 EntrezGene:16258	In(17)1t
+T29	GENE 1461 1462	2
+N18	Reference T29 EntrezGene:16259	In(17)2t
+T30	TISSUE 78 83	islet
+N19	Reference T30 BTO:0000991	pancreatic islet
+T31	TISSUE 644 650	islets
+N20	Reference T31 BTO:0000991	pancreatic islet
+T32	TISSUE 1130 1136	islets
+N21	Reference T32 BTO:0000991	pancreatic islet
+N22	Reference T1 BTO:0000991	pancreatic islet
+N23	Reference T7 BTO:0000991	pancreatic islet
+T33	TISSUE 672 680	pancreas
+N24	Reference T33 BTO:0000988	pancreas
+T34	GENE 852 858	Set7/9
+N25	Reference T34 EntrezGene:73251	Setd7

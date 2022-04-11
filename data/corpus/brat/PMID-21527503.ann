@@ -1,0 +1,74 @@
+T4	ENHANCER 982 1017	CCAAT enhancer binding protein beta
+T5	ENHANCER 1025 1033	enhancer
+T6	PROMOTER 1038 1070	proximal promoter of beta-casein
+T7	PROMOTER 1491 1499	promoter
+T8	PROMOTER 1762 1770	promoter
+T9	ENHANCER 1775 1783	enhancer
+T10	GENE 0 21	Progesterone receptor
+N0	Reference T10 EntrezGene:5241	PGR
+T11	GENE 225 246	progesterone receptor
+N1	Reference T11 EntrezGene:5241	PGR
+T12	GENE 248 250	PR
+N2	Reference T12 EntrezGene:5241	PGR
+T13	GENE 373 382	prolactin
+N3	Reference T13 EntrezGene:5617	PRL
+T14	GENE 384 387	PRL
+N4	Reference T14 EntrezGene:5617	PRL
+T15	GENE 575 577	PR
+N5	Reference T15 EntrezGene:5241	PGR
+T16	GENE 694 696	PR
+N6	Reference T16 EntrezGene:5241	PGR
+T17	GENE 821 823	PR
+N7	Reference T17 EntrezGene:5241	PGR
+T18	GENE 896 947	signal transducer and activator of transcription 5a
+N8	Reference T18 EntrezGene:6776	STAT5A
+T19	GENE 949 972	glucocorticoid receptor
+N9	Reference T19 EntrezGene:2908	R3C1
+T21	GENE 1082 1085	PRL
+N11	Reference T21 EntrezGene:5617	PRL
+T22	GENE 1152 1154	PR
+N12	Reference T22 EntrezGene:5241	PGR
+T23	GENE 1199 1202	PRL
+N13	Reference T23 EntrezGene:5617	PRL
+T24	GENE 1285 1289	p300
+N14	Reference T24 EntrezGene:2033	P300
+T25	GENE 1460 1481	histone deacetylase 3
+N15	Reference T25 EntrezGene:8841	HDAC3
+T26	GENE 1555 1558	PRL
+N16	Reference T26 EntrezGene:5617	PRL
+T27	GENE 1663 1666	PRL
+N17	Reference T27 EntrezGene:5617	PRL
+T28	GENE 1750 1752	PR
+N18	Reference T28 EntrezGene:5241	PGR
+T30	TISSUE 74 98	mammary epithelial cells
+T31	TISSUE 190 201	HC-11 cells
+N20	Reference T31 BTO:0003892	HC-11 cell
+T32	TISSUE 416 429	mammary gland
+N21	Reference T32 BTO:0000817	mammary gland
+A4	REGION T4 INSUFFICIENT
+A5	REGION T5 INSUFFICIENT
+A7	REGION T7 INSUFFICIENT
+A8	REGION T8 INSUFFICIENT
+A9	REGION T9 INSUFFICIENT
+T20	TISSUE 2061 2074	mammary gland
+N10	Reference T20 BTO:0000817	mammary gland
+A6	REGION T6 INSUFFICIENT
+T1	GENE 863 874	beta-casein
+N22	Reference T1 EntrezGene:1447	CSN2
+T2	GENE 40 51	beta-casein
+N23	Reference T2 EntrezGene:1447	CSN2
+T29	GENE 331 342	beta-casein
+N24	Reference T29 EntrezGene:1447	CSN2
+T33	GENE 1695 1706	beta-casein
+N25	Reference T33 EntrezGene:1447	CSN2
+T34	GENE 1441 1455	Yin and Yang 1
+N26	Reference T34 EntrezGene:7528	YY1
+T3	PROMOTER 585 612	proximal promoter (-235 bp)
+A1	REGION T3 INSUFFICIENT
+T35	ENHANCER 617 692	distal enhancer (-6 kb upstream of transcription start site) of beta-casein
+A2	REGION T35 INSUFFICIENT
+N19	Reference T30 BTO:0004300	mammary epithelial cell
+T36	GENE 681 692	beta-casein
+N27	Reference T36 EntrezGene:1447	CSN2
+T37	GENE 1059 1070	beta-casein
+N28	Reference T37 EntrezGene:1447	CSN2

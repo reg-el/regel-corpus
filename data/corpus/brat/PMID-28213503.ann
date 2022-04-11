@@ -1,0 +1,20 @@
+T3	GENE 49 54	IL-10
+N0	Reference T3 EntrezGene:3586	IL10
+T4	GENE 143 148	IL-10
+N1	Reference T4 EntrezGene:3586	IL10
+T5	DISEASE 258 278	inflammatory disease
+T6	GENE 313 318	IL-10
+N2	Reference T6 EntrezGene:3586	IL10
+T7	GENE 463 468	IL-10
+N3	Reference T7 EntrezGene:3586	IL10
+T8	GENE 628 633	IL-10
+N4	Reference T8 EntrezGene:3586	IL10
+T9	GENE 792 797	IL-10
+N5	Reference T9 EntrezGene:3586	IL10
+T10	GENE 943 948	IL-10
+N6	Reference T10 EntrezGene:3586	IL10
+T11	GENE 1058 1063	IL-10
+N7	Reference T11 EntrezGene:3586	IL10
+T12	TISSUE 493 519	LPS-stimulated macrophages
+N8	Reference T12 BTO:0000801	macrophage
+N9	Reference T5 MONDO:MONDO:0021166	inflammatory disease

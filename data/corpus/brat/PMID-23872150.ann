@@ -1,0 +1,44 @@
+T2	PROMOTER 684 701	PLG core promoter
+T3	PROMOTER 760 780	minimal PLG promoter
+T4	PROMOTER 969 989	PLG-minimal promoter
+T6	PROMOTER 1177 1200	APO(a) minimal promoter
+T8	SPECIES 65 70	women
+N1	Reference T8 NCBITaxon:9606	Homo sapiens
+T9	DISEASE 146 165	hypoplasminogenemia
+T10	GENE 212 223	plasminogen
+N3	Reference T10 EntrezGene:5340	PL
+T11	GENE 225 228	PLG
+N4	Reference T11 EntrezGene:5340	PL
+T12	GENE 259 262	PLG
+N5	Reference T12 EntrezGene:5340	PL
+T13	GENE 377 394	apolipoprotein(a)
+N6	Reference T13 EntrezGene:4018	LPA
+T14	GENE 396 402	APO(a)
+N7	Reference T14 EntrezGene:4018	LPA
+T15	GENE 428 431	PLG
+N8	Reference T15 EntrezGene:5340	PL
+T21	GENE 1341 1344	PLG
+N14	Reference T21 EntrezGene:5340	PL
+A1	REGION T2 INSUFFICIENT
+A2	REGION T3 INSUFFICIENT
+T1	TFBS 821 907	estrogen response element located 11.5 kb upstream of the PLG transcription start site
+A3	REGION T1 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+A5	REGION T6 INSUFFICIENT
+T5	TFBS 1258 1286	estrogen-responsive elements
+A6	REGION T5 INSUFFICIENT
+T7	PROMOTER 19 39	plasminogen promoter
+A7	REGION T7 INSUFFICIENT
+T16	ENHANCER 1061 1093	two additional enhancer elements
+A8	REGION T16 INSUFFICIENT
+N2	Reference T9 MONDO:MONDO:0009009	hypoplasminogenemia
+T17	GENE 684 687	PLG
+N9	Reference T17 EntrezGene:5340	PLG
+T18	GENE 768 771	PLG
+N10	Reference T18 EntrezGene:5340	PLG
+T19	GENE 969 972	PLG
+N11	Reference T19 EntrezGene:5340	PLG
+T20	GENE 1177 1183	APO(a)
+N12	Reference T20 EntrezGene:4018	LPA
+T22	GENE 879 882	PLG
+N13	Reference T22 EntrezGene:5340	PLG

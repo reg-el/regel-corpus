@@ -1,0 +1,83 @@
+T0	ENHANCER 1021 1040	E1A enhancer region
+T1	ENHANCER 1164 1176	E1A enhancer
+T2	ENHANCER 1271 1283	E1A enhancer
+T3	ENHANCER 1870 1882	E1A enhancer
+T5	SPECIES 508 513	human
+N1	Reference T5 NCBITaxon:9606	Homo sapiens
+T6	GENE 552 560	IFNalpha
+N2	Reference T6 EntrezGene:3439	IFNA1
+T7	GENE 565 573	IFNgamma
+N3	Reference T7 EntrezGene:3458	IF
+T8	GENE 592 595	Ad5
+N4	Reference T8 EntrezGene:8081	AD5
+T13	GENE 803 806	Ad5
+N9	Reference T13 EntrezGene:8081	AD5
+T14	GENE 822 830	IFNalpha
+N10	Reference T14 EntrezGene:3439	IFNA1
+T15	GENE 835 843	IFNgamma
+N11	Reference T15 EntrezGene:3458	IF
+T16	GENE 940 948	IFNalpha
+N12	Reference T16 EntrezGene:3439	IFNA1
+T17	GENE 953 961	IFNgamma
+N13	Reference T17 EntrezGene:3458	IF
+T18	GENE 1328 1332	CDK4
+T19	GENE 1440 1443	Ad5
+N15	Reference T19 EntrezGene:8081	AD5
+T20	GENE 1662 1670	IFNalpha
+N16	Reference T20 EntrezGene:3439	IFNA1
+T21	GENE 1674 1682	IFNgamma
+N17	Reference T21 EntrezGene:3458	IF
+T22	GENE 1771 1779	IFNgamma
+N18	Reference T22 EntrezGene:3458	IF
+T24	DISEASE 1954 1974	adenovirus infection
+T26	TISSUE 414 431	cancer cell lines
+T4	TISSUE 611 651	primary human bronchial epithelial cells
+N21	Reference T4 BTO:0002922	bronchial epithelial cell
+T9	TISSUE 653 658	NHBEC
+N5	Reference T9 BTO:0002922	bronchial epithelial cell
+T27	TISSUE 664 714	TERT-immortalized normal human diploid fibroblasts
+N22	Reference T27 BTO:0000452	fibroblast
+T11	TISSUE 716 724	HDF-TERT
+N7	Reference T11 BTO:0000452	fibroblast
+A4	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+T28	TFBS 1846 1882	E2F binding site in the E1A enhancer
+A5	REGION T28 INSUFFICIENT
+T23	SPECIES 483 485	Ad
+N19	Reference T23 NCBITaxon:1967472	Adenovirus sp.
+T29	SPECIES 371 381	Adenovirus
+N23	Reference T29 NCBITaxon:1967472	Adenovirus sp.
+T30	SPECIES 383 385	Ad
+N24	Reference T30 NCBITaxon:1967472	Adenovirus sp.
+T31	SPECIES 1721 1723	Ad
+N25	Reference T31 NCBITaxon:1967472	Adenovirus sp.
+T32	SPECIES 1802 1804	Ad
+N26	Reference T32 NCBITaxon:1967472	Adenovirus sp.
+T33	SPECIES 64 74	Adenovirus
+N27	Reference T33 NCBITaxon:1967472	Adenovirus sp.
+T34	SPECIES 127 132	Viral
+N28	Reference T34 NCBITaxon:10239	Viruses
+T35	GENE 1258 1262	p107
+T36	SPECIES 1628 1630	Ad
+N29	Reference T36 NCBITaxon:1967472	Adenovirus sp.
+N31	Reference T35 EntrezGene:5933	RBL1
+T25	TFBS 1140 1176	E2F binding site in the E1A enhancer
+A6	REGION T25 INSUFFICIENT
+T38	TFBS 1483 1499	E2F binding site
+A7	REGION T38 INSUFFICIENT
+T39	SPECIES 771 783	adenoviruses
+N32	Reference T39 NCBITaxon:1967472	Adenovirus sp.
+N14	Reference T18 EntrezGene:1019	CDK4
+T40	GENE 1333 1334	6
+N33	Reference T40 EntrezGene:1021	CDK6
+N20	Reference T24 MONDO:MONDO:0043479	adenoviridae infectious disease
+T10	GENE 1007 1011	GABP
+N6	Reference T10 EntrezGene:2551	GABPA
+T43	GENE 1554 1557	E1A
+N36	Reference T43 EntrezGene:2652980	
+T44	GENE 901 904	E1A
+N37	Reference T44 EntrezGene:2652980	
+T45	SPECIES 619 624	human
+N38	Reference T45 NCBITaxon:9606	

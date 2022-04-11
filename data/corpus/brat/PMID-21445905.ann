@@ -1,0 +1,8 @@
+T3	GENE 28 35	lactase
+N0	Reference T3 EntrezGene:3938	LCT
+T4	SPECIES 371 378	persons
+N1	Reference T4 NCBITaxon:9606	Homo sapiens
+T5	GENE 509 516	lactase
+N2	Reference T5 EntrezGene:3938	LCT
+T6	GENE 577 584	lactase
+N3	Reference T6 EntrezGene:3938	LCT

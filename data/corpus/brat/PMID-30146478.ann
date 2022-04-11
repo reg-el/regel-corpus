@@ -1,0 +1,36 @@
+T1	ENHANCER 382 406	enhancer regions of SOX9
+T7	GENE 100 104	Sox9
+N0	Reference T7 EntrezGene:6662	SOX9
+T8	GENE 117 126	SRY-box 9
+N1	Reference T8 EntrezGene:6662	SOX9
+T9	GENE 128 132	SOX9
+N2	Reference T9 EntrezGene:6662	SOX9
+T13	DISEASE 307 339	acampomelic campomelic dysplasia
+T14	DISEASE 341 344	ACD
+T18	GENE 823 828	SIN3A
+N9	Reference T18 EntrezGene:20466	Sin3
+T19	SPECIES 902 906	mice
+N10	Reference T19 NCBITaxon:10090	Mus musculus
+T20	GENE 979 984	Stat3
+N11	Reference T20 EntrezGene:6774	STAT3
+T21	GENE 1041 1045	Sox9
+N12	Reference T21 EntrezGene:6662	SOX9
+T22	DISEASE 1135 1138	ACD
+A1	REGION T1 INSUFFICIENT
+T2	ENHANCER 492 564	cis-acting enhancer region regulating cartilage-specific SOX9 expression
+A3	REGION T2 INSUFFICIENT
+T4	ENHANCER 603 635	distant cartilage Sox9 enhancers
+A2	REGION T4 INSUFFICIENT
+T3	REGULATORY_REGION 950 974	far-upstream cis-element
+A5	REGION T3 INSUFFICIENT
+N3	Reference T13 MONDO:MONDO:0007251	campomelic dysplasia
+N4	Reference T14 MONDO:MONDO:0007251	campomelic dysplasia
+N5	Reference T22 MONDO:MONDO:0007251	campomelic dysplasia
+T5	GENE 286 290	SOX9
+N6	Reference T5 EntrezGene:6662	SOX9
+T6	GENE 402 406	SOX9
+N7	Reference T6 EntrezGene:6662	SOX9
+T10	GENE 549 553	SOX9
+N8	Reference T10 EntrezGene:6662	SOX9
+T12	GENE 621 625	Sox9
+N13	Reference T12 EntrezGene:6662	SOX9

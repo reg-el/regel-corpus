@@ -1,0 +1,81 @@
+T0	ENHANCER 1096 1121	intronic-enhancer element
+A0	REGION T0 INSUFFICIENT
+T3	GENE 59 62	p53
+N0	Reference T3 EntrezGene:7157	TP53
+T4	SPECIES 105 110	human
+N1	Reference T4 NCBITaxon:9606	Homo sapiens
+T5	GENE 111 141	manganese superoxide dismutase
+N2	Reference T5 EntrezGene:6648	SOD2
+T6	GENE 255 258	p53
+N3	Reference T6 EntrezGene:7157	TP53
+T7	GENE 366 369	p53
+N4	Reference T7 EntrezGene:7157	TP53
+T8	GENE 384 414	manganese superoxide dismutase
+N5	Reference T8 EntrezGene:6648	SOD2
+T9	GENE 416 421	MnSOD
+N6	Reference T9 EntrezGene:6648	SOD2
+T10	GENE 462 465	p53
+N7	Reference T10 EntrezGene:7157	TP53
+T11	GENE 523 526	p53
+N8	Reference T11 EntrezGene:7157	TP53
+T12	GENE 571 576	MnSOD
+N9	Reference T12 EntrezGene:6648	SOD2
+T13	GENE 758 761	p53
+N10	Reference T13 EntrezGene:7157	TP53
+T14	GENE 821 824	p53
+N11	Reference T14 EntrezGene:7157	TP53
+T15	GENE 828 833	MnSOD
+N12	Reference T15 EntrezGene:6648	SOD2
+T16	GENE 897 900	p53
+N13	Reference T16 EntrezGene:7157	TP53
+T18	GENE 1034 1037	p53
+N15	Reference T18 EntrezGene:7157	TP53
+T19	GENE 1048 1053	MnSOD
+N16	Reference T19 EntrezGene:6648	SOD2
+T20	GENE 1218 1221	p53
+N17	Reference T20 EntrezGene:7157	TP53
+T21	GENE 1249 1252	p65
+N18	Reference T21 EntrezGene:5970	RELA
+T22	GENE 1312 1321	NF-kappaB
+N19	Reference T22 EntrezGene:4790	FKB1
+T23	GENE 1426 1429	p65
+N20	Reference T23 EntrezGene:5970	RELA
+T24	GENE 1484 1487	p53
+N21	Reference T24 EntrezGene:7157	TP53
+T25	GENE 1491 1496	MnSOD
+N22	Reference T25 EntrezGene:6648	SOD2
+T26	GENE 1541 1544	p65
+N23	Reference T26 EntrezGene:5970	RELA
+T27	GENE 1581 1584	p53
+N24	Reference T27 EntrezGene:7157	TP53
+T28	GENE 1588 1593	MnSOD
+N25	Reference T28 EntrezGene:6648	SOD2
+T29	GENE 1633 1636	p53
+N26	Reference T29 EntrezGene:7157	TP53
+T30	GENE 1686 1689	p53
+N27	Reference T30 EntrezGene:7157	TP53
+T31	GENE 1724 1727	p65
+N28	Reference T31 EntrezGene:5970	RELA
+T32	GENE 1758 1763	MnSOD
+N29	Reference T32 EntrezGene:6648	SOD2
+T33	GENE 1816 1819	p53
+N30	Reference T33 EntrezGene:7157	TP53
+T34	GENE 1849 1854	MnSOD
+N31	Reference T34 EntrezGene:6648	SOD2
+T35	GENE 0 21	Nuclear factor kappaB
+N32	Reference T35 EntrezGene:4790	NFKB1
+T36	GENE 148 168	Tumor suppressor p53
+N33	Reference T36 EntrezGene:7157	TP53
+T39	TISSUE 469 479	PC-3 cells
+A39	CANCER T39
+T2	TFBS 991 1008	p53 binding sites
+A2	REGION T2 INSUFFICIENT
+T17	TFBS 1155 1202	nuclear-factor kappaB (NF-kappaB) binding sites
+A4	REGION T17 INSUFFICIENT
+N14	Reference T39 BTO:0001061	PC-3 cell
+T1	GENE 991 994	p53
+N34	Reference T1 EntrezGene:7157	TP53
+T37	GENE 1155 1176	nuclear-factor kappaB
+N35	Reference T37 EntrezGene:4790	NFKB1
+T38	GENE 1178 1187	NF-kappaB
+N36	Reference T38 EntrezGene:4790	NFKB1

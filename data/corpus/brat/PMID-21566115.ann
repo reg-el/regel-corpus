@@ -1,0 +1,58 @@
+T0	ENHANCER 2 26	distal enhancer in Il12b
+T2	ENHANCER 650 658	enhancer
+T4	GENE 78 83	STAT3
+N1	Reference T4 EntrezGene:6774	STAT3
+T5	GENE 146 151	NFIL3
+N2	Reference T5 EntrezGene:4783	FIL3
+T7	DISEASE 289 310	inflammatory diseases
+T9	GENE 343 346	p40
+N6	Reference T9 EntrezGene:3578	IL9
+T10	GENE 366 371	Il12b
+N7	Reference T10 EntrezGene:3593	IL12B
+T11	GENE 439 444	STAT3
+N8	Reference T11 EntrezGene:6774	STAT3
+T12	GENE 446 496	signal transducer and activator of transcription 3
+N9	Reference T12 EntrezGene:6774	STAT3
+T13	GENE 536 541	IL-10
+N10	Reference T13 EntrezGene:3586	IL10
+T14	GENE 557 562	IL-10
+N11	Reference T14 EntrezGene:3586	IL10
+T16	GENE 722 727	IL-10
+N13	Reference T16 EntrezGene:3586	IL10
+T17	GENE 744 749	NFIL3
+N14	Reference T17 EntrezGene:4783	FIL3
+T18	GENE 845 850	NFIL3
+N15	Reference T18 EntrezGene:4783	FIL3
+T19	GENE 912 917	STAT3
+N16	Reference T19 EntrezGene:6774	STAT3
+T20	GENE 942 947	NFIL3
+N17	Reference T20 EntrezGene:4783	FIL3
+A3	REGION T0 INSUFFICIENT
+T6	TISSUE 257 263	T cell
+N3	Reference T6 BTO:0000782	T-lymphocyte
+A2	REGION T2 INSUFFICIENT
+T8	TFBS 662 679	single 10-bp site
+A4	REGION T8 INSUFFICIENT
+T15	GENE 751 790	nuclear factor, interleukin 3-regulated
+N4	Reference T15 EntrezGene:4783	NFIL3
+T22	TISSUE 823 836	Myeloid cells
+T23	GENE 869 877	IL-12p40
+N5	Reference T23 EntrezGene:3593	IL12B
+T24	TISSUE 1001 1014	myeloid cells
+T1	ENHANCER 574 637	enhancer 10 kb upstream of the Il12b transcriptional start site
+A1	REGION T1 INSUFFICIENT
+T3	TISSUE 207 228	myeloid lineage cells
+N18	Reference T3 BTO:0000906	myeloid cell line
+N12	Reference T22 BTO:0000906	myeloid cell line
+N19	Reference T24 BTO:0000906	myeloid cell line
+T21	DISEASE 274 284	autoimmune
+N20	Reference T21 MONDO:MONDO:0007179	autoimmune disease
+N21	Reference T7 MONDO:MONDO:0021166	inflammatory disease
+T25	GENE 175 180	IL-23
+N22	Reference T25 EntrezGene:51561	IL23A
+T26	GENE 322 327	IL-23
+N23	Reference T26 EntrezGene:51561	IL23A
+T27	GENE 21 26	Il12b
+N24	Reference T27 EntrezGene:3593	IL12B
+T28	GENE 605 610	Il12b
+N25	Reference T28 EntrezGene:3593	IL12B

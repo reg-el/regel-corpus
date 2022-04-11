@@ -1,0 +1,41 @@
+T0	PROMOTER 698 716	essential promoter
+T2	GENE 8 43	runt-related transcription factor 3
+N0	Reference T2 EntrezGene:864	RUNX3
+T3	GENE 45 50	RUNX3
+N1	Reference T3 EntrezGene:864	RUNX3
+T4	GENE 83 114	natural cytotoxicity receptor 1
+N2	Reference T4 EntrezGene:9437	CR1
+T5	GENE 116 120	NCR1
+N3	Reference T5 EntrezGene:9437	CR1
+T6	GENE 121 126	NKp46
+N4	Reference T6 EntrezGene:9437	CR1
+T7	GENE 143 176	natural killer (NK) cell receptor
+N5	Reference T7 EntrezGene:3824	KLRD1
+T8	GENE 178 209	Natural cytotoxicity receptor 1
+N6	Reference T8 EntrezGene:9437	CR1
+T9	GENE 211 215	NCR1
+N7	Reference T9 EntrezGene:9437	CR1
+T10	GENE 232 237	NKp46
+N8	Reference T10 EntrezGene:9437	CR1
+T11	SPECIES 521 526	human
+N9	Reference T11 NCBITaxon:9606	Homo sapiens
+T12	GENE 527 531	NCR1
+N10	Reference T12 EntrezGene:9437	CR1
+T13	GENE 910 915	RUNX3
+N11	Reference T13 EntrezGene:864	RUNX3
+T14	GENE 1000 1004	Ncr1
+N12	Reference T14 EntrezGene:9437	CR1
+T15	GENE 1017 1022	RUNX3
+N13	Reference T15 EntrezGene:864	RUNX3
+T16	GENE 1104 1109	RUNX3
+N14	Reference T16 EntrezGene:864	RUNX3
+T18	TISSUE 410 421	bone marrow
+N15	Reference T18 BTO:0000141	bone marrow
+A2	REGION T0 INSUFFICIENT
+T19	TFBS 825 883	runt related-transcription factor (RUNX) recognition motif
+A3	REGION T19 INSUFFICIENT
+T17	REGULATORY_REGION 595 673	two key cis-regulatory elements in the immediate vicinity upstream of the gene
+A4	REGION T17 INSUFFICIENT
+T21	ENHANCER 746 771	tissue-dependent enhancer
+A1	REGION T21 INSUFFICIENT
+T1	TISSUE 400 405	blood

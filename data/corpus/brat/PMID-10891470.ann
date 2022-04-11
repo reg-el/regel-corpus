@@ -1,0 +1,83 @@
+T1	GENE 22 27	NF-E2
+T7	GENE 544 549	NF-E2
+T8	GENE 569 574	NF-E2
+N7	Reference T8 EntrezGene:18022	fe2
+T9	GENE 579 590	beta-globin
+N8	Reference T9 EntrezGene:15127	Hbb
+T10	SPECIES 621 627	murine
+N9	Reference T10 NCBITaxon:10090	Mus musculus
+T11	TISSUE 628 649	erythroleukemia cells
+T12	GENE 662 665	p45
+N11	Reference T12 EntrezGene:18022	fe2
+T13	GENE 677 682	NF-E2
+N12	Reference T13 EntrezGene:18022	fe2
+T14	GENE 735 746	beta-globin
+N13	Reference T14 EntrezGene:15127	Hbb
+T15	GENE 806 811	NF-E2
+N14	Reference T15 EntrezGene:18022	fe2
+T16	SPECIES 822 826	mice
+N15	Reference T16 NCBITaxon:10090	Mus musculus
+T17	GENE 843 846	p45
+N16	Reference T17 EntrezGene:18022	fe2
+T18	GENE 879 890	beta-globin
+N17	Reference T18 EntrezGene:15127	Hbb
+T19	SPECIES 937 941	mice
+N18	Reference T19 NCBITaxon:10090	Mus musculus
+T20	GENE 972 977	NF-E2
+N19	Reference T20 EntrezGene:18022	fe2
+T21	GENE 982 987	NF-E2
+N20	Reference T21 EntrezGene:18022	fe2
+T22	GENE 1034 1045	beta-globin
+N21	Reference T22 EntrezGene:15127	Hbb
+T23	GENE 1103 1108	NF-E2
+N22	Reference T23 EntrezGene:18022	fe2
+T24	GENE 1237 1242	NF-E2
+N23	Reference T24 EntrezGene:18022	fe2
+T25	TISSUE 1294 1315	erythroleukemia cells
+T26	SPECIES 1323 1328	mouse
+N25	Reference T26 NCBITaxon:10090	Mus musculus
+T27	GENE 1421 1424	p45
+N26	Reference T27 EntrezGene:18022	fe2
+T28	GENE 1497 1502	NF-E2
+N27	Reference T28 EntrezGene:18022	fe2
+T29	GENE 1524 1535	beta-globin
+N28	Reference T29 EntrezGene:15127	Hbb
+T2	TISSUE 479 493	erythroid cell
+N1	Reference T2 BTO:0002731	erythroid cell
+T4	TISSUE 499 512	megakaryocyte
+N3	Reference T4 BTO:0000843	megakaryocyte
+N4	Reference T11 BTO:0000426	erythroleukemia cell
+T5	GENE 62 94	beta-globin locus control region
+N10	Reference T5 EntrezGene:109580095	HBB-LCR
+T3	TISSUE 690 699	CB3 cells
+T31	GENE 724 730	alpha-
+N2	Reference T31 EntrezGene:15121	Hba
+T32	GENE 122 154	beta-globin locus control region
+N29	Reference T32 EntrezGene:109580095	HBB-LCR
+T33	GENE 156 159	LCR
+N30	Reference T33 EntrezGene:109580095	HBB-LCR
+T34	GENE 215 226	beta-globin
+T35	GENE 330 333	LCR
+N32	Reference T35 EntrezGene:109580095	HBB-LCR
+T36	GENE 388 391	LCR
+N33	Reference T36 EntrezGene:109580095	HBB-LCR
+T37	GENE 1018 1021	LCR
+N34	Reference T37 EntrezGene:109580095	HBB-LCR
+N24	Reference T25 BTO:0000426	erythroleukemia cell
+T38	TISSUE 1335 1340	liver
+N35	Reference T38 BTO:0000759	liver
+T39	GENE 1578 1581	LCR
+N36	Reference T39 EntrezGene:109580095	HBB-LCR
+T30	SPECIES 116 121	human
+N37	Reference T30 NCBITaxon:9606	Homo sapiens
+T6	TFBS 241 265	Maf recognition elements
+A1	REGION T6 INSUFFICIENT
+T40	TFBS 267 272	MAREs
+A3	REGION T40 INSUFFICIENT
+T41	TFBS 1138 1143	MAREs
+A5	REGION T41 INSUFFICIENT
+T42	TFBS 1439 1444	MAREs
+A7	REGION T42 INSUFFICIENT
+N5	Reference T34 EntrezGene:3043	HBB
+N31	Reference T1 EntrezGene:4778	NFE2
+N6	Reference T7 EntrezGene:4778	NFE2

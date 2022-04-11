@@ -1,0 +1,108 @@
+T0	ENHANCER 777 788	enhancer N1
+T1	ENHANCER 1064 1075	enhancer N1
+T2	ENHANCER 1166 1177	enhancer N1
+T3	ENHANCER 1329 1340	enhancer-N1
+T4	ENHANCER 1557 1568	enhancer N1
+T5	ENHANCER 1855 1866	enhancer N1
+T6	GENE 0 4	Tbx6
+N0	Reference T6 EntrezGene:21389	Tbx6
+T7	GENE 15 19	Sox2
+N1	Reference T7 EntrezGene:20674	Sox2
+T8	GENE 451 455	Tbx6
+N2	Reference T8 EntrezGene:21389	Tbx6
+T9	SPECIES 468 473	mouse
+N3	Reference T9 NCBITaxon:10090	Mus musculus
+T10	GENE 680 684	Tbx6
+N4	Reference T10 EntrezGene:21389	Tbx6
+T11	GENE 709 713	Sox2
+N5	Reference T11 EntrezGene:20674	Sox2
+T12	GENE 819 823	Sox2
+N6	Reference T12 EntrezGene:20674	Sox2
+T13	GENE 949 953	Sox2
+N7	Reference T13 EntrezGene:20674	Sox2
+T14	GENE 1046 1050	Tbx6
+N8	Reference T14 EntrezGene:21389	Tbx6
+T15	GENE 1136 1140	Tbx6
+N9	Reference T15 EntrezGene:21389	Tbx6
+T16	GENE 1252 1256	Sox2
+N10	Reference T16 EntrezGene:20674	Sox2
+T17	GENE 1384 1388	Tbx6
+N11	Reference T17 EntrezGene:21389	Tbx6
+T18	GENE 1419 1423	Sox2
+N12	Reference T18 EntrezGene:20674	Sox2
+T19	GENE 1533 1537	Tbx6
+N13	Reference T19 EntrezGene:21389	Tbx6
+T20	GENE 1548 1552	Sox2
+N14	Reference T20 EntrezGene:20674	Sox2
+T21	GENE 1570 1574	Tbx6
+N15	Reference T21 EntrezGene:21389	Tbx6
+T22	GENE 1599 1604	Wnt3a
+N16	Reference T22 EntrezGene:22416	Wnt3
+T23	GENE 1732 1736	Sox2
+N17	Reference T23 EntrezGene:20674	Sox2
+T24	GENE 1819 1823	Tbx6
+N18	Reference T24 EntrezGene:21389	Tbx6
+T25	GENE 1834 1838	Sox2
+N19	Reference T25 EntrezGene:20674	Sox2
+T27	TISSUE 71 87	axial stem cells
+T30	TISSUE 111 123	neural plate
+N21	Reference T30 BTO:0001765	neural plate
+T31	TISSUE 165 173	ectoderm
+N22	Reference T31 BTO:0000315	ectoderm
+T34	TISSUE 315 327	neural plate
+N25	Reference T34 BTO:0001765	neural plate
+T35	TISSUE 341 349	mesoderm
+N26	Reference T35 BTO:0000839	mesoderm
+T36	TISSUE 388 404	axial stem cells
+T37	TISSUE 441 449	epiblast
+N27	Reference T37 BTO:0004593	epiblast
+T38	TISSUE 474 481	embryos
+N28	Reference T38 BTO:0000379	embryo
+T39	TISSUE 504 516	neural tubes
+N29	Reference T39 BTO:0001057	neural tube
+T40	TISSUE 544 552	mesoderm
+N30	Reference T40 BTO:0000839	mesoderm
+T43	TISSUE 737 753	axial stem cells
+A6	REGION T0 INSUFFICIENT
+T44	TISSUE 859 867	epiblast
+N32	Reference T44 BTO:0004593	epiblast
+T46	TISSUE 1028 1036	mesoderm
+N33	Reference T46 BTO:0000839	mesoderm
+A1	REGION T1 INSUFFICIENT
+T47	TISSUE 1111 1119	mesoderm
+N34	Reference T47 BTO:0000839	mesoderm
+T48	TISSUE 1148 1155	embryos
+N35	Reference T48 BTO:0000379	embryo
+A2	REGION T2 INSUFFICIENT
+T49	TISSUE 1298 1306	mesoderm
+N36	Reference T49 BTO:0000839	mesoderm
+T50	TISSUE 1312 1324	neural tubes
+N37	Reference T50 BTO:0001057	neural tube
+A3	REGION T3 INSUFFICIENT
+T51	TISSUE 1396 1403	embryos
+N38	Reference T51 BTO:0000379	embryo
+T52	TISSUE 1442 1464	mesodermal compartment
+N39	Reference T52 BTO:0000839	mesoderm
+T53	TISSUE 1503 1515	neural tubes
+N40	Reference T53 BTO:0001057	neural tube
+A4	REGION T4 INSUFFICIENT
+T54	TISSUE 1621 1643	mesodermal compartment
+N41	Reference T54 BTO:0000839	mesoderm
+T55	TISSUE 1695 1703	mesoderm
+N42	Reference T55 BTO:0000839	mesoderm
+T56	TISSUE 1788 1799	neural tube
+N43	Reference T56 BTO:0001057	neural tube
+T57	TISSUE 1760 1767	embryos
+N44	Reference T57 BTO:0000379	embryo
+A5	REGION T5 INSUFFICIENT
+T59	TISSUE 1962 1970	mesoderm
+N45	Reference T59 BTO:0000839	mesoderm
+T60	TISSUE 1980 1996	axial stem cells
+T26	TISSUE 1212 1220	mesoderm
+N46	Reference T26 BTO:0000839	mesoderm
+T61	GENE 924 926	N1
+N47	Reference T61 EntrezGene:18128	Notch1
+T62	TISSUE 972 984	neural plate
+N24	Reference T62 BTO:0001765	neural plate
+T28	TISSUE 768 775	embryos
+N20	Reference T28 BTO:0000379	embryo

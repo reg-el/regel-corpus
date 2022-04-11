@@ -1,0 +1,94 @@
+T0	ENHANCER 54 94	muscle creatine kinase intronic enhancer
+T1	ENHANCER 476 503	MCK small intronic enhancer
+T3	ENHANCER 690 712	206-bp MCK 5'-enhancer
+T4	ENHANCER 945 960	MCK 5'-enhancer
+T8	GENE 137 159	muscle creatine kinase
+N1	Reference T8 EntrezGene:1158	CKM
+T9	GENE 161 164	MCK
+N2	Reference T9 EntrezGene:1158	CKM
+T18	GENE 977 981	MyoD
+T19	GENE 983 991	myogenin
+T20	GENE 996 1000	MEF2
+N13	Reference T20 EntrezGene:4205	MEF2A
+T21	GENE 1092 1096	MyoD
+T22	GENE 1100 1108	myogenin
+N15	Reference T22 EntrezGene:4656	MYO
+T23	GENE 1142 1145	MCK
+N16	Reference T23 EntrezGene:1158	CKM
+T24	GENE 1295 1298	MCK
+N17	Reference T24 EntrezGene:1158	CKM
+T25	GENE 1542 1545	MCK
+N18	Reference T25 EntrezGene:1158	CKM
+T27	GENE 1767 1770	MCK
+N20	Reference T27 EntrezGene:1158	CKM
+A7	REGION T0 INSUFFICIENT
+T7	TISSUE 199 204	fast-
+N21	Reference T7 BTO:0001813	fast twitch muscle fiber
+T29	TISSUE 209 234	slow-twitch muscle fibers
+N22	Reference T29 BTO:0001812	slow twitch muscle fiber
+T30	TISSUE 446 463	skeletal myocytes
+A1	REGION T1 INSUFFICIENT
+T11	ENHANCER 505 512	MCK-SIE
+A8	REGION T11 INSUFFICIENT
+T2	TFBS 527 589	paired E-box/myocyte enhancer factor 2 (MEF2) regulatory motif
+A2	REGION T2 INSUFFICIENT
+T12	ENHANCER 614 617	SIE
+A10	REGION T12 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+T13	ENHANCER 722 729	MCK-SIE
+A9	REGION T13 INSUFFICIENT
+T14	ENHANCER 933 936	SIE
+A11	REGION T14 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+N4	Reference T18 EntrezGene:4654	MYOD1
+N6	Reference T19 EntrezGene:4656	MYOG
+T15	TFBS 1013 1071	E-boxes located within or immediately adjacent to intron 1
+A12	REGION T15 INSUFFICIENT
+N5	Reference T21 EntrezGene:4654	MYOD1
+T16	ENHANCER 1178 1189	5'-enhancer
+A13	REGION T16 INSUFFICIENT
+T5	PROMOTER 1194 1211	proximal promoter
+A5	REGION T5 INSUFFICIENT
+T6	TISSUE 1313 1318	slow-
+N7	Reference T6 BTO:0001812	slow twitch muscle fiber
+T17	TISSUE 1323 1356	intermediate-twitch muscle fibers
+N8	Reference T17 BTO:0002321	intermediate muscle fiber
+T31	TISSUE 1358 1365	types I
+N9	Reference T31 BTO:0001812	slow twitch muscle fiber
+T32	TISSUE 1370 1373	IIa
+N10	Reference T32 BTO:0002321	intermediate muscle fiber
+T33	TISSUE 1428 1453	fast-twitch muscle fibers
+N11	Reference T33 BTO:0001813	fast twitch muscle fiber
+T34	TISSUE 1455 1464	types IIb
+N12	Reference T34 BTO:0001813	fast twitch muscle fiber
+T35	TISSUE 1560 1565	slow-
+N14	Reference T35 BTO:0001812	slow twitch muscle fiber
+T36	TISSUE 1570 1603	intermediate-twitch muscle fibers
+N23	Reference T36 BTO:0002321	intermediate muscle fiber
+T37	TFBS 1666 1707	paired E-box MEF2 site motif within a SIE
+A6	REGION T37 INSUFFICIENT
+T26	ENHANCER 1704 1707	SIE
+A14	REGION T26 INSUFFICIENT
+T38	TISSUE 1795 1816	skeletal muscle fiber
+N19	Reference T38 BTO:0002319	skeletal muscle fiber
+T28	TISSUE 1469 1472	IId
+N24	Reference T28 BTO:0001813	fast twitch muscle fiber
+N25	Reference T30 BTO:0004392	skeletal muscle cell
+T39	REGULATORY_REGION 320 393	Modulatory region 1 (MR1) is a 1-kb regulatory region within MCK intron 1
+A15	REGION T39 INSUFFICIENT
+T10	REGULATORY_REGION 1255 1258	MR1
+A16	REGION T10 INSUFFICIENT
+T40	REGULATORY_REGION 1275 1278	MR1
+A17	REGION T40 INSUFFICIENT
+T41	GENE 54 76	muscle creatine kinase
+N3	Reference T41 EntrezGene:1158	CKM
+T42	GENE 476 479	MCK
+N26	Reference T42 EntrezGene:1158	CKM
+T43	GENE 697 700	MCK
+N27	Reference T43 EntrezGene:1158	CKM
+T44	GENE 722 725	MCK
+N28	Reference T44 EntrezGene:1158	CKM
+T45	GENE 945 948	MCK
+N29	Reference T45 EntrezGene:1158	CKM
+T46	GENE 381 384	MCK
+N30	Reference T46 EntrezGene:1158	CKM

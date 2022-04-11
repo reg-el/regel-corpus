@@ -1,0 +1,104 @@
+T0	PROMOTER 766 774	promoter
+T1	PROMOTER 1070 1078	promoter
+A1	REGION T1 INSUFFICIENT
+T2	ENHANCER 1433 1477	distal enhancer region of the Pdx-1 promoter
+A2	REGION T2 INSUFFICIENT
+T3	GENE 94 138	sterol regulatory element-binding protein-1c
+N0	Reference T3 EntrezGene:20787	Srebf1
+T4	GENE 140 148	SREBP-1c
+N1	Reference T4 EntrezGene:20787	Srebf1
+T5	GENE 169 213	sterol regulatory element-binding protein-1c
+N2	Reference T5 EntrezGene:20787	Srebf1
+T6	GENE 215 223	SREBP-1c
+N3	Reference T6 EntrezGene:78968	Srebf1
+T7	GENE 382 387	PDX-1
+N4	Reference T7 EntrezGene:18609	Pdx1
+T8	SPECIES 491 496	mouse
+N5	Reference T8 NCBITaxon:10090	Mus musculus
+T9	GENE 691 699	SREBP-1c
+N6	Reference T9 EntrezGene:20787	Srebf1
+T10	GENE 742 747	PDX-1
+N7	Reference T10 EntrezGene:18609	Pdx1
+T11	GENE 916 921	PDX-1
+N8	Reference T11 EntrezGene:18609	Pdx1
+T12	GENE 966 971	PDX-1
+N9	Reference T12 EntrezGene:18609	Pdx1
+T13	GENE 1042 1050	SREBP-1c
+N10	Reference T13 EntrezGene:20787	Srebf1
+T14	GENE 1098 1106	SREBP-1c
+N11	Reference T14 EntrezGene:20787	Srebf1
+T15	GENE 1111 1116	PDX-1
+N12	Reference T15 EntrezGene:29535	Pdx1
+T16	GENE 1214 1222	SREBP-1c
+N13	Reference T16 EntrezGene:20787	Srebf1
+T17	GENE 1223 1228	PDX-1
+N14	Reference T17 EntrezGene:18609	Pdx1
+T18	GENE 1253 1258	PDX-1
+N15	Reference T18 EntrezGene:18609	Pdx1
+T19	GENE 1305 1310	PDX-1
+N16	Reference T19 EntrezGene:18609	Pdx1
+T20	GENE 1325 1333	SREBP-1c
+N17	Reference T20 EntrezGene:20787	Srebf1
+T21	GENE 1348 1353	PDX-1
+N18	Reference T21 EntrezGene:18609	Pdx1
+T22	GENE 1507 1515	SREBP-1c
+N19	Reference T22 EntrezGene:20787	Srebf1
+T23	GENE 1657 1662	PDX-1
+N20	Reference T23 EntrezGene:18609	Pdx1
+T24	GENE 1704 1712	SREBP-1c
+N21	Reference T24 EntrezGene:20787	Srebf1
+T25	GENE 1727 1732	Pdx-1
+N22	Reference T25 EntrezGene:18609	Pdx1
+T26	GENE 1793 1801	SREBP-1c
+N23	Reference T26 EntrezGene:20787	Srebf1
+T27	GENE 1848 1853	PDX-1
+N24	Reference T27 EntrezGene:18609	Pdx1
+T28	TISSUE 228 238	beta cells
+T29	TISSUE 277 286	beta cell
+T30	GENE 326 380	pancreatic duodenal homeodomain transcription factor-1
+N25	Reference T30 EntrezGene:18609	Pdx1
+T31	TISSUE 542 551	beta cell
+T32	TISSUE 703 713	beta cells
+T33	TISSUE 1557 1562	liver
+T35	TISSUE 1922 1931	beta cell
+T36	PROMOTER 19 90	pancreatic duodenal homeodomain transcription factor-1 (Pdx-1) promoter
+A36	REGION T36 INSUFFICIENT
+T38	TISSUE 560 575	beta cell lines
+T39	PROMOTER 658 672	Pdx-1 promoter
+A39	REGION T39 INSUFFICIENT
+T41	TISSUE 1086 1096	beta cells
+T44	TISSUE 1519 1530	INS-1 cells
+N26	Reference T44 BTO:0002135	INS-1 cell
+T37	PROMOTER 497 525	Pdx-1 gene promoter (2.7 kb)
+A3	REGION T37 INSUFFICIENT
+T42	TFBS 1390 1477	PDX-1-binding site (-2721/-2646 bp) in the distal enhancer region of the Pdx-1 promoter
+A4	REGION T42 INSUFFICIENT
+T46	TFBS 780 822	E-box (-104/-99 bp) in the proximal region
+A7	REGION T46 INSUFFICIENT
+A8	REGION T0 INSUFFICIENT
+T43	PROMOTER 1463 1477	Pdx-1 promoter
+A9	REGION T43 INSUFFICIENT
+T40	TFBS 597 652	sterol regulatory element-binding protein-binding sites
+A5	REGION T40 INSUFFICIENT
+N27	Reference T28 BTO:0000783	pancreatic beta cell
+N28	Reference T29 BTO:0000783	pancreatic beta cell
+N29	Reference T31 BTO:0000783	pancreatic beta cell
+N30	Reference T38 BTO:0000716	pancreatic beta cell line
+N31	Reference T32 BTO:0000783	pancreatic beta cell
+N32	Reference T41 BTO:0000783	pancreatic beta cell
+N33	Reference T35 BTO:0000783	pancreatic beta cell
+N34	Reference T33 BTO:0000759	liver
+T34	GENE 1390 1395	PDX-1
+N35	Reference T34 EntrezGene:18609	Pdx1
+T45	GENE 1463 1468	Pdx-1
+N36	Reference T45 EntrezGene:18609	Pdx1
+T47	GENE 19 73	pancreatic duodenal homeodomain transcription factor-1
+N37	Reference T47 EntrezGene:18609	Pdx1
+T48	GENE 75 80	Pdx-1
+N38	Reference T48 EntrezGene:18609	Pdx1
+T49	GENE 497 502	Pdx-1
+N39	Reference T49 EntrezGene:18609	Pdx1
+T50	GENE 658 663	Pdx-1
+N40	Reference T50 EntrezGene:18609	Pdx1
+T51	GENE 597 638	sterol regulatory element-binding protein
+N41	Reference T51 EntrezGene:78968	Srebf1

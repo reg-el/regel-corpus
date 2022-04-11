@@ -1,0 +1,63 @@
+T2	ENHANCER 751 759	enhancer
+T3	ENHANCER 782 813	mesencephalon-specific enhancer
+T4	ENHANCER 1088 1119	mesencephalon-specific enhancer
+T5	ENHANCER 1336 1377	mesencephalon-specific ephrin-A5 enhancer
+T6	GENE 119 128	Ephrin-A5
+N0	Reference T6 EntrezGene:1946	FNA5
+T7	GENE 308 317	ephrin-A5
+N1	Reference T7 EntrezGene:1946	FNA5
+T8	GENE 364 373	ephrin-A5
+N2	Reference T8 EntrezGene:1946	FNA5
+T10	GENE 1285 1290	Ascl1
+N4	Reference T10 EntrezGene:429	ASCL1
+T12	GENE 1500 1509	ephrin-A5
+N6	Reference T12 EntrezGene:1946	FNA5
+T14	ENHANCER 21 29	Enhancer
+A13	REGION T14 SUFFICIENT
+T15	GENE 47 56	ephirn-A5
+A14	TYPO T15
+N7	Reference T15 EntrezGene:1946	EFNA5
+T16	TISSUE 104 117	Mesencephalon
+N8	Reference T16 BTO:0000138	midbrain
+T17	TISSUE 170 175	brain
+N9	Reference T17 BTO:0000142	brain
+T20	TISSUE 397 410	mesencephalon
+N11	Reference T20 BTO:0000138	midbrain
+#2	AnnotatorNotes T14	17,63158922,63161934
+A2	REGION T2 SUFFICIENT
+#3	AnnotatorNotes T2	17,63158922,63161934
+A3	REGION T3 SUFFICIENT
+#4	AnnotatorNotes T3	17,63158922,63161934
+A4	REGION T4 SUFFICIENT
+#5	AnnotatorNotes T4	17,63158922,63161934
+A5	REGION T5 SUFFICIENT
+#6	AnnotatorNotes T5	17,63158922,63161934
+T13	TFBS 1301 1328	bHLH consensus binding site
+A6	REGION T13 INSUFFICIENT
+T11	TFBS 862 918	consensus binding site for basic helix-loop-helix (bHLH)
+A7	REGION T11 INSUFFICIENT
+T21	TFBS 1053 1073	bHLH TF binding site
+A8	REGION T21 INSUFFICIENT
+T22	TFBS 1429 1449	bHLH TF binding site
+A10	REGION T22 INSUFFICIENT
+T23	TISSUE 1556 1569	mesencephalon
+N5	Reference T23 BTO:0000138	midbrain
+T24	ENHANCER 447 580	mesencephalon-specific enhancer activity localized to a specific +25.0 kb to +30.5 kb genomic region in the first intron of ephrin-A5
+A11	REGION T24 SUFFICIENT
+#7	AnnotatorNotes T24	17,63158922,63161934
+T1	TISSUE 837 844	embryos
+N3	Reference T1 BTO:0000379	
+T9	TISSUE 1143 1150	embryos
+N12	Reference T9 BTO:0000379	
+T18	TISSUE 447 460	mesencephalon
+N10	Reference T18 BTO:0000138	midbrain
+T19	GENE 571 580	ephrin-A5
+N13	Reference T19 EntrezGene:1946	EFNA5
+T25	TISSUE 782 795	mesencephalon
+N14	Reference T25 BTO:0000138	
+T26	TISSUE 1088 1101	mesencephalon
+N15	Reference T26 BTO:0000138	
+T27	TISSUE 1336 1349	mesencephalon
+N16	Reference T27 BTO:0000138	
+T28	GENE 1359 1368	ephrin-A5
+N17	Reference T28 EntrezGene:1946	EFNA5

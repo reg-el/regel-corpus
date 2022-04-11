@@ -1,0 +1,62 @@
+T0	ENHANCER 550 614	long-range enhancers of the anti-adipogenic MIR335 microRNA gene
+T1	ENHANCER 838 854	MIR335 enhancers
+T4	DISEASE 2 15	lipodystrophy
+T5	GENE 108 114	MIR335
+N1	Reference T5 EntrezGene:442904	MIR335
+T6	GENE 139 148	Lamin A/C
+N2	Reference T6 EntrezGene:4000	LMNA
+T7	GENE 150 154	LMNA
+N3	Reference T7 EntrezGene:4000	LMNA
+T8	GENE 178 182	LMNA
+N4	Reference T8 EntrezGene:4000	LMNA
+T9	DISEASE 189 202	laminopathies
+T10	DISEASE 226 241	lipodystrophies
+T11	DISEASE 258 277	metabolic syndromes
+T12	DISEASE 283 296	lipodystrophy
+T13	GENE 308 312	LMNA
+N8	Reference T13 EntrezGene:4000	LMNA
+T14	VARIANT 313 320	p.R482W
+T16	VARIANT 457 464	p.R482W
+T19	GENE 753 759	MIR335
+N11	Reference T19 EntrezGene:442904	MIR335
+T22	DISEASE 1046 1057	laminopathy
+A4	REGION T0 INSUFFICIENT
+T15	TISSUE 624 650	adipocyte progenitor cells
+N9	Reference T15 BTO:0006112	fibro-adipogenic progenitor cell
+A1	REGION T1 INSUFFICIENT
+T17	GENE 987 993	MIR355
+N10	Reference T17 EntrezGene:442904	MIR335
+T18	TISSUE 1190 1213	adipose progenitor cell
+N12	Reference T18 BTO:0006112	fibro-adipogenic progenitor cell
+#1	AnnotatorNotes T16	p.R482W
+#2	AnnotatorNotes T14	p.R482W
+T21	GENE 449 456	lamin A
+N13	Reference T21 EntrezGene:4000	LMNA
+T24	VARIANT 656 661	R482W
+T25	GENE 730 737	lamin A
+N14	Reference T25 EntrezGene:4000	LMNA
+T26	GENE 860 867	lamin A
+N15	Reference T26 EntrezGene:4000	LMNA
+T27	GENE 1066 1073	lamin A
+N16	Reference T27 EntrezGene:4000	LMNA
+T3	SPECIES 618 623	human
+N17	Reference T3 NCBITaxon:9606	Homo sapiens
+T2	ENHANCER 916 931	MIR335 enhancer
+A2	REGION T2 INSUFFICIENT
+T28	PROMOTER 936 953	promoter elements
+A3	REGION T28 INSUFFICIENT
+R1	Deregulate Arg1:T16 Arg2:T0	
+N18	Reference T4 MONDO:MONDO:0006573	lipodystrophy
+N19	Reference T9 MONDO:MONDO:0021106	laminopathy
+N5	Reference T10 MONDO:MONDO:0006573	lipodystrophy
+N6	Reference T11 MONDO:MONDO:0004955	metabolic syndrome
+N7	Reference T12 MONDO:MONDO:0006573	lipodystrophy
+N20	Reference T22 MONDO:MONDO:0021106	laminopathy
+T20	GENE 24 31	lamin A
+N21	Reference T20 EntrezGene:4000	LMNA
+T23	GENE 594 600	MIR335
+N22	Reference T23 EntrezGene:442904	MIR335
+T29	GENE 838 844	MIR335
+N23	Reference T29 EntrezGene:442904	MIR335
+T30	GENE 916 922	MIR335
+N24	Reference T30 EntrezGene:442904	MIR335

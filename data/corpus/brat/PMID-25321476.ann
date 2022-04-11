@@ -1,0 +1,110 @@
+T0	ENHANCER 1031 1064	150-bp mouse Col10a1 cis-enhancer
+T1	ENHANCER 1296 1311	150-bp enhancer
+T2	ENHANCER 1418 1426	enhancer
+T3	ENHANCER 1725 1737	cis-enhancer
+T4	ENHANCER 2271 2291	Col10a1 cis-enhancer
+T5	GENE 49 56	Col10a1
+N0	Reference T5 EntrezGene:12813	Col10a1
+T6	SPECIES 143 148	human
+N1	Reference T6 NCBITaxon:9606	Homo sapiens
+T8	DISEASE 544 562	skeletal dysplasia
+T9	DISEASE 567 581	osteoarthritis
+T10	GENE 671 678	COL10A1
+N5	Reference T10 EntrezGene:12813	Col10a1
+T11	GENE 754 761	COL10A1
+N6	Reference T11 EntrezGene:12813	Col10a1
+T13	DISEASE 839 856	skeletal diseases
+T15	GENE 1006 1011	Runx2
+N9	Reference T15 EntrezGene:12393	Runx2
+T19	SPECIES 1172 1176	mice
+T20	GENE 1215 1222	Col10a1
+N14	Reference T20 EntrezGene:12813	Col10a1
+T21	GENE 1374 1377	AP1
+N15	Reference T21 EntrezGene:16476	Ju
+T22	GENE 1379 1383	MEF2
+N16	Reference T22 EntrezGene:17260	Mef2c
+T23	GENE 1391 1396	Runx1
+N17	Reference T23 EntrezGene:12394	Runx1
+T24	GENE 1401 1405	TBX5
+N18	Reference T24 EntrezGene:21388	Tbx5
+T25	SPECIES 1449 1454	yeast
+N19	Reference T25 NCBITaxon:4932	ccharomyces cerevisi
+T26	GENE 1506 1513	Col10a1
+N20	Reference T26 EntrezGene:12813	Col10a1
+T27	GENE 1572 1577	Cox-2
+T28	GENE 1642 1651	EF1-alpha
+T29	GENE 1653 1656	Fus
+N23	Reference T29 EntrezGene:233908	Fus
+T30	GENE 1658 1662	GdF7
+N24	Reference T30 EntrezGene:238057	df7
+T31	GENE 1667 1672	Runx3
+N25	Reference T31 EntrezGene:12399	Runx3
+T34	GENE 1855 1862	Col10a1
+N27	Reference T34 EntrezGene:12813	Col10a1
+T36	GENE 2025 2030	Runx2
+N29	Reference T36 EntrezGene:12393	Runx2
+T37	GENE 2049 2056	Col10a1
+N30	Reference T37 EntrezGene:12813	Col10a1
+T38	GENE 2105 2110	Cox-2
+T41	GENE 2261 2266	Cox-2
+T43	GENE 2328 2335	Col10a1
+N34	Reference T43 EntrezGene:12813	Col10a1
+T44	GENE 2376 2381	Cox-2
+T45	GENE 2394 2399	Runx2
+N36	Reference T45 EntrezGene:12393	Runx2
+T46	GENE 2409 2416	Col10a1
+N37	Reference T46 EntrezGene:12813	Col10a1
+T48	TISSUE 85 96	chondrocyte
+N38	Reference T48 BTO:0000249	chondrocyte
+T49	TISSUE 149 157	skeleton
+T51	TISSUE 210 240	cartilage-forming chondrocytes
+N40	Reference T51 BTO:0000249	chondrocyte
+T52	TISSUE 283 295	chondrocytes
+N41	Reference T52 BTO:0000249	chondrocyte
+T53	TISSUE 350 354	bone
+N42	Reference T53 BTO:0000140	bone
+T54	TISSUE 631 643	chondrocytes
+N2	Reference T54 BTO:0000249	chondrocyte
+T55	TISSUE 701 718	endochondral bone
+N3	Reference T55 BTO:0002157	endochondral bone
+A5	REGION T0 INSUFFICIENT
+T17	TISSUE 1117 1128	chondrocyte
+N7	Reference T19 NCBITaxon:10090	Mus musculus
+A1	REGION T1 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+T18	GENE 1543 1559	cyclooxygenase 1
+N8	Reference T18 EntrezGene:19224	Ptgs1
+T56	GENE 1561 1566	Cox-1
+N11	Reference T56 EntrezGene:19224	Ptgs1
+N12	Reference T27 EntrezGene:19225	Ptgs2
+N13	Reference T28 EntrezGene:22608	Ybx1
+A3	REGION T3 INSUFFICIENT
+T33	TISSUE 1957 1966	MCT cells
+N22	Reference T33 BTO:0006217	chondrogenic MCT cell
+N26	Reference T38 EntrezGene:19225	Ptgs2
+T39	TISSUE 2138 2147	MCT cells
+N31	Reference T41 EntrezGene:19225	Ptgs2
+A4	REGION T4 INSUFFICIENT
+N32	Reference T44 EntrezGene:19225	Ptgs2
+T40	TISSUE 2446 2457	chondrocyte
+N33	Reference T40 BTO:0000249	chondrocyte
+T42	GENE 649 664	type X collagen
+N35	Reference T42 EntrezGene:12813	Col10a1
+T47	GENE 875 890	type X collagen
+N43	Reference T47 EntrezGene:12813	Col10a1
+N28	Reference T39 BTO:0006217	chondrogenic MCT cell
+T32	TISSUE 1777 1780	MCT
+N21	Reference T32 BTO:0006217	
+T57	TISSUE 1782 1841	mouse chondrocytes immortalized with large T antigen) cells
+N44	Reference T57 BTO:0006217	chondrogenic MCT cell
+T58	GENE 1385 1389	NFAT
+N45	Reference T58 EntrezGene:54446	Nfat5
+T16	TISSUE 476 480	bone
+N10	Reference T16 BTO:0000140	bone
+N46	Reference T49 BTO:0001486	skeletal system
+N39	Reference T17 BTO:0000249	chondrocyte
+N4	Reference T9 MONDO:MONDO:0005178	osteoarthritis
+N47	Reference T8 MONDO:MONDO:0018230	primary bone dysplasia
+N48	Reference T13 MONDO:MONDO:0005172	skeletal system disease
+T7	GENE 2271 2278	Col10a1
+N49	Reference T7 EntrezGene:12813	Col10a1

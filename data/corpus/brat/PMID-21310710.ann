@@ -1,0 +1,58 @@
+T0	PROMOTER 131 139	promoter
+A0	REGION T0 SUFFICIENT
+#0	AnnotatorNotes T0	chr18,60786011,60788011
+T1	PROMOTER 965 973	promoter
+A1	REGION T1 SUFFICIENT
+#1	AnnotatorNotes T1	chr18,60786011,60788011
+T2	GENE 4 8	BCL2
+N0	Reference T2 EntrezGene:596	BCL2
+T5	GENE 356 361	SATB1
+N3	Reference T5 EntrezGene:6304	SATB1
+T6	GENE 512 516	BCL2
+N4	Reference T6 EntrezGene:596	BCL2
+T7	GENE 606 611	SATB1
+N5	Reference T7 EntrezGene:6304	SATB1
+T8	GENE 876 881	SATB1
+N6	Reference T8 EntrezGene:6304	SATB1
+T9	GENE 975 979	CREB
+N7	Reference T9 EntrezGene:1385	CREB1
+T10	GENE 1021 1025	BCL2
+N8	Reference T10 EntrezGene:596	BCL2
+T11	GENE 1056 1061	SATB1
+N9	Reference T11 EntrezGene:6304	SATB1
+T12	GENE 1085 1089	BCL2
+N10	Reference T12 EntrezGene:596	BCL2
+T13	GENE 1116 1121	SATB1
+N11	Reference T13 EntrezGene:6304	SATB1
+T14	GENE 1160 1169	caspase-6
+N12	Reference T14 EntrezGene:839	CASP6
+T15	GENE 1208 1213	SATB1
+N13	Reference T15 EntrezGene:6304	SATB1
+T16	GENE 1236 1245	caspase-6
+N14	Reference T16 EntrezGene:839	CASP6
+T17	GENE 1276 1281	SATB1
+N15	Reference T17 EntrezGene:6304	SATB1
+T18	GENE 1323 1327	BCL2
+N16	Reference T18 EntrezGene:596	BCL2
+T19	GENE 1397 1401	BCL2
+N17	Reference T19 EntrezGene:596	BCL2
+T20	GENE 1438 1443	SATB1
+N18	Reference T20 EntrezGene:6304	SATB1
+T21	GENE 32 74	special AT-rich sequence binding protein 1
+N19	Reference T21 EntrezGene:6304	SATB1
+T22	TISSUE 1342 1354	Jurkat cells
+T23	PROMOTER 854 867	BCL2 promoter
+A23	REGION T23 SUFFICIENT
+#2	AnnotatorNotes T23	chr18,60786011,60788011
+T24	TFBS 194 354	279-bp major breakpoint region (mbr) within the 3'-untranslated region (3'-UTR) of the BCL2 gene is a binding site of special AT-rich sequence binding protein 1
+A2	REGION T24 INSUFFICIENT
+T3	TFBS 493 496	mbr
+A3	REGION T3 INSUFFICIENT
+T25	TFBS 819 822	mbr
+A4	REGION T25 INSUFFICIENT
+T4	GENE 854 858	BCL2
+N1	Reference T4 EntrezGene:596	BCL2
+T26	GENE 281 285	BCL2
+N2	Reference T26 EntrezGene:596	BCL2
+T27	GENE 312 354	special AT-rich sequence binding protein 1
+N20	Reference T27 EntrezGene:6304	SATB1

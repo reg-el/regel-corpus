@@ -1,0 +1,4 @@
+T9	SPECIES 385 390	human
+N0	Reference T9 NCBITaxon:9606	Homo sapiens
+T10	SPECIES 1447 1452	human
+N1	Reference T10 NCBITaxon:9606	Homo sapiens

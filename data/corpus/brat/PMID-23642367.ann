@@ -1,0 +1,46 @@
+T0	ENHANCER 591 617	Tal1 (Scl) +40 kb enhancer
+T1	GENE 0 5	Mesp1
+N0	Reference T1 EntrezGene:55897	MESP1
+T2	GENE 117 122	Mesp1
+N1	Reference T2 EntrezGene:55897	MESP1
+T3	GENE 351 356	Mesp1
+N2	Reference T3 EntrezGene:55897	MESP1
+T4	GENE 572 577	Mesp1
+N3	Reference T4 EntrezGene:55897	MESP1
+T6	GENE 632 637	Flk-1
+N5	Reference T6 EntrezGene:3791	KDR
+T7	GENE 661 665	Etv2
+N6	Reference T7 EntrezGene:2116	TV2
+T8	GENE 667 671	ER71
+N7	Reference T8 EntrezGene:2116	TV2
+T9	GENE 677 681	Tal1
+N8	Reference T9 EntrezGene:6886	TAL1
+T10	GENE 766 771	Mesp1
+N9	Reference T10 EntrezGene:55897	MESP1
+T11	GENE 911 916	Mesp1
+N10	Reference T11 EntrezGene:55897	MESP1
+T13	GENE 1088 1093	Mesp1
+N12	Reference T13 EntrezGene:55897	MESP1
+T16	TISSUE 15 23	mesoderm
+N14	Reference T16 BTO:0000839	mesoderm
+T17	TISSUE 270 286	cardiac mesoderm
+N15	Reference T17 BTO:0000839	mesoderm
+T18	TISSUE 562 570	mesoderm
+N16	Reference T18 BTO:0000839	mesoderm
+A1	REGION T0 INSUFFICIENT
+T5	TISSUE 745 753	mesoderm
+N4	Reference T5 BTO:0000839	mesoderm
+T19	GENE 1063 1068	Mesp1
+N17	Reference T19 EntrezGene:55897	MESP1
+T20	TISSUE 1031 1050	hematopoietic cells
+N18	Reference T20 BTO:0000574	hematopoietic cell
+T22	TISSUE 445 464	embryonic stem cell
+N20	Reference T22 BTO:0001086	embryonic stem cell
+T12	TISSUE 29 36	cardiac
+T14	TISSUE 38 51	hematopoietic
+N11	Reference T14 BTO:0000725	hematopoietic stem cell
+T15	TISSUE 56 85	skeletal myogenic progenitors
+T21	GENE 591 595	Tal1
+N13	Reference T21 EntrezGene:6886	TAL1
+T23	GENE 597 600	Scl
+N19	Reference T23 EntrezGene:6886	TAL1

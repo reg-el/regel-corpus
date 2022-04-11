@@ -1,0 +1,1229 @@
+2304460||303|318||CellLine||embryonic cells||0000669
+2304460||356|371||CellLine||erythroid cells||0002731
+2304460||1301|1322||CellLine||embryonic blood cells||0000381
+2304460||1584|1605||CellLine||embryonic blood cells||0000381
+2304460||1855|1870||CellLine||erythroid cells||0002731
+2304460||2081|2102||CellLine||embryonic blood cells||0000381
+2339058||135|144||CellLine||erythroid||0002731
+2339058||546|572||CellLine||K562 erythroleukemia cells||0000664
+2339058||886|895||CellLine||erythroid||0002731
+2339058||910|920||CellLine||K562 cells||0000664
+2339058||1028|1042||CellLine||erythroid cell||0002731
+9878258||199|214||CellLine||erythroid cells||0002731
+9878258||929|944||CellLine||erythroid cells||0002731
+10523648||393|408||CellLine||erythroid cells||0002731
+12861010||377|386||CellLine||erythroid||0002731
+12861010||546|561||CellLine||erythroid cells||0002731
+15798207||402|427||CellLine||MPC-11 plasmacytoma cells||0001089
+15798207||878|885||CellLine||B cells||0000776
+15798207||980|987||CellLine||T cells||0000782
+15798207||991|1013||CellLine||P815 mastocytoma cells||0000985
+15798207||1548|1571||CellLine||S107 plasmacytoma cells||0000456
+18202151||266|277||CellLine||osteoblasts||0001593
+18202151||279|296||CellLine||mesenchymal cells||0002625
+18202151||312|319||CellLine||T cells||0000782
+18202151||337|347||CellLine||osteoclast||0000968
+19141476||73|81||CellLine||pancreas||0000988
+19141476||108|116||CellLine||pancreas||0000988
+19141476||136|143||CellLine||foregut||0000507
+19141476||144|152||CellLine||endoderm||0000800
+19141476||254|275||CellLine||pancreatic primordium||0000988
+19141476||299|315||CellLine||endocrine islets||0000650
+19141476||581|602||CellLine||pancreatic primordium||0000988
+19141476||750|755||CellLine||islet||0000991
+19141476||848|856||CellLine||pancreas||0000988
+19141476||900|917||CellLine||pancreatic anlage||0000988
+19141476||1125|1133||CellLine||pancreas||0000988
+19141476||1255|1263||CellLine||pancreas||0000988
+19141476||1268|1273||CellLine||islet||0000991
+19141476||1690|1710||CellLine||pancreatic primordia||0000988
+19345119||146|152||CellLine||B cell||0000776
+19345119||60|66||CellLine||B cell||0000776
+19345119||374|384||CellLine||B lymphoid||0000776
+19345119||453|473||CellLine||embryonic stem cells||0001086
+19345119||511|536||CellLine||hematopoietic progenitors||0000725
+19345119||720|745||CellLine||hematopoietic progenitors||0000725
+19345119||757|763||CellLine||B cell||0000776
+19345119||858|865||CellLine||B cells||0000776
+19345119||905|915||CellLine||pro-B cell||0003104
+19345119||1140|1146||CellLine||B cell||0000776
+19708858||202|223||CellLine||cardiovascular system||0000088
+19708858||275|288||CellLine||cardiomyocyte||0003324
+19708858||764|776||CellLine||TE-671 cells||0002605
+19708858||1423|1437||CellLine||cardiomyocytes||0003324
+19708858||1445|1471||CellLine||cardiac-derived H9c2 cells||0001879
+19708858||1861|1866||CellLine||heart||0000562
+19773398||1470|1476||CellLine||testes||0001363
+20042469||117|129||CellLine||CD4+ T cells||0002417
+20042469||206|220||CellLine||CD4(+) T cells||0002417
+20042469||281|295||CellLine||CD4(+) T cells||0002417
+20042469||405|419||CellLine||CD4(+) T cells||0002417
+20042469||468|482||CellLine||CD4(+) T cells||0002417
+20042469||553|567||CellLine||CD4(+) T cells||0002417
+20042469||851|865||CellLine||CD4(+) T cells||0002417
+20042469||920|934||CellLine||CD4(+) T cells||0002417
+20042469||1079|1093||CellLine||CD4(+) T cells||0002417
+20042469||1181|1195||CellLine||CD4(+) T cells||0002417
+20042469||1303|1317||CellLine||CD4(+) T cells||0002417
+20061391||469|479||CellLine||PC-3 cells||0001061
+20093418||360|382||CellLine||A549 lung cancer cells||0000018
+20093418||1616|1626||CellLine||A549 cells||0000018
+20864515||51|56||CellLine||liver||0000759
+20864515||218|223||CellLine||liver||0000759
+20864515||324|329||CellLine||liver||0000759
+20864515||501|507||CellLine||livers||0000759
+20864515||707|713||CellLine||livers||0000759
+20864515||822|839||CellLine||HepG2 liver cells||0000599
+20864515||1646|1651||CellLine||liver||0000759
+20878775||122|132||CellLine||Osteoblast||0001593
+20878775||239|243||CellLine||bone||0000140
+20878775||567|578||CellLine||C2C12 cells||0000165
+20878775||600|634||CellLine||bone marrow-mesenchymal stem cells||0003298
+20878775||652|661||CellLine||calvarial||0001328
+21051589||89|119||CellLine||prostate LNCaP carcinoma cells||0001321
+21051589||199|223||CellLine||prostate carcinoma cells||0001321
+21051589||487|517||CellLine||prostate LNCaP carcinoma cells||0001321
+21051589||615|626||CellLine||LNCaP cells||0001321
+21051589||793|804||CellLine||LNCaP cells||0001321
+21056086||328|340||CellLine||gonadotropes||0002482
+21056086||1117|1129||CellLine||gonadotropes||0002482
+21056086||1404|1415||CellLine||fibroblasts||0000452
+21087445||861|889||CellLine||human embryonic kidney cells||0002181
+21087445||891|898||CellLine||HEK293T||0002181
+21087445||904|925||CellLine||human monocytic cells||0001370
+21087445||927|932||CellLine||THP-1||0001370
+21087445||948|991||CellLine||fibroblast-like synoviocyte (FLS) cell line||0006386
+21087445||993|998||CellLine||SW982||0006386
+21185279||117|125||CellLine||epiblast||0004593
+21185279||129|141||CellLine||neural plate||0001765
+21185279||377|385||CellLine||epiblast||0004593
+21185279||409|430||CellLine||anterior neural plate||0001765
+21185279||432|435||CellLine||ANP||0001765
+21185279||546|554||CellLine||epiblast||0004593
+21185279||559|562||CellLine||ANP||0001765
+21185279||616|623||CellLine||embryos||0000379
+21185279||669|676||CellLine||embryos||0000379
+21185279||759|767||CellLine||epiblast||0004593
+21185279||772|775||CellLine||ANP||0001765
+21185279||1166|1187||CellLine||anterior neural plate||0001765
+21185279||1290|1298||CellLine||epiblast||0004593
+21185279||1302|1305||CellLine||ANP||0001765
+21185279||1322|1329||CellLine||embryos||0000379
+21185279||1480|1498||CellLine||neural plate cells||0001765
+21185279||1500|1503||CellLine||NPC||0001765
+21185279||1595|1602||CellLine||embryos||0000379
+21185279||1713|1716||CellLine||ANP||0001765
+21331042||111|123||CellLine||neural plate||0001765
+21331042||165|173||CellLine||ectoderm||0000315
+21331042||315|327||CellLine||neural plate||0001765
+21331042||341|349||CellLine||mesoderm||0000839
+21331042||441|449||CellLine||epiblast||0004593
+21331042||474|481||CellLine||embryos||0000379
+21331042||504|516||CellLine||neural tubes||0001057
+21331042||544|552||CellLine||mesoderm||0000839
+21331042||768|775||CellLine||embryos||0000379
+21331042||859|867||CellLine||epiblast||0004593
+21331042||972|984||CellLine||neural plate||0001765
+21331042||1028|1036||CellLine||mesoderm||0000839
+21331042||1111|1119||CellLine||mesoderm||0000839
+21331042||1148|1155||CellLine||embryos||0000379
+21331042||1212|1220||CellLine||mesoderm||0000839
+21331042||1298|1306||CellLine||mesoderm||0000839
+21331042||1312|1324||CellLine||neural tubes||0001057
+21331042||1396|1403||CellLine||embryos||0000379
+21331042||1442|1464||CellLine||mesodermal compartment||0000839
+21331042||1503|1515||CellLine||neural tubes||0001057
+21331042||1621|1643||CellLine||mesodermal compartment||0000839
+21331042||1695|1703||CellLine||mesoderm||0000839
+21331042||1760|1767||CellLine||embryos||0000379
+21331042||1788|1799||CellLine||neural tube||0001057
+21331042||1962|1970||CellLine||mesoderm||0000839
+21368045||650|655||CellLine||brain||0000142
+21368045||807|814||CellLine||neurons||0000938
+21368045||857|862||CellLine||ovary||0000975
+21368045||947|952||CellLine||ovary||0000975
+21368045||974|984||CellLine||epithelial||0000414
+21368045||989|1004||CellLine||granulosa cells||0000542
+21368045||1021|1034||CellLine||corpora lutea||0000292
+21368045||1483|1489||CellLine||neuron||0000938
+21368045||1516|1521||CellLine||ovary||0000975
+21378152||61|70||CellLine||podocytes||0002295
+21378152||143|151||CellLine||podocyte||0002295
+21378152||325|334||CellLine||podocytes||0002295
+21378152||353|371||CellLine||podocyte cell line||0002295
+21378152||399|406||CellLine||kidneys||0000671
+21378152||495|504||CellLine||podocytes||0002295
+21378152||888|897||CellLine||podocytes||0002295
+21378152||1192|1201||CellLine||podocytes||0002295
+21378152||1353|1362||CellLine||podocytes||0002295
+21378152||1367|1376||CellLine||podocytes||0002295
+21402921||109|117||CellLine||monocyte||0000876
+21402921||584|605||CellLine||monocytic THP-1 cells||0001370
+21402921||613|623||CellLine||HeLa cells||0000567
+21402921||967|978||CellLine||THP-1 cells||0001370
+21402921||983|993||CellLine||HeLa cells||0000567
+21424707||596|606||CellLine||arterioles||0001997
+21445863||536|556||CellLine||haematopoietic cells||0000574
+21454523||177|192||CellLine||erythroid cells||0002731
+21464046||160|173||CellLine||hematopoietic||0001035
+21464046||243|258||CellLine||mesodermal cell||0000839
+21464046||607|616||CellLine||erythroid||0002731
+21464046||629|637||CellLine||mesoderm||0000839
+21464046||783|792||CellLine||erythroid||0002731
+21464046||848|855||CellLine||embryos||0000379
+21464046||932|951||CellLine||embryonic stem cell||0001086
+21464046||1038|1047||CellLine||erythroid||0002731
+21464046||1101|1121||CellLine||embryonic stem cells||0001086
+21464046||1394|1407||CellLine||hematopoietic||0000574
+21464046||1408|1422||CellLine||erythroid cell||0002731
+21464207||130|146||CellLine||Endothelial cell||0001176
+21464207||370|387||CellLine||endothelial cells||0001176
+21464207||406|417||CellLine||endothelium||0000393
+21464207||611|619||CellLine||monocyte||0000876
+21464207||866|883||CellLine||endothelial cells||0001176
+21527503||74|98||CellLine||mammary epithelial cells||0004300
+21527503||190|201||CellLine||HC-11 cells||0003892
+21527503||416|429||CellLine||mammary gland||0000817
+21527503||2061|2074||CellLine||mammary gland||0000817
+21527504||954|965||CellLine||GT1-1 cells||0003899
+21527504||1186|1197||CellLine||GT1-1 cells||0003899
+21527504||1206|1218||CellLine||hypothalamus||0000614
+21527504||1352|1359||CellLine||neurons||0000938
+21533051||275|293||CellLine||colon cancer cells||0000586
+21533051||989|1007||CellLine||colon cancer cells||0000586
+21533051||1031|1048||CellLine||kidney epithelial||0005545
+21533051||1053|1079||CellLine||lung fibroblast cell lines||0000161
+21533051||1558|1576||CellLine||colon cancer cells||0000586
+21536859||82|96||CellLine||leukemic cells||0001106
+21536859||200|215||CellLine||blood stem cell||0000725
+21536859||678|695||CellLine||MOLT4 T-ALL cells||0000873
+21536859||757|768||CellLine||T-ALL cells||0001106
+21536859||805|811||CellLine||T-cell||0000782
+21536859||947|954||CellLine||T cells||0000782
+21536859||1034|1050||CellLine||bone marrow stem||0004052
+21556051||425|435||CellLine||CRPC cells||0001033
+21566115||207|228||CellLine||myeloid lineage cells||0000906
+21566115||257|263||CellLine||T cell||0000782
+21566115||823|836||CellLine||Myeloid cells||0000906
+21566115||1001|1014||CellLine||myeloid cells||0000906
+21652712||228|238||CellLine||beta cells||0000783
+21652712||277|286||CellLine||beta cell||0000783
+21652712||542|551||CellLine||beta cell||0000783
+21652712||560|575||CellLine||beta cell lines||0000716
+21652712||703|713||CellLine||beta cells||0000783
+21652712||1086|1096||CellLine||beta cells||0000783
+21652712||1519|1530||CellLine||INS-1 cells||0002135
+21652712||1557|1562||CellLine||liver||0000759
+21652712||1922|1931||CellLine||beta cell||0000783
+21665992||218|231||CellLine||motor neurons||0000312
+21665992||1060|1073||CellLine||anterior horn||0005151
+21665992||1074|1087||CellLine||motor neurons||0000312
+21665992||1095|1106||CellLine||spinal cord||0001279
+21673114||425|428||CellLine||rod||0001024
+21673114||436|440||CellLine||cone||0001036
+21673114||441|459||CellLine||photoreceptor cell||0001060
+21673114||541|545||CellLine||rods||0001024
+21673114||607|611||CellLine||cone||0001036
+21673114||617|623||CellLine||retina||0001175
+21673114||697|701||CellLine||rods||0001024
+21673114||978|984||CellLine||retina||0001175
+21673114||1257|1260||CellLine||rod||0001024
+21673114||1491|1495||CellLine||cone||0001036
+21673114||1496|1499||CellLine||rod||0001024
+21673114||1840|1846||CellLine||retina||0001175
+21689639||235|255||CellLine||embryonic stem cells||0001086
+21711161||327|336||CellLine||pituitary||0000427
+21711161||1173|1182||CellLine||pituitary||0000427
+21797989||199|204||CellLine||fast-||0001813
+21797989||209|234||CellLine||slow-twitch muscle fibers||0001812
+21797989||446|463||CellLine||skeletal myocytes||0004392
+21797989||1313|1318||CellLine||slow-||0001812
+21797989||1323|1356||CellLine||intermediate-twitch muscle fibers||0002321
+21797989||1358|1365||CellLine||types I||0001812
+21797989||1370|1373||CellLine||IIa||0002321
+21797989||1428|1453||CellLine||fast-twitch muscle fibers||0001813
+21797989||1455|1464||CellLine||types IIb||0001813
+21797989||1469|1472||CellLine||IId||0001813
+21797989||1560|1565||CellLine||slow-||0001812
+21797989||1570|1603||CellLine||intermediate-twitch muscle fibers||0002321
+21797989||1795|1816||CellLine||skeletal muscle fiber||0002319
+21822303||52|76||CellLine||breast cancer stem cells||0006293
+21822303||82|98||CellLine||cancer stem cell||0004254
+21822303||100|103||CellLine||CSC||0004254
+21822303||439|443||CellLine||CSCs||0004254
+21822303||1272|1294||CellLine||pluripotent stem cells||0006078
+22160855||87|96||CellLine||NT2 cells||0000891
+22160855||239|259||CellLine||embryonic stem cells||0001086
+22160855||646|675||CellLine||embryonic carcinoma cell line||0001437
+22160855||677|680||CellLine||NT2||0001437
+22323542||457|464||CellLine||B cells||0000776
+22323542||609|626||CellLine||plasmacytoma cell||0001087
+22323542||836|842||CellLine||B cell||0000776
+22323542||957|969||CellLine||plasma cells||0000392
+22323542||1032|1039||CellLine||B cells||0000776
+22323542||1169|1181||CellLine||plasma cells||0000392
+22323542||1286|1293||CellLine||B cells||0000776
+22323542||1583|1590||CellLine||B cells||0000776
+22323542||1596|1611||CellLine||Peyer's patches||0001784
+22337891||85|111||CellLine||colorectal carcinoma cells||0001615
+22337891||1023|1032||CellLine||CRC cells||0001615
+22337891||1079|1088||CellLine||CRC cells||0001615
+22337891||1235|1258||CellLine||colon cancer cell lines||0000797
+22337891||1478|1492||CellLine||colonic mucosa||0000271
+22337891||1704|1713||CellLine||CRC cells||0001615
+22370642||706|716||CellLine||HeLa cells||0000567
+22370642||1490|1500||CellLine||HeLa cells||0000567
+22378757||111|124||CellLine||spermatogonia||0000958
+22378757||203|216||CellLine||spermatogonia||0000958
+22378757||356|362||CellLine||testes||0001363
+22378757||923|936||CellLine||spermatogonia||0000958
+22378757||1043|1056||CellLine||spermatogonia||0000958
+22378757||1239|1252||CellLine||spermatogonia||0000958
+22378757||1282|1295||CellLine||spermatogonia||0000958
+22378757||1416|1422||CellLine||testes||0001363
+22378757||1617|1630||CellLine||spermatogonia||0000958
+22396734||422|442||CellLine||haematopoietic cells||0000574
+22396734||575|580||CellLine||liver||0000759
+22396734||1032|1052||CellLine||haematopoietic cells||0000574
+22396734||1155|1160||CellLine||brain||0000142
+22401818||47|62||CellLine||blood stem cell||0000725
+22401818||117|131||CellLine||blood lineages||0001035
+22401818||196|201||CellLine||blood||0000089
+22401818||251|275||CellLine||hematopoietic stem cells||0000725
+22401818||277|281||CellLine||HSCs||0000725
+22401818||297|306||CellLine||erythroid||0002731
+22401818||308|322||CellLine||megakaryocytic||0000843
+22401818||328|338||CellLine||mast cells||0000830
+22401818||374|378||CellLine||HSCs||0000725
+22401818||401|415||CellLine||megakaryocytes||0000843
+22401818||421|431||CellLine||mast cells||0000830
+22401818||448|463||CellLine||erythroid cells||0002731
+22401818||614|636||CellLine||hematopoietic lineages||0001035
+22401818||758|761||CellLine||HSC||0000725
+22401818||766|779||CellLine||megakaryocyte||0000843
+22401818||780|800||CellLine||erythroid progenitor||0004911
+22401818||872|875||CellLine||HSC||0000725
+22401818||921|932||CellLine||bone marrow||0000141
+22401818||1109|1144||CellLine||hematopoietic stem/progenitor cells||0000725
+22401818||1178|1200||CellLine||hematopoietic lineages||0001035
+22401818||1311|1322||CellLine||liver cells||0000224
+22543974||587|592||CellLine||heart||0000562
+22543974||597|601||CellLine||limb||0001492
+22543974||1009|1014||CellLine||heart||0000562
+22701669||77|84||CellLine||incisor||0001741
+22701669||89|97||CellLine||limb bud||0001640
+22701669||467|489||CellLine||lateral plate mesoderm||0000839
+22701669||639|663||CellLine||mandibular arch ectoderm||0000315
+22701669||668|686||CellLine||incisor epithelium||0001723
+22701669||718|723||CellLine||tooth||0000397
+22701669||838|842||CellLine||limb||0001492
+22701669||873|888||CellLine||limb mesenchyme||0001393
+22701669||926|947||CellLine||incisor dental lamina||0005563
+22701669||1150|1160||CellLine||mandibular||0001751
+22701669||1165|1183||CellLine||incisor epithelium||0001723
+22701669||1436|1448||CellLine||craniofacial||0006387
+22701669||1453|1457||CellLine||limb||0001492
+22701669||1588|1615||CellLine||dental epithelial cell line||0001723
+22701669||1743|1761||CellLine||incisor epithelium||0001723
+22728936||41|66||CellLine||cardiac conduction system||0000901
+22728936||418|421||CellLine||CCS||0000901
+22728936||536|539||CellLine||CCS||0000901
+22728936||705|708||CellLine||CCS||0000901
+22728936||773|802||CellLine||ventricular conduction system||0000901
+22728936||804|807||CellLine||VCS||0000901
+22728936||824|833||CellLine||AV bundle||0005689
+22728936||838|853||CellLine||bundle branches||0005689
+22728936||874|877||CellLine||VCS||0000901
+22728936||1010|1013||CellLine||VCS||0000901
+22728936||1045|1048||CellLine||VCS||0000901
+22728936||1232|1235||CellLine||VCS||0000901
+22728936||1318|1321||CellLine||VCS||0000901
+22728936||1541|1544||CellLine||VCS||0000901
+22761896||172|207||CellLine||hypothalamic-pituitary-gonadal axis||0000614|0001073|0000534
+22761896||373|385||CellLine||hypothalamus||0000614
+22761896||861|881||CellLine||neuronal cells GT1-7||0000947
+22761896||1307|1318||CellLine||GT1-7 cells||0002708
+22761896||1895|1914||CellLine||reproductive system||0000081
+22771493||125|139||CellLine||prostate cells||0001019
+22771493||213|227||CellLine||prostate cells||0001019
+22877652||162|203||CellLine||hypothalamic-pituitary-gonadal (HPG) axis||0000614|0001073|0000534
+23024062||180|187||CellLine||T cells||0000782
+23024062||220|226||CellLine||T cell||0000782
+23024062||272|278||CellLine||T cell||0000782
+23024062||687|694||CellLine||T cells||0000782
+23024062||707|721||CellLine||CD4(+) T cells||0002417
+23024062||1665|1693||CellLine||bronchoalveolar lavage fluid||0000155
+23024062||1695|1723||CellLine||bronchoalveolar lavage cells||0000155
+23024062||1729|1733||CellLine||lung||0000763
+23159876||120|124||CellLine||Bone||0000140
+23159876||183|205||CellLine||mesenchymal precursors||0002625
+23159876||217|234||CellLine||osteoblastic cell||0001593
+23159876||75|79||CellLine||bone||0000140
+23159876||386|397||CellLine||osteoblasts||0001593
+23159876||450|454||CellLine||bone||0000140
+23159876||625|636||CellLine||mesenchymal||0002625
+23159876||641|658||CellLine||osteoblastic cell||0001593
+23159876||824|828||CellLine||bone||0000140
+23159876||1507|1511||CellLine||bone||0000140
+23184392||386|399||CellLine||ES stem cells||0001086
+23184392||732|746||CellLine||cardiomyocytes||0003324
+23184392||748|765||CellLine||endothelial cells||0001176
+23184392||770|789||CellLine||smooth muscle cells||0004576
+23184392||999|1012||CellLine||cardiomyocyte||0003324
+23184392||1387|1408||CellLine||pluripotent stem cell||0006078
+23302769||463|485||CellLine||haematopoietic lineage||0000574
+23302769||532|547||CellLine||leukaemic cells||0001271
+23302769||625|639||CellLine||haematopoietic||0000574
+23302769||644|659||CellLine||leukaemic cells||0001271
+23302769||866|880||CellLine||blood lineages||0001035
+23302769||891|898||CellLine||T-cells||0000782
+23302769||1002|1007||CellLine||blood||0000089
+23302769||1034|1041||CellLine||embryos||0000379
+23302769||1145|1156||CellLine||T-ALL cells||0001106
+23307821||266|287||CellLine||mesodermal precursors||0000839
+23307821||564|583||CellLine||embryonic stem cell||0001086
+23307821||1217|1233||CellLine||Cardiac mesoderm||0000839
+23307821||1340|1359||CellLine||embryonic stem cell||0001086
+23307821||1467|1487||CellLine||embryonic stem cells||0001086
+23321477||281|303||CellLine||N2A murine neuroblasts||0000932
+23321477||490|505||CellLine||N2A neuroblasts||0000932
+23321477||1253|1268||CellLine||N2A neuroblasts||0000932
+23321477||1707|1718||CellLine||neuroblasts||0000930
+23443045||693|704||CellLine||fibroblasts||0000452
+23636943||280|311||CellLine||MCF-7 human breast cancer cells||0000093
+23642367||15|23||CellLine||mesoderm||0000839
+23642367||38|51||CellLine||hematopoietic||0000725
+23642367||270|286||CellLine||cardiac mesoderm||0000839
+23642367||445|464||CellLine||embryonic stem cell||0001086
+23642367||562|570||CellLine||mesoderm||0000839
+23642367||745|753||CellLine||mesoderm||0000839
+23642367||1031|1050||CellLine||hematopoietic cells||0000574
+23675462||1388|1413||CellLine||MCF-7 breast cancer cells||0000093
+24000349||97|103||CellLine||testis||0001363
+24000349||403|409||CellLine||testis||0001363
+24000349||455|461||CellLine||testis||0001363
+24000349||956|962||CellLine||type A||0006348
+24000349||967|982||CellLine||B spermatogonia||0006349
+24014243||15|38||CellLine||hematopoietic stem cell||0000725
+24014243||234|258||CellLine||hematopoietic stem cells||0000725
+24014243||260|264||CellLine||HSCs||0000725
+24014243||387|391||CellLine||HSCs||0000725
+24014243||550|553||CellLine||HSC||0000725
+24014243||589|593||CellLine||HSCs||0000725
+24014243||897|900||CellLine||HSC||0000725
+24014243||1109|1113||CellLine||HSCs||0000725
+24014243||1343|1346||CellLine||HSC||0000725
+24014243||1464|1468||CellLine||HSCs||0000725
+24157522||53|57||CellLine||lung||0000763
+24157522||62|65||CellLine||gut||0000545
+24157522||75|82||CellLine||embryos||0000379
+24157522||199|202||CellLine||gut||0000545
+24157522||262|282||CellLine||endodermal epithelia||0000800
+24157522||292|303||CellLine||oral cavity||0001090
+24157522||311|320||CellLine||intestine||0000648
+24157522||378|388||CellLine||mesenchyme||0001393
+24157522||429|459||CellLine||gastrointestinal smooth muscle||0005024
+24157522||569|577||CellLine||endoderm||0000800
+24157522||770|797||CellLine||gastroesophageal epithelium||0001578
+24157522||971|980||CellLine||esophagus||0000959
+24157522||985|992||CellLine||stomach||0001307
+24204311||106|122||CellLine||oligodendrocytes||0000962
+24204311||194|207||CellLine||Schwann cells||0001220
+24204311||215|240||CellLine||peripheral nervous system||0001028
+24204311||245|261||CellLine||oligodendrocytes||0000962
+24204311||269|291||CellLine||central nervous system||0000227
+24204311||440|455||CellLine||oligodendrocyte||0000962
+24204311||841|854||CellLine||Schwann cells||0001220
+24204311||1002|1018||CellLine||oligodendrocytes||0000962
+24204311||1079|1092||CellLine||Schwann cells||0001220
+24212882||355|380||CellLine||human embryonic stem cell||0001086
+24212882||382|386||CellLine||hESC||0001086
+24285714||204|218||CellLine||leukemia cells||0001271
+24288367||337|362||CellLine||MCF-7 breast cancer cells||0000093
+24288367||1016|1027||CellLine||MCF-7 cells||0000093
+24288367||1396|1415||CellLine||breast cancer cells||0000150
+24321386||635|656||CellLine||mesenchymal stem cell||0003298
+24321386||1258|1278||CellLine||adrenocortical H295R||0002588
+24321386||1283|1292||CellLine||KGN cells||0005671
+24321386||1323|1334||CellLine||H295R cells||0002588
+24321386||1581|1592||CellLine||H295R cells||0002588
+24332857||80|106||CellLine||human embryonic stem cells||0006080
+24332857||335|361||CellLine||human embryonic stem cells||0006080
+24332857||424|435||CellLine||mesendoderm||0003953
+24332857||437|439||CellLine||ME||0003953
+24332857||800|802||CellLine||ME||0003953
+24332857||880|882||CellLine||ME||0003953
+24332857||1010|1012||CellLine||ME||0003953
+24362753||74|80||CellLine||neuron||0000938
+24362753||688|701||CellLine||temporal lobe||0001355
+24362753||1178|1191||CellLine||temporal lobe||0001355
+24413736||11|16||CellLine||islet||0000991
+24413736||340|345||CellLine||islet||0000991
+24413736||473|478||CellLine||islet||0000991
+24413736||555|560||CellLine||islet||0000991
+24413736||592|597||CellLine||islet||0000991
+24413736||943|948||CellLine||islet||0000991
+24413736||995|1000||CellLine||islet||0000991
+24413736||1122|1127||CellLine||islet||0000991
+24443471||622|638||CellLine||melanoma lineage||0000849
+24443471||859|869||CellLine||melanocyte||0000847
+24443471||1135|1148||CellLine||melanoma cell||0000848
+24564208||30|48||CellLine||AC16 cardiomyocyte||0003324
+24564208||513|548||CellLine||ventricular cardiomyocyte cell line||0003324
+24564208||550|554||CellLine||AC16||0003324
+24564208||996|1006||CellLine||AC16 cells||0003324
+24564208||1236|1246||CellLine||AC16 cells||0003324
+24564208||1727|1731||CellLine||AC16||0003324
+24564208||2279|2292||CellLine||cardiomyocyte||0003324
+24564208||2401|2414||CellLine||cardiomyocyte||0003324
+24692107||50|60||CellLine||osteoblast||0001593
+24692107||105|115||CellLine||osteoblast||0001593
+24692107||136|147||CellLine||chondrocyte||0000249
+24692107||247|269||CellLine||mesenchymal stem cells||0003298
+24692107||273|284||CellLine||osteoblasts||0001593
+24692107||361|372||CellLine||osteoblasts||0001593
+24692107||450|461||CellLine||osteoblasts||0001593
+24692107||761|772||CellLine||osteoblasts||0001593
+24692107||1029|1040||CellLine||osteoblasts||0001593
+24692107||1155|1169||CellLine||MC3T3-E1 cells||0001957
+24692107||1237|1264||CellLine||mesenchymal C3H10T1/2 cells||0004058
+24692107||1322|1336||CellLine||MC3T3-E1 cells||0001957
+24692107||1428|1438||CellLine||osteoblast||0001593
+24692107||1785|1796||CellLine||osteoblasts||0001593
+24692107||1956|1967||CellLine||osteoblasts||0001593
+24692107||2093|2103||CellLine||osteoblast||0001593
+24705708||587|591||CellLine||lung||0000763
+24705708||596|599||CellLine||gut||0000545
+24705708||826|830||CellLine||lung||0000763
+24705708||835|838||CellLine||gut||0000545
+24705708||1220|1224||CellLine||lung||0000763
+24705708||1360|1364||CellLine||lung||0000763
+24705708||1369|1372||CellLine||gut||0000545
+24734888||47|52||CellLine||blood||0000089
+24734888||149|170||CellLine||juxtaglomerular cells||0005158
+24734888||178|184||CellLine||kidney||0000671
+24734888||476|483||CellLine||kidneys||0000671
+24734888||1079|1084||CellLine||blood||0000089
+24788237||1595|1610||CellLine||ESCC cell lines||0002861
+24797517||512|532||CellLine||embryonic stem cells||0001086
+24797517||560|571||CellLine||macrophages||0000801
+24812424||588|617||CellLine||visceral white adipose tissue||0001456
+24812424||619|623||CellLine||VWAT||0001456
+24812424||808|812||CellLine||VWAT||0001456
+24812424||883|887||CellLine||VWAT||0001456
+24812424||1061|1065||CellLine||VWAT||0001456
+24812424||1241|1251||CellLine||adipocytes||0000443
+24812424||1257|1261||CellLine||VWAT||0001456
+24812424||1393|1397||CellLine||VWAT||0001456
+24812424||1398|1408||CellLine||adipocytes||0000443
+24842713||744|748||CellLine||lung||0000763
+24842713||1058|1063||CellLine||lungs||0000763
+24842713||1119|1135||CellLine||lung fibroblasts||0000764
+24915132||99|111||CellLine||CD4+ T cells||0002417
+24915132||177|191||CellLine||CD4(+) T cells||0002417
+24915132||334|338||CellLine||skin||0001253
+24915132||434|448||CellLine||CD4(+) T cells||0002417
+24915132||506|513||CellLine||T cells||0000782
+24915132||622|635||CellLine||CD4(+) T cell||0002417
+24915132||1052|1063||CellLine||T cell line||0001045
+24915132||1110|1126||CellLine||CD4(+) Th1 cells||0001678
+24915132||1250|1259||CellLine||Th1 cells||0001678
+24915132||1556|1565||CellLine||Th1 cells||0001678
+24915132||1616|1630||CellLine||CD4(+) T cells||0002417
+24997565||37|44||CellLine||T cells||0000782
+24997565||79|94||CellLine||TH2 memory cell||0001679
+24997565||234|285||CellLine||memory CD4(+) T cells that produce type 2 cytokines||0001679
+24997565||287|296||CellLine||TH2 cells||0001679
+24997565||367|374||CellLine||T cells||0000782
+24997565||389|405||CellLine||peripheral blood||0000553
+24997565||538|547||CellLine||TH1 cells||0001678
+24997565||552|561||CellLine||TH2 cells||0001679
+24997565||607|614||CellLine||T cells||0000782
+24997565||743|751||CellLine||TH2 cell||0001679
+24997565||894|903||CellLine||TH2 cells||0001679
+24997565||1041|1049||CellLine||TH2 cell||0001679
+25030696||85|96||CellLine||macrophages||0000801
+25030696||151|162||CellLine||macrophages||0000801
+25030696||436|446||CellLine||macrophage||0000801
+25030696||472|482||CellLine||macrophage||0000801
+25030696||1243|1253||CellLine||macrophage||0000801
+25153150||39|48||CellLine||germ cell||0000535
+25153150||72|109||CellLine||F9 testicular teratoma stem cell line||0000095
+25153150||115|127||CellLine||F9 cell line||0000095
+25153150||213|223||CellLine||germ cells||0000535
+25153150||310|318||CellLine||F9 cells||0000095
+25153150||355|365||CellLine||germ cells||0000535
+25153150||468|476||CellLine||F9 cells||0000095
+25153150||561|570||CellLine||germ cell||0000535
+25153150||594|602||CellLine||F9 cells||0000095
+25153150||658|671||CellLine||spermatogonia||0000958
+25153150||743|751||CellLine||F9 cells||0000095
+25153150||808|817||CellLine||germ cell||0000535
+25153150||871|879||CellLine||F9 cells||0000095
+25153150||1131|1139||CellLine||F9 cells||0000095
+25153150||1253|1262||CellLine||germ cell||0000535
+25153150||1609|1617||CellLine||F9 cells||0000095
+25153150||1756|1764||CellLine||F9 cells||0000095
+25153150||1874|1883||CellLine||germ cell||0000535
+25185713||43|72||CellLine||AML/ETO9a leukemic stem cells||0004178
+25185713||294|318||CellLine||hematopoietic stem cells||0000725
+25185713||320|324||CellLine||HSCs||0000725
+25185713||400|404||CellLine||HSCs||0000725
+25185713||785|788||CellLine||HSC||0000725
+25185713||806|809||CellLine||HSC||0000725
+25185713||1110|1135||CellLine||leukemia-initiating cells||0004178
+25185713||1444|1463||CellLine||leukemia stem cells||0004178
+25194570||38|44||CellLine||T cell||0000782
+25194570||932|941||CellLine||thymocyte||0001372
+25194570||1179|1185||CellLine||T cell||0000782
+25209250||140|148||CellLine||endoderm||0000800
+25209250||239|247||CellLine||endoderm||0000800
+25209250||541|548||CellLine||embryos||0000379
+25209250||573|580||CellLine||embryos||0000379
+25209250||884|891||CellLine||embryos||0000379
+25209250||986|989||CellLine||gut||0000545
+25209250||1133|1141||CellLine||endoderm||0000800
+25223790||817|830||CellLine||somatic cells||0001268
+25223790||834|843||CellLine||iPS cells||0006081
+25248036||1138|1149||CellLine||breast cell||0000816
+25249570||66|79||CellLine||cardiomyocyte||0003324
+25249570||263|268||CellLine||heart||0000562
+25249570||420|433||CellLine||cardiomyocyte||0003324
+25249570||665|670||CellLine||heart||0000562
+25249570||1070|1083||CellLine||cardiomyocyte||0003324
+25249570||1445|1458||CellLine||cardiomyocyte||0003324
+25249570||1551|1556||CellLine||heart||0000562
+25249570||1808|1821||CellLine||cardiomyocyte||0003324
+25303440||806|822||CellLine||skin fibroblasts||0001255
+25303440||1223|1233||CellLine||fibroblast||0000452
+25303440||1685|1703||CellLine||dermal fibroblasts||0004419
+25321476||85|96||CellLine||chondrocyte||0000249
+25321476||149|157||CellLine||skeleton||0001486
+25321476||210|240||CellLine||cartilage-forming chondrocytes||0000249
+25321476||283|295||CellLine||chondrocytes||0000249
+25321476||350|354||CellLine||bone||0000140
+25321476||476|480||CellLine||bone||0000140
+25321476||631|643||CellLine||chondrocytes||0000249
+25321476||701|718||CellLine||endochondral bone||0002157
+25321476||1117|1128||CellLine||chondrocyte||0000249
+25321476||1777|1780||CellLine||MCT||0006217
+25321476||1782|1841||CellLine||mouse chondrocytes immortalized with large T antigen) cells||0006217
+25321476||1957|1966||CellLine||MCT cells||0006217
+25321476||2138|2147||CellLine||MCT cells||0006217
+25321476||2446|2457||CellLine||chondrocyte||0000249
+25369933||116|122||CellLine||T-cell||0000782
+25369933||292|303||CellLine||pre-T cells||0001145
+25369933||1004|1018||CellLine||Leukemia cells||0001271
+25369933||1215|1230||CellLine||resistant cells||0001271
+25403490||242|251||CellLine||myoblasts||0000222
+25403490||470|485||CellLine||skeletal muscle||0001103
+25403490||1279|1285||CellLine||muscle||0000887
+25403490||1448|1457||CellLine||myoblasts||0000222
+25453756||405|410||CellLine||brain||0000142
+25453756||789|806||CellLine||prefrontal cortex||0002807
+25453756||820|841||CellLine||pluripotent stem cell||0006078
+25453756||850|857||CellLine||neurons||0000938
+25453756||1101|1106||CellLine||brain||0000142
+25453903||812|831||CellLine||mesenchymal lineage||0002625
+25486239||31|46||CellLine||arcuate nucleus||0005534
+25486239||227|245||CellLine||Kisspeptin neurons||0000947
+25486239||262|277||CellLine||arcuate nucleus||0005534
+25486239||279|282||CellLine||ARC||0005534
+25486239||392|395||CellLine||ARC||0005534
+25486239||716|747||CellLine||kisspeptin-immunoreactive cells||0000947
+25486239||760|763||CellLine||ARC||0005534
+25486239||768|805||CellLine||anteroventral periventricular nucleus||0002455
+25486239||838|856||CellLine||kisspeptin neurons||0000947
+25486239||972|975||CellLine||ARC||0005534
+25486239||976|1007||CellLine||kisspeptin-immunoreactive cells||0000947
+25486239||1093|1130||CellLine||anteroventral periventricular nucleus||0002455
+25486239||1409|1412||CellLine||ARC||0005534
+25486239||1551|1554||CellLine||ARC||0005534
+25486239||1748|1751||CellLine||ARC||0005534
+25486239||1878|1881||CellLine||ARC||0005534
+25486255||77|97||CellLine||embryonic stem cells||0001086
+25486255||119|139||CellLine||embryonic stem cells||0001086
+25486255||141|145||CellLine||ESCs||0001086
+25486255||762|766||CellLine||ESCs||0001086
+25486255||1362|1366||CellLine||ESCs||0001086
+25487574||59|84||CellLine||cardiac conduction system||0000901
+25487574||180|201||CellLine||atrioventricular node||0005689
+25487574||203|206||CellLine||AVN||0005689
+25487574||373|376||CellLine||AVN||0005689
+25487574||511|514||CellLine||AVN||0005689
+25487574||606|609||CellLine||AVN||0005689
+25487574||682|685||CellLine||AVN||0005689
+25548254||72|97||CellLine||CD44hiCD62L+ CD8+ T cells||0000289
+25548254||105|135||CellLine||CD8alphaalpha+ dendritic cells||0002042
+25548254||195|204||CellLine||thymocyte||0001372
+25548254||806|837||CellLine||CD44(hi)CD62L(+) CD8(+) T cells||0000289
+25548254||861|875||CellLine||CD8(+) T cells||0000289
+25548254||1089|1103||CellLine||CD8(+) T cells||0000289
+25548254||1168|1182||CellLine||CD8(+) T cells||0000289
+25548254||1335|1355||CellLine||CD8alphaalpha(+) DCs||0002042
+25548254||1367|1396||CellLine||CD8alphaalpha-expressing IELs||0000782
+25548254||1481|1512||CellLine||CD44(hi)CD62L(+) CD8(+) T cells||0000289
+25548254||1573|1587||CellLine||CD8(+) T cells||0000289
+25548254||1595|1615||CellLine||CD8alphaalpha(+) DCs||0002042
+25604083||305|311||CellLine||testis||0001363
+25604083||372|384||CellLine||Sertoli cell||0001238
+25604083||389|395||CellLine||testis||0001363
+25604083||430|436||CellLine||testis||0001363
+25604083||1259|1265||CellLine||testis||0001363
+25604083||1485|1503||CellLine||Sertoli-like cells||0004513
+25604083||1747|1759||CellLine||Sertoli-cell||0001363
+25605944||1439|1453||CellLine||pituitary cell||0000427
+25622893||308|314||CellLine||testis||0001363
+25628225||116|121||CellLine||liver||0000759
+25628225||712|723||CellLine||liver cells||0000224
+25628225||844|855||CellLine||hepatocytes||0000575
+25628225||1287|1298||CellLine||hepatocytes||0000575
+25628225||1398|1409||CellLine||HepG2 cells||0000599
+25775043||395|414||CellLine||embryonic stem cell||0001086
+25801169||555|575||CellLine||embryonic stem cells||0001086
+26110280||556|563||CellLine||embryos||0000379
+26166704||654|673||CellLine||breast cancer cells||0000150
+26211970||607|632||CellLine||lymphoblastoid cell lines||0000773
+26211970||634|638||CellLine||LCLs||0000773
+26211970||834|838||CellLine||LCLs||0000773
+26211970||1078|1082||CellLine||LCLs||0000773
+26211970||1419|1423||CellLine||LCLs||0000773
+26211970||1679|1685||CellLine||B cell||0000776
+26216945||718|732||CellLine||CD4(+) T cells||0002417
+26216945||925|939||CellLine||CD4(+) T cells||0002417
+26216945||1112|1118||CellLine||T-cell||0000782
+26216945||1150|1156||CellLine||T-cell||0000782
+26216945||1282|1288||CellLine||T-cell||0000782
+26229090||461|480||CellLine||lymphoma cell lines||0000104
+26232425||144|155||CellLine||HepG2 Cells||0006301
+26232425||266|271||CellLine||HepG2||0006301
+26303528||73|88||CellLine||Erythroid Cells||0002731
+26303528||492|501||CellLine||erythroid||0002731
+26303528||783|792||CellLine||erythroid||0002731
+26321200||470|475||CellLine||heart||0000562
+26321200||1203|1208||CellLine||heart||0000562
+26382291||99|104||CellLine||brain||0000142
+26382291||736|745||CellLine||hindbrain||0000672
+26382291||832|837||CellLine||brain||0000142
+26382291||839|844||CellLine||heart||0000562
+26382291||850|853||CellLine||eye||0000439
+26382291||1341|1344||CellLine||eye||0000439
+26382291||1346|1355||CellLine||hindbrain||0000672
+26382291||1361|1365||CellLine||limb||0001492
+26423156||467|472||CellLine||heart||0000562
+26423156||1406|1412||CellLine||hearts||0000562
+26423156||1483|1497||CellLine||cardiomyocytes||0003324
+26443750||130|143||CellLine||Keratinocytes||0000667
+26443750||460|464||CellLine||skin||0001253
+26443750||616|625||CellLine||epidermis||0000404
+26443750||762|771||CellLine||epidermis||0000404
+26443750||911|924||CellLine||keratinocytes||0000667
+26443750||1066|1079||CellLine||keratinocytes||0000667
+26445536||104|130||CellLine||vascular endothelial cells||0001854
+26445536||396|422||CellLine||vascular endothelial cells||0001854
+26445536||424|427||CellLine||ECs||0001854
+26445536||1439|1442||CellLine||ECs||0001854
+26445536||1796|1799||CellLine||ECs||0001854
+26445536||1990|1993||CellLine||ECs||0001854
+26446995||349|362||CellLine||mammary gland||0000817
+26446995||515|533||CellLine||mammary epithelium||0001430
+26446995||1137|1155||CellLine||mammary epithelium||0001430
+26494787||61|81||CellLine||anterior mesendoderm||0003953
+26494787||210|225||CellLine||endodermal cell||0000800
+26494787||441|458||CellLine||visceral endoderm||0003487
+26494787||525|533||CellLine||epiblast||0004593
+26494787||562|570||CellLine||endoderm||0000800
+26494787||584|604||CellLine||anterior mesendoderm||0003953
+26494787||673|701||CellLine||anterior definitive endoderm||0000800
+26494787||795|812||CellLine||visceral endoderm||0003487
+26494787||1005|1033||CellLine||anterior definitive endoderm||0000800
+26494787||1178|1186||CellLine||epiblast||0004593
+26494787||1470|1490||CellLine||anterior mesendoderm||0003953
+26494787||1589|1593||CellLine||head||0000282
+26537192||94|106||CellLine||Diencephalon||0000342
+26537192||111|124||CellLine||Mesencephalon||0000138
+26537192||187|191||CellLine||dien||0000342
+26537192||197|210||CellLine||mesencephalon||0000138
+26537192||327|331||CellLine||dien||0000342
+26537192||337|350||CellLine||mesencephalon||0000138
+26537192||446|450||CellLine||dien||0000342
+26537192||456|469||CellLine||mesencephalon||0000138
+26537192||1222|1226||CellLine||dien||0000342
+26537192||1232|1245||CellLine||mesencephalon||0000138
+26550034||117|137||CellLine||embryonic stem cells||0001086
+26550034||297|322||CellLine||mouse embryonic stem cell||0001086
+26550034||324|328||CellLine||mESC||0001086
+26550034||467|472||CellLine||mESCs||0001086
+26550034||628|632||CellLine||ESCs||0001086
+26550034||786|791||CellLine||mESCs||0001086
+26550034||1615|1620||CellLine||mESCs||0001086
+26550034||1805|1809||CellLine||mESC||0001086
+26550034||2019|2022||CellLine||ESC||0001086
+26550034||2061|2064||CellLine||ESC||0001086
+26550034||2180|2185||CellLine||mESCs||0001086
+26560027||206|232||CellLine||sympathetic nervous system||0001832
+26595656||598|605||CellLine||neurons||0000938
+26595656||907|912||CellLine||brain||0000142
+26604133||64|76||CellLine||CD4+ T cells||0002417
+26604133||764|778||CellLine||CD4(+) T cells||0002417
+26604133||893|907||CellLine||CD4(+) T cells||0002417
+26604133||987|1001||CellLine||CD4(+) T cells||0002417
+26604133||1078|1092||CellLine||memory T cells||0002417
+26604133||1434|1448||CellLine||CD4(+) T cells||0002417
+26604133||1541|1548||CellLine||T cells||0000782
+26604133||1793|1800||CellLine||T cells||0000782
+26615198||39|58||CellLine||primary human cells||0001413
+26615198||1040|1053||CellLine||primary cells||0001413
+26659182||477|488||CellLine||fibroblasts||0000452
+26659182||492|522||CellLine||induced pluripotent stem cells||0006078
+26659182||524|533||CellLine||iPS cells||0006078
+26659182||905|913||CellLine||iPS cell||0006078
+26659182||1322|1329||CellLine||B cells||0000776
+26659182||1335|1346||CellLine||macrophages||0000801
+26659182||1351|1362||CellLine||fibroblasts||0000452
+26659182||1368|1375||CellLine||neurons||0000938
+26663721||111|122||CellLine||Macrophages||0000801
+26663721||299|312||CellLine||immune system||0005810
+26663721||461|472||CellLine||macrophages||0000801
+26663721||680|691||CellLine||macrophages||0000801
+26663721||1387|1398||CellLine||macrophages||0000801
+26673693||142|148||CellLine||T-cell||0000782
+26673693||305|334||CellLine||CD4(-)/CD8(-) double negative||0000782
+26673693||336|338||CellLine||DN||0000782
+26673693||343|388||CellLine||CD4(+)/CD8(+) double positive (DP) thymocytes||0000782
+26673693||644|646||CellLine||DN||0000782
+26673693||651|653||CellLine||DP||0000782
+26673693||704|706||CellLine||DP||0000782
+26673693||899|905||CellLine||T-cell||0000782
+26673693||951|953||CellLine||DN||0000782
+26673693||957|959||CellLine||DP||0000782
+26673693||1014|1036||CellLine||Ets1(-/-) thymic cells||0001372
+26673693||1225|1227||CellLine||DN||0000782
+26673693||1263|1265||CellLine||DP||0000782
+26679052||54|74||CellLine||bladder cancer cells||0000362
+26679052||696|700||CellLine||lung||0000551
+26679052||716|735||CellLine||breast cancer cells||0000150
+26679052||980|1005||CellLine||bladder cancer 5637 cells||0003137
+26679052||2143|2163||CellLine||bladder cancer cells||0000362
+26679052||2491|2511||CellLine||bladder cancer cells||0000362
+26679052||2589|2609||CellLine||bladder cancer cells||0000362
+26748758||144|158||CellLine||epiblast cells||0004593
+26748758||235|242||CellLine||somatic||0001268
+26748758||247|267||CellLine||primordial germ cell||0004982
+26748758||269|272||CellLine||PGC||0004982
+26748758||301|321||CellLine||embryonic stem cells||0001086
+26748758||875|892||CellLine||pluripotent cells||0006078
+26748758||954|957||CellLine||PGC||0004982
+26748758||1109|1112||CellLine||PGC||0004982
+26751080||600|610||CellLine||A549 cells||0000018
+26766440||403|438||CellLine||hematopoietic stem/progenitor cells||0000725
+26766440||453|474||CellLine||erythroid progenitors||0004911
+26766440||646|655||CellLine||erythroid||0002731
+26771354||179|201||CellLine||pluripotent stem cells||0006078
+26771354||203|207||CellLine||PSCs||0006078
+26771354||244|264||CellLine||embryonic stem cells||0001086
+26771354||266|270||CellLine||ESCs||0001086
+26771354||315|319||CellLine||PSCs||0006078
+26771354||337|341||CellLine||ESCs||0001086
+26771354||385|395||CellLine||mouse ESCs||0001086
+26771354||397|402||CellLine||mESCs||0001086
+26771354||542|547||CellLine||mESCs||0001086
+26771354||775|780||CellLine||mESCs||0001086
+26771354||940|945||CellLine||mESCs||0001086
+26774474||761|771||CellLine||liver cell||0000224
+26795348||1225|1231||CellLine||breast||0000149
+26809031||611|651||CellLine||primary human bronchial epithelial cells||0002922
+26809031||653|658||CellLine||NHBEC||0002922
+26809031||664|714||CellLine||TERT-immortalized normal human diploid fibroblasts||0000452
+26809031||716|724||CellLine||HDF-TERT||0000452
+26809507||82|87||CellLine||blood||0000089
+26813977||669|695||CellLine||human embryonic stem cells||0006080
+26813977||697|702||CellLine||hESCs||0006080
+26813977||847|852||CellLine||hESCs||0006080
+26829750||901|920||CellLine||myoepithelial cells||0002309
+26829750||944|968||CellLine||luminal epithelial cells||0005437
+26855180||735|773||CellLine||human umbilical vein endothelial cells||0004296
+26855180||775|780||CellLine||HUVEC||0004296
+26883548||228|235||CellLine||B cells||0000776
+26912657||151|162||CellLine||Macrophages||0000801
+26912657||640|651||CellLine||macrophages||0000801
+26912657||1079|1090||CellLine||macrophages||0000801
+26912657||1309|1320||CellLine||macrophages||0000801
+26916345||153|161||CellLine||Th1-cell||0001678
+26916345||653|660||CellLine||HEK293T||0002181
+26916345||794|806||CellLine||CD4+ T cells||0002417
+26916345||973|985||CellLine||CD4+ T-cells||0002417
+26916345||1352|1364||CellLine||CD4+ T-cells||0002417
+26916345||1548|1560||CellLine||CD4+ T-cells||0002417
+26916345||1776|1784||CellLine||Th1-cell||0001678
+26916345||1875|1886||CellLine||(Th1) cells||0001678
+26937964||77|96||CellLine||Myeloid Progenitors||0004730
+26937964||280|299||CellLine||myeloid progenitors||0004730
+26937964||433|446||CellLine||myeloid cells||0000906
+26937964||600|624||CellLine||32Dcl3 myeloid cell line||0000906
+26937964||934|940||CellLine||marrow||0000829
+26937964||973|978||CellLine||liver||0000759
+26937964||980|984||CellLine||lung||0000763
+26937964||986|993||CellLine||adipose||0001487
+26937964||995|1004||CellLine||intestine||0000648
+26937964||1006|1012||CellLine||muscle||0000887
+26937964||1018|1024||CellLine||kidney||0000671
+26937964||1063|1075||CellLine||marrow cells||0001441
+26937964||1208|1215||CellLine||myeloid||0000906
+26937964||1439|1445||CellLine||marrow||0000829
+26937964||1609|1620||CellLine||Granulocyte||0000539
+26937964||1625|1635||CellLine||B lymphoid||0000776
+26937964||1676|1685||CellLine||monocytic||0000876
+26937964||1690|1708||CellLine||erythroid colonies||0002731
+26937964||1872|1896||CellLine||hematopoietic stem cells||0000725
+26937964||1934|1940||CellLine||marrow||0000829
+26937964||1984|1990||CellLine||B cell||0000776
+26937964||2015|2031||CellLine||monocyte lineage||0000876
+27166834||53|66||CellLine||blood vessels||0001102
+27166834||70|96||CellLine||pulmonary vascular network||0001085
+27166834||136|156||CellLine||pulmonary epithelium||0001653
+27166834||165|181||CellLine||vascular network||0001085
+27166834||189|193||CellLine||lung||0000763
+27166834||276|291||CellLine||lung mesenchyme||0001393
+27166834||412|427||CellLine||lung epithelium||0001653
+27166834||613|631||CellLine||epithelium in lung||0001653
+27166834||753|757||CellLine||lung||0000763
+27166834||1082|1105||CellLine||pulmonary blood vessels||0001102
+27166834||1164|1177||CellLine||blood vessels||0001102
+27166834||1446|1468||CellLine||pulmonary blood vessel||0001102
+27166834||1598|1610||CellLine||blood vessel||0001102
+27166834||1665|1694||CellLine||pulmonary distal blood vessel||0001102
+27207652||52|71||CellLine||breast cancer cells||0000150
+27207652||640|659||CellLine||breast cancer cells||0000150
+27651453||183|188||CellLine||brain||0000142
+27651453||193|199||CellLine||retina||0001175
+27651453||255|269||CellLine||neuronal cells||0000947
+27881681||989|999||CellLine||293T cells||0002181
+27881681||1043|1063||CellLine||chondrosarcoma cells||0000250
+27881681||1145|1148||CellLine||RCS||0000250
+27895109||689|714||CellLine||embryonic stem (ES) cells||0001086
+27895109||787|794||CellLine||ES cell||0001086
+27920250||94|100||CellLine||Kidney||0000671
+27920250||220|226||CellLine||kidney||0000671
+27920250||383|388||CellLine||liver||0000759
+27920250||433|439||CellLine||kidney||0000671
+27920250||1197|1206||CellLine||erythroid||0002731
+27941798||424|429||CellLine||colon||0000269
+27941798||443|458||CellLine||small intestine||0000651
+27989796||620|626||CellLine||gonads||0000534
+27989796||805|841||CellLine||primordium of the penis and clitoris||0002433
+27989796||960|985||CellLine||urethral plate epithelium||0003906
+27989796||987|1003||CellLine||preputial glands||0001111
+27989796||1005|1029||CellLine||ventral surface ectoderm||0000315
+27989796||1034|1050||CellLine||corpus cavernosa||0005454
+28028313||301|307||CellLine||thymus||0001374
+28028313||308|314||CellLine||T-cell||0000782
+28028313||357|381||CellLine||hematopoietic stem cells||0000725
+28028313||383|387||CellLine||HSCs||0000725
+28028313||417|427||CellLine||thymocytes||0001372
+28028313||544|554||CellLine||thymocytes||0001372
+28028313||700|711||CellLine||T-ALL cells||0001106
+28028313||746|750||CellLine||HSCs||0000725
+28028313||762|769||CellLine||T cells||0000782
+28028313||821|830||CellLine||thymocyte||0001372
+28028313||914|925||CellLine||T-ALL cells||0001106
+28028313||1006|1016||CellLine||thymocytes||0001372
+28028313||1190|1196||CellLine||T-cell||0000782
+28045957||57|63||CellLine||Testis||0001363
+28045957||387|400||CellLine||Sertoli cells||0001238
+28045957||414|429||CellLine||granulosa cells||0000542
+28045957||260|266||CellLine||testis||0001363
+28045957||647|653||CellLine||gonads||0000534
+28045957||702|708||CellLine||gonads||0000534
+28045957||1037|1044||CellLine||embryos||0000379
+28045957||1069|1076||CellLine||embryos||0000379
+28045957||1153|1162||CellLine||ovotestes||0000981
+28045957||1312|1326||CellLine||granulosa cell||0000542
+28045957||1574|1579||CellLine||gonad||0000534
+28082341||154|163||CellLine||platelets||0000132
+28082341||495|503||CellLine||platelet||0000132
+28082341||950|966||CellLine||CD34+ stem cells||0004408
+28082341||970|984||CellLine||megakaryocytes||0000843
+28082341||1379|1389||CellLine||K562 cells||0000664
+28082341||1652|1662||CellLine||K562 cells||0000664
+28087634||53|66||CellLine||Sertoli cells||0001238
+28087634||415|428||CellLine||Sertoli cells||0001238
+28087634||446|452||CellLine||testes||0001363
+28087634||566|573||CellLine||Sertoli||0001238
+28087634||809|821||CellLine||Sertoli cell||0001238
+28087634||994|1007||CellLine||Sertoli cells||0001238
+28087634||895|907||CellLine||Sertoli cell||0001238
+28104492||99|126||CellLine||intestinal epithelial cells||0005937
+28104492||555|560||CellLine||colon||0000188
+28104492||565|586||CellLine||intestinal cell lines||0000003
+28104492||614|626||CellLine||Caco-2 cells||0000195
+28104492||898|921||CellLine||Young Adult Mouse Colon||0000269
+28104492||923|927||CellLine||YAMC||0000269
+28104492||933|975||CellLine||Rat Intestinal Epithelial (RIE) cell lines||0005937
+28104492||1172|1176||CellLine||YAMC||0000269
+28104492||1181|1190||CellLine||RIE cells||0005937
+28104492||1572|1582||CellLine||YAMC cells||0000269
+28104492||1584|1588||CellLine||YAMC||0000269
+28104492||1705|1727||CellLine||colon epithelial cells||0004297
+28121289||815|820||CellLine||blood||0000089
+28121289||824|839||CellLine||skeletal muscle||0001103
+28121289||1045|1050||CellLine||heart||0000562
+28121289||1055|1059||CellLine||lung||0000763
+28121289||1070|1086||CellLine||endothelial cell||0001176
+28210006||626|633||CellLine||myeloid||0000906
+28210006||928|949||CellLine||erythroleukemia cells||0000426
+28210006||1204|1211||CellLine||myeloid||0000906
+28210006||1258|1265||CellLine||myeloid||0000906
+28213503||493|519||CellLine||LPS-stimulated macrophages||0000801
+28244015||32|61||CellLine||Breast Cancer Stem-Like Cells||0006293
+28244015||410|421||CellLine||MCF-7 cells||0000093
+28244015||643|654||CellLine||MCF-7 cells||0000093
+28244015||804|815||CellLine||MCF-7 cells||0000093
+28244015||866|879||CellLine||mammary gland||0000817
+28244015||950|960||CellLine||MDA-MB-231||0000815
+28244015||1029|1034||CellLine||MCF-7||0000093
+28244015||1299|1320||CellLine||cancer stem-like cell||0000150
+28260788||1439|1455||CellLine||T-lymphoid cells||0000782
+28262751||383|393||CellLine||fibroblast||0000452
+28262837||780|789||CellLine||HCC cells||0000608
+28262837||885|893||CellLine||HCC cell||0000608
+28262837||1130|1138||CellLine||HCC cell||0000608
+28335007||309|314||CellLine||liver||0000759
+28335007||813|818||CellLine||liver||0000759
+28335007||873|878||CellLine||liver||0000759
+28536097||341|358||CellLine||endothelial cells||0001176
+28578223||162|171||CellLine||monocytes||0000876
+28614915||104|117||CellLine||Mesencephalon||0000138
+28614915||170|175||CellLine||brain||0000142
+28614915||397|410||CellLine||mesencephalon||0000138
+28614915||447|460||CellLine||mesencephalon||0000138
+28614915||837|844||CellLine||embryos||0000379
+28614915||782|795||CellLine||mesencephalon||0000138
+28614915||1143|1150||CellLine||embryos||0000379
+28614915||1088|1101||CellLine||mesencephalon||0000138
+28614915||1336|1349||CellLine||mesencephalon||0000138
+28614915||1556|1569||CellLine||mesencephalon||0000138
+28652246||463|476||CellLine||melanoma cell||0000848
+28652246||702|708||CellLine||T-cell||0000782
+28652246||891|897||CellLine||T-cell||0000782
+28717659||338|344||CellLine||retina||0001175
+28717659||346|357||CellLine||optic nerve||0000966
+28717659||363|372||CellLine||pituitary||0000427
+28717659||1311|1314||CellLine||cup||0005351
+28717659||1995|1998||CellLine||cup||0005351
+28717659||2170|2186||CellLine||retinal ganglion||0003650
+28717659||2191|2206||CellLine||amacrine layers||0004044
+28751304||624|650||CellLine||adipocyte progenitor cells||0006112
+28751304||1190|1213||CellLine||adipose progenitor cell||0006112
+28836200||20|31||CellLine||Mesenchymal||0002625
+28836200||32|48||CellLine||Fibroblast Cells||0000453
+28836200||268|279||CellLine||fibroblasts||0000452
+28836200||291|308||CellLine||mesenchymal cells||0002625
+28836200||715|732||CellLine||mesenchymal cells||0002625
+28905448||321|341||CellLine||embryonic stem cells||0001086
+28905448||579|596||CellLine||cancer stem cells||0004254
+28905448||598|602||CellLine||CSCs||0004254
+28905448||654|658||CellLine||CSCs||0004254
+28916725||342|361||CellLine||embryonic stem cell||0001086
+28916725||529|545||CellLine||epithelial cells||0000414
+28916725||877|901||CellLine||corneal epithelial cells||0004298
+28916725||978|996||CellLine||ectodermal lineage||0000315
+28916725||1095|1115||CellLine||embryonic stem cells||0001086
+28916725||1774|1798||CellLine||corneal epithelial cells||0004298
+28916725||1871|1887||CellLine||epithelial cells||0000414
+28916725||1940|1963||CellLine||corneal epithelial cell||0004298
+29042628||398|403||CellLine||blood||0000089
+29042628||823|864||CellLine||haematopoietic progenitor cell line HPC-7||0000725
+29042628||1054|1059||CellLine||blood||0000089
+29042628||1139|1144||CellLine||blood||0000089
+29042628||1504|1535||CellLine||haematopoietic progenitor cells||0000725
+29078395||237|244||CellLine||T cells||0000782
+29078395||436|443||CellLine||T cells||0000782
+29091765||99|116||CellLine||Neural Stem Cells||0002881
+29091765||356|373||CellLine||neural stem cells||0002881
+29091765||375|379||CellLine||NSCs||0002881
+29091765||411|414||CellLine||NSC||0002881
+29091765||913|916||CellLine||NSC||0002881
+29133016||35|45||CellLine||macrophage||0000801
+29133016||255|265||CellLine||macrophage||0000801
+29133016||409|419||CellLine||macrophage||0000801
+29133016||615|625||CellLine||macrophage||0000801
+29133016||806|817||CellLine||macrophages||0000801
+29133016||2162|2173||CellLine||macrophages||0000801
+29142074||147|165||CellLine||lung myofibroblast||0001946
+29142074||183|193||CellLine||Fibroblast||0000452
+29142074||847|861||CellLine||myofibroblasts||0001946
+29142074||1022|1035||CellLine||myofibroblast||0001946
+29142074||1303|1319||CellLine||lung fibroblasts||0000764
+29142074||1453|1464||CellLine||fibroblasts||0000452
+29151363||455|480||CellLine||prostate cancer cell line||0001033
+29151363||482|487||CellLine||LNCaP||0001321
+29256171||1401|1413||CellLine||chondrocytes||0000249
+29256171||1535|1546||CellLine||fibroblasts||0000452
+29256171||1614|1626||CellLine||chondrocytes||0000249
+29284139||483|504||CellLine||embryonic fibroblasts||0004725
+29284139||1451|1477||CellLine||cranial neural crest cells||0003825
+29284139||1541|1550||CellLine||upper lip||0001647
+29326336||125|131||CellLine||T-cell||0000782
+29326336||239|288||CellLine||T-cell acute lymphoblastic leukemia (T-ALL) cells||0001106
+29326336||639|649||CellLine||thymocytes||0001372
+29326336||700|711||CellLine||T-ALL cells||0001106
+29326336||813|824||CellLine||T-ALL cells||0001106
+29326336||843|850||CellLine||T cells||0000782
+29326336||1231|1242||CellLine||T-ALL cells||0001106
+29326336||1288|1298||CellLine||thymocytes||0001372
+29326336||1310|1316||CellLine||thymus||0001374
+29326336||1588|1594||CellLine||T-cell||0000782
+29342133||44|78||CellLine||leukaemic haematopoietic stem cell||0004178
+29342133||156|181||CellLine||haematopoietic stem cells||0000725
+29342133||488|502||CellLine||haematopoietic||0000725
+29342133||507|526||CellLine||leukaemic stem cell||0004178
+29342133||637|662||CellLine||haematopoietic stem cells||0000725
+29342133||772|779||CellLine||myeloid||0000906
+29342133||784|791||CellLine||B cells||0000776
+29342133||884|909||CellLine||haematopoietic stem cells||0000725
+29342133||1360|1365||CellLine||blood||0000089
+29342133||1552|1577||CellLine||haematopoietic stem cells||0000725
+29408204||320|330||CellLine||melanocyte||0000847
+29408204||573|592||CellLine||melanoma cell lines||0000849
+29408204||916|930||CellLine||melanoma cells||0000848
+29408204||1193|1207||CellLine||melanoma cells||0000848
+29453285||102|127||CellLine||endometrial stromal cells||0003697
+29453285||207|232||CellLine||endometrial stromal cells||0003697
+29453285||234|238||CellLine||ESCs||0003697
+29453285||839|843||CellLine||ESCs||0003697
+29453285||1073|1084||CellLine||HepG2 cells||0000599
+29453285||1373|1377||CellLine||ESCs||0003697
+29453285||1669|1673||CellLine||ESCs||0003697
+29514092||65|86||CellLine||Mononuclear Phagocyte||0001433
+29514092||100|109||CellLine||Monocytes||0000876
+29514092||114|129||CellLine||dendritic cells||0002042
+29514092||131|134||CellLine||DCs||0002042
+29514092||137|159||CellLine||mononuclear phagocytes||0001433
+29514092||205|229||CellLine||hematopoietic stem cells||0000725
+29514092||429|450||CellLine||mononuclear phagocyte||0001433
+29514092||472|480||CellLine||Monocyte||0000876
+29514092||486|488||CellLine||DC||0002042
+29514092||686|694||CellLine||monocyte||0000876
+29514092||699|701||CellLine||DC||0002042
+29514092||816|824||CellLine||monocyte||0000876
+29514092||829|840||CellLine||DC lineages||0002042
+29514092||1203|1224||CellLine||mononuclear phagocyte||0001433
+29527594||656|675||CellLine||osteocyte cell line||0005488
+29527594||1091|1095||CellLine||bone||0000140
+29527594||1097|1103||CellLine||thymus||0001374
+29527594||1109|1115||CellLine||spleen||0001281
+29527594||1238|1242||CellLine||bone||0000140
+29527594||1517|1521||CellLine||bone||0000140
+29527594||1606|1622||CellLine||PTH-induced bone||0000140
+29695788||110|136||CellLine||human embryonic stem cells||0006080
+29695788||199|207||CellLine||epiblast||0004593
+29706059||666|675||CellLine||monocytes||0000876
+29706059||1152|1164||CellLine||CD4+ T cells||0002417
+29706059||1166|1178||CellLine||CD8+ T cells||0002417
+29706059||1180|1198||CellLine||CD15+ granulocytes||0000539
+29706059||1200|1213||CellLine||CD19+ B cells||0005244
+29706059||1219|1233||CellLine||CD56+ NK cells||0003287
+29706059||1412|1420||CellLine||monocyte||0000876
+29706059||1506|1514||CellLine||monocyte||0000876
+29706059||1637|1649||CellLine||granulocytes||0000539
+29706059||1837|1846||CellLine||monocytes||0000876
+29706059||1988|1997||CellLine||monocytes||0000876
+29706059||2007|2019||CellLine||granulocytes||0000539
+29706059||2139|2147||CellLine||monocyte||0000876
+29765516||120|141||CellLine||erythroleukemia cells||0000426
+29765516||363|380||CellLine||erythroid lineage||0002731
+29765516||542|573||CellLine||human erythroleukemia cell line||0000565
+29765516||575|578||CellLine||HEL||0000565
+29765516||746|755||CellLine||HEL cells||0000565
+29765516||1129|1150||CellLine||erythroid progenitors||0004911
+29765516||1225|1234||CellLine||erythroid||0002731
+29765516||1252|1255||CellLine||HEL||0000565
+29898989||76|92||CellLine||Colorectal Cells||0001614
+29898989||1154|1170||CellLine||colorectal cells||0001614
+29898989||1530|1562||CellLine||SW620 colorectal carcinoma cells||0000035
+29898989||1653|1669||CellLine||colorectal cells||0001614
+29967281||41|60||CellLine||medium spiny neuron||0004778
+29967281||137|157||CellLine||medium spiny neurons||0004778
+29967281||162|166||CellLine||MSNs||0004778
+29967281||231|235||CellLine||MSNs||0004778
+29967281||266|273||CellLine||neurons||0000938
+29967281||281|289||CellLine||striatum||0000418
+29967281||313|328||CellLine||dorsal striatum||0004701
+29967281||330|345||CellLine||caudate nucleus||0000211
+29967281||350|357||CellLine||putamen||0000212
+29967281||363|379||CellLine||ventral striatum||0004702
+29967281||381|398||CellLine||nucleus accumbens||0001862
+29967281||403|421||CellLine||olfactory tubercle||0001869
+29967281||445|452||CellLine||neurons||0000938
+29967281||466|493||CellLine||lateral ganglionic eminence||0000497
+29967281||495|498||CellLine||LGE||0000497
+29967281||620|624||CellLine||MSNs||0004778
+29967281||668|671||CellLine||LGE||0000497
+29967281||684|688||CellLine||MSNs||0004778
+29967281||824|827||CellLine||LGE||0000497
+29967281||917|921||CellLine||MSNs||0004778
+29967281||1143|1146||CellLine||LGE||0000497
+29967281||1210|1214||CellLine||MSNs||0004778
+29979962||2|8||CellLine||Muscle||0000887
+29979962||891|902||CellLine||muscle cell||0000887
+30008316||1140|1147||CellLine||myeloid||0000734
+30012865||228|242||CellLine||erythroid cell||0002731
+30012865||668|704||CellLine||human erythroleukemia cell line K562||0000664
+30012865||1022|1026||CellLine||K562||0000664
+30012865||1045|1060||CellLine||erythroid cells||0002731
+30033119||52|78||CellLine||Human Embryonic Stem Cells||0006080
+30033119||522|548||CellLine||human embryonic stem cells||0006080
+30033119||550|554||CellLine||ESCs||0006080
+30033119||892|895||CellLine||ESC||0001086
+30139998||490|513||CellLine||ER+ breast cancer cells||0000150
+30139998||532|567||CellLine||triple-negative breast cancer cells||0000150
+30295986||73|77||CellLine||Lens||0000723
+30295986||480|489||CellLine||inner ear||0000630
+30295986||491|495||CellLine||lens||0000723
+30295986||497|510||CellLine||mammary gland||0000817
+30295986||512|519||CellLine||T-cells||0000782
+30295986||521|538||CellLine||urogenital system||0003091
+30295986||544|557||CellLine||thyroid gland||0001379
+30295986||566|569||CellLine||eye||0000439
+30295986||793|797||CellLine||lens||0000723
+30295986||948|952||CellLine||lens||0000723
+30295986||1063|1067||CellLine||lens||0000723
+30295986||1311|1315||CellLine||lens||0000723
+30295986||1411|1421||CellLine||lens fiber||0000724
+30328555||126|144||CellLine||mammary epithelium||0001430
+30328555||464|470||CellLine||T cell||0000782
+30518632||15|37||CellLine||Central Nervous System||0000227
+30518632||318|324||CellLine||T-cell||0000782
+30518632||379|428||CellLine||T-cell acute lymphoblastic leukemia (T-ALL) cells||0001106
+30518632||531|553||CellLine||central nervous system||0000227
+30518632||555|558||CellLine||CNS||0000227
+30518632||719|735||CellLine||T-ALL cell lines||0001106
+30518632||856|872||CellLine||T-ALL cell lines||0001106
+30518632||918|921||CellLine||CNS||0000227
+30518632||981|992||CellLine||T-ALL cells||0001106
+30518632||1141|1152||CellLine||T-ALL cells||0001106
+30518632||1385|1396||CellLine||T-ALL cells||0001106
+30518632||1634|1639||CellLine||blood||0000089
+30518632||1640|1645||CellLine||brain||0000142
+30518632||1824|1827||CellLine||CNS||0000227
+30544251||618|647||CellLine||bone marrow stromal cell line||0003296
+30544251||649|652||CellLine||ST2||0003296
+30544251||661|671||CellLine||adipocytes||0000443
+30544251||676|687||CellLine||osteoblasts||0001593
+30544251||1413|1442||CellLine||bone marrow-derived ST2 cells||0003296
+30590035||62|70||CellLine||Germline||0000535
+30590035||82|109||CellLine||Human primordial germ cells||0004982
+30590035||111|116||CellLine||hPGCs||0004982
+30590035||132|153||CellLine||embryonic progenitors||0005319
+30590035||161|170||CellLine||germ cell||0000535
+30590035||222|226||CellLine||hPGC||0004982
+30590035||299|303||CellLine||hPGC||0004982
+30590035||460|465||CellLine||hPGCs||0004982
+30590035||470|485||CellLine||hPGC-like cells||0004982
+30590035||487|494||CellLine||hPGCLCs||0004982
+30590035||516|542||CellLine||human embryonic stem cells||0006080
+30590035||544|549||CellLine||hESCs||0006080
+30590035||602|607||CellLine||hPGCs||0004982
+30590035||612|619||CellLine||hPGCLCs||0004982
+30590035||902|908||CellLine||hPGCLC||0004982

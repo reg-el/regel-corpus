@@ -1,0 +1,83 @@
+T0	ENHANCER 626 640	LAMC2 enhancer
+T1	PROMOTER 1419 1440	LAMC2 promoter region
+T2	GENE 14 28	Laminin gamma2
+N0	Reference T2 EntrezGene:3918	LAMC2
+T3	GENE 43 47	CDX2
+N1	Reference T3 EntrezGene:1045	CDX2
+T4	GENE 182 186	CDX2
+N2	Reference T4 EntrezGene:1045	CDX2
+T5	GENE 203 230	tumor necrosis factor-alpha
+N3	Reference T5 EntrezGene:7124	TNF
+T7	GENE 232 241	TNF-alpha
+N4	Reference T7 EntrezGene:7124	TNF
+T8	DISEASE 303 321	ulcerative colitis
+T9	DISEASE 323 325	UC
+T10	GENE 328 350	Laminin subunit gamma2
+N7	Reference T10 EntrezGene:3918	LAMC2
+T11	GENE 352 357	LAMC2
+N8	Reference T11 EntrezGene:3918	LAMC2
+T12	DISEASE 475 480	tumor
+T14	GENE 553 562	TNF-alpha
+N10	Reference T14 EntrezGene:7124	TNF
+T16	GENE 675 679	CDX2
+N12	Reference T16 EntrezGene:1045	CDX2
+T17	GENE 719 724	LAMC2
+N13	Reference T17 EntrezGene:3918	LAMC2
+T18	GENE 820 825	LAMC2
+N14	Reference T18 EntrezGene:3918	LAMC2
+T19	GENE 913 917	CDX2
+N15	Reference T19 EntrezGene:1045	CDX2
+T20	GENE 919 923	CDX2
+N16	Reference T20 EntrezGene:1045	CDX2
+T21	GENE 1020 1029	TNF-alpha
+N17	Reference T21 EntrezGene:7124	TNF
+T23	GENE 1228 1232	CDX2
+N19	Reference T23 EntrezGene:1045	CDX2
+T24	GENE 1237 1242	LAMC2
+N20	Reference T24 EntrezGene:3918	LAMC2
+T25	DISEASE 1303 1305	UC
+T26	GENE 1332 1336	CDX2
+N22	Reference T26 EntrezGene:1045	CDX2
+T27	GENE 1356 1361	LAMC2
+N23	Reference T27 EntrezGene:3918	LAMC2
+T29	GENE 1499 1503	CDX2
+N25	Reference T29 EntrezGene:1045	CDX2
+T30	GENE 1508 1513	LAMC2
+N26	Reference T30 EntrezGene:3918	LAMC2
+T31	GENE 1567 1571	CDX2
+N27	Reference T31 EntrezGene:1045	CDX2
+T32	GENE 1623 1628	LAMC2
+N28	Reference T32 EntrezGene:3918	LAMC2
+T33	GENE 1739 1748	TNF-alpha
+N29	Reference T33 EntrezGene:7124	TNF
+T35	TISSUE 51 75	Colonic Epithelial Cells
+N30	Reference T35 BTO:0004297	colonic epithelial cell
+T36	GENE 134 180	Caudal-related homeobox transcription factor 2
+N31	Reference T36 EntrezGene:1045	CDX2
+A2	CANCER T12
+A3	REGION T0 INSUFFICIENT
+T15	TISSUE 728 744	epithelial cells
+N11	Reference T15 BTO:0000414	epithelial cell
+T38	TISSUE 991 1003	Caco-2 cells
+N33	Reference T38 BTO:0000195	CACO-2 cell
+T22	TISSUE 1054 1084	colonic human epithelial cells
+T39	TISSUE 1246 1262	colonic biopsies
+A1	REGION T1 INSUFFICIENT
+T28	TISSUE 1632 1659	intestinal epithelial cells
+N18	Reference T28 BTO:0005937	intestinal epithelial cell
+T34	GENE 266 287	nuclear factor-kappaB
+T41	GENE 289 298	NF-kappaB
+T42	GENE 568 577	NF-kappaB
+N24	Reference T34 EntrezGene:4790	NFKB1
+N34	Reference T41 EntrezGene:4790	NFKB1
+N35	Reference T42 EntrezGene:4790	NFKB1
+N5	Reference T8 MONDO:MONDO:0005101	ulcerative colitis
+N6	Reference T9 MONDO:MONDO:0005101	ulcerative colitis
+N21	Reference T25 MONDO:MONDO:0005101	ulcerative colitis
+N9	Reference T22 BTO:0004297	colonic epithelial cell
+N32	Reference T39 BTO:0000269	colon
+T6	GENE 626 631	LAMC2
+N36	Reference T6 EntrezGene:3918	LAMC2
+T13	GENE 1419 1424	LAMC2
+N37	Reference T13 EntrezGene:3918	LAMC2
+N38	Reference T12 MONDO:MONDO:0005070	

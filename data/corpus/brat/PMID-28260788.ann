@@ -1,0 +1,41 @@
+T0	ENHANCER 39 57	oncogenic enhancer
+A0	REGION T0 SUFFICIENT
+#0	AnnotatorNotes T0	chr11,8240851,8242851
+T1	ENHANCER 1132 1164	transcriptional enhancer complex
+A1	REGION T1 SUFFICIENT
+#1	AnnotatorNotes T1	chr11,8240851,8242851
+T2	GENE 70 74	LMO1
+N0	Reference T2 EntrezGene:4004	LMO1
+T3	DISEASE 89 94	T-ALL
+A3	CANCER T3
+T4	DISEASE 250 256	cancer
+A4	CANCER T4
+T5	DISEASE 331 337	cancer
+A5	CANCER T5
+T6	DISEASE 542 548	cancer
+A6	CANCER T6
+T7	GENE 833 837	LMO1
+N5	Reference T7 EntrezGene:4004	LMO1
+T8	DISEASE 885 921	T-cell acute lymphoblastic leukaemia
+A8	CANCER T8
+T9	GENE 984 1002	cytidine deaminase
+N7	Reference T9 EntrezGene:978	CDA
+T10	GENE 1210 1214	LMO1
+N8	Reference T10 EntrezGene:4004	LMO1
+T11	SPECIES 1292 1297	human
+N9	Reference T11 NCBITaxon:9606	Homo sapiens
+T12	DISEASE 1298 1305	cancers
+A12	CANCER T12
+T14	TISSUE 1439 1455	T-lymphoid cells
+T15	TISSUE 187 203	neoplastic cells
+T13	TFBS 1045 1090	binding site for the MYB transcription factor
+A2	REGION T13 INSUFFICIENT
+N1	Reference T3 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N2	Reference T4 MONDO:MONDO:0004992	cancer
+N3	Reference T5 MONDO:MONDO:0004992	cancer
+N4	Reference T6 MONDO:MONDO:0004992	cancer
+N6	Reference T8 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N10	Reference T12 MONDO:MONDO:0004992	cancer
+N11	Reference T14 BTO:0000782	T-lymphocyte
+T16	GENE 1066 1069	MYB
+N12	Reference T16 EntrezGene:4602	MYB

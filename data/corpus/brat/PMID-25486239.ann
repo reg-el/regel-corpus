@@ -1,0 +1,82 @@
+T1	ENHANCER 392 429	ARC-specific enhancer(s) of the Kiss1
+T2	PROMOTER 1370 1401	promoter regions of Kiss1 locus
+T3	PROMOTER 1669 1683	Kiss1 promoter
+T4	ENHANCER 1692 1710	5' enhancer region
+T7	SPECIES 89 93	mice
+N1	Reference T7 NCBITaxon:10090	Mus musculus
+T10	GENE 603 608	Kiss1
+N4	Reference T10 EntrezGene:280287	Kiss1
+T11	SPECIES 634 638	mice
+N5	Reference T11 NCBITaxon:10090	Mus musculus
+T18	GENE 1253 1276	estrogen receptor-alpha
+N12	Reference T18 EntrezGene:13982	sr1
+T21	GENE 1523 1528	Kiss1
+N15	Reference T21 EntrezGene:280287	Kiss1
+T22	GENE 1599 1622	estrogen receptor-alpha
+N16	Reference T22 EntrezGene:13982	sr1
+T24	GENE 1761 1766	Kiss1
+N18	Reference T24 EntrezGene:280287	Kiss1
+T27	SPECIES 1907 1911	mice
+N21	Reference T27 NCBITaxon:10090	Mus musculus
+T30	SPECIES 218 225	mammals
+N22	Reference T30 NCBITaxon:40674	Mammalia
+T8	TISSUE 227 245	Kisspeptin neurons
+T31	TISSUE 262 277	arcuate nucleus
+N2	Reference T31 BTO:0005534	arcuate nucleus
+T32	TISSUE 279 282	ARC
+N23	Reference T32 BTO:0005534	arcuate nucleus
+A1	REGION T1 INSUFFICIENT
+T12	TISSUE 716 747	kisspeptin-immunoreactive cells
+T34	TISSUE 760 763	ARC
+N6	Reference T34 BTO:0005534	arcuate nucleus
+T35	TISSUE 768 805	anteroventral periventricular nucleus
+N25	Reference T35 BTO:0002455	anterior paraventricular nucleus
+T13	TISSUE 838 856	kisspeptin neurons
+T15	TISSUE 972 975	ARC
+N7	Reference T15 BTO:0005534	arcuate nucleus
+T16	TISSUE 976 1007	kisspeptin-immunoreactive cells
+T36	TISSUE 1093 1130	anteroventral periventricular nucleus
+N10	Reference T36 BTO:0002455	anterior paraventricular nucleus
+A2	REGION T2 INSUFFICIENT
+T17	TISSUE 1409 1412	ARC
+N9	Reference T17 BTO:0005534	arcuate nucleus
+T37	TISSUE 1551 1554	ARC
+N11	Reference T37 BTO:0005534	arcuate nucleus
+A3	REGION T3 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+T38	TISSUE 1748 1751	ARC
+N26	Reference T38 BTO:0005534	arcuate nucleus
+T6	ENHANCER 31 80	arcuate nucleus-specific enhancer region of Kiss1
+A6	REGION T6 INSUFFICIENT
+T9	SPECIES 900 904	mice
+N3	Reference T9 NCBITaxon:10090	Mus musculus
+T14	GENE 1056 1066	kisspeptin
+N8	Reference T14 EntrezGene:280287	Kiss1
+T19	ENHANCER 1815 1848	5'-upstream region of Kiss1 locus
+A7	REGION T19 INSUFFICIENT
+N17	Reference T8 BTO:0000947	neuronal cell line
+N20	Reference T12 BTO:0000947	neuronal cell line
+N24	Reference T13 BTO:0000947	neuronal cell line
+N27	Reference T16 BTO:0000947	neuronal cell line
+T5	ENHANCER 1464 1497	5'-upstream region of Kiss1 locus
+A5	REGION T5 INSUFFICIENT
+T20	ENHANCER 1865 1887	enhancer for ARC Kiss1
+A8	REGION T20 INSUFFICIENT
+T23	GENE 75 80	Kiss1
+N13	Reference T23 EntrezGene:280287	Kiss1
+T25	GENE 424 429	Kiss1
+N14	Reference T25 EntrezGene:280287	Kiss1
+T26	GENE 1486 1491	Kiss1
+N19	Reference T26 EntrezGene:280287	Kiss1
+T28	GENE 1882 1887	Kiss1
+N28	Reference T28 EntrezGene:280287	Kiss1
+T29	TISSUE 31 46	arcuate nucleus
+N29	Reference T29 BTO:0005534	
+T33	TISSUE 392 395	ARC
+N30	Reference T33 BTO:0005534	arcuate nucleus
+T39	TISSUE 1878 1881	ARC
+N31	Reference T39 BTO:0005534	
+T40	GENE 1669 1674	Kiss1
+N32	Reference T40 EntrezGene:280287	Kiss1
+T41	GENE 1390 1395	Kiss1
+N33	Reference T41 EntrezGene:280287	Kiss1

@@ -1,0 +1,45 @@
+T2	PROMOTER 924 936	Myc promoter
+T3	ENHANCER 953 973	distal Myc enhancers
+T5	DISEASE 19 33	acute leukemia
+T9	SPECIES 231 240	mammalian
+T10	GENE 340 344	Brg1
+N4	Reference T10 EntrezGene:6597	SMARCA4
+T11	DISEASE 397 402	tumor
+T12	DISEASE 450 458	leukemia
+T13	GENE 481 485	Brg1
+N6	Reference T13 EntrezGene:6597	SMARCA4
+T17	GENE 774 778	Brd4
+N10	Reference T17 EntrezGene:23476	BRD4
+T18	GENE 780 784	Brg1
+N11	Reference T18 EntrezGene:6597	SMARCA4
+T21	DISEASE 1033 1056	acute myeloid leukemias
+T22	DISEASE 1092 1100	leukemia
+A7	CANCER T12
+A1	REGION T2 INSUFFICIENT
+A2	REGION T3 INSUFFICIENT
+A3	CANCER T22
+T19	TISSUE 204 218	leukemia cells
+A4	CANCER T19
+N12	Reference T19 BTO:0001271	leukemia cell
+T7	ENHANCER 645 717	cluster of lineage-specific enhancers located 1.7 Mb downstream from Myc
+A6	REGION T7 INSUFFICIENT
+T1	ENHANCER 806 821	distal elements
+A5	REGION T1 INSUFFICIENT
+N1	Reference T5 MONDO:MONDO:0010643	acute leukemia
+N2	Reference T12 MONDO:MONDO:0005059	leukemia
+N5	Reference T21 MONDO:MONDO:0018874	acute myeloid leukemia
+N8	Reference T22 MONDO:MONDO:0005059	leukemia
+N3	Reference T9 NCBITaxon:40674	Mammalia
+T6	TISSUE 1223 1235	cancer cells
+T4	TISSUE 84 96	Cancer cells
+T8	GENE 349 355	ATPase
+N7	Reference T8 EntrezGene:1769	DNAH8
+T14	GENE 68 71	Myc
+N9	Reference T14 EntrezGene:4609	MYC
+T15	GENE 553 556	Myc
+N13	Reference T15 EntrezGene:4609	MYC
+T16	GENE 714 717	Myc
+N14	Reference T16 EntrezGene:4609	MYC
+T20	GENE 924 927	Myc
+N15	Reference T20 EntrezGene:4609	MYC
+N16	Reference T11 MONDO:MONDO:0005070	neoplasm

@@ -1,0 +1,28 @@
+T0	ENHANCER 1323 1406	DNA fragment encompassing the 3-bp deletion polymorphism has enhancer-like activity
+T1	GENE 23 28	HBS1L
+N0	Reference T1 EntrezGene:10767	HBS1L
+T2	GENE 29 32	MYB
+N1	Reference T2 EntrezGene:4602	MYB
+T3	GENE 216 221	HBS1L
+N2	Reference T3 EntrezGene:10767	HBS1L
+T4	GENE 222 225	MYB
+N3	Reference T4 EntrezGene:4602	MYB
+T5	GENE 262 268	BCL11A
+N4	Reference T5 EntrezGene:53335	BCL11A
+T7	GENE 455 461	BCL11A
+N6	Reference T7 EntrezGene:53335	BCL11A
+T8	VARIANT 983 992	rs9399137
+T14	DISEASE 325 341	beta-thalassemia
+T15	SPECIES 317 324	Chinese
+N12	Reference T15 NCBITaxon:9606	Homo sapiens
+#1	AnnotatorNotes T8	chr6:135097880:T,C
+T19	SPECIES 1091 1098	Chinese
+N14	Reference T19 NCBITaxon:9606	Homo sapiens
+T20	SPECIES 1100 1109	Europeans
+N15	Reference T20 NCBITaxon:9606	Homo sapiens
+T21	SPECIES 1115 1123	Africans
+N16	Reference T21 NCBITaxon:9606	Homo sapiens
+T23	TISSUE 1243 1253	K562 cells
+N18	Reference T23 BTO:0000664	K-562 cell
+A1	REGION T0 INSUFFICIENT
+N11	Reference T14 MONDO:MONDO:0019402	beta thalassemia

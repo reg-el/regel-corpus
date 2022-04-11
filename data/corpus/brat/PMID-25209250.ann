@@ -1,0 +1,50 @@
+T0	ENHANCER 679 729	two enhancer elements located upstream of the gene
+T1	GENE 30 39	nephrocan
+N0	Reference T1 EntrezGene:66650	p
+T2	GENE 387 396	nephrocan
+N1	Reference T2 EntrezGene:66650	p
+T3	GENE 398 402	Nepn
+N2	Reference T3 EntrezGene:66650	p
+T4	SPECIES 448 452	mice
+N3	Reference T4 NCBITaxon:10090	Mus musculus
+T5	GENE 471 475	Nepn
+N4	Reference T5 EntrezGene:66650	p
+T6	GENE 514 519	Sox17
+N5	Reference T6 EntrezGene:20671	Sox17
+T7	GENE 529 535	Raldh2
+N6	Reference T7 EntrezGene:19378	Aldh1a2
+T8	GENE 603 607	Nepn
+N7	Reference T8 EntrezGene:66650	p
+T9	GENE 633 638	Sox17
+N8	Reference T9 EntrezGene:20671	Sox17
+T10	GENE 741 745	Nepn
+N9	Reference T10 EntrezGene:66650	p
+T11	GENE 873 878	Foxh1
+N10	Reference T11 EntrezGene:14106	Foxh1
+T12	GENE 933 937	Nepn
+N11	Reference T12 EntrezGene:66650	p
+T13	GENE 1077 1082	Sox17
+N12	Reference T13 EntrezGene:20671	Sox17
+T14	GENE 1099 1103	Nepn
+N13	Reference T14 EntrezGene:66650	p
+T16	GENE 1218 1223	Nodal
+N14	Reference T16 EntrezGene:4838	NODAL
+T17	GENE 901 906	Nodal
+N15	Reference T17 EntrezGene:4838	NODAL
+T18	GENE 1014 1019	Nodal
+N16	Reference T18 EntrezGene:4838	NODAL
+T19	TISSUE 1133 1141	endoderm
+N17	Reference T19 BTO:0000800	endoderm
+A1	REGION T0 INSUFFICIENT
+T15	TISSUE 140 148	endoderm
+N18	Reference T15 BTO:0000800	endoderm
+T20	TISSUE 239 247	endoderm
+N19	Reference T20 BTO:0000800	endoderm
+T21	TISSUE 541 548	embryos
+N20	Reference T21 BTO:0000379	
+T22	TISSUE 573 580	embryos
+N21	Reference T22 BTO:0000379	embryo
+T23	TISSUE 884 891	embryos
+N22	Reference T23 BTO:0000379	
+T24	TISSUE 986 989	gut
+N23	Reference T24 BTO:0000545	

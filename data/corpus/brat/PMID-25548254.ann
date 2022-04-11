@@ -1,0 +1,56 @@
+T0	ENHANCER 474 487	Cd8 enhancers
+T1	ENHANCER 898 915	Cd8 enhancer E8VI
+T2	ENHANCER 1441 1453	Cd8 enhancer
+T3	GENE 8 11	Cd8
+N0	Reference T3 EntrezGene:925	CD8A
+T5	GENE 137 140	CD8
+N2	Reference T5 EntrezGene:925	CD8A
+T6	GENE 353 356	Cd8
+N3	Reference T6 EntrezGene:925	CD8A
+T7	GENE 415 418	CD8
+N4	Reference T7 EntrezGene:925	CD8A
+T10	GENE 636 639	Cd8
+N7	Reference T10 EntrezGene:925	CD8A
+T15	GENE 957 963	Bcl11b
+N12	Reference T15 EntrezGene:64919	BCL11B
+T24	GENE 1706 1709	CD8
+N21	Reference T24 EntrezGene:925	CD8A
+T26	TISSUE 72 97	CD44hiCD62L+ CD8+ T cells
+T27	TISSUE 105 135	CD8alphaalpha+ dendritic cells
+A3	REGION T0 INSUFFICIENT
+T4	TISSUE 806 837	CD44(hi)CD62L(+) CD8(+) T cells
+T11	TISSUE 861 875	CD8(+) T cells
+A1	REGION T1 INSUFFICIENT
+T13	TISSUE 1089 1103	CD8(+) T cells
+T16	TISSUE 1168 1182	CD8(+) T cells
+T17	TISSUE 1335 1355	CD8alphaalpha(+) DCs
+T18	TISSUE 1367 1396	CD8alphaalpha-expressing IELs
+A2	REGION T2 INSUFFICIENT
+T19	TISSUE 1481 1512	CD44(hi)CD62L(+) CD8(+) T cells
+T21	TISSUE 1573 1587	CD8(+) T cells
+T22	TISSUE 1595 1615	CD8alphaalpha(+) DCs
+T14	ENHANCER 981 985	E8VI
+A4	REGION T14 INSUFFICIENT
+T20	ENHANCER 1268 1272	E8VI
+A6	REGION T20 INSUFFICIENT
+T9	TISSUE 195 204	thymocyte
+N5	Reference T9 BTO:0001372	thymocyte
+T25	ENHANCER 1292 1296	E8VI
+A8	REGION T25 INSUFFICIENT
+N6	Reference T26 BTO:0000289	cytotoxic T-lymphocyte
+N8	Reference T16 BTO:0000289	cytotoxic T-lymphocyte
+N9	Reference T11 BTO:0000289	cytotoxic T-lymphocyte
+N10	Reference T13 BTO:0000289	cytotoxic T-lymphocyte
+N11	Reference T19 BTO:0000289	cytotoxic T-lymphocyte
+N13	Reference T21 BTO:0000289	cytotoxic T-lymphocyte
+N14	Reference T27 BTO:0002042	dendritic cell
+N1	Reference T4 BTO:0000289	cytotoxic T-lymphocyte
+N15	Reference T17 BTO:0002042	dendritic cell
+N16	Reference T22 BTO:0002042	dendritic cell
+N17	Reference T18 BTO:0000782	T-lymphocyte
+T8	REGULATORY_REGION 271 306	5 different cis-regulatory elements
+A5	REGION T8 INSUFFICIENT
+T12	GENE 474 477	Cd8
+N18	Reference T12 EntrezGene:925	CD8A
+T23	GENE 1441 1444	Cd8
+N19	Reference T23 EntrezGene:925	CD8A

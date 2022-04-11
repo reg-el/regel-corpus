@@ -1,0 +1,80 @@
+T0	ENHANCER 416 454	SRY-dependent testis-specific enhancer
+T1	ENHANCER 1259 1283	testis-specific enhancer
+T2	ENHANCER 1747 1782	Sertoli-cell enhancer of human SOX9
+T3	GENE 69 73	SOX9
+N0	Reference T3 EntrezGene:20682	Sox9
+T5	DISEASE 99 132	46,XX disorder of sex development
+T6	GENE 146 150	SOX9
+N3	Reference T6 EntrezGene:20682	Sox9
+T8	DISEASE 202 222	campomelic dysplasia
+T9	SPECIES 271 275	mice
+N6	Reference T9 NCBITaxon:10090	Mus musculus
+T10	GENE 290 294	SOX9
+N7	Reference T10 EntrezGene:20682	Sox9
+T11	GENE 356 359	SRY
+N8	Reference T11 EntrezGene:21674	Sry
+T13	GENE 459 463	Sox9
+N10	Reference T13 EntrezGene:20682	Sox9
+T14	SPECIES 492 496	mice
+N11	Reference T14 NCBITaxon:10090	Mus musculus
+T15	GENE 601 605	SOX9
+N12	Reference T15 EntrezGene:20682	Sox9
+T17	DISEASE 641 675	46,XX disorders of sex development
+T18	DISEASE 677 680	DSD
+T19	GENE 782 786	SOX9
+N15	Reference T19 EntrezGene:20682	Sox9
+T20	GENE 827 830	SRY
+N16	Reference T20 EntrezGene:21674	Sry
+T21	GENE 950 954	SOX9
+N17	Reference T21 EntrezGene:20682	Sox9
+T22	GENE 1075 1078	SRY
+N18	Reference T22 EntrezGene:21674	Sry
+T23	DISEASE 1088 1097	46,XY DSD
+T24	GENE 1185 1189	SOX9
+N20	Reference T24 EntrezGene:20682	Sox9
+T25	GENE 1425 1428	SRY
+N21	Reference T25 EntrezGene:21674	Sry
+T26	GENE 1656 1660	SOX9
+N22	Reference T26 EntrezGene:20682	Sox9
+T27	GENE 1673 1676	SRY
+N23	Reference T27 EntrezGene:6736	SRY
+T4	TISSUE 305 311	testis
+N1	Reference T4 BTO:0001363	testis
+T31	TISSUE 372 384	Sertoli cell
+T32	TISSUE 389 395	testis
+N26	Reference T32 BTO:0001363	testis
+A3	REGION T0 INSUFFICIENT
+T16	DISEASE 90 95	46,XY
+T33	DISEASE 631 636	46,XY
+T34	DISEASE 840 849	46,XX DSD
+A1	REGION T1 INSUFFICIENT
+T36	TISSUE 1485 1503	Sertoli-like cells
+T38	DISEASE 1553 1558	46,XY
+T39	DISEASE 1563 1572	46,XX DSD
+A2	REGION T2 INSUFFICIENT
+N24	Reference T36 BTO:0004513	Sertoli cell line
+N2	Reference T5 MONDO:MONDO:0017576	46,XX disorder of sex development
+N25	Reference T16 MONDO:MONDO:0020040	46,XY disorder of sex development
+N5	Reference T8 MONDO:MONDO:0007251	campomelic dysplasia
+N4	Reference T33 MONDO:MONDO:0020040	46,XY disorder of sex development
+N13	Reference T17 MONDO:MONDO:0017576	46,XX disorder of sex development
+N27	Reference T34 MONDO:MONDO:0017576	46,XX disorder of sex development
+N19	Reference T23 MONDO:MONDO:0020040	46,XY disorder of sex development
+N28	Reference T38 MONDO:MONDO:0020040	46,XY disorder of sex development
+N29	Reference T39 MONDO:MONDO:0017576	46,XX disorder of sex development
+N14	Reference T18 MONDO:MONDO:0002145	sex differentiation disease
+T7	DISEASE 171 201	skeletal malformation syndrome
+N31	Reference T7 MONDO:MONDO:0005497	
+N32	Reference T31 BTO:0001238	Sertoli cell
+T12	GENE 416 419	SRY
+N9	Reference T12 EntrezGene:21674	Sry
+T28	TISSUE 430 436	testis
+N30	Reference T28 BTO:0001363	testis
+T29	TISSUE 1259 1265	testis
+N33	Reference T29 BTO:0001363	
+T30	TISSUE 1747 1759	Sertoli-cell
+N34	Reference T30 BTO:0001363	
+T35	GENE 1778 1782	SOX9
+T37	SPECIES 1772 1777	human
+N36	Reference T37 NCBITaxon:9606	Homo sapiens
+N35	Reference T35 EntrezGene:6662	SOX9

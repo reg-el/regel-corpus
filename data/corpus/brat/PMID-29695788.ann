@@ -1,0 +1,38 @@
+T3	ENHANCER 985 1022	naive-specific POU5F1 (OCT4) enhancer
+T4	GENE 0 6	TFAP2C
+N0	Reference T4 EntrezGene:7022	TFAP2C
+T5	SPECIES 34 39	human
+N1	Reference T5 NCBITaxon:9606	Homo sapiens
+T7	SPECIES 294 299	human
+N3	Reference T7 NCBITaxon:9606	Homo sapiens
+T10	GENE 604 607	AP2
+N6	Reference T10 EntrezGene:7020	TFAP2A
+T11	GENE 622 628	TFAP2C
+N7	Reference T11 EntrezGene:7022	TFAP2C
+T12	GENE 729 735	TFAP2C
+N8	Reference T12 EntrezGene:7022	TFAP2C
+T15	GENE 1036 1042	TFAP2C
+N11	Reference T15 EntrezGene:7022	TFAP2C
+T16	GENE 1068 1074	TFAP2C
+N12	Reference T16 EntrezGene:7022	TFAP2C
+T17	SPECIES 1107 1112	human
+N13	Reference T17 NCBITaxon:9606	Homo sapiens
+T18	GENE 1140 1144	OCT4
+N14	Reference T18 EntrezGene:5460	POU5F1
+T19	SPECIES 1193 1198	mouse
+N15	Reference T19 NCBITaxon:10090	Mus musculus
+T21	TISSUE 110 136	human embryonic stem cells
+T22	TFBS 486 546	activator protein-2 (AP2) transcription factor binding motif
+A4	REGION T22 INSUFFICIENT
+A1	REGION T3 INSUFFICIENT
+T1	TISSUE 199 207	epiblast
+N4	Reference T1 BTO:0004593	epiblast
+N2	Reference T21 BTO:0006080	hESC cell
+T2	GENE 1000 1006	POU5F1
+N5	Reference T2 EntrezGene:5460	POU5F1
+T6	GENE 1008 1012	OCT4
+N9	Reference T6 EntrezGene:5460	POU5F1
+T8	GENE 486 505	activator protein-2
+N10	Reference T8 EntrezGene:7020	TFAP2A
+T9	GENE 507 510	AP2
+N16	Reference T9 EntrezGene:7020	TFAP2A

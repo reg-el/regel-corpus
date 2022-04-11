@@ -1,0 +1,69 @@
+T0	ENHANCER 57 99	upstream enhancer of the human NKX2-5 gene
+T1	PROMOTER 901 921	NKX2-5 gene promoter
+T2	ENHANCER 928 945	proximal enhancer
+T3	ENHANCER 1037 1073	upstream enhancer of the NKX2-5 gene
+T4	ENHANCER 1357 1365	enhancer
+T5	ENHANCER 1562 1598	upstream enhancer of the NKX2-5 gene
+T8	DISEASE 103 129	ventricular septal defects
+T9	DISEASE 158 182	congenital heart disease
+T10	DISEASE 184 187	CHD
+T12	DISEASE 304 317	heart failure
+T14	DISEASE 350 365	genetic defects
+T15	DISEASE 395 398	CHD
+T16	GENE 423 429	NKX2-5
+T17	GENE 593 599	NKX2-5
+T18	DISEASE 646 649	CHD
+T19	DISEASE 661 686	ventricular septal defect
+T20	DISEASE 688 691	VSD
+T21	GENE 697 703	NKX2-5
+T22	GENE 769 775	NKX2-5
+T23	DISEASE 795 798	CHD
+T25	DISEASE 949 952	VSD
+T27	DISEASE 1094 1097	VSD
+T28	DISEASE 1248 1251	VSD
+T29	DISEASE 1441 1444	VSD
+T31	DISEASE 1635 1638	VSD
+T32	DISEASE 1670 1673	CHD
+T33	DISEASE 1735 1738	CHD
+A6	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+A5	REGION T5 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+T34	VARIANT 1190 1203	g.17483576C>G
+T35	VARIANT 1208 1221	g.17483564C>T
+T36	VARIANT 1408 1421	g.17483557Ins
+N1	Reference T16 EntrezGene:1482	NKX2-5
+N7	Reference T17 EntrezGene:1482	
+N8	Reference T21 EntrezGene:1482	NKX2-5
+N12	Reference T22 EntrezGene:1482	NKX2-5
+N2	Reference T8 MONDO:MONDO:0002070	ventricular septal defect
+N13	Reference T9 MONDO:MONDO:0005453	congenital heart disease
+N3	Reference T10 MONDO:MONDO:0005453	congenital heart disease
+N6	Reference T15 MONDO:MONDO:0005453	congenital heart disease
+N9	Reference T18 MONDO:MONDO:0005453	congenital heart disease
+N10	Reference T19 MONDO:MONDO:0002070	ventricular septal defect
+N11	Reference T20 MONDO:MONDO:0002070	ventricular septal defect
+N14	Reference T23 MONDO:MONDO:0005453	congenital heart disease
+N15	Reference T25 MONDO:MONDO:0002070	ventricular septal defect
+N16	Reference T27 MONDO:MONDO:0002070	ventricular septal defect
+N17	Reference T28 MONDO:MONDO:0002070	ventricular septal defect
+N18	Reference T29 MONDO:MONDO:0002070	ventricular septal defect
+N19	Reference T31 MONDO:MONDO:0002070	ventricular septal defect
+N20	Reference T32 MONDO:MONDO:0005453	congenital heart disease
+N21	Reference T33 MONDO:MONDO:0005453	congenital heart disease
+N4	Reference T12 MONDO:MONDO:0005252	heart failure
+N5	Reference T14 MONDO:MONDO:0003847	Mendelian disease
+T6	TISSUE 519 524	heart
+N22	Reference T6 BTO:0000562	heart
+T7	TISSUE 540 547	embryos
+N23	Reference T7 BTO:0000379	embryo
+T11	GENE 88 94	NKX2-5
+N24	Reference T11 EntrezGene:1482	NKX2-5
+T13	GENE 1062 1068	NKX2-5
+N25	Reference T13 EntrezGene:1482	NKX2-5
+T24	GENE 1587 1593	NKX2-5
+N26	Reference T24 EntrezGene:1482	NKX2-5
+T26	GENE 901 907	NKX2-5
+N27	Reference T26 EntrezGene:1482	NKX2-5

@@ -1,0 +1,107 @@
+T0	ENHANCER 980 995	COL1A2 enhancer
+T1	ENHANCER 1435 1450	COL1A2 enhancer
+T2	PROMOTER 1543 1560	proximal promoter
+T3	ENHANCER 1588 1596	enhancer
+T4	GENE 22 26	JunB
+N0	Reference T4 EntrezGene:3726	JUNB
+T6	DISEASE 128 146	systemic sclerosis
+T7	DISEASE 275 301	connective tissue diseases
+T8	DISEASE 310 328	systemic sclerosis
+T9	DISEASE 330 333	SSc
+T10	DISEASE 335 346	scleroderma
+T11	DISEASE 457 460	SSc
+T12	GENE 494 513	activator protein 1
+N5	Reference T12 EntrezGene:3725	JU
+T13	GENE 515 519	AP-1
+N6	Reference T13 EntrezGene:3725	JU
+T14	GENE 567 573	COL1A2
+N7	Reference T14 EntrezGene:1278	COL1A2
+T15	GENE 641 645	AP-1
+N8	Reference T15 EntrezGene:3725	JU
+T16	GENE 662 667	c-Jun
+N9	Reference T16 EntrezGene:3725	JU
+T17	GENE 669 673	JunB
+N10	Reference T17 EntrezGene:3726	JUNB
+T18	GENE 675 679	JunD
+N11	Reference T18 EntrezGene:3727	JUND
+T19	GENE 681 686	Fra-1
+N12	Reference T19 EntrezGene:8061	FOSL1
+T20	GENE 688 693	Fra-2
+N13	Reference T20 EntrezGene:2355	FOSL2
+T21	GENE 699 704	c-Fos
+N14	Reference T21 EntrezGene:2353	FOS
+T22	DISEASE 850 863	cutaneous SSc
+T24	GENE 1188 1192	AP-1
+N16	Reference T24 EntrezGene:3725	JU
+T25	GENE 1234 1263	mammalian target of rapamycin
+N17	Reference T25 EntrezGene:2475	MTOR
+T26	GENE 1265 1269	mTOR
+N18	Reference T26 EntrezGene:2475	MTOR
+T27	GENE 1272 1275	Akt
+N19	Reference T27 EntrezGene:207	AKT1
+T28	GENE 1281 1311	glycogen synthase kinase 3beta
+N20	Reference T28 EntrezGene:2932	SK3B
+T29	GENE 1313 1322	GSK-3beta
+N21	Reference T29 EntrezGene:2932	SK3B
+T30	GENE 1423 1427	JunB
+N22	Reference T30 EntrezGene:3726	JUNB
+T32	GENE 1575 1579	JunB
+N24	Reference T32 EntrezGene:3726	JUNB
+T33	GENE 1612 1618	COL1A2
+N25	Reference T33 EntrezGene:1278	COL1A2
+T34	GENE 1645 1676	transforming growth factor beta
+N26	Reference T34 EntrezGene:7040	TGFB1
+T36	GENE 1715 1719	mTOR
+N27	Reference T36 EntrezGene:2475	MTOR
+T37	GENE 1720 1723	Akt
+N28	Reference T37 EntrezGene:207	AKT1
+T38	GENE 1770 1779	GSK-3beta
+N29	Reference T38 EntrezGene:2932	SK3B
+T39	GENE 1804 1808	JunB
+N30	Reference T39 EntrezGene:3726	JUNB
+T40	GENE 1866 1870	JunB
+N31	Reference T40 EntrezGene:3726	JUNB
+T41	DISEASE 1901 1904	SSc
+T42	GENE 1926 1930	JunB
+N32	Reference T42 EntrezGene:3726	JUNB
+T43	GENE 1954 1958	mTOR
+N33	Reference T43 EntrezGene:2475	MTOR
+T44	GENE 1959 1962	Akt
+N34	Reference T44 EntrezGene:207	AKT1
+T45	GENE 2096 2100	JunB
+N35	Reference T45 EntrezGene:3726	JUNB
+T46	DISEASE 2151 2154	SSc
+T49	TISSUE 806 822	skin fibroblasts
+N39	Reference T49 BTO:0001255	skin fibroblast
+A4	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+T35	TISSUE 1685 1703	dermal fibroblasts
+N42	Reference T35 BTO:0004419	dermal fibroblast
+T47	TISSUE 1223 1233	fibroblast
+N15	Reference T47 BTO:0000452	fibroblast
+T23	DISEASE 1681 1684	SSc
+N2	Reference T6 MONDO:MONDO:0005100	systemic sclerosis
+N4	Reference T8 MONDO:MONDO:0005100	systemic sclerosis
+N23	Reference T9 MONDO:MONDO:0005100	systemic sclerosis
+N3	Reference T7 MONDO:MONDO:0003900	connective tissue disease
+N1	Reference T11 MONDO:MONDO:0005100	systemic sclerosis
+N37	Reference T22 MONDO:MONDO:0005100	
+N38	Reference T23 MONDO:MONDO:0005100	systemic sclerosis
+N40	Reference T41 MONDO:MONDO:0005100	
+N41	Reference T46 MONDO:MONDO:0005100	systemic sclerosis
+N36	Reference T10 MONDO:MONDO:0019340	scleroderma
+T5	GENE 60 75	type I collagen
+N43	Reference T5 EntrezGene:1277	COL1A1
+T31	GENE 219 234	type I collagen
+N44	Reference T31 EntrezGene:1277	COL1A1
+T48	GENE 427 442	type I collagen
+N45	Reference T48 EntrezGene:1277	COL1A1
+T50	GENE 2055 2070	type I collagen
+N46	Reference T50 EntrezGene:1277	COL1A1
+T51	DISEASE 95 110	dermal fibrosis
+T52	GENE 980 986	COL1A2
+N47	Reference T52 EntrezGene:1278	COL1A2
+T53	GENE 1435 1441	COL1A2
+N48	Reference T53 EntrezGene:1278	COL1A2

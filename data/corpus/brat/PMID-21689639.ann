@@ -1,0 +1,106 @@
+T0	ENHANCER 29 68	enhancer region of the human NANOG gene
+T2	ENHANCER 451 483	enhancer of the human NANOG gene
+T3	PROMOTER 558 572	NANOG promoter
+T4	PROMOTER 651 665	NANOG promoter
+T5	ENHANCER 733 772	enhancer region of the human NANOG gene
+T6	PROMOTER 807 821	NANOG promoter
+T7	ENHANCER 960 993	enhancer region of the NANOG gene
+T8	PROMOTER 1082 1096	NANOG promoter
+T9	PROMOTER 1252 1266	NANOG promoter
+T10	ENHANCER 1471 1510	enhancer region of the human NANOG gene
+T14	GENE 106 111	NANOG
+N3	Reference T14 EntrezGene:79923	ANO
+T15	GENE 320 325	NANOG
+N4	Reference T15 EntrezGene:79923	ANO
+T16	SPECIES 340 345	human
+N5	Reference T16 NCBITaxon:9606	Homo sapiens
+T21	GENE 528 540	beta-catenin
+N10	Reference T21 EntrezGene:1499	CTNNB1
+T22	SPECIES 552 557	human
+N11	Reference T22 NCBITaxon:9606	Homo sapiens
+T24	GENE 617 629	beta-catenin
+N13	Reference T24 EntrezGene:1499	CTNNB1
+T25	GENE 638 642	Lef1
+N14	Reference T25 EntrezGene:51176	LEF1
+T30	GENE 794 798	Lef1
+N19	Reference T30 EntrezGene:51176	LEF1
+T32	GENE 903 907	Lef1
+N21	Reference T32 EntrezGene:51176	LEF1
+T33	GENE 912 924	beta-catenin
+N22	Reference T33 EntrezGene:1499	CTNNB1
+T36	GENE 1016 1025	GSK-3beta
+N25	Reference T36 EntrezGene:2932	SK3B
+T37	GENE 1043 1047	Lef1
+N26	Reference T37 EntrezGene:51176	LEF1
+T38	GENE 1061 1073	beta-catenin
+N27	Reference T38 EntrezGene:1499	CTNNB1
+T40	GENE 1132 1141	GSK-3beta
+N29	Reference T40 EntrezGene:2932	SK3B
+T41	GENE 1193 1205	beta-catenin
+N30	Reference T41 EntrezGene:1499	CTNNB1
+T42	GENE 1210 1215	NANOG
+N31	Reference T42 EntrezGene:79923	ANO
+T43	GENE 1238 1243	Dvl-1
+N32	Reference T43 EntrezGene:1855	DVL1
+T45	GENE 1311 1323	beta-catenin
+N34	Reference T45 EntrezGene:1499	CTNNB1
+T46	GENE 1356 1361	Dvl-1
+N35	Reference T46 EntrezGene:1855	DVL1
+T47	GENE 1369 1381	beta-catenin
+N36	Reference T47 EntrezGene:1499	CTNNB1
+T48	GENE 1386 1391	NANOG
+N37	Reference T48 EntrezGene:79923	ANO
+T52	GENE 1532 1537	NANOG
+N41	Reference T52 EntrezGene:79923	ANO
+A11	REGION T0 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+A4	REGION T4 INSUFFICIENT
+A3	REGION T3 INSUFFICIENT
+A7	REGION T8 INSUFFICIENT
+A5	REGION T5 INSUFFICIENT
+A6	REGION T6 INSUFFICIENT
+A8	REGION T9 INSUFFICIENT
+A9	REGION T10 INSUFFICIENT
+T12	TISSUE 235 255	embryonic stem cells
+N1	Reference T12 BTO:0001086	embryonic stem cell
+T17	TFBS 410 483	Tcf/Lef response elements located in the enhancer of the human NANOG gene
+A10	REGION T17 INSUFFICIENT
+T18	TFBS 2 68	Tcf/Lef element within the enhancer region of the human NANOG gene
+A12	REGION T18 INSUFFICIENT
+T11	GENE 520 524	Lef1
+N2	Reference T11 EntrezGene:51176	LEF1
+T13	TFBS 706 772	Tcf/Lef element within the enhancer region of the human NANOG gene
+A13	REGION T13 INSUFFICIENT
+T19	TFBS 937 993	Tcf/Lef element in the enhancer region of the NANOG gene
+A14	REGION T19 INSUFFICIENT
+T20	TFBS 1439 1510	Tcf/Lef response element in the enhancer region of the human NANOG gene
+A15	REGION T20 INSUFFICIENT
+A16	REGION T7 INSUFFICIENT
+T1	GENE 58 63	NANOG
+N6	Reference T1 EntrezGene:79923	NANOG
+T23	SPECIES 52 57	human
+N7	Reference T23 NCBITaxon:9606	Homo sapiens
+T26	GENE 473 478	NANOG
+N8	Reference T26 EntrezGene:79923	NANOG
+T27	GENE 762 767	NANOG
+N9	Reference T27 EntrezGene:79923	NANOG
+T28	GENE 983 988	NANOG
+N12	Reference T28 EntrezGene:79923	NANOG
+T29	GENE 1500 1505	NANOG
+N15	Reference T29 EntrezGene:79923	NANOG
+T31	SPECIES 1494 1499	human
+N16	Reference T31 NCBITaxon:9606	Homo sapiens
+T34	SPECIES 467 472	human
+N17	Reference T34 NCBITaxon:9606	Homo sapiens
+T35	SPECIES 756 761	human
+N18	Reference T35 NCBITaxon:9606	
+T39	GENE 558 563	NANOG
+N20	Reference T39 EntrezGene:79923	NANOG
+T44	GENE 651 656	NANOG
+N23	Reference T44 EntrezGene:79923	NANOG
+T49	GENE 807 812	NANOG
+N24	Reference T49 EntrezGene:79923	NANOG
+T50	GENE 1082 1087	NANOG
+N28	Reference T50 EntrezGene:79923	NANOG
+T51	GENE 1252 1257	NANOG
+N33	Reference T51 EntrezGene:79923	NANOG

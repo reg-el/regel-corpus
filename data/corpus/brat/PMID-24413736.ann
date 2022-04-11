@@ -1,0 +1,34 @@
+T5	DISEASE 47 62	type 2 diabetes
+T6	DISEASE 89 104	Type 2 diabetes
+T7	SPECIES 130 136	people
+N2	Reference T7 NCBITaxon:9606	Homo sapiens
+T8	DISEASE 249 277	Pancreatic islet dysfunction
+T9	DISEASE 292 307	type 2 diabetes
+T10	SPECIES 467 472	human
+N4	Reference T10 NCBITaxon:9606	Homo sapiens
+T11	DISEASE 790 805	type 2 diabetes
+T18	TISSUE 340 345	islet
+N8	Reference T18 BTO:0000991	pancreatic islet
+T19	TISSUE 473 478	islet
+N9	Reference T19 BTO:0000991	pancreatic islet
+T20	TISSUE 555 560	islet
+N10	Reference T20 BTO:0000991	pancreatic islet
+T21	TISSUE 592 597	islet
+N11	Reference T21 BTO:0000991	pancreatic islet
+T3	TISSUE 995 1000	islet
+N12	Reference T3 BTO:0000991	pancreatic islet
+T13	DISEASE 1179 1194	type 2 diabetes
+T1	TISSUE 11 16	islet
+T2	TISSUE 943 948	islet
+T4	TISSUE 1122 1127	islet
+N7	Reference T1 BTO:0000991	pancreatic islet
+N13	Reference T2 BTO:0000991	pancreatic islet
+N14	Reference T4 BTO:0000991	pancreatic islet
+N15	Reference T5 MONDO:MONDO:0005148	type 2 diabetes mellitus
+N1	Reference T6 MONDO:MONDO:0005148	type 2 diabetes mellitus
+N3	Reference T9 MONDO:MONDO:0005148	type 2 diabetes mellitus
+N5	Reference T11 MONDO:MONDO:0005148	type 2 diabetes mellitus
+N16	Reference T13 MONDO:MONDO:0005148	type 2 diabetes mellitus
+N17	Reference T8 MONDO:MONDO:0002356	pancreas disease
+T12	DISEASE 810 826	fasting glycemia
+N6	Reference T12 MONDO:MONDO:0002908	glucose metabolism disease

@@ -1,0 +1,28 @@
+T3	GENE 60 63	AHR
+N0	Reference T3 EntrezGene:11622	Ahr
+T4	GENE 68 73	GLIS1
+N1	Reference T4 EntrezGene:230587	lis1
+T5	SPECIES 600 605	mouse
+N2	Reference T5 NCBITaxon:10090	Mus musculus
+T6	GENE 1092 1117	aryl hydrocarbon receptor
+N3	Reference T6 EntrezGene:11622	Ahr
+T7	GENE 1119 1122	AHR
+N4	Reference T7 EntrezGene:11622	Ahr
+T8	GENE 1155 1160	GLIS1
+N5	Reference T8 EntrezGene:230587	lis1
+T9	GENE 1282 1285	AHR
+N6	Reference T9 EntrezGene:11622	Ahr
+T10	GENE 1290 1295	GLIS1
+N7	Reference T10 EntrezGene:230587	lis1
+T17	TISSUE 649 652	ST2
+N10	Reference T17 BTO:0003296	bone marrow stromal cell line
+T18	TISSUE 661 671	adipocytes
+N11	Reference T18 BTO:0000443	adipocyte
+T19	TISSUE 676 687	osteoblasts
+N12	Reference T19 BTO:0001593	osteoblast
+T1	GENE 1128 1153	Glis family zinc finger 1
+N13	Reference T1 EntrezGene:230587	Glis1
+T2	TISSUE 1413 1442	bone marrow-derived ST2 cells
+T11	TISSUE 618 647	bone marrow stromal cell line
+N9	Reference T11 BTO:0003296	bone marrow stromal cell line
+N15	Reference T2 BTO:0003296	bone marrow stromal cell line

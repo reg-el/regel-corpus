@@ -1,0 +1,16 @@
+T10	GENE 798 828	estrogen-related receptor beta
+T11	GENE 830 835	Esrrb
+T12	GENE 987 992	Esrrb
+T13	SPECIES 1267 1276	mammalian
+T1	SPECIES 81 89	Metazoan
+N5	Reference T1 NCBITaxon:33208	Metazoa
+T2	TISSUE 575 602	murine embryonic stem cells
+N6	Reference T2 BTO:0001086	embryonic stem cell
+T3	TISSUE 604 609	mESCs
+N7	Reference T3 BTO:0001086	embryonic stem cell
+N1	Reference T10 EntrezGene:13983	Esr2
+N2	Reference T11 EntrezGene:13983	Esr2
+T4	TISSUE 965 969	mESC
+N8	Reference T4 BTO:0001086	embryonic stem cell
+N3	Reference T12 EntrezGene:13983	Esr2
+N4	Reference T13 NCBITaxon:40674	Mammalia

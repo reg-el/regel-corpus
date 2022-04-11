@@ -1,0 +1,79 @@
+T2	ENHANCER 1209 1217	enhancer
+T4	SPECIES 154 159	mouse
+N0	Reference T4 NCBITaxon:10090	Mus musculus
+T5	DISEASE 160 179	testicular teratoma
+T6	GENE 987 992	Dmrt1
+N1	Reference T6 EntrezGene:50796	Dmrt1
+T7	GENE 994 1044	doublesex and mab-3 related transcription factor 1
+N2	Reference T7 EntrezGene:50796	Dmrt1
+T8	GENE 1047 1052	Stra8
+N3	Reference T8 EntrezGene:20899	Stra8
+T9	GENE 1054 1088	stimulated by retinoic acid gene 8
+N4	Reference T9 EntrezGene:20899	Stra8
+T10	GENE 1094 1099	Tex13
+N5	Reference T10 EntrezGene:83555	Tex13b
+T11	GENE 1101 1125	testis expressed gene 13
+N6	Reference T11 EntrezGene:83555	Tex13b
+T13	GENE 1295 1300	Tex13
+N8	Reference T13 EntrezGene:83555	Tex13b
+T14	GENE 1398 1403	TEX13
+N9	Reference T14 EntrezGene:83555	Tex13b
+T15	GENE 1517 1522	TEX13
+N10	Reference T15 EntrezGene:83555	Tex13b
+T16	GENE 1821 1826	Tex13
+N11	Reference T16 EntrezGene:83555	Tex13b
+T18	TISSUE 72 109	F9 testicular teratoma stem cell line
+T3	TISSUE 115 127	F9 cell line
+T19	TISSUE 213 223	germ cells
+T20	TISSUE 310 318	F9 cells
+T21	TISSUE 468 476	F9 cells
+T22	TISSUE 594 602	F9 cells
+T23	TISSUE 743 751	F9 cells
+A3	CANCER T18
+A4	CANCER T3
+A5	CANCER T5
+A17	CANCER T20
+A18	CANCER T21
+T24	TISSUE 355 365	germ cells
+A19	CANCER T24
+A20	CANCER T19
+A21	CANCER T22
+A22	CANCER T23
+T25	TISSUE 871 879	F9 cells
+A23	CANCER T25
+T26	TISSUE 1131 1139	F9 cells
+A7	CANCER T26
+A2	REGION T2 INSUFFICIENT
+T27	TISSUE 1609 1617	F9 cells
+A8	CANCER T27
+T28	TISSUE 1756 1764	F9 cells
+A9	CANCER T28
+T17	TISSUE 39 48	germ cell
+N12	Reference T17 BTO:0000535	germ cell
+T29	TISSUE 561 570	germ cell
+N13	Reference T29 BTO:0000535	germ cell
+T30	TISSUE 808 817	germ cell
+N14	Reference T30 BTO:0000535	germ cell
+T31	TISSUE 1253 1262	germ cell
+N15	Reference T31 BTO:0000535	germ cell
+T32	TISSUE 1874 1883	germ cell
+N16	Reference T32 BTO:0000535	germ cell
+T36	TISSUE 658 671	spermatogonia
+N20	Reference T36 BTO:0000958	spermatogonium
+T1	PROMOTER 1168 1182	Tex13 promoter
+A1	REGION T1 INSUFFICIENT
+N7	Reference T19 BTO:0000535	germ cell
+N21	Reference T24 BTO:0000535	germ cell
+N17	Reference T5 MONDO:MONDO:0018193	testicular teratoma
+N19	Reference T18 BTO:0000095	F-9 cell
+N22	Reference T3 BTO:0000095	F-9 cell
+N23	Reference T20 BTO:0000095	F-9 cell
+N24	Reference T21 BTO:0000095	F-9 cell
+N25	Reference T22 BTO:0000095	F-9 cell
+N26	Reference T23 BTO:0000095	F-9 cell
+N27	Reference T25 BTO:0000095	F-9 cell
+N28	Reference T26 BTO:0000095	F-9 cell
+N29	Reference T27 BTO:0000095	F-9 cell
+N30	Reference T28 BTO:0000095	F-9 cell
+T12	GENE 1168 1173	Tex13
+N18	Reference T12 EntrezGene:83555	Tex13b

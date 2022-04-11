@@ -1,0 +1,67 @@
+T0	ENHANCER 8 29	renin distal enhancer
+T1	ENHANCER 270 291	mouse distal enhancer
+T3	SPECIES 2 7	mouse
+N0	Reference T3 NCBITaxon:10090	Mus musculus
+T4	SPECIES 107 111	mice
+N1	Reference T4 NCBITaxon:10090	Mus musculus
+T12	SPECIES 676 680	mice
+N7	Reference T12 NCBITaxon:10090	Mus musculus
+T13	SPECIES 755 759	mice
+N8	Reference T13 NCBITaxon:10090	Mus musculus
+T14	GENE 882 895	angiotensin I
+N9	Reference T14 EntrezGene:11606	Agt
+T15	SPECIES 937 941	mice
+N10	Reference T15 NCBITaxon:10090	Mus musculus
+T16	SPECIES 1007 1011	mice
+N11	Reference T16 NCBITaxon:10090	Mus musculus
+A3	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T7	ENHANCER 293 296	mdE
+A4	REGION T7 INSUFFICIENT
+T19	TISSUE 149 170	juxtaglomerular cells
+N4	Reference T19 BTO:0005158	juxtaglomerular cell
+T20	TISSUE 178 184	kidney
+N12	Reference T20 BTO:0000671	kidney
+T5	ENHANCER 500 503	mdE
+A5	REGION T5 INSUFFICIENT
+T2	ENHANCER 917 920	mdE
+A2	REGION T2 INSUFFICIENT
+T9	TISSUE 47 52	blood
+N2	Reference T9 BTO:0000089	blood
+T18	ENHANCER 363 366	mdE
+A6	REGION T18 INSUFFICIENT
+T21	PROMOTER 529 543	renin promoter
+A7	REGION T21 INSUFFICIENT
+T22	ENHANCER 603 606	mdE
+A8	REGION T22 INSUFFICIENT
+T23	TISSUE 476 483	kidneys
+N15	Reference T23 BTO:0000671	kidney
+T6	SPECIES 323 327	mice
+N3	Reference T6 NCBITaxon:10090	Mus musculus
+T8	TISSUE 1079 1084	blood
+N13	Reference T8 BTO:0000089	blood
+T10	GENE 89 94	renin
+N5	Reference T10 EntrezGene:19701	Ren1
+T11	GENE 113 118	Renin
+N6	Reference T11 EntrezGene:19701	Ren1
+T17	GENE 377 382	renin
+N14	Reference T17 EntrezGene:19701	Ren1
+T24	GENE 665 670	renin
+N16	Reference T24 EntrezGene:19701	Ren1
+T25	GENE 608 613	renin
+N17	Reference T25 EntrezGene:19701	Ren1
+T26	GENE 703 708	renin
+N18	Reference T26 EntrezGene:19701	Ren1
+T27	GENE 735 740	renin
+N19	Reference T27 EntrezGene:19701	Ren1
+T28	GENE 863 868	renin
+N20	Reference T28 EntrezGene:19701	Ren1
+T29	GENE 1168 1173	renin
+N21	Reference T29 EntrezGene:19701	Ren1
+T30	TISSUE 199 204	blood
+T31	GENE 8 13	renin
+N22	Reference T31 EntrezGene:19701	Ren1
+T32	SPECIES 270 275	mouse
+N23	Reference T32 NCBITaxon:10090	Mus musculus
+T33	GENE 529 534	renin
+N24	Reference T33 EntrezGene:19701	Ren1

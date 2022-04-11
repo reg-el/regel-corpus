@@ -1,0 +1,34 @@
+T0	ENHANCER 44 67	distal enhancer of Sox9
+T4	GENE 134 138	Sox9
+N1	Reference T4 EntrezGene:6662	SOX9
+T5	GENE 159 162	SRY
+N2	Reference T5 EntrezGene:6736	SRY
+T6	SPECIES 178 187	mammalian
+T7	GENE 398 402	Sox9
+N4	Reference T7 EntrezGene:20682	Sox9
+T8	SPECIES 566 571	mouse
+N5	Reference T8 NCBITaxon:10090	Mus musculus
+T9	GENE 632 636	Sox9
+N6	Reference T9 EntrezGene:20682	Sox9
+T10	GENE 749 752	SRY
+N7	Reference T10 EntrezGene:6736	SRY
+T11	SPECIES 880 886	humans
+N8	Reference T11 NCBITaxon:9606	Homo sapiens
+T12	SPECIES 962 968	humans
+N9	Reference T12 NCBITaxon:9606	Homo sapiens
+T14	TISSUE 572 578	testis
+N10	Reference T14 BTO:0001363	testis
+N3	Reference T6 NCBITaxon:40674	Mammalia
+A2	REGION T0 INSUFFICIENT
+T1	ENHANCER 434 445	enhancer 13
+A1	REGION T1 INSUFFICIENT
+T3	ENHANCER 447 452	Enh13
+A4	REGION T3 INSUFFICIENT
+T13	ENHANCER 457 539	557-base pair element located 565 kilobases 5' from the transcriptional start site
+A5	REGION T13 INSUFFICIENT
+T2	ENHANCER 800 805	Enh13
+A3	REGION T2 INSUFFICIENT
+T16	TISSUE 681 687	gonads
+N11	Reference T16 BTO:0000534	gonad
+T15	GENE 63 67	Sox9
+N12	Reference T15 EntrezGene:20682	Sox9

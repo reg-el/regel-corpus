@@ -1,0 +1,72 @@
+T0	ENHANCER 1163 1195	distal enhancer of Sox2 promoter
+T1	PROMOTER 1182 1195	Sox2 promoter
+T2	GENE 0 4	Sox2
+N0	Reference T2 EntrezGene:6657	SOX2
+T3	DISEASE 19 33	breast tumours
+T7	DISEASE 387 393	cancer
+T8	GENE 528 532	Oct4
+N5	Reference T8 EntrezGene:5460	POU5F1
+T9	GENE 534 539	Nanog
+N6	Reference T9 EntrezGene:79923	ANO
+T10	GENE 544 548	Sox2
+N7	Reference T10 EntrezGene:6657	SOX2
+T12	GENE 625 629	Sox2
+N9	Reference T12 EntrezGene:6657	SOX2
+T14	GENE 697 701	Oct4
+N10	Reference T14 EntrezGene:5460	POU5F1
+T15	GENE 705 710	Nanog
+N11	Reference T15 EntrezGene:79923	ANO
+T16	GENE 820 824	Sox2
+N12	Reference T16 EntrezGene:6657	SOX2
+T17	GENE 834 838	Oct4
+N13	Reference T17 EntrezGene:5460	POU5F1
+T18	GENE 842 847	Nanog
+N14	Reference T18 EntrezGene:79923	ANO
+T19	GENE 881 885	Sox2
+N15	Reference T19 EntrezGene:6657	SOX2
+T20	GENE 950 954	Sox2
+N16	Reference T20 EntrezGene:6657	SOX2
+T21	GENE 980 984	Sox2
+N17	Reference T21 EntrezGene:6657	SOX2
+T23	DISEASE 1069 1075	tumour
+T24	GENE 1108 1112	Sox2
+N18	Reference T24 EntrezGene:6657	SOX2
+T26	GENE 1250 1254	Sox2
+N20	Reference T26 EntrezGene:6657	SOX2
+T27	GENE 1340 1344	Sox2
+N21	Reference T27 EntrezGene:6657	SOX2
+T30	DISEASE 1446 1452	tumour
+T6	DISEASE 131 138	tumours
+A3	CANCER T7
+T11	DISEASE 658 672	breast tumours
+T13	DISEASE 564 578	breast tumours
+T22	DISEASE 1039 1045	tumour
+A2	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T25	DISEASE 1373 1386	breast tumour
+T28	DISEASE 1410 1416	tumour
+T4	TISSUE 52 76	breast cancer stem cells
+N1	Reference T4 BTO:0006293	breast cancer stem cell
+T5	TISSUE 82 98	cancer stem cell
+N2	Reference T5 BTO:0004254	cancer stem cell
+T32	TISSUE 100 103	CSC
+N3	Reference T32 BTO:0004254	cancer stem cell
+T33	TISSUE 439 443	CSCs
+N8	Reference T33 BTO:0004254	cancer stem cell
+T34	TISSUE 1272 1294	pluripotent stem cells
+N19	Reference T34 BTO:0006078	pluripotent stem cell
+N4	Reference T7 MONDO:MONDO:0004992	cancer
+T29	TISSUE 236 245	stem cell
+T31	TISSUE 249 264	progenitor cell
+T35	TISSUE 778 787	stem cell
+T36	GENE 1182 1186	Sox2
+N22	Reference T36 EntrezGene:6657	SOX2
+N23	Reference T22 MONDO:MONDO:0005070	neoplasm
+N24	Reference T23 MONDO:MONDO:0005070	neoplasm
+N25	Reference T28 MONDO:MONDO:0005070	
+N26	Reference T30 MONDO:MONDO:0005070	neoplasm
+N27	Reference T6 MONDO:MONDO:0005070	
+N28	Reference T3 MONDO:MONDO:0021100	breast neoplasm
+N29	Reference T13 MONDO:MONDO:0021100	breast neoplasm
+N30	Reference T11 MONDO:MONDO:0021100	breast neoplasm
+N31	Reference T25 MONDO:MONDO:0021100	breast neoplasm

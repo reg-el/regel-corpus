@@ -1,0 +1,72 @@
+T1	DISEASE 38 63	Leukemia of T-Cell Origin
+T2	GENE 87 91	LSD1
+N1	Reference T2 EntrezGene:99982	Kdm1
+T3	GENE 112 141	Lysine-specific demethylase 1
+N2	Reference T3 EntrezGene:99982	Kdm1
+T4	GENE 143 147	LSD1
+N3	Reference T4 EntrezGene:99982	Kdm1
+T5	GENE 270 274	LSD1
+N4	Reference T5 EntrezGene:99982	Kdm1
+T7	TISSUE 379 428	T-cell acute lymphoblastic leukemia (T-ALL) cells
+T8	GENE 490 494	LSD1
+N6	Reference T8 EntrezGene:99982	Kdm1
+T9	DISEASE 520 525	T-ALL
+T10	TISSUE 719 735	T-ALL cell lines
+T11	GENE 763 767	LSD1
+N9	Reference T11 EntrezGene:99982	Kdm1
+T12	SPECIES 811 815	mice
+N10	Reference T12 NCBITaxon:10090	Mus musculus
+T13	TISSUE 856 872	T-ALL cell lines
+T14	SPECIES 901 906	human
+N12	Reference T14 NCBITaxon:9606	Homo sapiens
+T15	DISEASE 907 912	T-ALL
+T16	TISSUE 1141 1152	T-ALL cells
+T17	GENE 1209 1215	NOTCH3
+N15	Reference T17 EntrezGene:18131	otch3
+T18	GENE 1220 1224	TAL1
+N16	Reference T18 EntrezGene:21349	Tal1
+T19	TISSUE 1385 1396	T-ALL cells
+T20	SPECIES 1417 1421	mice
+N18	Reference T20 NCBITaxon:10090	Mus musculus
+T21	DISEASE 1566 1578	CNS leukemia
+T22	GENE 1762 1766	LSD1
+N19	Reference T22 EntrezGene:99982	Kdm1
+T23	DISEASE 1813 1818	T-ALL
+T26	TISSUE 15 37	Central Nervous System
+N21	Reference T26 BTO:0000227	central nervous system
+A1	CANCER T1
+A3	CANCER T7
+N5	Reference T7 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+A5	CANCER T9
+T28	TISSUE 531 553	central nervous system
+N23	Reference T28 BTO:0000227	central nervous system
+T29	TISSUE 555 558	CNS
+N24	Reference T29 BTO:0000227	central nervous system
+N8	Reference T10 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+A6	CANCER T13
+N11	Reference T13 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+A7	CANCER T15
+T30	TISSUE 918 921	CNS
+N25	Reference T30 BTO:0000227	central nervous system
+A8	CANCER T16
+N14	Reference T16 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+A9	CANCER T19
+N17	Reference T19 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+A10	CANCER T21
+A11	CANCER T23
+T31	TISSUE 1824 1827	CNS
+N26	Reference T31 BTO:0000227	central nervous system
+T24	TISSUE 981 992	T-ALL cells
+A12	CANCER T24
+N27	Reference T1 MONDO:MONDO:0005525	T-cell leukemia
+T6	TISSUE 318 324	T-cell
+N28	Reference T6 BTO:0000782	T-lymphocyte
+N7	Reference T9 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N13	Reference T15 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N20	Reference T23 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N29	Reference T21 MONDO:MONDO:0001606	central nervous system leukemia
+N22	Reference T24 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+T25	TISSUE 1634 1639	blood
+N30	Reference T25 BTO:0000089	blood
+T27	TISSUE 1640 1645	brain
+N31	Reference T27 BTO:0000142	brain

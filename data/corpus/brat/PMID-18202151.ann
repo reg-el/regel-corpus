@@ -1,0 +1,70 @@
+T0	ENHANCER 3 102	enhancer 20 kilobases upstream of the human receptor activator of nuclear factor-kappaB ligand gene
+T8	GENE 161 211	Receptor activator of nuclear factor-kappaB ligand
+N2	Reference T8 EntrezGene:8600	TNFSF11
+T9	GENE 213 218	RANKL
+N3	Reference T9 EntrezGene:8600	TNFSF11
+T10	GENE 479 482	PTH
+N4	Reference T10 EntrezGene:5741	PTH
+T13	GENE 661 664	PTH
+N7	Reference T13 EntrezGene:19226	Pth
+T14	SPECIES 733 738	human
+N8	Reference T14 NCBITaxon:9606	Homo sapiens
+T17	SPECIES 885 890	human
+N11	Reference T17 NCBITaxon:9606	Homo sapiens
+T18	SPECIES 1274 1279	mouse
+N12	Reference T18 NCBITaxon:10090	Mus musculus
+T19	GENE 1280 1285	Rankl
+N13	Reference T19 EntrezGene:21943	Tnfsf11
+T20	SPECIES 1309 1314	human
+N14	Reference T20 NCBITaxon:9606	Homo sapiens
+T21	SPECIES 1619 1624	human
+N15	Reference T21 NCBITaxon:9606	Homo sapiens
+T22	GENE 1625 1630	RANKL
+N16	Reference T22 EntrezGene:8600	TNFSF11
+T23	GENE 1690 1695	RANKL
+N17	Reference T23 EntrezGene:8600	TNFSF11
+T24	GENE 1838 1843	RANKL
+N18	Reference T24 EntrezGene:8600	TNFSF11
+A25	REGION T0 INSUFFICIENT
+T26	TISSUE 266 277	osteoblasts
+N19	Reference T26 BTO:0001593	osteoblast
+T27	TISSUE 279 296	mesenchymal cells
+N20	Reference T27 BTO:0002625	mesenchymal cell
+T28	TISSUE 312 319	T cells
+T29	TISSUE 337 347	osteoclast
+N22	Reference T29 BTO:0000968	osteoclast
+T1	ENHANCER 699 704	mRLD5
+A1	REGION T1 INSUFFICIENT
+T3	ENHANCER 899 902	-20
+A3	REGION T3 INSUFFICIENT
+T30	ENHANCER 904 907	-25
+A6	REGION T30 INSUFFICIENT
+T31	ENHANCER 909 912	-75
+A7	REGION T31 INSUFFICIENT
+T32	ENHANCER 918 924	-87 kb
+A8	REGION T32 INSUFFICIENT
+T33	ENHANCER 1341 1372	most proximal element at -20 kb
+A9	REGION T33 INSUFFICIENT
+T4	ENHANCER 521 619	five enhancer regions located significantly upstream of the mouse Rankl transcriptional start site
+A4	REGION T4 INSUFFICIENT
+T5	ENHANCER 805 851	Four additional mouse Rankl upstream enhancers
+A10	REGION T5 INSUFFICIENT
+T7	ENHANCER 744 753	at -96 kb
+A11	REGION T7 INSUFFICIENT
+T11	ENHANCER 1607 1615	enhancer
+A12	REGION T11 INSUFFICIENT
+T12	ENHANCER 1738 1752	five enhancers
+A13	REGION T12 INSUFFICIENT
+N1	Reference T28 BTO:0000782	T-lymphocyte
+T2	ENHANCER 1180 1217	the most distal of the five enhancers
+A2	REGION T2 INSUFFICIENT
+T6	ENHANCER 1125 1155	the two most proximal segments
+A5	REGION T6 INSUFFICIENT
+T15	GENE 587 592	Rankl
+N5	Reference T15 EntrezGene:21943	Tnfsf11
+T16	GENE 827 832	Rankl
+N6	Reference T16 EntrezGene:21943	Tnfsf11
+T25	SPECIES 581 586	mouse
+N9	Reference T25 NCBITaxon:10090	Mus musculus
+T34	SPECIES 821 826	mouse
+N10	Reference T34 NCBITaxon:10090	UST

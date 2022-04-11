@@ -1,0 +1,69 @@
+T0	ENHANCER 1164 1185	Gfi1 enhancer element
+T1	GENE 89 94	Mysm1
+N0	Reference T1 EntrezGene:320713	Mysm1
+T2	GENE 267 272	Mysm1
+N1	Reference T2 EntrezGene:320713	Mysm1
+T3	GENE 451 456	Mysm1
+N2	Reference T3 EntrezGene:320713	Mysm1
+T5	GENE 484 489	Mysm1
+N3	Reference T5 EntrezGene:320713	Mysm1
+T6	SPECIES 496 500	mice
+N4	Reference T6 NCBITaxon:10090	Mus musculus
+T7	GENE 535 540	Mysm1
+N5	Reference T7 EntrezGene:320713	Mysm1
+T8	GENE 567 572	Mysm1
+N6	Reference T8 EntrezGene:320713	Mysm1
+T10	SPECIES 815 819	mice
+N7	Reference T10 NCBITaxon:10090	Mus musculus
+T11	GENE 842 846	Gfi1
+N8	Reference T11 EntrezGene:14581	fi1
+T13	SPECIES 927 931	mice
+N10	Reference T13 NCBITaxon:10090	Mus musculus
+T14	GENE 967 972	Mysm1
+N11	Reference T14 EntrezGene:320713	Mysm1
+T15	GENE 1072 1077	Gata2
+N12	Reference T15 EntrezGene:14461	ta2
+T16	GENE 1082 1087	Runx1
+N13	Reference T16 EntrezGene:12394	Runx1
+T17	GENE 1095 1099	Gfi1
+N14	Reference T17 EntrezGene:14581	fi1
+T18	GENE 1129 1134	Mysm1
+N15	Reference T18 EntrezGene:320713	Mysm1
+T20	GENE 1225 1230	Gata2
+N17	Reference T20 EntrezGene:14461	ta2
+T21	GENE 1235 1240	Runx1
+N18	Reference T21 EntrezGene:12394	Runx1
+T22	GENE 1320 1325	Mysm1
+N19	Reference T22 EntrezGene:320713	Mysm1
+T23	GENE 1425 1430	Mysm1
+N20	Reference T23 EntrezGene:320713	Mysm1
+A1	REGION T0 INSUFFICIENT
+T19	TISSUE 234 258	hematopoietic stem cells
+N16	Reference T19 BTO:0000725	hematopoietic stem cell
+T26	TISSUE 260 264	HSCs
+N21	Reference T26 BTO:0000725	hematopoietic stem cell
+T27	TISSUE 15 38	hematopoietic stem cell
+N22	Reference T27 BTO:0000725	hematopoietic stem cell
+T28	TISSUE 387 391	HSCs
+N23	Reference T28 BTO:0000725	hematopoietic stem cell
+T29	TISSUE 550 553	HSC
+N24	Reference T29 BTO:0000725	hematopoietic stem cell
+T30	TISSUE 589 593	HSCs
+N25	Reference T30 BTO:0000725	hematopoietic stem cell
+T31	TISSUE 1109 1113	HSCs
+N26	Reference T31 BTO:0000725	hematopoietic stem cell
+T32	TISSUE 1464 1468	HSCs
+N27	Reference T32 BTO:0000725	hematopoietic stem cell
+T33	TISSUE 1343 1346	HSC
+N28	Reference T33 BTO:0000725	hematopoietic stem cell
+T4	GENE 467 472	Mysm1
+N29	Reference T4 EntrezGene:320713	Mysm1
+T9	GENE 799 804	Mysm1
+N30	Reference T9 EntrezGene:320713	Mysm1
+T24	GENE 911 916	Mysm1
+N31	Reference T24 EntrezGene:320713	Mysm1
+T12	TISSUE 897 900	HSC
+N9	Reference T12 BTO:0000725	
+T25	TISSUE 699 708	stem cell
+T34	GENE 1164 1168	Gfi1
+N32	Reference T34 EntrezGene:14581	Gfi1

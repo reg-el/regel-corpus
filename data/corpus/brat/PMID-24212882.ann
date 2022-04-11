@@ -1,0 +1,30 @@
+T0	ENHANCER 25 46	distal PTF1A enhancer
+T1	ENHANCER 801 832	developmental enhancer of PTF1A
+T4	SPECIES 131 136	human
+N1	Reference T4 NCBITaxon:9606	Homo sapiens
+T7	DISEASE 745 764	pancreatic agenesis
+T9	SPECIES 1097 1102	human
+N5	Reference T9 NCBITaxon:9606	Homo sapiens
+A10	REGION T0 INSUFFICIENT
+T3	DISEASE 62 81	pancreatic agenesis
+T12	DISEASE 509 528	pancreatic agenesis
+A1	REGION T1 INSUFFICIENT
+T8	DISEASE 937 956	pancreatic agenesis
+T14	TISSUE 355 380	human embryonic stem cell
+N4	Reference T14 BTO:0001086	embryonic stem cell
+T15	TISSUE 382 386	hESC
+N8	Reference T15 BTO:0001086	embryonic stem cell
+T2	ENHANCER 620 670	~400-bp sequence located 25 kb downstream of PTF1A
+A2	REGION T2 INSUFFICIENT
+T5	GENE 681 722	pancreas-specific transcription factor 1a
+N2	Reference T5 EntrezGene:256297	PTF1A
+N3	Reference T3 MONDO:MONDO:0009832	pancreatic agenesis
+N6	Reference T12 MONDO:MONDO:0009832	pancreatic agenesis
+N7	Reference T7 MONDO:MONDO:0009832	pancreatic agenesis
+N9	Reference T8 MONDO:MONDO:0009832	pancreatic agenesis
+T6	GENE 32 37	PTF1A
+N10	Reference T6 EntrezGene:256297	PTF1A
+T10	GENE 827 832	PTF1A
+N11	Reference T10 EntrezGene:256297	PTF1A
+T11	GENE 665 670	PTF1A
+N12	Reference T11 EntrezGene:256297	PTF1A

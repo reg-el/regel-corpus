@@ -1,0 +1,80 @@
+T1	ENHANCER 891 907	ERG +85 enhancer
+T2	ENHANCER 914 922	enhancer
+T4	GENE 0 3	ERG
+N0	Reference T4 EntrezGene:2078	R
+T5	DISEASE 13 43	T-acute lymphoblastic leukemia
+T7	GENE 126 142	Ets-related gene
+N3	Reference T7 EntrezGene:2078	R
+T8	GENE 144 147	ERG
+N4	Reference T8 EntrezGene:2078	R
+T9	GENE 229 232	ERG
+N5	Reference T9 EntrezGene:2078	R
+T10	DISEASE 309 339	T-acute lymphoblastic leukemia
+T11	DISEASE 341 346	T-ALL
+T12	GENE 454 457	ERG
+N8	Reference T12 EntrezGene:2078	R
+T13	DISEASE 502 507	T-ALL
+T15	GENE 595 598	ERG
+N11	Reference T15 EntrezGene:13876	rg
+T16	DISEASE 606 611	T-ALL
+T17	SPECIES 615 619	mice
+N13	Reference T17 NCBITaxon:10090	Mus musculus
+T20	GENE 725 728	ERG
+N16	Reference T20 EntrezGene:2078	R
+T23	GENE 822 830	SCL/TAL1
+N19	Reference T23 EntrezGene:6886	TAL1
+T24	GENE 832 836	LMO2
+N20	Reference T24 EntrezGene:4005	LMO2
+T25	GENE 842 846	LYL1
+N21	Reference T25 EntrezGene:4066	LYL1
+T26	GENE 863 866	ERG
+N22	Reference T26 EntrezGene:2078	R
+T27	GENE 868 872	FLI1
+N23	Reference T27 EntrezGene:2313	FLI1
+T28	GENE 878 883	GATA3
+N24	Reference T28 EntrezGene:2625	ATA3
+T31	SPECIES 973 977	mice
+T32	GENE 1165 1168	ERG
+N28	Reference T32 EntrezGene:2078	R
+T33	DISEASE 1178 1183	T-ALL
+T34	GENE 1304 1307	ERG
+N30	Reference T34 EntrezGene:2078	R
+T35	DISEASE 1345 1353	leukemia
+A1	REGION T1 INSUFFICIENT
+A2	REGION T2 INSUFFICIENT
+N17	Reference T31 NCBITaxon:10090	Mus musculus
+T3	TISSUE 82 96	leukemic cells
+A3	CANCER T3
+T6	TISSUE 200 215	blood stem cell
+T14	TISSUE 678 695	MOLT4 T-ALL cells
+N2	Reference T14 BTO:0000873	MOLT-4 cell
+T18	TISSUE 757 768	T-ALL cells
+T19	TISSUE 1006 1026	liver c-kit(+) cells
+T21	TISSUE 1034 1050	bone marrow stem
+N10	Reference T21 BTO:0004052	bone marrow stem cell
+A5	CANCER T18
+T29	ENHANCER 102 120	stem cell enhancer
+A4	REGION T29 INSUFFICIENT
+T30	TISSUE 947 954	T cells
+T37	TISSUE 805 811	T-cell
+N15	Reference T3 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+T36	SPECIES 751 756	human
+N18	Reference T36 NCBITaxon:9606	Homo sapiens
+N14	Reference T18 BTO:0001106	T-cell acute lymphoblastic leukemia cell
+N1	Reference T5 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N6	Reference T10 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N7	Reference T11 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N9	Reference T13 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N12	Reference T16 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N26	Reference T33 MONDO:MONDO:0004963	T-cell acute lymphoblastic leukemia
+N27	Reference T35 MONDO:MONDO:0005059	leukemia
+N29	Reference T37 BTO:0000782	T-lymphocyte
+N31	Reference T30 BTO:0000782	T-lymphocyte
+N25	Reference T6 BTO:0000725	hematopoietic stem cell
+T22	SPECIES 672 677	human
+N32	Reference T22 NCBITaxon:9606	Homo sapiens
+T38	TISSUE 1073 1120	CD4(-)CD8(-) double-negative thymic progenitors
+T39	TISSUE 1227 1236	stem cell
+T40	TISSUE 102 111	stem cell
+T41	GENE 891 894	ERG
+N33	Reference T41 EntrezGene:2078	ERG

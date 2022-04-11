@@ -1,0 +1,106 @@
+T2	GENE 0 6	Arid1a
+N0	Reference T2 EntrezGene:93760	Arid1
+T3	DISEASE 65 89	hepatocellular carcinoma
+T4	GENE 141 147	Arid1a
+N2	Reference T4 EntrezGene:93760	Arid1
+T5	DISEASE 216 221	tumor
+T6	DISEASE 267 291	hepatocellular carcinoma
+T7	DISEASE 293 296	HCC
+T8	GENE 331 337	Arid1a
+N5	Reference T8 EntrezGene:93760	Arid1
+T9	DISEASE 349 352	HCC
+T11	GENE 491 497	Arid1a
+N8	Reference T11 EntrezGene:8289	ARID1A
+T12	SPECIES 501 506	human
+N9	Reference T12 NCBITaxon:9606	Homo sapiens
+T13	SPECIES 511 516	mouse
+N10	Reference T13 NCBITaxon:10090	Mus musculus
+T15	GENE 655 661	Arid1a
+N12	Reference T15 EntrezGene:93760	Arid1
+T17	DISEASE 731 736	Tumor
+T18	GENE 822 826	Ang2
+N14	Reference T18 EntrezGene:11601	Angpt2
+T19	GENE 842 848	Arid1a
+N15	Reference T19 EntrezGene:93760	Arid1
+T20	DISEASE 915 920	tumor
+T21	GENE 943 949	Arid1a
+N16	Reference T21 EntrezGene:93760	Arid1
+T22	SPECIES 998 1002	mice
+N17	Reference T22 NCBITaxon:10090	Mus musculus
+T23	DISEASE 1040 1043	HCC
+T24	GENE 1047 1053	Arid1a
+N19	Reference T24 EntrezGene:93760	Arid1
+T25	SPECIES 1075 1079	mice
+N20	Reference T25 NCBITaxon:10090	Mus musculus
+T26	GENE 1107 1111	Ang2
+N21	Reference T26 EntrezGene:11601	Angpt2
+T28	SPECIES 1257 1262	human
+N23	Reference T28 NCBITaxon:9606	Homo sapiens
+T30	GENE 1339 1345	Arid1a
+N25	Reference T30 EntrezGene:93760	Arid1
+T33	GENE 1489 1493	Ang2
+N28	Reference T33 EntrezGene:11601	Angpt2
+T34	DISEASE 1507 1510	HCC
+T35	GENE 1524 1528	Ang2
+N30	Reference T35 EntrezGene:11601	Angpt2
+T36	DISEASE 1558 1562	HCCs
+T37	DISEASE 1604 1609	tumor
+T38	GENE 1696 1700	Ang2
+N31	Reference T38 EntrezGene:11601	Angpt2
+T39	DISEASE 1766 1770	HCCs
+T41	GENE 1813 1817	Ang2
+N32	Reference T41 EntrezGene:11601	Angpt2
+T42	DISEASE 1854 1857	HCC
+T43	GENE 1879 1885	Arid1a
+N34	Reference T43 EntrezGene:93760	Arid1
+T45	GENE 1917 1921	Ang2
+N36	Reference T45 EntrezGene:11601	Angpt2
+T46	GENE 2000 2006	Arid1a
+N37	Reference T46 EntrezGene:93760	Arid1
+T47	DISEASE 2014 2019	tumor
+T49	GENE 2064 2068	Ang2
+N38	Reference T49 EntrezGene:11601	Angpt2
+T50	DISEASE 2103 2127	hepatocellular carcinoma
+T52	DISEASE 2175 2181	tumors
+T53	GENE 2185 2189	Ang2
+N40	Reference T53 EntrezGene:11601	Angpt2
+T1	GENE 110 139	AT-rich interaction domain 1a
+N26	Reference T1 EntrezGene:93760	Arid1a
+T16	TISSUE 672 686	HCC cell lines
+T31	GENE 808 820	angiopoietin
+N13	Reference T31 EntrezGene:11601	Angpt2
+T14	DISEASE 517 521	HCCs
+T29	DISEASE 1263 1267	HCCs
+T32	DISEASE 1889 1893	HCCs
+T44	GENE 1969 1998	AT-rich interaction domain 1a
+N11	Reference T44 EntrezGene:93760	Arid1a
+T54	ENHANCER 1396 1426	angiopoietin-2 (Ang2) enhancer
+A1	REGION T54 INSUFFICIENT
+T55	PROMOTER 1431 1439	promoter
+A2	REGION T55 INSUFFICIENT
+N1	Reference T3 MONDO:MONDO:0007256	hepatocellular carcinoma
+N3	Reference T6 MONDO:MONDO:0007256	hepatocellular carcinoma
+N4	Reference T7 MONDO:MONDO:0007256	hepatocellular carcinoma
+N6	Reference T9 MONDO:MONDO:0007256	hepatocellular carcinoma
+N24	Reference T14 MONDO:MONDO:0007256	hepatocellular carcinoma
+N18	Reference T23 MONDO:MONDO:0007256	hepatocellular carcinoma
+N27	Reference T29 MONDO:MONDO:0007256	hepatocellular carcinoma
+N35	Reference T36 MONDO:MONDO:0007256	hepatocellular carcinoma
+N41	Reference T39 MONDO:MONDO:0007256	hepatocellular carcinoma
+N33	Reference T42 MONDO:MONDO:0007256	hepatocellular carcinoma
+N42	Reference T32 MONDO:MONDO:0007256	hepatocellular carcinoma
+N39	Reference T50 MONDO:MONDO:0007256	hepatocellular carcinoma
+N7	Reference T16 BTO:0000578	hepatoma cell line
+N22	Reference T34 MONDO:MONDO:0007256	hepatocellular carcinoma
+T10	GENE 1396 1410	angiopoietin-2
+N29	Reference T10 EntrezGene:11601	Angpt2
+T27	GENE 1412 1416	Ang2
+N43	Reference T27 EntrezGene:11601	Angpt2
+N44	Reference T17 MONDO:MONDO:0005070	
+N45	Reference T20 MONDO:MONDO:0005070	neoplasm
+N46	Reference T37 MONDO:MONDO:0005070	neoplasm
+N47	Reference T47 MONDO:MONDO:0005070	
+N48	Reference T52 MONDO:MONDO:0005070	neoplasm
+N49	Reference T5 MONDO:MONDO:0005070	
+T40	GENE 1216 1222	Arid1a
+N50	Reference T40 EntrezGene:93760	Arid1a

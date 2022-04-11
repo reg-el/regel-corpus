@@ -1,0 +1,22 @@
+T3	SPECIES 206 211	human
+N1	Reference T3 NCBITaxon:9606	Homo sapiens
+T11	GENE 1300 1308	loricrin
+N8	Reference T11 EntrezGene:4014	LORICRI
+T12	GENE 1314 1320	NICE-1
+N9	Reference T12 EntrezGene:54544	CRCT1
+T14	TISSUE 130 143	Keratinocytes
+N10	Reference T14 BTO:0000667	keratinocyte
+T2	TISSUE 460 464	skin
+N2	Reference T2 BTO:0001253	skin
+T4	TISSUE 616 625	epidermis
+N3	Reference T4 BTO:0000404	epidermis
+T5	TISSUE 762 771	epidermis
+N4	Reference T5 BTO:0000404	epidermis
+T6	TISSUE 911 924	keratinocytes
+N5	Reference T6 BTO:0000667	keratinocyte
+T7	TISSUE 1066 1079	keratinocytes
+N6	Reference T7 BTO:0000667	keratinocyte
+T8	GENE 1288 1298	involucrin
+N7	Reference T8 EntrezGene:3713	IVL
+T1	SPECIES 905 910	human
+N11	Reference T1 NCBITaxon:9606	Homo sapiens

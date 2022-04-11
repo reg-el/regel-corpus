@@ -1,0 +1,46 @@
+T0	ENHANCER 28 50	distant FOXF1 enhancer
+T1	ENHANCER 538 620	distant FOXF1 transcriptional enhancer mapping 0.3 Mb upstream to FOXF1 on 16q24.1
+T2	ENHANCER 722 730	enhancer
+T4	GENE 78 87	LINC01081
+N1	Reference T4 EntrezGene:101154687	LINC01081
+T5	DISEASE 103 168	alveolar capillary dysplasia with misalignment of pulmonary veins
+T7	SPECIES 270 275	human
+N4	Reference T7 NCBITaxon:9606	Homo sapiens
+T8	DISEASE 407 472	alveolar capillary dysplasia with misalignment of pulmonary veins
+T10	DISEASE 474 480	ACDMPV
+T13	GENE 792 801	LINC01081
+N10	Reference T13 EntrezGene:101154687	LINC01081
+T14	GENE 909 918	LINC01081
+N11	Reference T14 EntrezGene:101154687	LINC01081
+T15	GENE 1015 1020	FOXF1
+N12	Reference T15 EntrezGene:2294	FOXF1
+T16	SPECIES 1052 1057	human
+N13	Reference T16 NCBITaxon:9606	Homo sapiens
+T17	GENE 1093 1102	LINC01081
+N14	Reference T17 EntrezGene:101154687	LINC01081
+T18	GENE 1181 1186	FOXF1
+N15	Reference T18 EntrezGene:2294	FOXF1
+T19	GENE 1241 1250	LINC01081
+N16	Reference T19 EntrezGene:101154687	LINC01081
+T20	DISEASE 1295 1301	ACDMPV
+A3	REGION T0 INSUFFICIENT
+A1	REGION T1 INSUFFICIENT
+T3	DISEASE 662 668	ACDMPV
+A2	REGION T2 INSUFFICIENT
+T11	DISEASE 859 865	ACDMPV
+T22	TISSUE 1058 1063	lungs
+T23	TISSUE 1119 1135	lung fibroblasts
+T12	TISSUE 744 748	lung
+N8	Reference T12 BTO:0000763	lung
+N2	Reference T5 MONDO:MONDO:0009934	alveolar capillary dysplasia with misalignment of pulmonary veins
+N3	Reference T8 MONDO:MONDO:0009934	alveolar capillary dysplasia with misalignment of pulmonary veins
+N5	Reference T10 MONDO:MONDO:0009934	alveolar capillary dysplasia with misalignment of pulmonary veins
+N6	Reference T3 MONDO:MONDO:0009934	alveolar capillary dysplasia with misalignment of pulmonary veins
+N7	Reference T11 MONDO:MONDO:0009934	alveolar capillary dysplasia with misalignment of pulmonary veins
+N17	Reference T20 MONDO:MONDO:0009934	alveolar capillary dysplasia with misalignment of pulmonary veins
+N18	Reference T22 BTO:0000763	lung
+N9	Reference T23 BTO:0000764	lung fibroblast
+T6	GENE 36 41	FOXF1
+N19	Reference T6 EntrezGene:2294	FOXF1
+T9	GENE 546 551	FOXF1
+N20	Reference T9 EntrezGene:2294	FOXF1

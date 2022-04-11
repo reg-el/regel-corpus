@@ -1,0 +1,8 @@
+T0	SPECIES 683 688	mouse
+N0	Reference T0 NCBITaxon:10090	Mus musculus
+T1	TISSUE 68 88	embryonic stem cells
+T2	TISSUE 689 714	embryonic stem (ES) cells
+N1	Reference T2 BTO:0001086	embryonic stem cell
+T3	TISSUE 787 794	ES cell
+N2	Reference T3 BTO:0001086	embryonic stem cell
+T4	TISSUE 1148 1156	ES cells

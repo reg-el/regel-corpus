@@ -1,0 +1,66 @@
+T3	ENHANCER 1057 1065	enhancer
+T5	GENE 31 34	Shh
+N0	Reference T5 EntrezGene:20423	Shh
+T6	SPECIES 69 74	mouse
+N1	Reference T6 NCBITaxon:10090	Mus musculus
+T7	GENE 84 92	Hedgehog
+N2	Reference T7 EntrezGene:20423	Shh
+T8	SPECIES 211 216	mouse
+N3	Reference T8 NCBITaxon:10090	Mus musculus
+T9	GENE 225 239	Sonic hedgehog
+N4	Reference T9 EntrezGene:20423	Shh
+T10	GENE 241 244	Shh
+N5	Reference T10 EntrezGene:20423	Shh
+T12	GENE 601 604	Shh
+N7	Reference T12 EntrezGene:20423	Shh
+T13	GENE 626 629	Shh
+N8	Reference T13 EntrezGene:20423	Shh
+T16	SPECIES 1127 1132	mouse
+N11	Reference T16 NCBITaxon:10090	Mus musculus
+T17	GENE 1190 1193	Shh
+N12	Reference T17 EntrezGene:20423	Shh
+T22	GENE 94 96	Hh
+N13	Reference T22 EntrezGene:20423	Shh
+T23	TISSUE 262 282	endodermal epithelia
+T1	TISSUE 770 797	gastroesophageal epithelium
+N16	Reference T1 BTO:0001578	esophageal epithelium
+T26	TISSUE 971 980	esophagus
+N18	Reference T26 BTO:0000959	esophagus
+T27	TISSUE 985 992	stomach
+N19	Reference T27 BTO:0001307	stomach
+A1	REGION T3 INSUFFICIENT
+T4	SPECIES 1115 1122	rodents
+N22	Reference T4 NCBITaxon:9989	Rodentia
+T29	TISSUE 378 388	mesenchyme
+T18	ENHANCER 1012 1044	three known endodermal enhancers
+A2	REGION T18 INSUFFICIENT
+T14	ENHANCER 897 934	functional element for Shh expression
+A4	REGION T14 INSUFFICIENT
+T15	TISSUE 53 57	lung
+N9	Reference T15 BTO:0000763	lung
+T19	TISSUE 62 65	gut
+N10	Reference T19 BTO:0000545	gut
+T20	TISSUE 292 303	oral cavity
+T21	TISSUE 311 320	intestine
+N20	Reference T21 BTO:0000648	intestine
+T28	TISSUE 429 459	gastrointestinal smooth muscle
+T11	ENHANCER 569 596	endoderm-specific enhancers
+A3	REGION T11 INSUFFICIENT
+T24	ENHANCER 707 722	three enhancers
+A5	REGION T24 INSUFFICIENT
+N6	Reference T29 BTO:0001393	mesenchyme
+N14	Reference T23 BTO:0000800	endoderm
+N15	Reference T20 BTO:0001090	mouth
+N17	Reference T28 BTO:0005024	gastrointestinal smooth muscle
+T2	TISSUE 75 82	embryos
+N21	Reference T2 BTO:0000379	embryo
+T25	GENE 541 544	Shh
+N23	Reference T25 EntrezGene:20423	Shh
+T30	GENE 866 869	Shh
+N24	Reference T30 EntrezGene:20423	Shh
+T31	TISSUE 199 202	gut
+N25	Reference T31 BTO:0000545	
+T32	TISSUE 569 577	endoderm
+N26	Reference T32 BTO:0000800	endoderm
+T33	GENE 920 923	Shh
+N27	Reference T33 EntrezGene:20423	Shh

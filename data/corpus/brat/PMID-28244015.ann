@@ -1,0 +1,50 @@
+T0	ENHANCER 1132 1156	SOX2 downstream enhancer
+T1	GENE 20 24	Sox2
+N0	Reference T1 EntrezGene:6657	SOX2
+T3	DISEASE 193 206	breast cancer
+T4	SPECIES 360 365	human
+N3	Reference T4 NCBITaxon:9606	Homo sapiens
+T5	GENE 549 552	pS2
+N4	Reference T5 EntrezGene:7031	TFF1
+T6	GENE 557 578	progesterone receptor
+N5	Reference T6 EntrezGene:5241	PGR
+T7	GENE 580 582	PR
+N6	Reference T7 EntrezGene:5241	PGR
+T8	GENE 686 691	ALDH1
+N7	Reference T8 EntrezGene:216	ALDH1A1
+T11	GENE 1004 1008	SOX2
+N10	Reference T11 EntrezGene:6657	SOX2
+T12	GENE 1073 1077	CREB
+N11	Reference T12 EntrezGene:1385	CREB1
+T14	DISEASE 1223 1263	estrogen receptor-positive breast cancer
+T16	GENE 1355 1359	SOX2
+N15	Reference T16 EntrezGene:6657	SOX2
+T18	TISSUE 32 61	Breast Cancer Stem-Like Cells
+N16	Reference T18 BTO:0006293	breast cancer stem cell
+T2	TISSUE 410 421	MCF-7 cells
+N1	Reference T2 BTO:0000093	MCF-7 cell
+T19	TISSUE 643 654	MCF-7 cells
+N17	Reference T19 BTO:0000093	MCF-7 cell
+T20	TISSUE 722 740	mammary stem cells
+T9	TISSUE 804 815	MCF-7 cells
+N8	Reference T9 BTO:0000093	MCF-7 cell
+T21	TISSUE 866 879	mammary gland
+N19	Reference T21 BTO:0000817	mammary gland
+T10	TISSUE 1029 1034	MCF-7
+N9	Reference T10 BTO:0000093	MCF-7 cell
+T22	TISSUE 950 960	MDA-MB-231
+N20	Reference T22 BTO:0000815	MDA-MB-231 cell
+A1	REGION T0 INSUFFICIENT
+A2	CANCER T14
+T13	TISSUE 1299 1320	cancer stem-like cell
+N12	Reference T13 BTO:0000150	breast cancer cell
+T15	SPECIES 716 721	human
+N14	Reference T15 NCBITaxon:9606	Homo sapiens
+N2	Reference T3 MONDO:MONDO:0007254	breast cancer
+N13	Reference T14 MONDO:MONDO:0006512	estrogen-receptor positive breast cancer
+T17	SPECIES 860 865	mouse
+N18	Reference T17 NCBITaxon:10090	UST
+T23	DISEASE 1264 1269	tumor
+T24	GENE 1132 1136	SOX2
+N21	Reference T24 EntrezGene:6657	SOX2
+N22	Reference T23 MONDO:MONDO:0005070	

@@ -1,0 +1,44 @@
+T1	ENHANCER 752 779	enhancer downstream of Tcf4
+T3	GENE 65 69	TCF4
+N0	Reference T3 EntrezGene:21413	Tcf4
+T4	GENE 284 288	TCF4
+N1	Reference T4 EntrezGene:21413	Tcf4
+T6	GENE 312 316	TCF4
+N3	Reference T6 EntrezGene:21413	Tcf4
+T7	TISSUE 396 399	pDC
+T8	GENE 431 435	Tcf4
+N4	Reference T8 EntrezGene:21413	Tcf4
+T9	SPECIES 499 503	mice
+N5	Reference T9 NCBITaxon:10090	Mus musculus
+T10	GENE 601 605	Tcf4
+N6	Reference T10 EntrezGene:21413	Tcf4
+T12	GENE 896 900	Tcf4
+N8	Reference T12 EntrezGene:21413	Tcf4
+T16	TISSUE 78 92	Dendritic Cell
+N11	Reference T16 BTO:0002042	dendritic cell
+T17	TISSUE 168 183	plasmacytoid DC
+N12	Reference T17 BTO:0004625	plasmacytoid dendritic cell
+T18	TISSUE 185 188	pDC
+N13	Reference T18 BTO:0004625	plasmacytoid dendritic cell
+T19	TISSUE 213 225	classical DC
+N14	Reference T19 BTO:0002042	dendritic cell
+T20	TISSUE 227 230	cDC
+N15	Reference T20 BTO:0002042	dendritic cell
+N16	Reference T7 BTO:0004625	plasmacytoid dendritic cell
+T21	TISSUE 473 477	pDCs
+N17	Reference T21 BTO:0004625	plasmacytoid dendritic cell
+T22	TISSUE 513 517	pDCs
+N18	Reference T22 BTO:0004625	plasmacytoid dendritic cell
+T23	TISSUE 572 581	CD8+ cDCs
+N19	Reference T23 BTO:0002042	dendritic cell
+T24	TISSUE 662 666	pDCs
+N20	Reference T24 BTO:0004625	plasmacytoid dendritic cell
+A1	REGION T1 INSUFFICIENT
+T25	TISSUE 821 824	pDC
+N21	Reference T25 BTO:0004625	plasmacytoid dendritic cell
+T26	TISSUE 919 922	pDC
+N22	Reference T26 BTO:0004625	plasmacytoid dendritic cell
+T2	GENE 290 295	E2-2)
+N2	Reference T2 EntrezGene:21413	Tcf4
+T5	GENE 775 779	Tcf4
+N7	Reference T5 EntrezGene:21413	Tcf4

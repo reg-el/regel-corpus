@@ -1,0 +1,22 @@
+T14	GENE 15 19	LDB1
+N0	Reference T14 EntrezGene:8861	LDB1
+T15	GENE 469 497	LIM domain-binding protein 1
+N1	Reference T15 EntrezGene:8861	LDB1
+T16	GENE 499 503	LDB1
+N2	Reference T16 EntrezGene:8861	LDB1
+T17	GENE 613 644	achaete-scute complex homolog 1
+N3	Reference T17 EntrezGene:429	ASCL1
+T18	GENE 740 744	LDB1
+N4	Reference T18 EntrezGene:8861	LDB1
+T19	GENE 870 874	LDB1
+N5	Reference T19 EntrezGene:8861	LDB1
+T20	GENE 963 967	LDB1
+N6	Reference T20 EntrezGene:8861	LDB1
+T21	GENE 1080 1084	LDB1
+N7	Reference T21 EntrezGene:8861	LDB1
+T22	GENE 1111 1151	metastasis-associated 1 family, member 2
+N8	Reference T22 EntrezGene:9219	MTA2
+T23	GENE 1319 1323	LDB1
+N9	Reference T23 EntrezGene:8861	LDB1
+T1	TISSUE 1439 1453	pituitary cell
+N10	Reference T1 BTO:0000427	pituitary gland cell line
